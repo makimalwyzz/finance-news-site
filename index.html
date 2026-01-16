@@ -1,0 +1,1828 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="国际财经新闻实时监控面板 - 每日自动更新全球财经资讯">
+    <title>国际财经新闻 | Finance News Watcher</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0a0f;
+            --bg-secondary: #12121a;
+            --bg-card: #1a1a24;
+            --bg-card-hover: #222230;
+            --border-color: #2a2a3a;
+            --text-primary: #ffffff;
+            --text-secondary: #a0a0b0;
+            --text-muted: #606070;
+            --accent-blue: #3b82f6;
+            --accent-purple: #8b5cf6;
+            --accent-green: #10b981;
+            --accent-orange: #f59e0b;
+            --accent-red: #ef4444;
+            --accent-chinese: #dc2626;
+            --gradient-primary: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+            --gradient-chinese: linear-gradient(135deg, #dc2626 0%, #f59e0b 100%);
+            --gradient-gold: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+            --shadow-lg: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            --shadow-glow: 0 0 40px rgba(59, 130, 246, 0.15);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+
+        .bg-animation {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; overflow: hidden;
+        }
+
+        .bg-animation::before {
+            content: '';
+            position: absolute; top: -50%; left: -50%; width: 200%; height: 200%;
+            background: 
+                radial-gradient(circle at 20% 80%, rgba(59, 130, 246, 0.08) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(139, 92, 246, 0.08) 0%, transparent 50%),
+                radial-gradient(circle at 40% 40%, rgba(16, 185, 129, 0.05) 0%, transparent 40%);
+            animation: bgMove 20s ease-in-out infinite;
+        }
+
+        @keyframes bgMove {
+            0%, 100% { transform: translate(0, 0) rotate(0deg); }
+            25% { transform: translate(2%, 2%) rotate(1deg); }
+            50% { transform: translate(-1%, 3%) rotate(-1deg); }
+            75% { transform: translate(1%, -2%) rotate(0.5deg); }
+        }
+
+        header {
+            background: rgba(18, 18, 26, 0.8);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border-color);
+            position: sticky; top: 0; z-index: 100;
+        }
+
+        .header-content {
+            max-width: 1400px; margin: 0 auto; padding: 1.5rem 2rem;
+            display: flex; justify-content: space-between; align-items: center;
+        }
+
+        .logo { display: flex; align-items: center; gap: 1rem; }
+
+        .logo-icon {
+            width: 48px; height: 48px;
+            background: var(--gradient-primary);
+            border-radius: 12px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.5rem;
+            box-shadow: var(--shadow-glow);
+        }
+
+        .logo-text h1 {
+            font-size: 1.5rem; font-weight: 700;
+            background: var(--gradient-primary);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+        }
+
+        .logo-text span { font-size: 0.85rem; color: var(--text-secondary); font-weight: 400; }
+
+        .header-actions { display: flex; align-items: center; gap: 1rem; }
+
+        .status-badge {
+            display: flex; align-items: center; gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            background: rgba(16, 185, 129, 0.15);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            border-radius: 20px; font-size: 0.85rem; color: var(--accent-green);
+        }
+
+        .status-dot {
+            width: 8px; height: 8px; background: var(--accent-green);
+            border-radius: 50%; animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+
+        .refresh-btn {
+            display: flex; align-items: center; gap: 0.5rem;
+            padding: 0.75rem 1.5rem;
+            background: var(--gradient-primary);
+            border: none; border-radius: 10px;
+            color: white; font-size: 0.9rem; font-weight: 500;
+            cursor: pointer; transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+        }
+
+        .refresh-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(59, 130, 246, 0.4); }
+        .refresh-btn.loading svg { animation: spin 1s linear infinite; }
+
+        @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+
+        main { max-width: 1400px; margin: 0 auto; padding: 2rem; }
+
+        /* Region Tabs - 分区切换 */
+        .region-tabs {
+            display: flex; gap: 1rem; margin-bottom: 1.5rem;
+            background: var(--bg-card);
+            padding: 0.5rem; border-radius: 14px;
+            border: 1px solid var(--border-color);
+            width: fit-content;
+        }
+
+        .region-tab {
+            padding: 0.75rem 2rem;
+            border: none; border-radius: 10px;
+            font-size: 1rem; font-weight: 600;
+            cursor: pointer; transition: all 0.3s ease;
+            display: flex; align-items: center; gap: 0.5rem;
+            background: transparent; color: var(--text-secondary);
+        }
+
+        .region-tab:hover { color: var(--text-primary); background: rgba(255,255,255,0.05); }
+
+        .region-tab.active.international {
+            background: var(--gradient-primary); color: white;
+            box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+        }
+
+        .region-tab.active.chinese {
+            background: var(--gradient-chinese); color: white;
+            box-shadow: 0 4px 15px rgba(220, 38, 38, 0.3);
+        }
+
+        .region-tab .count {
+            background: rgba(255,255,255,0.2);
+            padding: 0.2rem 0.5rem; border-radius: 6px;
+            font-size: 0.8rem;
+        }
+
+        /* Stats section */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.25rem; margin-bottom: 1.5rem;
+        }
+
+        .stat-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 14px; padding: 1.25rem;
+            display: flex; align-items: center; gap: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .stat-card:hover {
+            background: var(--bg-card-hover);
+            transform: translateY(-3px); box-shadow: var(--shadow-lg);
+        }
+
+        .stat-icon {
+            width: 50px; height: 50px; border-radius: 12px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.4rem;
+        }
+
+        .stat-icon.blue { background: rgba(59, 130, 246, 0.15); color: var(--accent-blue); }
+        .stat-icon.purple { background: rgba(139, 92, 246, 0.15); color: var(--accent-purple); }
+        .stat-icon.green { background: rgba(16, 185, 129, 0.15); color: var(--accent-green); }
+        .stat-icon.red { background: rgba(220, 38, 38, 0.15); color: var(--accent-red); }
+        .stat-icon.orange { background: rgba(245, 158, 11, 0.15); color: var(--accent-orange); }
+
+        .stat-info h3 { font-size: 1.5rem; font-weight: 700; margin-bottom: 0.15rem; }
+        .stat-info p { font-size: 0.85rem; color: var(--text-secondary); }
+
+        /* Source filter tabs */
+        .source-tabs { display: flex; gap: 0.6rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+
+        .source-tab {
+            padding: 0.5rem 1rem;
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            color: var(--text-secondary);
+            font-size: 0.85rem; font-weight: 500;
+            cursor: pointer; transition: all 0.3s ease;
+        }
+
+        .source-tab:hover { background: var(--bg-card-hover); color: var(--text-primary); }
+        .source-tab.active { background: var(--gradient-primary); border-color: transparent; color: white; }
+        .source-tab.active.chinese-active { background: var(--gradient-chinese); }
+
+        /* News grid */
+        .news-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+            gap: 1.25rem;
+        }
+
+        .news-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 14px; padding: 1.25rem;
+            transition: all 0.3s ease;
+            cursor: pointer; position: relative; overflow: hidden;
+            animation: fadeInUp 0.5s ease forwards;
+        }
+
+        .news-card::before {
+            content: ''; position: absolute; top: 0; left: 0;
+            width: 100%; height: 3px;
+            background: var(--gradient-primary);
+            opacity: 0; transition: opacity 0.3s ease;
+        }
+
+        .news-card.chinese::before { background: var(--gradient-chinese); }
+
+        .news-card:hover {
+            background: var(--bg-card-hover);
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-lg);
+            border-color: var(--accent-blue);
+        }
+
+        .news-card.chinese:hover { border-color: var(--accent-red); }
+        .news-card:hover::before { opacity: 1; }
+
+        .news-header { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.75rem; }
+
+        .news-source {
+            display: inline-flex; align-items: center; gap: 0.4rem;
+            padding: 0.3rem 0.6rem;
+            background: rgba(59, 130, 246, 0.1);
+            border-radius: 5px; font-size: 0.75rem; color: var(--accent-blue);
+        }
+
+        .news-source.chinese { background: rgba(220, 38, 38, 0.1); color: var(--accent-red); }
+
+        .news-region-badge {
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px; font-size: 0.7rem; font-weight: 600;
+        }
+
+        .news-region-badge.international { background: rgba(59, 130, 246, 0.2); color: var(--accent-blue); }
+        .news-region-badge.chinese { background: rgba(220, 38, 38, 0.2); color: var(--accent-red); }
+
+        .news-card h3 {
+            font-size: 1rem; font-weight: 600;
+            margin-bottom: 0.6rem; line-height: 1.5;
+            display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+        }
+
+        .news-card p {
+            font-size: 0.85rem; color: var(--text-secondary);
+            line-height: 1.5;
+            display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+            margin-bottom: 0.75rem;
+        }
+
+        .news-meta {
+            display: flex; justify-content: space-between; align-items: center;
+            padding-top: 0.75rem; border-top: 1px solid var(--border-color);
+        }
+
+        .news-time { font-size: 0.8rem; color: var(--text-muted); }
+
+        .read-more {
+            display: flex; align-items: center; gap: 0.4rem;
+            color: var(--accent-blue); font-size: 0.8rem; font-weight: 500;
+            transition: gap 0.3s ease;
+        }
+
+        .news-card.chinese .read-more { color: var(--accent-red); }
+        .news-card:hover .read-more { gap: 0.6rem; }
+
+        .loading-container, .error-container, .empty-state {
+            display: flex; flex-direction: column;
+            align-items: center; justify-content: center;
+            min-height: 350px; gap: 1.25rem; text-align: center;
+        }
+
+        .loading-spinner {
+            width: 50px; height: 50px;
+            border: 3px solid var(--border-color);
+            border-top-color: var(--accent-blue);
+            border-radius: 50%; animation: spin 1s linear infinite;
+        }
+
+        .error-icon {
+            width: 70px; height: 70px;
+            background: rgba(239, 68, 68, 0.15);
+            border-radius: 50%; display: flex; align-items: center; justify-content: center;
+            font-size: 1.75rem;
+        }
+
+        .empty-icon { font-size: 3.5rem; opacity: 0.5; }
+
+        footer {
+            max-width: 1400px; margin: 2.5rem auto 0;
+            padding: 1.5rem 2rem;
+            border-top: 1px solid var(--border-color);
+            text-align: center; color: var(--text-muted); font-size: 0.85rem;
+        }
+
+        footer a { color: var(--accent-blue); text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+
+        @media (max-width: 768px) {
+            .header-content { flex-direction: column; gap: 1rem; text-align: center; }
+            .header-actions { width: 100%; justify-content: center; }
+            .news-container { grid-template-columns: 1fr; }
+            .stats-grid { grid-template-columns: repeat(2, 1fr); }
+            .region-tabs { width: 100%; justify-content: center; }
+        }
+
+        @media (max-width: 480px) {
+            .stats-grid { grid-template-columns: 1fr; }
+        }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .news-card:nth-child(1) { animation-delay: 0.05s; }
+        .news-card:nth-child(2) { animation-delay: 0.1s; }
+        .news-card:nth-child(3) { animation-delay: 0.15s; }
+        .news-card:nth-child(4) { animation-delay: 0.2s; }
+        .news-card:nth-child(5) { animation-delay: 0.25s; }
+        .news-card:nth-child(6) { animation-delay: 0.3s; }
+    </style>
+
+    <script>
+        // 内嵌的新闻数据（自动生成，解决 CORS 限制）
+        window.embeddedNewsData = {
+  "fetchTime": "2026-01-15T19:01:46.509350",
+  "sources": [
+    {
+      "name": "Reuters Business",
+      "category": "Business",
+      "region": "international",
+      "url": "https://feeds.reuters.com/reuters/businessNews",
+      "itemCount": 0,
+      "items": [],
+      "error": "Failed to fetch"
+    },
+    {
+      "name": "BBC Business",
+      "category": "Business",
+      "region": "international",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "itemCount": 20,
+      "items": [
+        {
+          "title": "UK economy grew by 0.3% in November, beating forecasts",
+          "link": "https://www.bbc.com/news/articles/c8d041pp85mo?at_medium=RSS&at_campaign=rss",
+          "description": "The economy was boosted by a rebound in car production and from the services sector.",
+          "pubDate": "Thu, 15 Jan 2026 10:50:47 GMT"
+        },
+        {
+          "title": "X to stop Grok AI from undressing images of real people after backlash",
+          "link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
+          "description": "Grok will no longer allow users to remove clothing from images of real people in jurisdictions where it is illegal.",
+          "pubDate": "Thu, 15 Jan 2026 10:18:56 GMT"
+        },
+        {
+          "title": "Ofwat launches investigation into South East Water",
+          "link": "https://www.bbc.com/news/articles/cq6vm1rp2pjo?at_medium=RSS&at_campaign=rss",
+          "description": "South East Water says some customers in Kent and Sussex may not see supplies return until Friday.",
+          "pubDate": "Thu, 15 Jan 2026 10:46:59 GMT"
+        },
+        {
+          "title": "Reeves doesn't rule out wider business rates support across hospitality",
+          "link": "https://www.bbc.com/news/articles/cn826n1ejl0o?at_medium=RSS&at_campaign=rss",
+          "description": "Chancellor says support for pubs is on its way and leaves the door open for further tweaks to business rates changes",
+          "pubDate": "Wed, 14 Jan 2026 17:38:35 GMT"
+        },
+        {
+          "title": "Labubu toy manufacturer exploited workers, labour group claims",
+          "link": "https://www.bbc.com/news/articles/cn4037v0w12o?at_medium=RSS&at_campaign=rss",
+          "description": "Investigators allege that a factory making Pop Mart products neglected staff safety and welfare.",
+          "pubDate": "Thu, 15 Jan 2026 05:36:45 GMT"
+        },
+        {
+          "title": "'We don't need a sticking plaster', say pub owners",
+          "link": "https://www.bbc.com/news/articles/cdexz5rwz55o?at_medium=RSS&at_campaign=rss",
+          "description": "More than 40 hospitality firms have come together to campaign against tax increases.",
+          "pubDate": "Thu, 15 Jan 2026 06:14:03 GMT"
+        },
+        {
+          "title": "Why the Northern Powerhouse Rail plan will really go ahead this time",
+          "link": "https://www.bbc.com/news/articles/cy7mn3rlggzo?at_medium=RSS&at_campaign=rss",
+          "description": "Faisal Islam says the Labour argues the difference in its plans this time is that the planning has come first.",
+          "pubDate": "Wed, 14 Jan 2026 15:58:10 GMT"
+        },
+        {
+          "title": "TGI Fridays closes 16 UK stores, with 456 job losses",
+          "link": "https://www.bbc.com/news/articles/cz7yl53e11do?at_medium=RSS&at_campaign=rss",
+          "description": "The UK restaurant chain's remaining 33 restaurants will stay open after a rescue deal was reached.",
+          "pubDate": "Wed, 14 Jan 2026 14:57:23 GMT"
+        },
+        {
+          "title": "California investigates Grok over AI deepfakes",
+          "link": "https://www.bbc.com/news/articles/cpwnqlpw7gxo?at_medium=RSS&at_campaign=rss",
+          "description": "The state attorney general urges xAI to take action over the \"shocking\" material as Musk denies the allegations.",
+          "pubDate": "Wed, 14 Jan 2026 20:19:22 GMT"
+        },
+        {
+          "title": "No 10 welcomes reports X is addressing Grok deepfakes",
+          "link": "https://www.bbc.com/news/articles/ceqz7pyd303o?at_medium=RSS&at_campaign=rss",
+          "description": "The use of the AI tool to digitally undress women has sparked a backlash as well as intervention from the government and regulator.",
+          "pubDate": "Wed, 14 Jan 2026 14:44:53 GMT"
+        },
+        {
+          "title": "Reeves vows rail plan will go ahead, despite cynicism",
+          "link": "https://www.bbc.com/news/articles/c20dw4yrxnlo?at_medium=RSS&at_campaign=rss",
+          "description": "The scheme will be delivered in phases, starting with upgrades to lines between Leeds, York, Bradford and Sheffield.",
+          "pubDate": "Wed, 14 Jan 2026 18:05:25 GMT"
+        },
+        {
+          "title": "China announces record $1tn trade surplus despite Trump tariffs",
+          "link": "https://www.bbc.com/news/articles/c9wx1v84rzyo?at_medium=RSS&at_campaign=rss",
+          "description": "Beijing reported the largest-ever trade surplus at $1.19tn as China diversified its trade.",
+          "pubDate": "Wed, 14 Jan 2026 07:30:30 GMT"
+        },
+        {
+          "title": "Saks files for bankruptcy. What went wrong at the luxury retailer?",
+          "link": "https://www.bbc.com/news/articles/czdq1z73pv9o?at_medium=RSS&at_campaign=rss",
+          "description": "Saks Global, which owns Saks Fifth Avenue and Neiman Marcus, files for Chapter 11 bankruptcy protection, leaving questions about the luxury retailer's future.",
+          "pubDate": "Wed, 14 Jan 2026 07:17:50 GMT"
+        },
+        {
+          "title": "UK secures record supply of offshore wind projects",
+          "link": "https://www.bbc.com/news/articles/cn9zyx150xdo?at_medium=RSS&at_campaign=rss",
+          "description": "The government says the projects will bring down bills but the Conservatives say it is locking in high wind prices.",
+          "pubDate": "Wed, 14 Jan 2026 12:08:37 GMT"
+        },
+        {
+          "title": "US approves sale of Nvidia's advanced AI chips to China",
+          "link": "https://www.bbc.com/news/articles/cg4erx1n04lo?at_medium=RSS&at_campaign=rss",
+          "description": "Nvidia has been caught in a tug-of-war between the US and China as the countries compete for AI dominance.",
+          "pubDate": "Wed, 14 Jan 2026 04:11:37 GMT"
+        },
+        {
+          "title": "Government drops plans for mandatory digital ID to work in UK",
+          "link": "https://www.bbc.com/news/articles/c3385zrrx73o?at_medium=RSS&at_campaign=rss",
+          "description": "There will still be digital checks on those starting a new job, but people will not need to hold a digital ID.",
+          "pubDate": "Wed, 14 Jan 2026 15:06:09 GMT"
+        },
+        {
+          "title": "New Birmingham-Manchester rail link to be proposed",
+          "link": "https://www.bbc.com/news/articles/c75xrwlw5n2o?at_medium=RSS&at_campaign=rss",
+          "description": "Previous plans for a high-speed rail line between the cities were scrapped by Rishi Sunak's government.",
+          "pubDate": "Tue, 13 Jan 2026 17:17:19 GMT"
+        },
+        {
+          "title": "Income tax changes and mansion tax on £1m homes in Scottish Budget",
+          "link": "https://www.bbc.com/news/articles/ckgnryke8r0o?at_medium=RSS&at_campaign=rss",
+          "description": "Finance Secretary Shona Robison unveils the government's tax and spending plans for the coming financial year.",
+          "pubDate": "Tue, 13 Jan 2026 18:06:33 GMT"
+        },
+        {
+          "title": "World central bank chiefs 'stand in solidarity' with US Fed chair Powell",
+          "link": "https://www.bbc.com/news/articles/c041dp0z95yo?at_medium=RSS&at_campaign=rss",
+          "description": "Eleven central banks have backed Jerome Powell after the US launched a criminal investigation into the US Fed.",
+          "pubDate": "Tue, 13 Jan 2026 14:30:40 GMT"
+        },
+        {
+          "title": "Which countries do business with Iran  and what could US tariffs mean?",
+          "link": "https://www.bbc.com/news/articles/cwynx4rerpzo?at_medium=RSS&at_campaign=rss",
+          "description": "Donald Trump has announced a 25% tariff on countries trading with Iran after its deadly crackdown on anti-government protests.",
+          "pubDate": "Tue, 13 Jan 2026 13:30:12 GMT"
+        }
+      ]
+    },
+    {
+      "name": "CNBC Top News",
+      "category": "Finance",
+      "region": "international",
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "itemCount": 20,
+      "items": [
+        {
+          "title": "NATO nations deploy to Greenland after tense White House talks",
+          "link": "https://www.cnbc.com/2026/01/15/greenland-nato-troops-denmark-germany-arctic-trump.html",
+          "description": "The joint NATO exercise comes shortly after tense talks between officials representing the U.S., Denmark and Greenland.",
+          "pubDate": "Thu, 15 Jan 2026 10:04:06 GMT"
+        },
+        {
+          "title": "TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand",
+          "link": "https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html",
+          "description": "TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.",
+          "pubDate": "Thu, 15 Jan 2026 09:59:01 GMT"
+        },
+        {
+          "title": "Oil prices fall 3% after Trump says ‘killing has stopped’ in Iran",
+          "link": "https://www.cnbc.com/2026/01/15/oil-prices-sink-more-than-2percent-as-trump-remarks-calm-concern-about-iran.html",
+          "description": "Concerns about a U.S. strike on Iran had been mounting after Trump vowed to take action against the regime’s crackdown on widespread protests in the country.",
+          "pubDate": "Thu, 15 Jan 2026 09:30:32 GMT"
+        },
+        {
+          "title": "Goldman Sachs is about to report fourth-quarter earnings — here&apos;s what the Street expects",
+          "link": "https://www.cnbc.com/2026/01/15/goldman-sachs-gs-q4-2025-earnings.html",
+          "description": "Trading desks across Wall Street have benefited in the last year as Trump's policies have roiled markets for bonds, currencies, commodities and stocks.",
+          "pubDate": "Thu, 15 Jan 2026 05:01:01 GMT"
+        },
+        {
+          "title": "Down in the polls, Trump yanks Republicans toward economic populism. It may not save them",
+          "link": "https://www.cnbc.com/2026/01/14/trump-republicans-economic-populism.html",
+          "description": "President Donald Trump phoned Democratic Sen. Elizabeth Warren earlier this week.",
+          "pubDate": "Wed, 14 Jan 2026 21:54:19 GMT"
+        },
+        {
+          "title": "Vance breaks Senate tie, votes to block Venezuela war powers resolution",
+          "link": "https://www.cnbc.com/2026/01/14/senate-venezuela-war-powers-resolution-.html",
+          "description": "Vice President JD Vance's tie-breaking vote on Wednesday blocked a resolution intended to halt President Donald Trump from using the military in Venezuela.",
+          "pubDate": "Thu, 15 Jan 2026 00:03:32 GMT"
+        },
+        {
+          "title": "Jim Cramer reviews earnings from JPMorgan, Wells Fargo, Bank of America and Citigroup",
+          "link": "https://www.cnbc.com/2026/01/14/jim-cramer-reviews-earnings-from-jpmorgan-wells-fargo-bank-of-america-and-citigroup.html",
+          "description": "CNBC's Jim Cramer on Wednesday parsed earnings results from major banks.",
+          "pubDate": "Wed, 14 Jan 2026 23:39:58 GMT"
+        },
+        {
+          "title": "Under threat from Trump, Wall Street banks wager they can fend off credit card price controls",
+          "link": "https://www.cnbc.com/2026/01/14/trump-credit-card-cap-banks-fend-off-controls.html",
+          "description": "Five days after Trump's demand to cap credit card rates, bankers and lobbyists told CNBC they have yet to receive any formal or written guidance on the policy.",
+          "pubDate": "Wed, 14 Jan 2026 20:57:17 GMT"
+        },
+        {
+          "title": "More Americans expect to miss a debt payment in the months ahead: What that does to your credit score",
+          "link": "https://www.cnbc.com/2026/01/14/what-a-missed-payment-does-to-your-credit-score.html",
+          "description": "One missed payment could ding a credit score by about 80 points, on average, according to a new report by LendingTree.",
+          "pubDate": "Wed, 14 Jan 2026 20:20:07 GMT"
+        },
+        {
+          "title": "U.S. freezes new immigrant visas for 75 countries: See the full list",
+          "link": "https://www.cnbc.com/2026/01/15/us-stops-immigrant-visas-for-75-countries-see-the-full-list.html",
+          "description": "The U.S. said Wednesday it will pause issuing immigrant visas to citizens of 75 countries over concerns that they may use public assistance in the future.",
+          "pubDate": "Thu, 15 Jan 2026 06:35:50 GMT"
+        },
+        {
+          "title": "Australia banned social media for under 16s a month ago — here&apos;s how it&apos;s going",
+          "link": "https://www.cnbc.com/2026/01/15/australias-social-media-ban-for-teens-how-its-going.html",
+          "description": "The effects of a new social media ban for under 16s in Australia has been mixed so far. Some teens are embracing new habits while others are bypassing the law.",
+          "pubDate": "Thu, 15 Jan 2026 09:14:51 GMT"
+        },
+        {
+          "title": "Toyota Industries shares hit record high after Toyota Motor raises buyout offer to over $35 billion",
+          "link": "https://www.cnbc.com/2026/01/15/toyota-industries-shares-jump-after-toyota-motor-raises-buyout-offer-to-over-35-billion.html",
+          "description": "Toyota Motor sweetened the tender offer price for buying out the carmaker by more than 15% to over $35 billion.",
+          "pubDate": "Thu, 15 Jan 2026 03:57:03 GMT"
+        },
+        {
+          "title": "Amazon launches its &apos;sovereign&apos; cloud in Europe and plots expansion",
+          "link": "https://www.cnbc.com/2026/01/15/amazon-sovereign-cloud-europe-expansion.html",
+          "description": "The Amazon Web Services (AWS) European Sovereign Cloud will be \"physically and logically separate\" from other AWS regions, the company said.",
+          "pubDate": "Thu, 15 Jan 2026 09:56:09 GMT"
+        },
+        {
+          "title": "Iran reopens airspace after hours-long shutdown spooks airlines",
+          "link": "https://www.cnbc.com/2026/01/15/iran-briefly-closes-airspace-as-us-tensions-rise-flights-rerouted-across-region.html",
+          "description": "Iran temporarily closed most of its airspace late Wednesday, forcing airlines to reroute flights as tensions with the United States escalated.",
+          "pubDate": "Thu, 15 Jan 2026 06:29:29 GMT"
+        },
+        {
+          "title": "Musk&apos;s xAI limits Grok&apos;s ability to create sexualized images of real people on X after backlash",
+          "link": "https://www.cnbc.com/2026/01/14/musk-xai-blocks-grok-chatbot-from-creating-sexualized-images-of-people.html",
+          "description": "X's safety account said in a social media post that no users will be able to create sexualized images of real people using Grok.",
+          "pubDate": "Thu, 15 Jan 2026 02:42:17 GMT"
+        },
+        {
+          "title": "Trip.com shares plunge almost 20% as China opens antitrust probe into Asia&apos;s largest online travel firm",
+          "link": "https://www.cnbc.com/2026/01/15/tripcom-shares-plunge-as-china-opens-antitrust-probe-into-company.html",
+          "description": "In a statement, Trip.com said it would \"actively cooperate\" with the investigation, and added its business operations remain normal.",
+          "pubDate": "Thu, 15 Jan 2026 08:30:00 GMT"
+        },
+        {
+          "title": "China&apos;s ban on cybersecurity software roils three of our stocks — here&apos;s our view",
+          "link": "https://www.cnbc.com/2026/01/14/chinas-ban-on-cybersecurity-software-roils-three-stocks-our-view.html",
+          "description": "Chinese authorities have told domestic companies to stop using software from a handful of U.S. and Israeli firms.",
+          "pubDate": "Wed, 14 Jan 2026 20:24:03 GMT"
+        },
+        {
+          "title": "Cerebras scores OpenAI deal worth over $10 billion ahead of AI chipmaker&apos;s IPO",
+          "link": "https://www.cnbc.com/2026/01/14/cerebras-scores-openai-deal-worth-over-10-billion.html",
+          "description": "The deal will help diversify Cerebras away from the United Arab Emirates G42, which accounted for 87% of revenue in the first half of 2024.",
+          "pubDate": "Wed, 14 Jan 2026 22:42:56 GMT"
+        },
+        {
+          "title": "UK economy surprises with stronger-than-expected 0.3% growth in November",
+          "link": "https://www.cnbc.com/2026/01/15/uk-gdp-november-2025-data.html",
+          "description": "Economists expect the U.K. economy to improve in 2026, particularly as the Bank of England is likely to continue on its interest rate-cutting path.",
+          "pubDate": "Thu, 15 Jan 2026 07:43:03 GMT"
+        },
+        {
+          "title": "Why the stock market keeps shrugging as Trump sows more political chaos",
+          "link": "https://www.cnbc.com/2026/01/14/stock-market-investor-powell-fed-sell-america.html",
+          "description": "The market rebounded back to all-time highs Monday despite the probe.",
+          "pubDate": "Wed, 14 Jan 2026 16:12:39 GMT"
+        }
+      ]
+    },
+    {
+      "name": "Financial Times",
+      "category": "Finance",
+      "region": "international",
+      "url": "https://www.ft.com/rss/home",
+      "itemCount": 11,
+      "items": [
+        {
+          "title": "Trump’s ‘unpredictable’ policies to fuel shift from US, Pimco says",
+          "link": "https://www.ft.com/content/9b2f8903-4350-45a5-a915-a58b6f9b35fb",
+          "description": "Cautious stance comes amid Wall St concerns over president’s attack on Federal Reserve",
+          "pubDate": "Thu, 15 Jan 2026 05:00:12 GMT"
+        },
+        {
+          "title": "Israel waits on US to settle ‘unfinished business’ with Iran",
+          "link": "https://www.ft.com/content/0c5a836a-3176-4d2e-b78c-1eb6ffd8be0c",
+          "description": "Any action against Tehran could tip regional balance further in Israel’s favour, even as some US interests are put at risk",
+          "pubDate": "Wed, 14 Jan 2026 21:51:52 GMT"
+        },
+        {
+          "title": "Can Europe still afford its generous state pensions?",
+          "link": "https://www.ft.com/content/9c3c1ec8-9ccf-46bb-977d-e877dcf564e6",
+          "description": "Rising numbers of older people across the continent are straining budgets and making for some difficult political decisions",
+          "pubDate": "Thu, 15 Jan 2026 05:00:12 GMT"
+        },
+        {
+          "title": "An unreliable America is making Japan turn to drumstick diplomacy",
+          "link": "https://www.ft.com/content/ada80313-6fd4-47a8-bef9-10f0b57188ec",
+          "description": "If Tokyo can’t count on Washington, forging pragmatic new alliances with former foes increasingly makes sense",
+          "pubDate": "Thu, 15 Jan 2026 05:00:12 GMT"
+        },
+        {
+          "title": "Sadiq Khan to warn AI could cause ‘mass unemployment’ in London",
+          "link": "https://www.ft.com/content/6f92844e-6eb6-48dc-a36a-fd63115e45b5",
+          "description": "Mayor concerned that capital will be at ‘sharpest edge of change’ given dependence on white-collar jobs",
+          "pubDate": "Wed, 14 Jan 2026 22:30:08 GMT"
+        },
+        {
+          "title": "Musk bows to pressure over Grok creating sexualised AI images",
+          "link": "https://www.ft.com/content/72c2a5b7-e10d-4e7c-8af0-e95b64d99d79",
+          "description": "UK prime minister says xAI will restrict image generator as billionaire pledges to follow laws in all markets",
+          "pubDate": "Thu, 15 Jan 2026 00:03:05 GMT"
+        },
+        {
+          "title": "Second person shot by US federal agent in Minneapolis",
+          "link": "https://www.ft.com/content/fac53d41-2919-4bed-acec-4c45d2070605",
+          "description": "Venezuelan immigrant injured after attempting to flee officers, authorities say",
+          "pubDate": "Thu, 15 Jan 2026 04:44:00 GMT"
+        },
+        {
+          "title": "US to pause immigrant visa processing for nationals of 75 countries",
+          "link": "https://www.ft.com/content/df02ed88-8e36-4bff-920b-dcd67ec38cfc",
+          "description": "Move part of effort to limit entries from foreigners who rely on government welfare",
+          "pubDate": "Wed, 14 Jan 2026 18:01:04 GMT"
+        },
+        {
+          "title": "Trump says he has received assurances ‘killing in Iran is stopping’",
+          "link": "https://www.ft.com/content/c698ff51-7854-4cf9-a92b-0c06e2a1a182",
+          "description": "President declines to rule out military action after Washington evacuated personnel from Qatar command centre",
+          "pubDate": "Thu, 15 Jan 2026 09:08:08 GMT"
+        },
+        {
+          "title": "Oil prices tumble as fears of US action in Iran ease",
+          "link": "https://www.ft.com/content/9cbf6010-3e10-4806-a889-6ecf216fd136",
+          "description": "Brent crude falls more than 4% as oversupply fears return",
+          "pubDate": "Thu, 15 Jan 2026 10:08:20 GMT"
+        },
+        {
+          "title": "New York luxury office market booms as companies seek high-end amenities",
+          "link": "https://www.ft.com/content/699ca691-2fc0-467e-a79a-43f1f9fbdb90",
+          "description": "Number of leases signed for space priced at $100 or more per sq ft reached all-time high in 2025",
+          "pubDate": "Thu, 15 Jan 2026 05:00:21 GMT"
+        }
+      ]
+    },
+    {
+      "name": "Bloomberg Markets",
+      "category": "Markets",
+      "region": "international",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "itemCount": 0,
+      "items": [],
+      "error": "Failed to fetch"
+    },
+    {
+      "name": "Yahoo Finance",
+      "category": "Finance",
+      "region": "international",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "itemCount": 20,
+      "items": [
+        {
+          "title": "Rates are inching lower. When will mortgage rates finally go back down to 6%?",
+          "link": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-to-6-195022219.html",
+          "description": "",
+          "pubDate": "2025-06-24T19:50:22Z"
+        },
+        {
+          "title": "USAA mortgage review 2026",
+          "link": "https://finance.yahoo.com/personal-finance/mortgages/review/usaa-mortgage-review-180326613.html",
+          "description": "",
+          "pubDate": "2024-05-28T18:03:26Z"
+        },
+        {
+          "title": "BofA details its top 3 stock picks in the red-hot metals sector",
+          "link": "https://finance.yahoo.com/news/bofa-details-top-3-stock-225628916.html",
+          "description": "",
+          "pubDate": "2026-01-13T22:56:28Z"
+        },
+        {
+          "title": "5 ways AI can help you accomplish your money-saving New Year's resolutions",
+          "link": "https://finance.yahoo.com/personal-finance/banking/article/ai-money-saving-resolutions-223625687.html",
+          "description": "",
+          "pubDate": "2026-01-13T22:36:25Z"
+        },
+        {
+          "title": "Daily ETF Flows: Nearly $1B Flows Into GLD",
+          "link": "https://finance.yahoo.com/news/daily-etf-flows-nearly-1b-230005505.html",
+          "description": "",
+          "pubDate": "2026-01-13T23:00:05Z"
+        },
+        {
+          "title": "The Shale Project That Can’t Deliver What Saudi Arabia Promises",
+          "link": "https://finance.yahoo.com/news/shale-project-t-deliver-saudi-230000305.html",
+          "description": "",
+          "pubDate": "2026-01-13T23:00:00Z"
+        },
+        {
+          "title": "Trump admin's criminal probe into Fed Chair raises fears about central bank independence and potential for inflation",
+          "link": "https://finance.yahoo.com/news/trump-admins-criminal-probe-fed-230500703.html",
+          "description": "",
+          "pubDate": "2026-01-13T23:05:00Z"
+        },
+        {
+          "title": "Alternative Investments: Approach With Caution, For Now…",
+          "link": "https://finance.yahoo.com/video/alternative-investments-approach-caution-now-225821601.html",
+          "description": "",
+          "pubDate": "2026-01-13T22:58:21Z"
+        },
+        {
+          "title": "How does inflation affect mortgage rates? What to expect from the December core CPI.",
+          "link": "https://finance.yahoo.com/personal-finance/mortgages/article/how-does-inflation-affect-mortgage-rates-what-to-expect-from-the-december-core-cpi-173028062.html",
+          "description": "",
+          "pubDate": "2024-09-06T17:30:28Z"
+        },
+        {
+          "title": "Trump wants to ban Wall Street investments in single-family homes. Would this make housing more affordable?",
+          "link": "https://finance.yahoo.com/personal-finance/mortgages/article/will-trumps-proposed-ban-on-institutional-buyers-solve-the-housing-affordability-problem-165244941.html",
+          "description": "",
+          "pubDate": "2026-01-13T16:52:44Z"
+        },
+        {
+          "title": "SoFi mortgage review 2026",
+          "link": "https://finance.yahoo.com/personal-finance/mortgages/review/sofi-mortgage-review-194848491.html",
+          "description": "",
+          "pubDate": "2024-08-05T19:48:48Z"
+        },
+        {
+          "title": "Movement Mortgage review 2026",
+          "link": "https://finance.yahoo.com/personal-finance/mortgages/review/movement-mortgage-review-195241618.html",
+          "description": "",
+          "pubDate": "2024-07-16T19:52:41Z"
+        },
+        {
+          "title": "Podcast: JPMorgan's Profit Slump Weighs On the Dow",
+          "link": "https://www.wsj.com/livecoverage/stock-market-cpi-today-inflation-01-13-2026/card/podcast-jpmorgan-s-profit-slump-weighs-on-dow-steoujiUgswDmrIsgQsS?siteid=yhoof2&yptr=yahoo",
+          "description": "",
+          "pubDate": "2026-01-13T23:01:37Z"
+        },
+        {
+          "title": "AmeriHome Mortgage review 2026",
+          "link": "https://finance.yahoo.com/personal-finance/mortgages/review/amerihome-mortgage-review-193615224.html",
+          "description": "",
+          "pubDate": "2024-07-01T19:36:15Z"
+        },
+        {
+          "title": "Should You Buy Dividend-Paying Gold Stocks as Trump Makes Them ‘Great Again’?",
+          "link": "https://finance.yahoo.com/news/buy-dividend-paying-gold-stocks-003001278.html",
+          "description": "",
+          "pubDate": "2026-01-14T00:30:01Z"
+        },
+        {
+          "title": "What are private student loans? A beginner’s guide.",
+          "link": "https://finance.yahoo.com/personal-finance/student-loans/article/what-are-private-student-loans-161054025.html",
+          "description": "",
+          "pubDate": "2024-02-21T15:10:00Z"
+        },
+        {
+          "title": "Venezuelan Oil and the Limits of U.S. Refining Capacity",
+          "link": "https://finance.yahoo.com/news/venezuelan-oil-limits-u-refining-010000340.html",
+          "description": "",
+          "pubDate": "2026-01-14T01:00:00Z"
+        },
+        {
+          "title": "Tesla Rival Xpeng Hires Morgan Stanley, JPMorgan To Prepare Hong Kong Listing For Aeroht: Report",
+          "link": "https://finance.yahoo.com/news/tesla-rival-xpeng-hires-morgan-230211852.html",
+          "description": "",
+          "pubDate": "2026-01-13T23:02:11Z"
+        },
+        {
+          "title": "What Trump’s 10% cap on interest rates would mean for credit cardholders",
+          "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-trumps-10-cap-on-interest-rates-would-mean-for-credit-cardholders-161400843.html",
+          "description": "",
+          "pubDate": "2026-01-13T16:14:00Z"
+        },
+        {
+          "title": "Chipmaker Nexperia and Chinese owner Wingtech fight for control in Dutch court",
+          "link": "https://finance.yahoo.com/news/chipmaker-nexperia-chinese-owner-wingtech-021958860.html",
+          "description": "",
+          "pubDate": "2026-01-14T02:19:58Z"
+        }
+      ]
+    },
+    {
+      "name": "MarketWatch",
+      "category": "Markets",
+      "region": "international",
+      "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+      "itemCount": 0,
+      "items": [],
+      "error": "Failed to fetch"
+    },
+    {
+      "name": "WSJ Markets",
+      "category": "Markets",
+      "region": "international",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "itemCount": 20,
+      "items": [
+        {
+          "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+          "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+          "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+          "pubDate": "Mon, 27 Jan 2025 14:26:00 -0500"
+        },
+        {
+          "title": "Comex Gold, Silver Settle Lower",
+          "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+          "description": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+          "pubDate": "Mon, 27 Jan 2025 14:01:00 -0500"
+        },
+        {
+          "title": "DeepSeek Won't Sink U.S. AI Titans",
+          "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+          "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+          "pubDate": "Mon, 27 Jan 2025 13:12:00 -0500"
+        },
+        {
+          "title": "Financial Services Roundup: Market Talk",
+          "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+          "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+          "pubDate": "Mon, 27 Jan 2025 12:27:00 -0500"
+        },
+        {
+          "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+          "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+          "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+          "pubDate": "Mon, 27 Jan 2025 12:20:00 -0500"
+        },
+        {
+          "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+          "link": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+          "description": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+          "pubDate": "Mon, 27 Jan 2025 09:55:00 -0500"
+        },
+        {
+          "title": "Natural Gas Falls on Shifting Weather Forecasts",
+          "link": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
+          "description": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
+          "pubDate": "Mon, 27 Jan 2025 09:05:00 -0500"
+        },
+        {
+          "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
+          "link": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
+          "description": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
+          "pubDate": "Mon, 27 Jan 2025 08:28:00 -0500"
+        },
+        {
+          "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
+          "link": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
+          "description": "Maverick Natural Resources has operations in Texas and Oklahoma.",
+          "pubDate": "Mon, 27 Jan 2025 06:57:00 -0500"
+        },
+        {
+          "title": "What's New This Tax Season That Can Save You Money",
+          "link": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
+          "description": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
+          "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500"
+        },
+        {
+          "title": "Chinese Investors With Few Options Turn to Dividends",
+          "link": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
+          "description": "Companies with good payouts are now the hottest bet in China markets.",
+          "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500"
+        },
+        {
+          "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+          "link": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+          "description": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
+          "pubDate": "Mon, 27 Jan 2025 05:02:00 -0500"
+        },
+        {
+          "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
+          "link": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
+          "description": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
+          "pubDate": "Mon, 27 Jan 2025 04:46:00 -0500"
+        },
+        {
+          "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
+          "link": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
+          "description": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
+          "pubDate": "Mon, 27 Jan 2025 01:05:00 -0500"
+        },
+        {
+          "title": "Heard on the Street's Stock-Picking Series",
+          "link": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
+          "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
+          "pubDate": "Sun, 26 Jan 2025 22:33:00 -0500"
+        },
+        {
+          "title": "What Will It Take for Home Buyers to Start Asking for a Disaster Discount?",
+          "link": "https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main",
+          "description": "The real costs of owning a house in neighborhoods that are vulnerable to flooding and wildfires are becoming clearer.",
+          "pubDate": "Sun, 26 Jan 2025 06:00:00 -0500"
+        },
+        {
+          "title": "Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins",
+          "link": "https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main",
+          "description": "Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.",
+          "pubDate": "Sun, 26 Jan 2025 05:30:00 -0500"
+        },
+        {
+          "title": "In China, a Cat-and-Mouse Game to Rein In Crypto",
+          "link": "https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main",
+          "description": "Recent court cases reveal how middlemen are facilitating a booming trade, eluding a crackdown.",
+          "pubDate": "Sun, 26 Jan 2025 00:01:00 -0500"
+        },
+        {
+          "title": "One House, Three Owners: The Ballooning Cost of the American Dream",
+          "link": "https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main",
+          "description": "The story of home affordability in the U.S. told from a single front porch.",
+          "pubDate": "Sat, 25 Jan 2025 21:00:00 -0500"
+        },
+        {
+          "title": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
+          "link": "https://www.wsj.com/articles/trump-big-bank-conservative-bias-accusations-168abb27?mod=rss_markets_main",
+          "description": "The president has told Bank of America and JPMorgan Chase to stop cutting conservatives off from doing business.",
+          "pubDate": "Sat, 25 Jan 2025 05:30:00 -0500"
+        }
+      ]
+    },
+    {
+      "name": "新浪财经",
+      "category": "综合",
+      "region": "chinese",
+      "url": "https://feed.mix.sina.com.cn/api/roll/get?pageid=153&lid=2516&k=&num=50&page=1&callback=&_=1",
+      "itemCount": 20,
+      "items": [
+        {
+          "title": "维基百科运营方与微软、元宇宙平台公司达成人工智能内容训练合作协议",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-15/doc-inhhkwcv4734712.shtml",
+          "description": "维基百科于周四宣布，已与微软、元宇宙平台公司、亚马逊等多家科技巨头达成合作。这一举措标志着这家非营利机构在将科技企业对其内容的依赖转化为收入方面...",
+          "pubDate": "1768473249"
+        },
+        {
+          "title": "002231，或被强制退市！股价跌破1元！",
+          "link": "https://finance.sina.com.cn/stock/s/2026-01-15/doc-inhhkwcr3230909.shtml",
+          "description": "1月15日，*ST奥维（002231）再度呈现出跌停走势，全天收于0.99元，下跌0.05元，跌幅为4.81%。 值得一提的是，*ST奥维2025年12月31日收盘价为1.4元/股，总市值为4.86亿元...",
+          "pubDate": "1768472945"
+        },
+        {
+          "title": "埃利奥特基金拒绝丰田工业私有化要约 呼吁投资者抵制",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-15/doc-inhhkrvx4860832.shtml",
+          "description": " 埃利奥特投资管理公司拒绝了丰田集团为私有化核心子公司丰田工业而提高的收购要约，这家维权基金呼吁其他股东否决该要约，并争取更优报价。",
+          "pubDate": "1768472297"
+        },
+        {
+          "title": "微软携手印度初创企业瓦拉哈 采购长效碳移除额度",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-15/doc-inhhkrvv6369639.shtml",
+          "description": "微软已与印度初创企业瓦拉哈签署协议，计划在未来三年内（直至 2029 年）采购逾 10 万吨二氧化碳移除额度。此举旨在扩充其碳移除项目组合...",
+          "pubDate": "1768471891"
+        },
+        {
+          "title": "小摩：中信银行第四季业绩略胜预期 评级“增持”",
+          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-01-15/doc-inhhkrvp7608442.shtml",
+          "description": "摩根大通发布研报称，预计中信银行（00998）2026年营收增速将转正，全年利润增长保持稳定，重申对其H股“增持”评级。目前中信银行H股交易于预测2026年于0.45倍市账率...",
+          "pubDate": "1768471723"
+        },
+        {
+          "title": "台积电乐观业绩展望带动阿斯麦市值突破5000亿美元",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-15/doc-inhhkrvv6368025.shtml",
+          "description": " 在核心客户台积电发布超预期的 2026 年业绩展望后，荷兰半导体设备制造商阿斯麦控股公司股价飙升至历史新高，公司市值一举突破 5000 亿美元关口。",
+          "pubDate": "1768471662"
+        },
+        {
+          "title": "“原生人工智能”初创企业七个月内年化营收翻倍 突破300亿美元",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-15/doc-inhhkrvv6361132.shtml",
+          "description": "人工智能初创企业的营收前景正逐渐向好。据《信息报》生成式人工智能数据库对 32 家企业的分析显示，主营人工智能模型或应用的 “原生人工智能” 企业...",
+          "pubDate": "1768470720"
+        },
+        {
+          "title": "试图颠覆金融行业的新兴科技银行",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-15/doc-inhhkrvx4846817.shtml",
+          "description": "银行业最引人瞩目的新动态正在俄亥俄州上演，但这实则是一个源自硅谷的故事。埃瑞堡银行，这家由帕尔默・勒基、帕兰提尔公司联合创始人乔・朗斯代尔等硅谷大佬投资支持的银...",
+          "pubDate": "1768470246"
+        },
+        {
+          "title": "事关中加经贸合作、对日出口管制和中欧电动汽车案，商务部回应",
+          "link": "https://finance.sina.com.cn/roll/2026-01-15/doc-inhhkrvp7597213.shtml",
+          "description": "何咏前称：“我们愿与有意愿的国家和地区积极商签双边和区域贸易投资协定。” 加拿大总理卡尼1月14日抵达北京，开始对中国进行为期四天的正式访问。",
+          "pubDate": "1768470039"
+        },
+        {
+          "title": "台积电人工智能芯片产能供不应求",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-15/doc-inhhkrvx4845124.shtml",
+          "description": "去年 11 月，英伟达首席执行官黄仁勋在台期间，与台积电董事长魏哲家共同会见媒体 —— 这也是黄仁勋去年第五次到访中国台湾。魏哲家向在场记者透露...",
+          "pubDate": "1768470003"
+        },
+        {
+          "title": "光大期货0115热点追踪： 1月以来，PTA为何不跟涨原油了？",
+          "link": "https://finance.sina.com.cn/money/future/fmnews/2026-01-15/doc-inhhkrvv6353199.shtml",
+          "description": "光大期货0115热点追踪： 1月以来，PTA为何不跟涨原油了？",
+          "pubDate": "1768469580"
+        },
+        {
+          "title": "亚马逊炮轰萨克斯融资协议 称其股权“已无价值”",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-15/doc-inhhkrvv6352699.shtml",
+          "description": "亚马逊公司正反对萨克斯环球企业的破产重组申请，称这家奢侈品零售商违反了双方关于在亚马逊网站销售萨克斯商品的相关协议，且亚马逊对这家现已破产企业的股权投资...",
+          "pubDate": "1768469509"
+        },
+        {
+          "title": "中天期货:商品指数小停顿 螺纹维持震荡",
+          "link": "https://finance.sina.com.cn/money/future/fmnews/2026-01-15/doc-inhhkrvt3326566.shtml",
+          "description": "热点品种分析 一、商品指数 二、股指 中国上证综指1月15日（周四）收盘下跌13.49点，跌幅0.33%，报4112.60点； 中国深证成指1月15日（周四）收盘上涨58.13点，涨幅0.41%...",
+          "pubDate": "1768469269"
+        },
+        {
+          "title": "女律师投诉爱康国宾事件最新进展：卫健部门责令其出示原始超声影像病历，起诉女律师已立案",
+          "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-01-15/doc-inhhkrvx4859559.shtml",
+          "description": " 女律师投诉爱康国宾“10年体检未查出患癌风险”最新进展：卫健部门责令爱康国宾出示原始超声影像病历，爱康国宾起诉女律师法院已立案",
+          "pubDate": "1768469155"
+        },
+        {
+          "title": "巴菲特：人类对AI的“盲目”如同当年研发核武",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-15/doc-inhhkrvv6348934.shtml",
+          "description": " 沃伦・巴菲特警告称，人工智能（AI）快速发展所带来的风险，令人联想到贯穿其职业生涯大半程的一个地缘政治议题——核武器的研发。",
+          "pubDate": "1768468948"
+        },
+        {
+          "title": "贾国龙最新发声：会争取让西贝活下来，个人没有西贝之外的任何资产",
+          "link": "https://finance.sina.com.cn/jjxw/2026-01-15/doc-inhhkrvt3324331.shtml",
+          "description": "界面新闻记者 | 宋佳楠 1月15日，据新京报消息，西贝创始人贾国龙在朋友圈发布长文，确认“关闭102家西贝门店”消息属实，并首度披露个人资产状况。",
+          "pubDate": "1768468860"
+        },
+        {
+          "title": "中天策略：:1月15日市场分析",
+          "link": "https://finance.sina.com.cn/money/future/fmnews/2026-01-15/doc-inhhkrvt3321878.shtml",
+          "description": "",
+          "pubDate": "1768468710"
+        },
+        {
+          "title": "台积电四季度净利润大增35% 创历史新高且超市场预期",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-15/doc-inhhkrvv6345024.shtml",
+          "description": " 全球最大的专业晶圆代工企业台积电（TSM）于周四发布财报，受人工智能应用芯片需求激增的提振，公司四季度净利润同比大增 35%，不仅创下历史新高，还超出市场预期。",
+          "pubDate": "1768468336"
+        },
+        {
+          "title": "最新通胀数据释放美联储2026年利率政策路径首个信号",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-15/doc-inhhkrvp7576574.shtml",
+          "description": "最新公布的消费者与批发通胀数据显示，物价仍具黏性，这也强化了市场的普遍预期 —— 美联储官员短期内不会降息。 与此同时，美联储官员正深入分析各项数据...",
+          "pubDate": "1768467944"
+        },
+        {
+          "title": "霸王茶姬及创始人维权案3月开庭， 公司回应",
+          "link": "https://finance.sina.com.cn/jjxw/2026-01-15/doc-inhhkrvx4829059.shtml",
+          "description": "1月15日，据天眼查信息，霸王茶姬关联公司北京茶姬餐饮管理有限公司及创始人张俊杰起诉网友赵某网络侵权责任纠纷一案，已由北京互联网法院公告送达相关法律文书...",
+          "pubDate": "1768467480"
+        }
+      ]
+    },
+    {
+      "name": "东方财富",
+      "category": "快讯",
+      "region": "chinese",
+      "url": "https://newsapi.eastmoney.com/kuaixun/v1/getlist_101_ajaxResult_50_1_.html",
+      "itemCount": 0,
+      "items": []
+    },
+    {
+      "name": "华尔街见闻",
+      "category": "全球",
+      "region": "chinese",
+      "url": "https://api.wallstreetcn.com/apiv1/content/articles?channel=global-channel&limit=20",
+      "itemCount": 20,
+      "items": [
+        {
+          "title": "受生猪市场价格波动影响，牧原股份预计2025年净利润同比下降14.93%–20.21%",
+          "link": "https://wallstreetcn.com/articles/3763384",
+          "description": "",
+          "pubDate": "2026-01-15T18:41:56"
+        },
+        {
+          "title": "高盛：2026美元仍被高估约15%，科技“例外主义”重估是重大下行风险",
+          "link": "https://wallstreetcn.com/articles/3763368",
+          "description": "",
+          "pubDate": "2026-01-15T18:32:47"
+        },
+        {
+          "title": "紫金矿业：与金钼股份合作开发沙坪沟钼矿并转让金沙钼业24%股权",
+          "link": "https://wallstreetcn.com/articles/3763381",
+          "description": "",
+          "pubDate": "2026-01-15T18:20:48"
+        },
+        {
+          "title": "茅台定价改革的信号！高盛：白酒行业加速价格出清，下半年有望触底反弹",
+          "link": "https://wallstreetcn.com/articles/3763377",
+          "description": "",
+          "pubDate": "2026-01-15T18:20:18"
+        },
+        {
+          "title": "全球债务结构恶化：从存量风险到定价约束",
+          "link": "https://wallstreetcn.com/articles/3763278",
+          "description": "",
+          "pubDate": "2026-01-15T18:15:04"
+        },
+        {
+          "title": "宁德时代反击受挫？容百科技超1200亿元大单受问询，磷酸铁锂“大博弈”走向何方",
+          "link": "https://wallstreetcn.com/articles/3763378",
+          "description": "",
+          "pubDate": "2026-01-15T18:13:57"
+        },
+        {
+          "title": "华创张瑜：再论出口强在中游，2026机电出口或延续景气",
+          "link": "https://wallstreetcn.com/articles/3763379",
+          "description": "",
+          "pubDate": "2026-01-15T17:54:29"
+        },
+        {
+          "title": "花旗：铝将在2026年出现结构性短缺，上调短期目标价至3400美元/吨",
+          "link": "https://wallstreetcn.com/articles/3763361",
+          "description": "",
+          "pubDate": "2026-01-15T17:53:59"
+        },
+        {
+          "title": "【新年焕新 见闻历团购特惠开启】新年仪式感，从一本见闻历开始！",
+          "link": "https://wallstreetcn.com/articles/3757165",
+          "description": "",
+          "pubDate": "2026-01-15T17:49:21"
+        },
+        {
+          "title": "电网设备超级周期：“十五五”投资4万亿，欧美订单蓄势待发",
+          "link": "https://wallstreetcn.com/articles/3763363",
+          "description": "",
+          "pubDate": "2026-01-15T17:14:02"
+        },
+        {
+          "title": "暴跌18%之后的携程：“黄金坑”还是“绞肉机”？",
+          "link": "https://wallstreetcn.com/articles/3763373",
+          "description": "",
+          "pubDate": "2026-01-15T17:04:27"
+        },
+        {
+          "title": "台积电财报点燃市场情绪，纳指期货转涨，伊朗局势暂时降温，原油跌4%，白银一度跌7%",
+          "link": "https://wallstreetcn.com/articles/3763348",
+          "description": "",
+          "pubDate": "2026-01-15T17:03:41"
+        },
+        {
+          "title": "万科57亿中票持有人会议议案出炉：含四套兑付方案，最高拟兑付40%本金，1月28日兑付",
+          "link": "https://wallstreetcn.com/articles/3763375",
+          "description": "",
+          "pubDate": "2026-01-15T16:43:56"
+        },
+        {
+          "title": "台积电法说会全文：产能非常紧张，未来三年资本支出将显著增加",
+          "link": "https://wallstreetcn.com/articles/3763360",
+          "description": "",
+          "pubDate": "2026-01-15T16:38:08"
+        },
+        {
+          "title": "摩根资产管理：中国科技领域将迎来“更多DeepSeek时刻”",
+          "link": "https://wallstreetcn.com/articles/3763372",
+          "description": "",
+          "pubDate": "2026-01-15T16:37:48"
+        },
+        {
+          "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
+          "link": "https://wallstreetcn.com/articles/3763340",
+          "description": "",
+          "pubDate": "2026-01-15T16:21:15"
+        },
+        {
+          "title": "日元干预前奏已现，市场或迎“突袭式”行动，紧盯“利率检查”",
+          "link": "https://wallstreetcn.com/articles/3763362",
+          "description": "",
+          "pubDate": "2026-01-15T15:53:19"
+        },
+        {
+          "title": "中国12月新增社融2.21万亿元，新增人民币贷款9100亿元，M2-M1剪刀差扩大",
+          "link": "https://wallstreetcn.com/articles/3763365",
+          "description": "",
+          "pubDate": "2026-01-15T15:49:24"
+        },
+        {
+          "title": "债市开年承压：短期震荡，中期受制通胀，长期关注央行",
+          "link": "https://wallstreetcn.com/articles/3762969",
+          "description": "",
+          "pubDate": "2026-01-15T15:42:21"
+        },
+        {
+          "title": "中国人民银行决定下调再贷款、再贴现利率",
+          "link": "https://wallstreetcn.com/articles/3763370",
+          "description": "",
+          "pubDate": "2026-01-15T15:37:42"
+        }
+      ]
+    },
+    {
+      "name": "36氪财经",
+      "category": "科技财经",
+      "region": "chinese",
+      "url": "https://36kr.com/feed",
+      "itemCount": 20,
+      "items": [
+        {
+          "title": "AI时代的全球创作消费平台，出现了一家来自中国的“隐形冠军”",
+          "link": "https://36kr.com/p/3638895618739335?f=rss",
+          "description": "在AIGC狂飙突进的第三年，行业弥漫着一种“去伪存真”的集体焦虑。\n  一边是曾经喧嚣一时的底层“千模大战”格局基本固化，参数的边际效应递减；另一边是应用层的迷茫，大量调用基模的效率工具在短暂的流量爆发后，又迅速归于沉寂。\n  投资人看过了太多像烟花一样绚烂的产品，也开始回归商业的本质。大家都在寻找同一个答案：除了卖算力和卖效率，2026年的AI到底还有没有第三条商业化之路？\n  在“超级应用”形态的不确定中，一个名为海艺（SeaArt）的中国团队破土而出。\n  这家刚刚成立了两年半的公司，在没有自研底层大模型的情况下，悄然攀升成为了全球AI创作社区领域的“当红炸子鸡”。最近的一组数据直观说明其商业生态位的量级：年度经常性收入（ARR）超过5000万美元，月活跃用户（MAU）突破2500万，用户单日生成图片超2000万张、视频超50万个。\n  这组数据打破了业界“唯技术论”的迷思。因为当大多数团队还在试探AI的办公天花板时，SeaArt选择了一条截然不同的路径：用AI满足人类的“情绪价值”与“表达欲”。\n  从这家公司的成长故事，我们会发现AI下半场的竞争逻辑正在发生质变：从单一的“算",
+          "pubDate": "2026-01-15 18:42:30  +0800"
+        },
+        {
+          "title": "中国Coding Agent最大融资浮现，蚂蚁、凯辉、锦秋等投了",
+          "link": "https://36kr.com/p/3640426144812417?f=rss",
+          "description": "文｜周鑫雨\n  编辑｜苏建勋\n  2025年2月，OpenAI联合创始人Andrej Karpathy金口一开，他提出的“Vibe Coding（氛围编程）”就成了AI创业最性感的赛道。\n  在这个主打“忘却代码存在，靠与AI对话创作式编程”的赛道中，跑出了全球增速最快的AI独角兽，ARR（年化收入）已达1亿美金的Lovable。\n  在国内，入局Vibe Coding的明星创业者众多。不过，隐形冠军却出自一家深圳公司，DeepWisdom。\n  提起DeepWisdom，你可能会觉得稍显陌���，但从中却诞生了近几年国内最知名的几个爆款开源项目：\n  GitHub上拥有近60k stars的多智能体框架项目MetaGPT，以及5名成员半夜仅用3小时就复刻出Manus的OpenManus。\n  旗下2025年2月发布的多智能体Vibe Coding产品MetaGPT-X（简称“MGX”），0投放，却在发布一个月实现了全球50万注册用户、100万美金ARR的成绩。\n  上线7个月以来，MGX依然保持稳定的增速。官方数据显示，截至2025年9月，MGX的月访问量已达到120万，每天生成应用",
+          "pubDate": "2026-01-15 16:36:28  +0800"
+        },
+        {
+          "title": "RISC-V架构AI芯片公司进迭时空再获数亿元融资，新一代RISC-V AI芯片即将发布｜硬氪首发",
+          "link": "https://36kr.com/p/3639229542780294?f=rss",
+          "description": "硬氪获悉，基于RISC-V架构研发和销售下一代AI芯片的企业「进迭时空」已完成数亿元B轮融资。我们总结了本轮融资信息和该公司几大亮点：\n  1. 融资金额及投资机构\n  融资轮次：B轮\n  融资规模：数亿元人民币\n  投资方：包括中国互联网投资基金、农业银行AIC、北京市人工智能产业投资基金、北京国管顺禧基金、华夏恒天、光远资本等，老股东持续追投\n  资金用途：公司将继续投入于RISC-V通用AI算力的极致突破，服务AI计算机、AI机器人等新应用的发展。另外，资金将支持公司全栈核心技术攻关、云端AI推理芯片、云端服务器AI CPU芯片、终端AI CPU芯片等产品的研发和产业化。\n  2. 公司基本信息\n  成立时间：2021年11月\n  注册地址：杭州\n  技术亮点：全栈核心技术自研，包括高性能RISC-V CPU核、通用RISC-V AI核、NoC互联总线、芯片和软件系统等。以RISC-V指令集为统一软硬件接口，提供通用AI算力，推动和普及RISC-V+AI+Triton/Tilelang智算生态。\n  3. 市场体量\n  RISC-V将成为下一个时代的主流计算体系，是国家算力芯片实",
+          "pubDate": "2026-01-15 15:30:00  +0800"
+        },
+        {
+          "title": "一年卖出27亿，柠檬茶品牌「林里LINLEE 」获数千万融资｜36氪独家",
+          "link": "https://36kr.com/p/3640057650842756?f=rss",
+          "description": "36氪获悉，柠檬茶品牌「林里LINLEE 」完成了数千万A轮融资，前海方舟基金为独家投资方，估值近10亿，本轮资金主要用于品牌建设，供应链升级及组织升级。\n  这是「林里LINLEE 」继 2021 年获得三七互娱数千万天使轮投资后的又一次融资。而品牌现用名 “LINLEE ” 也正是在这一年正式启用的。\n  据36氪了解，「林里LINLEE 」门店数已达1900+，覆盖31个省，200+城市，2025年GMV总额27亿。\n  「林里LINLEE 」的故事始于2012年，翻看其成长轨迹，中间几经波折。\n  在广东湛江，曾有一家名为“鄰里”的奶茶店，因经营不善闭店，靠卖自行车赚得第一笔原始资金的王敬源买下了这套设计。五年后，他重新搭建团队，并调整了产品：专注于柠檬茶。\n  品牌起盘后，又遇到了山寨店的冲击，王敬源干脆将品牌更名为「LINLEE」，后续又新增了中文名字「林里」。\n  过去一年，茶饮市场的关键词之一是IPO，古茗、沪上阿姨、霸王茶姬等相继上市。另一关键词则是出海，几乎每一家奶茶品牌都在海外市场开店。\n  类似的热闹都与「林里LINLEE 」无关。\n  王敬源告诉36氪，他们当",
+          "pubDate": "2026-01-15 10:18:37  +0800"
+        },
+        {
+          "title": "前泽宝创始人再创业，深耕北美AI高端烹饪，首年营收破两千万美元、毛利超60%｜早期项目",
+          "link": "https://36kr.com/p/3639448562716033?f=rss",
+          "description": "作者丨欧雪\n  编辑丨袁斯来\n  当中国制造出海从铺货模式走向品牌深耕，厨房小家电这个规模超千亿美元的全球市场，正成为技术驱动型公司的新竞技场。\n  传统格局由两类玩家主导：拥有品牌溢价的欧美老牌，与具备供应链优势的中国制造巨头。\n  在这之外，一个专注于“烹饪科学”的中国初创公司——虎一科技，正以差异化的技术路径与用户洞察，在北美高端市场快速崛起。其首年商业化即实现营收突破2000万美元，第二年实现3到4倍增速，展现出了用技术创新重塑传统品类的潜力。\n  虎一科技成立于2021年，创始团队具备深厚的跨境电商与硬件研发背景。公司创始人孙才金曾为泽宝集团创始人，深耕消费电子十余年。公司成立前三年专注于研发，研发人员占比超50%，核心成员来自大疆、华为等头部智能硬件企业。截至目前，公司累计申请专利200余项，其中发明专利超100项。\n  实际上，虎一科技的切入点非常清晰：精准温控。公司认为，现代烹饪的本质是可数据化、标准化的科学过程，而温度是其中最关键的变量。\n  基于此，团队自主研发了核心的无线温度探针技术，并推出了全球首款搭载无线温度探针的智能烤箱，实现高温密闭环境下的实时温控与数据传",
+          "pubDate": "2026-01-15 09:15:00  +0800"
+        },
+        {
+          "title": "国产半导体高端材料公司融资过亿，获头部客户批量导入｜36氪首发",
+          "link": "https://36kr.com/p/3639443696110978?f=rss",
+          "description": "作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，中国半导体材料企业——北京序轮科技有限公司（简称“序轮科技”）于近日完成总额超亿元的A3、A4轮战略融资。我们总结了最新两轮的融资信息和该公司几大亮点：\n  \n  &nbsp;\n  融资金额及领投机构\n  融资金额：超亿元\n  融资轮次：A3、A4轮\n  投资机构：由北方华创旗下产业基金诺华资本、北京电控产投基金与前海方舟基金投资\n  融资用途：资金将重点投入于产线与配套体系的升级，以把握市场规模化上量的关键机遇；同时，也将在研发创新与人才建设上持续加码，为长期竞争力提供坚实支撑。\n  \n  &nbsp;\n  公司基本信息\n  成立时间：2022年5月（其前身团队于2016年进入半导体材料领域）\n  公司总部：北京\n  核心产品：专注于半导体先进封装工艺所需的高分子胶膜/胶带材料，包括UV减粘膜、DAF（芯片贴装胶膜）、IBF绝缘堆积膜，新能源汽车用功能胶带、以及液体和薄膜类集成电路塑封料等。\n  技术亮点：基于自主原创的树脂分子结构设计与合成制备工艺，构建了从晶圆研磨、切割到芯片贴装、堆叠的“矩阵式”产品平台。凭借自建的完整应用验证体系与完",
+          "pubDate": "2026-01-15 09:10:00  +0800"
+        },
+        {
+          "title": "奔驰、宝马2026年预测不足50万辆，退回十年前｜36氪独家",
+          "link": "https://36kr.com/p/3638726927092868?f=rss",
+          "description": "2026年中国高端车市场，国产品牌信心十足，德系品牌则沉着冷静。\n  36氪从多处获悉，奔驰、宝马近期已向国内供应链给出2026年的初步需求预测量。多位知情人士告诉36氪，两家企业国产车型的全年预估量均不足50万辆，几乎已经回到其十年前在华销量水平。\n  相较之下，中国高端品牌的销量目标则更为激进：蔚来目标增长40-50%，销量预估约为46万辆；小米汽车目标为55万辆，同比增长34%；鸿蒙智行则给出了100-130万辆的目标，预计增长速度为120%。\n  高亢的节奏背后，国产品牌过去一年高端化成绩显著。\n  蔚来ES8车型改款后，12月单月销量达到2.2万辆；鸿蒙智行旗下问界M8、M9车型年销量均突破10万辆，起售价70.8万元起的尊界S800在12月交付超4000辆。\n  得益于销量的提振效应与2026年数目可观的新车计划，国产品牌给出了更为积极的市场销量预期。\n  德系豪华品牌则对市场环境有着更加冷静的态度。\n  2025年，奔驰在华交付量为55.19万辆，同比下滑19%，宝马销量为62.55万辆，同比下滑12.5%。两家企业在华销量都已连续两年下滑超10%。\n  2026年，奔驰",
+          "pubDate": "2026-01-15 08:35:59  +0800"
+        },
+        {
+          "title": "8点1氪丨携程回应因涉嫌垄断行为被立案调查；茶颜悦色没喝就“消失”半杯，内部人士回应；老干妈回应“味道变了”",
+          "link": "https://36kr.com/p/3639921068871046?f=rss",
+          "description": "今日热点导览\n  知情人士：可口可乐公司已放弃出售Costa Coffee的计划\n  2025年汽车产销量再创历史新高，连续17年稳居全球第一\n  鸭鸭羽绒服品牌方回应“双标双码”争议\n  特斯拉超充站调整超时占用费\n  特朗普暗示：苹果已投资英特尔\n  TOP3大新闻\n  携程：将积极配合监管部门调查，全面落实监管要求\n  36氪获悉，1月14日，据携程黑板报消息，近日，携程接到国家市场监管总局通知，依法对携程涉嫌垄断行为进行立案调查。公司将积极配合监管部门调查，全面落实监管要求，与行业各方携手共建可持续发展的市场环境。目前，公司各项业务均正常运行，将一如既往地为广大用户和合作伙伴提供优质的服务。\n  此前，36氪获悉，市场监管总局根据前期核查，依据《中华人民共和国反垄断法》，对携程集团有限公司涉嫌滥用市场支配地位实施垄断行为立案调查。\n  茶颜悦色称放久变半杯是工艺特色：奶沫接触空气后会自然消融，已在门店及小程序上提示消费者“尽快饮用”&nbsp;\n  近日，有多位网友反映称，购买茶颜悦色泡沫系列饮料，放了几分钟后，杯子里的饮料竟然只剩半杯了，引发网友热议。\n  对此，茶颜悦色全国",
+          "pubDate": "2026-01-15 08:01:28  +0800"
+        },
+        {
+          "title": "氪星晚报｜诺和诺德寻求收购交易强化肥胖症产品组合；OpenAI或正在开发一款对标苹果AirPods的人工智能设备",
+          "link": "https://36kr.com/p/3639073169673608?f=rss",
+          "description": "大公司：\n  百世软件进军拉美市场\n  36氪获悉，近日，百世集团旗下百世软件正式宣布进军拉美市场，首站墨西哥已于2025年12月成功落地，并将逐步推进巴西、阿根廷等核心市场布局。\n  亚马逊或将继续对意大利反垄断罚款提起上诉\n  据报道，在意大利法院减少该国反垄断监管机构对美国电商巨头亚马逊处以的罚款金额后，亚马逊仍将就这一裁决提出上诉，因为该公司认为意大利反垄断监管机构的指控根本不成立。当地时间周一，意大利反垄断机构表示，已将2021年对亚马逊处以的11.3亿欧元罚款减少至7.524亿欧元（约合8.763亿美元），该罚款是因亚马逊滥用其市场支配地位，限制意大利电商物流服务领域的竞争而判处的。（新浪财经）\n  JR东日本与日航合作启动国际物流服务\n  1月13日，东日本铁路公司（JR东日本）与日本航空公司启动使用新干线和飞机向海外运送货物的服务。两家公司把8个主要新干线停车站作为始发点，经羽田或者成田机场向新加坡等4个国家和地区运送货物，经去年开展实证试验后，正式开始提供服务。（界面）\n  客户数据遭泄露，Free和Free Mobile被法国监管机构处以4200万欧元罚款\n  法国",
+          "pubDate": "2026-01-14 17:41:08  +0800"
+        },
+        {
+          "title": "为实现55-60万的销量目标，小鹏准备了三手牌｜36氪独家",
+          "link": "https://36kr.com/p/3636215229170951?f=rss",
+          "description": "小鹏汽车董事长 何小鹏\n  文｜肖漫\n  编辑｜李勤、杨轩\n  36氪汽车获悉，小鹏汽车近期在内部战略会上确定了2026年销量目标，全年销量要达到55万-60万辆。这比小鹏2025年完成的42.94万辆增长约28.1%-39.7%，意味着其平均月交付需提升至4.58万-5万辆以上。\n  2026年是小鹏将开启“一车双能”布局的产品大年。何小鹏曾透露，2026年将推出7款具备超级增程配置的一车双能车型，包含3款超级增程产品、4款一车双能的全新车型。截至目前，小鹏已经发布了包括小鹏X9、小鹏P7+、小鹏G7在内多款增程版车型。\n  36氪汽车从供应链端获悉，推出的4款全新车型为小鹏G01、小鹏G02、小鹏Mona两款SUV D02和D03，均是SUV车型。\n  小鹏G01为豪华6座SUV，车长5.1m，轴距3m；G02是全尺寸旗舰SUV，对标理想L9、问界M9。Mona两个SUV中，D02是中型SUV，D03为紧凑型SUV。\n  除了加大增程布局，小鹏还将大力押注智能化。何小鹏认为“2026年是中国和美国将迎来真正的全自动驾驶元年”，小鹏计划用一套VLA做出Ultra车型以及Robotax",
+          "pubDate": "2026-01-14 15:53:37  +0800"
+        },
+        {
+          "title": "天际股份：收到证监会广东监管局《决定书》和深交所《监管函》",
+          "link": "https://36kr.com/newsflashes/3640566478458249?f=rss",
+          "description": "36氪获悉，天际股份公告，公司于近日收到中国证券监督委员会广东监管局出具的《关于对天际新能源科技股份有限公司采取责令改正措施并对吴锡盾、杨志轩、郑文龙采取出具警示函措施的决定》和深圳证券交易所出具的《关于对天际新能源科技股份有限公司、吴锡盾、杨志轩、郑文龙的监管函》。本次行政监管措施不会对公司日常生产与持续经营造成重大不利影响，如若给广大投资者带来不便，公司董事会致以诚挚的歉意，敬请广大投资者理性投资，注意投资风险。",
+          "pubDate": "2026-01-15 19:01:39  +0800"
+        },
+        {
+          "title": "商务部：鼓励绿色发展、数字经济、绿色矿产、新基建、新能源等领域合作",
+          "link": "https://36kr.com/newsflashes/3640568351460481?f=rss",
+          "description": "商务部党组书记、部长王文涛接受采访表示，推动产业链供应链合理有序跨境布局。我们将全力深化“一带一路”经贸合作，促进产供链融合互通，鼓励绿色发展、数字经济、绿色矿产、新基建、新能源等领域合作，促进建立平等性、包容性和建设性的全球产供链伙伴关系。发挥境外经贸合作区平台功能，通过对外投资拓展海外营销网络、开拓国际市场，实现投资和贸易相互促进，推进贸易投资一体化发展。我们还将优化海外综合服务体系，完善国家层面海外综合服务平台，推动形成央地联动、区域协同、资源聚集的出海服务生态。（新华社）",
+          "pubDate": "2026-01-15 18:57:38  +0800"
+        },
+        {
+          "title": "商务部：将有序扩大增值电信、生物技术、外商独资医院等服务领域自主开放",
+          "link": "https://36kr.com/newsflashes/3640566858894721?f=rss",
+          "description": "商务部党组书记、部长王文涛接受采访表示，我们将有序扩大增值电信、生物技术、外商独资医院等服务领域自主开放，加快推进服务业扩大开放综合试点示范。扩大单边开放领域和区域，推动对非洲所有建交国100%税目零关税举措落地。我们将大力推动海南自由贸易港封关运作政策落地见效，进一步提高贸易投资自由化便利化水平，优化自贸试验区区域布局范围，支持自贸试验区围绕市场准入、环境标准、政府采购等领域，开展更大力度制度型开放试验，更好发挥改革开放综合试验平台的示范引领作用。（新华社）",
+          "pubDate": "2026-01-15 18:56:07  +0800"
+        },
+        {
+          "title": "商务部：2026年的消费品以旧换新以更大力度支持绿色智能商品消费",
+          "link": "https://36kr.com/newsflashes/3640566086634881?f=rss",
+          "description": "商务部党组书记、部长王文涛接受采访表示，聚焦新赛道和线下实体，优化实施消费品以旧换新政策。2026年的消费品以旧换新以更大力度支持绿色智能商品消费，比如家电以旧换新要求是一级能效或水效标准，购新补贴纳入智能手表手环、智能眼镜等。我们理解，换新的“新”不仅指新的商品，更是通过政策支持引导，为新产品、新技术提供更广阔市场，努力换出新赛道、新产业。我们还将积极支持线下实体零售，鼓励线下门店发挥比较优势，打造多元化消费场景，提升消费体验，推动线上线下均衡发展。（新华社）",
+          "pubDate": "2026-01-15 18:55:19  +0800"
+        },
+        {
+          "title": "商务部：清理不合理限制性措施，积极培育服务消费新增长点",
+          "link": "https://36kr.com/newsflashes/3640564805274756?f=rss",
+          "description": "商务部党组书记、部长王文涛接受采访表示，2026年，聚焦重点和潜力领域，培育服务消费新增长点。随着我国经济发展和人民生活水平提高，居民消费结构正朝着商品消费和服务消费并重转变。我们梳理了一批业态模式新、增长速度快、带动作用强的服务消费领域，包括交通、家政、网络视听、旅居等规模较大的领域，还有演出、体育赛事、游戏、情绪式体验式服务等前景好的潜力领域，推动完善支持政策，清理不合理限制性措施，积极培育服务消费新增长点。（新华社）",
+          "pubDate": "2026-01-15 18:54:01  +0800"
+        },
+        {
+          "title": "商务部：有序放宽服务领域市场准入",
+          "link": "https://36kr.com/newsflashes/3640564178963592?f=rss",
+          "description": "商务部党组书记、部长王文涛接受采访表示，我们将完善跨境服务贸易负面清单管理制度，有序放宽服务领域市场准入。我们将按照“一业一策”原则，推动出台一批更有含金量的政策措施，加快推动生产性服务出口，鼓励专业服务机构提升国际化服务能力，依托人工智能、数字经济、生物医药等创新优势，扩大研发、设计、咨询、检测、维修等新兴服务出口，培育外贸新增长点。（新华社）",
+          "pubDate": "2026-01-15 18:53:23  +0800"
+        },
+        {
+          "title": "航天科技：不存在应披露而未披露的重大信息",
+          "link": "https://36kr.com/newsflashes/3640556344134785?f=rss",
+          "description": "36氪获悉，航天科技发布异动公告，公司股票于2026年1月13日、2026年1月14日、2026年1月15日连续三个交易日收盘价格跌幅偏离值累计达到20%，根据《深圳证券交易所交易规则》，属于股票异常波动情况。经核实，截至本公告披露日，公司前期披露的信息不存在需要更正、补充之处；截至本公告披露日，公司未发现近期公共传媒报道了可能或已经对公司股票交易价格产生较大影响的未公开重大信息；截至本公告披露日，公司、控股股东和实际控制人不存在关于公司的应披露而未披露的重大事项，或处于筹划阶段的重大事项。",
+          "pubDate": "2026-01-15 18:52:20  +0800"
+        },
+        {
+          "title": "菜鸟与国家体育总局体育器材装备中心达成合作",
+          "link": "https://36kr.com/newsflashes/3640554681109638?f=rss",
+          "description": "36氪获悉，菜鸟日前与国家体育总局体育器材装备中心达成合作，承运米兰“中国之家”的物资运输。这次继支持巴黎“中国之家”物资运输保障后，菜鸟再一次承担国际顶级赛事的相关物流任务。",
+          "pubDate": "2026-01-15 18:49:39  +0800"
+        },
+        {
+          "title": "台积电乐观业绩展望带动阿斯麦市值突破5000亿美元",
+          "link": "https://36kr.com/newsflashes/3640550322670729?f=rss",
+          "description": "在核心客户台积电发布超预期的2026年业绩展望后，荷兰半导体设备制造商阿斯麦控股公司股价飙升至历史新高，公司市值一举突破5000亿美元关口。（新浪财经）",
+          "pubDate": "2026-01-15 18:45:05  +0800"
+        },
+        {
+          "title": "翰宇药业：签订1.8亿元GLP-1原料药销售订单",
+          "link": "https://36kr.com/newsflashes/3640545007340935?f=rss",
+          "description": "36氪获悉，翰宇药业公告，公司与某客户签订了《销售订单》，其拟向公司合计采购金额为1.8亿元人民币的GLP-1原料药。最近三年公司与交易对手方发生类似交易情况：2025年双方累计交易金额为7.595.50万元。本次订单金额为1.8亿元人民币，占2024年经审计营业收入的30.50%，若本销售订单顺利履行，预计会对公司年度经营业绩产生积极的影响。",
+          "pubDate": "2026-01-15 18:40:41  +0800"
+        }
+      ]
+    },
+    {
+      "name": "界面新闻",
+      "category": "财经",
+      "region": "chinese",
+      "url": "https://www.jiemian.com/rss/caijing.rss",
+      "itemCount": 0,
+      "items": [],
+      "error": "Failed to fetch"
+    },
+    {
+      "name": "虎嗅网",
+      "category": "商业",
+      "region": "chinese",
+      "url": "https://www.huxiu.com/rss/0.xml",
+      "itemCount": 10,
+      "items": [
+        {
+          "title": "一支痔疮药的断供，如何折射全球供应链的气候脆弱性",
+          "link": "http://www.huxiu.com/article/4826622.html?f=wangzhan",
+          "description": "气候变化正以前所未有的速度冲击全球供应链，从农业减产到制造业停产，气候风险已演变为企业经营的核心挑战。随着ESG监管趋严和碳中和目标推进，企业亟需将气候风险管理纳入战略核心，从供应链溯源到成本模型重构，构建可持续韧性。本期视频以“痔疮药停产”事件为切入点，深度解析气候风险如何通过原料断供、产能波动、成本飙升等环节重塑商业逻辑，并从战略识别、优先级行动、量化回报三层面，为企业提供可落地的应对框架。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Thu, 15 Jan 2026 18:00:00 +0800"
+        },
+        {
+          "title": "我开拓了一趟罗马",
+          "link": "http://www.huxiu.com/article/4826474.html?f=wangzhan",
+          "description": "去之前：有些期待；去时候：非常失望；回来后：还想去。至于为什么，视频里慢慢说......下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Thu, 15 Jan 2026 16:00:00 +0800"
+        },
+        {
+          "title": "16亿只是保底，马斯克想给朱晓彤的是100亿",
+          "link": "http://www.huxiu.com/article/4826692.html?f=wangzhan",
+          "description": "本文来自微信公众号：字母PRO，作者：苗正，题图来自：视觉中国特斯拉近期向美国证券交易委员会（SEC）提交的一份关键文件显示，公司向汽车业务高级副总裁朱晓彤（Tom Zhu）授予了520021份股票期权，行权价格定为435.80美元，授予日期为2026年1月8日。按照授予时的市价计算，这份期权的理论面值高达2.26亿美元，也就是约16亿人民币，如果10年内特斯拉市值冲上马斯克许诺的8万亿美元，那这份期权的价值将膨胀到约100亿人民币。熟悉马斯克的人不难发现，这压根不是他的风格。因为马斯克这个人向来以冷酷著称。2022年10月收购推特后，他在短短数周内裁掉了超过50%的员工，约3700人被一纸邮件扫地出门，CEO帕拉格·阿格拉瓦尔等四位核心高管，更是在交易完成当天即被解雇，毫无商量余地。在特斯拉，他同样不留情面。2024年4月，为削减成本应对利润压力，马斯克突然宣布全球裁员超过10%，涉及约14000名员工，甚至包括特斯拉超级充电团队的负责人，也是整个特斯拉充电网络的灵魂人物丽贝卡·蒂努奇。马斯克的管理哲学简单粗暴，谁不能立即创造价值，谁就没有存在的必要。然而对于朱晓彤，马斯克却反其道而",
+          "pubDate": "Thu, 15 Jan 2026 15:26:44 +0800"
+        },
+        {
+          "title": "鲍威尔为何成懂王眼中钉？",
+          "link": "http://www.huxiu.com/article/4825757.html?f=wangzhan",
+          "description": "美国司法部居然对鲍威尔动手了，罪名听着特别接地气，说他在美联储大楼翻修工程上乱花钱，搞奢侈装修还涉嫌对着国会撒谎，这理由是不是有点太扯了......下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Thu, 15 Jan 2026 14:26:18 +0800"
+        },
+        {
+          "title": "一条看懂中西世界“稀土大战”",
+          "link": "http://www.huxiu.com/article/4826539.html?f=wangzhan",
+          "description": "美德英法意加日七国想联合减少对中国稀土的依赖，甚至设定价格下限、搞关税和地理限制，可惜他们离摆脱中国还差得远。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Thu, 15 Jan 2026 11:10:00 +0800"
+        },
+        {
+          "title": "十问2026中国电影",
+          "link": "http://www.huxiu.com/article/4826481.html?f=wangzhan",
+          "description": "本文来自微信公众号：壹娱观察，作者：路柯，原文标题：《十问2026中国电影：500亿票房还能达成吗？100亿影片还会有吗？》，题图来自：视觉中国没有人能否认2025年电影市场给出的“意外惊喜”有多巨大——518.32亿总票房成功重返高位，其中《哪吒之魔童闹海》以154亿元的单片成绩刷新华语影史纪录、成为今年全球票房TOP1且跃升至全球影史票房TOP5。图源：灯塔专业版这一成绩不仅印证了观众观影需求的强劲反弹，更展现了头部IP对市场大盘的强大拉动能力。高光数据背后的结构性问题同样不容忽视。超级爆款的虹吸效应显著，导致头部资源过度集中，大量中小成本影片面临排片挤压、票房惨淡的生存困境，百花齐放的市场环境似乎没有了，市场生态的均衡性亟待改善。更致命的是，不少倾注心力的工业化大片纷纷遭遇票房折戟，情绪、口碑、尺度、系列化如何拉动观影成了玄学，市场上出现了“片名完全决定成败”等哭笑不得的现象。“一家独大、众星黯淡”的格局，也为行业可持续发展埋下了隐患。2025年票房排行（前20）图源：灯塔专业版与此同时，资本的哨声也在释放信号。改变了市场格局的阿里影业直接“变身”为大麦娱乐，电影进一步明确线下场",
+          "pubDate": "Wed, 14 Jan 2026 22:00:22 +0800"
+        },
+        {
+          "title": "十分钟，搞懂特朗普和美联储的爱恨情仇",
+          "link": "http://www.huxiu.com/article/4826348.html?f=wangzhan",
+          "description": "美联储主席作为“美元总统”，影响力甚至超越白宫，但其独立性正遭遇史上最强冲击。特朗普急需美联储大幅降息以减轻巨额利息负担，为选举铺路，但鲍威尔坚持物价稳定和充分就业，不愿为政治妥协。这场闹剧究竟会如何收场？下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Wed, 14 Jan 2026 18:40:00 +0800"
+        },
+        {
+          "title": "一条视频看懂脑机接口的发展趋势",
+          "link": "http://www.huxiu.com/article/4826154.html?f=wangzhan",
+          "description": "原理其实就是用高科技“窃听器”捕捉大脑电信号，再用AI解码，把想法化为现实。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Wed, 14 Jan 2026 15:00:00 +0800"
+        },
+        {
+          "title": "“死了么”其实是一门好生意",
+          "link": "http://www.huxiu.com/article/4826081.html?f=wangzhan",
+          "description": "“死了么”APP用近乎零成本获客，打开了“独居者”的蓝海市场。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Wed, 14 Jan 2026 14:00:01 +0800"
+        },
+        {
+          "title": "加拿大访华，被美国逼到角落的卡尼是来向东寻求解药吗？",
+          "link": "http://www.huxiu.com/article/4825958.html?f=wangzhan",
+          "description": "时隔8年，加拿大的总理终于又踏上咱们这片土地了，这不是一次简单的外交访问，而是美国最铁的盟友在特朗普“贸易大棒”下的一次战术突围。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Wed, 14 Jan 2026 10:46:38 +0800"
+        }
+      ]
+    }
+  ],
+  "regions": {
+    "international": [
+      "Reuters Business",
+      "BBC Business",
+      "CNBC Top News",
+      "Financial Times",
+      "Bloomberg Markets",
+      "Yahoo Finance",
+      "MarketWatch",
+      "WSJ Markets"
+    ],
+    "chinese": [
+      "新浪财经",
+      "东方财富",
+      "华尔街见闻",
+      "36氪财经",
+      "界面新闻",
+      "虎嗅网"
+    ]
+  }
+};
+    </script>
+    
+</head>
+<body>
+    <div class="bg-animation"></div>
+    
+    <header>
+        <div class="header-content">
+            <div class="logo">
+                <div class="logo-icon">📈</div>
+                <div class="logo-text">
+                    <h1>Finance News Watcher</h1>
+                    <span>国际 & 中文财经新闻实时监控</span>
+                </div>
+            </div>
+            <div class="header-actions">
+                <div class="status-badge">
+                    <span class="status-dot"></span>
+                    <span id="update-time">加载中...</span>
+                </div>
+                <button class="refresh-btn" onclick="refreshNews()">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M23 4v6h-6"></path>
+                        <path d="M1 20v-6h6"></path>
+                        <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+                    </svg>
+                    刷新
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Region Tabs -->
+        <section class="region-tabs" id="region-tabs">
+            <button class="region-tab international active" data-region="all" onclick="switchRegion('all')">
+                🌐 全部 <span class="count" id="count-all">--</span>
+            </button>
+            <button class="region-tab international" data-region="international" onclick="switchRegion('international')">
+                🌍 国际 <span class="count" id="count-international">--</span>
+            </button>
+            <button class="region-tab chinese" data-region="chinese" onclick="switchRegion('chinese')">
+                🇨🇳 中文 <span class="count" id="count-chinese">--</span>
+            </button>
+        </section>
+
+        <section class="stats-grid" id="stats-section">
+            <div class="stat-card">
+                <div class="stat-icon blue">📰</div>
+                <div class="stat-info">
+                    <h3 id="total-news">--</h3>
+                    <p>总新闻数</p>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon purple">🌐</div>
+                <div class="stat-info">
+                    <h3 id="int-sources">--</h3>
+                    <p>国际来源</p>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon red">🇨🇳</div>
+                <div class="stat-info">
+                    <h3 id="cn-sources">--</h3>
+                    <p>中文来源</p>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon green">⏰</div>
+                <div class="stat-info">
+                    <h3 id="next-update">09:00</h3>
+                    <p>下次自动更新</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="source-tabs" id="source-tabs">
+            <button class="source-tab active" data-source="all">全部来源</button>
+        </section>
+
+        <section class="news-container" id="news-container">
+            <div class="loading-container">
+                <div class="loading-spinner"></div>
+                <p class="loading-text">正在加载财经新闻...</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Finance News Watcher • 每日上午 9:00 自动更新 • 
+            国际：<a href="https://reuters.com" target="_blank">Reuters</a> • 
+            <a href="https://bbc.com/business" target="_blank">BBC</a> • 
+            <a href="https://cnbc.com" target="_blank">CNBC</a> • 
+            <a href="https://bloomberg.com" target="_blank">Bloomberg</a> | 
+            中文：<a href="https://finance.sina.com.cn" target="_blank">新浪财经</a> • 
+            <a href="https://www.eastmoney.com" target="_blank">东方财富</a> • 
+            <a href="https://36kr.com" target="_blank">36氪</a>
+        </p>
+    </footer>
+
+    <script>
+        let newsData = null;
+        let currentRegion = 'all';
+        let currentSource = 'all';
+
+        async function loadNewsData() {
+            // 优先使用内嵌数据
+            if (window.embeddedNewsData) {
+                newsData = window.embeddedNewsData;
+                updateUI();
+                return;
+            }
+            // 尝试从外部 JSON 文件加载
+            try {
+                const response = await fetch('news_data.json');
+                if (response.ok) {
+                    newsData = await response.json();
+                    updateUI();
+                    return;
+                }
+            } catch (e) {
+                console.log('Local data not found, loading demo data...');
+            }
+            loadDemoData();
+        }
+
+        function loadDemoData() {
+            newsData = {
+                fetchTime: new Date().toISOString(),
+                sources: [
+                    {
+                        name: 'Reuters Business', category: 'Business', region: 'international',
+                        itemCount: 3,
+                        items: [
+                            { title: 'Global Markets Rally as Tech Stocks Lead Recovery', description: 'Major indices across Asia, Europe and the US posted gains as investors bet on continued economic growth.', link: 'https://reuters.com', pubDate: new Date(Date.now() - 3600000).toISOString() },
+                            { title: 'Oil Prices Surge on Middle East Supply Concerns', description: 'Brent crude jumps 3% as geopolitical tensions raise concerns about potential supply disruptions.', link: 'https://reuters.com', pubDate: new Date(Date.now() - 7200000).toISOString() },
+                            { title: 'Federal Reserve Signals Patience on Rate Cuts', description: 'Fed officials suggest they need more evidence of cooling inflation before beginning to lower interest rates.', link: 'https://reuters.com', pubDate: new Date(Date.now() - 10800000).toISOString() }
+                        ]
+                    },
+                    {
+                        name: 'Bloomberg Markets', category: 'Markets', region: 'international',
+                        itemCount: 2,
+                        items: [
+                            { title: 'Asian Stocks Mixed as Investors Weigh China Data', description: 'Hong Kong and mainland China markets diverge as new economic indicators send mixed signals.', link: 'https://bloomberg.com', pubDate: new Date(Date.now() - 5400000).toISOString() },
+                            { title: 'Dollar Weakens Against Major Currencies', description: 'The greenback falls to a one-week low as traders reassess Federal Reserve policy moves.', link: 'https://bloomberg.com', pubDate: new Date(Date.now() - 9000000).toISOString() }
+                        ]
+                    },
+                    {
+                        name: '新浪财经', category: '综合', region: 'chinese',
+                        itemCount: 3,
+                        items: [
+                            { title: '人民币汇率稳中有升 央行释放积极信号', description: '中国人民银行表示将保持人民币汇率在合理均衡水平上的基本稳定，增强市场信心。', link: 'https://finance.sina.com.cn', pubDate: new Date(Date.now() - 3600000).toISOString() },
+                            { title: 'A股三大指数集体收涨 科技股领涨', description: '上证指数收涨0.8%，深证成指涨1.2%，创业板指涨1.5%，科技板块表现活跃。', link: 'https://finance.sina.com.cn', pubDate: new Date(Date.now() - 7200000).toISOString() },
+                            { title: '多家银行下调存款利率 理财市场或迎调整', description: '国有大行纷纷下调存款利率，分析师预计将对银行理财产品收益率产生影响。', link: 'https://finance.sina.com.cn', pubDate: new Date(Date.now() - 10800000).toISOString() }
+                        ]
+                    },
+                    {
+                        name: '东方财富', category: '快讯', region: 'chinese',
+                        itemCount: 2,
+                        items: [
+                            { title: '北向资金今日净买入超50亿元 连续三日流入', description: '外资持续看好中国市场，北向资金大幅流入A股市场，偏好金融和消费板块。', link: 'https://www.eastmoney.com', pubDate: new Date(Date.now() - 5400000).toISOString() },
+                            { title: '新能源汽车销量再创新高 产业链迎来机遇', description: '最新数据显示国内新能源汽车渗透率突破40%，相关产业链公司股价上涨。', link: 'https://www.eastmoney.com', pubDate: new Date(Date.now() - 9000000).toISOString() }
+                        ]
+                    }
+                ]
+            };
+            updateUI();
+        }
+
+        function switchRegion(region) {
+            currentRegion = region;
+            currentSource = 'all';
+            
+            document.querySelectorAll('.region-tab').forEach(tab => {
+                const isActive = tab.dataset.region === region;
+                tab.classList.toggle('active', isActive);
+            });
+
+            updateSourceTabs();
+            renderNews();
+        }
+
+        function updateUI() {
+            if (!newsData) return;
+
+            // 统计数据
+            let totalNews = 0;
+            let intSources = 0, cnSources = 0;
+            let intNews = 0, cnNews = 0;
+            
+            newsData.sources.forEach(source => {
+                const count = source.items ? source.items.length : 0;
+                totalNews += count;
+                if (source.region === 'chinese') { cnSources++; cnNews += count; }
+                else { intSources++; intNews += count; }
+            });
+
+            document.getElementById('total-news').textContent = totalNews;
+            document.getElementById('int-sources').textContent = intSources;
+            document.getElementById('cn-sources').textContent = cnSources;
+            document.getElementById('count-all').textContent = totalNews;
+            document.getElementById('count-international').textContent = intNews;
+            document.getElementById('count-chinese').textContent = cnNews;
+
+            const fetchTime = new Date(newsData.fetchTime);
+            document.getElementById('update-time').textContent = 
+                `更新于 ${fetchTime.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' })}`;
+
+            updateSourceTabs();
+            renderNews();
+        }
+
+        function updateSourceTabs() {
+            const tabsContainer = document.getElementById('source-tabs');
+            const isChinese = currentRegion === 'chinese';
+            
+            tabsContainer.innerHTML = `<button class="source-tab active ${isChinese ? 'chinese-active' : ''}" data-source="all" onclick="filterBySource('all')">全部来源</button>`;
+            
+            newsData.sources.forEach(source => {
+                if (currentRegion !== 'all' && source.region !== currentRegion) return;
+                
+                const tab = document.createElement('button');
+                tab.className = `source-tab ${source.region === 'chinese' ? 'chinese-source' : ''}`;
+                tab.dataset.source = source.name;
+                tab.textContent = source.name;
+                tab.onclick = () => filterBySource(source.name);
+                tabsContainer.appendChild(tab);
+            });
+        }
+
+        function filterBySource(source) {
+            currentSource = source;
+            const isChinese = currentRegion === 'chinese';
+            
+            document.querySelectorAll('.source-tab').forEach(tab => {
+                const isActive = tab.dataset.source === source;
+                tab.classList.toggle('active', isActive);
+                if (isActive && isChinese) tab.classList.add('chinese-active');
+                else tab.classList.remove('chinese-active');
+            });
+
+            renderNews();
+        }
+
+        function renderNews() {
+            const container = document.getElementById('news-container');
+            
+            if (!newsData || !newsData.sources) {
+                container.innerHTML = `
+                    <div class="error-container">
+                        <div class="error-icon">❌</div>
+                        <h3>无法加载新闻</h3>
+                        <p>请检查网络连接或稍后重试</p>
+                    </div>
+                `;
+                return;
+            }
+
+            let allNews = [];
+            
+            newsData.sources.forEach(source => {
+                // 检查区域过滤
+                if (currentRegion !== 'all' && source.region !== currentRegion) return;
+                // 检查来源过滤
+                if (currentSource !== 'all' && source.name !== currentSource) return;
+                
+                if (source.items) {
+                    source.items.forEach(item => {
+                        allNews.push({
+                            ...item,
+                            sourceName: source.name,
+                            category: source.category,
+                            region: source.region || 'international'
+                        });
+                    });
+                }
+            });
+
+            if (allNews.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-icon">📭</div>
+                        <h3>暂无新闻</h3>
+                        <p style="color: var(--text-secondary)">当前分区或来源暂无新闻内容</p>
+                    </div>
+                `;
+                return;
+            }
+
+            allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+            container.innerHTML = allNews.map((news, index) => `
+                <article class="news-card ${news.region === 'chinese' ? 'chinese' : ''}" onclick="window.open('${news.link}', '_blank')" style="animation-delay: ${index * 0.04}s">
+                    <div class="news-header">
+                        <span class="news-source ${news.region === 'chinese' ? 'chinese' : ''}">${news.sourceName}</span>
+                        <span class="news-region-badge ${news.region}">${news.region === 'chinese' ? '中文' : 'INT'}</span>
+                    </div>
+                    <h3>${escapeHtml(news.title)}</h3>
+                    <p>${escapeHtml(news.description || '')}</p>
+                    <div class="news-meta">
+                        <span class="news-time">${formatTime(news.pubDate)}</span>
+                        <span class="read-more">
+                            阅读全文
+                            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M5 12h14M12 5l7 7-7 7"></path>
+                            </svg>
+                        </span>
+                    </div>
+                </article>
+            `).join('');
+        }
+
+        function formatTime(dateStr) {
+            if (!dateStr) return '';
+            try {
+                const date = new Date(dateStr);
+                const now = new Date();
+                const diff = now - date;
+                
+                if (diff < 3600000) return `${Math.floor(diff / 60000)} 分钟前`;
+                if (diff < 86400000) return `${Math.floor(diff / 3600000)} 小时前`;
+                return date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+            } catch (e) { return dateStr; }
+        }
+
+        function escapeHtml(text) {
+            if (!text) return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        async function refreshNews() {
+            const btn = document.querySelector('.refresh-btn');
+            btn.classList.add('loading');
+            
+            document.getElementById('news-container').innerHTML = `
+                <div class="loading-container">
+                    <div class="loading-spinner"></div>
+                    <p class="loading-text">正在刷新财经新闻...</p>
+                </div>
+            `;
+
+            await new Promise(resolve => setTimeout(resolve, 1500));
+            await loadNewsData();
+            btn.classList.remove('loading');
+        }
+
+        document.addEventListener('DOMContentLoaded', loadNewsData);
+    </script>
+</body>
+</html>
