@@ -1,52 +1,79 @@
 // Vercel Serverless Function - 实时抓取财经新闻
 // 路径: /api/news.js
 
-const https = require('https');
-const http = require('http');
+export default async function handler(req, res) {
+  // CORS 头
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+  res.setHeader('Cache-Control', 's-maxage=300, stale-while-revalidate=600');
+  
+  if (req.method === 'OPTIONS') {
+    return res.status(200).end();
+  }
+  
+  // 国际财经新闻 RSS 源
+  const SOURCES = [
+    { name: 'Reuters Business', url: 'https://feeds.reuters.com/reuters/businessNews', region: 'international' },
+    { name: 'BBC Business', url: 'https://feeds.bbci.co.uk/news/business/rss.xml', region: 'international' },
+    { name: 'CNBC Top News', url: 'https://www.cnbc.com/id/100003114/device/rss/rss.html', region: 'international' },
+    { name: 'Financial Times', url: 'https://www.ft.com/rss/home', region: 'international' },
+    { name: 'Yahoo Finance', url: 'https://finance.yahoo.com/news/rssindex', region: 'international' },
+    { name: 'WSJ Markets', url: 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml', region: 'international' },
+    { name: '36氪财经', url: 'https://36kr.com/feed', region: 'chinese' },
+    { name: '虎嗅网', url: 'https://www.huxiu.com/rss/0.xml', region: 'chinese' }
+  ];
 
-// 国际财经新闻 RSS 源
-const INTERNATIONAL_SOURCES = [
-  { name: 'Reuters Business', url: 'https://feeds.reuters.com/reuters/businessNews', category: 'Business', region: 'international' },
-  { name: 'BBC Business', url: 'https://feeds.bbci.co.uk/news/business/rss.xml', category: 'Business', region: 'international' },
-  { name: 'CNBC Top News', url: 'https://www.cnbc.com/id/100003114/device/rss/rss.html', category: 'Finance', region: 'international' },
-  { name: 'Financial Times', url: 'https://www.ft.com/rss/home', category: 'Finance', region: 'international' },
-  { name: 'Yahoo Finance', url: 'https://finance.yahoo.com/news/rssindex', category: 'Finance', region: 'international' },
-  { name: 'MarketWatch', url: 'http://feeds.marketwatch.com/marketwatch/topstories/', category: 'Markets', region: 'international' },
-  { name: 'WSJ Markets', url: 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml', category: 'Markets', region: 'international' }
-];
+  const results = {
+    fetchTime: new Date().toISOString(),
+    sources: []
+  };
 
-// 中文财经新闻 RSS 源
-const CHINESE_SOURCES = [
-  { name: '36氪财经', url: 'https://36kr.com/feed', category: '科技财经', region: 'chinese', type: 'rss' },
-  { name: '界面新闻', url: 'https://www.jiemian.com/rss/caijing.rss', category: '财经', region: 'chinese', type: 'rss' },
-  { name: '虎嗅网', url: 'https://www.huxiu.com/rss/0.xml', category: '商业', region: 'chinese', type: 'rss' }
-];
-
-const ALL_SOURCES = [...INTERNATIONAL_SOURCES, ...CHINESE_SOURCES];
-
-// 获取 URL 内容
-function fetchUrl(url, timeout = 8000) {
-  return new Promise((resolve, reject) => {
-    const protocol = url.startsWith('https') ? https : http;
-    const req = protocol.get(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)',
-        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
-      },
-      timeout: timeout
-    }, (res) => {
-      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        // 处理重定向
-        fetchUrl(res.headers.location, timeout).then(resolve).catch(reject);
-        return;
-      }
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => resolve(data));
-    });
-    req.on('error', reject);
-    req.on('timeout', () => { req.destroy(); reject(new Error('Timeout')); });
+  // 并行获取所有新闻源
+  const fetchPromises = SOURCES.map(async (source) => {
+    try {
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 8000);
+      
+      const response = await fetch(source.url, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)',
+          'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+        },
+        signal: controller.signal
+      });
+      clearTimeout(timeout);
+      
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      
+      const content = await response.text();
+      const items = parseRSS(content);
+      
+      return {
+        name: source.name,
+        region: source.region,
+        itemCount: items.length,
+        items: items
+      };
+    } catch (error) {
+      console.error(`Error fetching ${source.name}:`, error.message);
+      return {
+        name: source.name,
+        region: source.region,
+        itemCount: 0,
+        items: [],
+        error: error.message
+      };
+    }
   });
+
+  results.sources = await Promise.all(fetchPromises);
+  
+  // 统计
+  const totalItems = results.sources.reduce((sum, s) => sum + s.itemCount, 0);
+  console.log(`Fetched ${totalItems} articles from ${results.sources.length} sources`);
+
+  return res.status(200).json(results);
 }
 
 // 解析 RSS
@@ -88,54 +115,3 @@ function parseRSS(content) {
   
   return items;
 }
-
-// 主函数
-module.exports = async (req, res) => {
-  // CORS 头
-  res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
-  res.setHeader('Cache-Control', 's-maxage=300, stale-while-revalidate=600');
-  
-  if (req.method === 'OPTIONS') {
-    return res.status(200).end();
-  }
-  
-  const results = {
-    fetchTime: new Date().toISOString(),
-    sources: []
-  };
-  
-  // 并行获取所有新闻源
-  const promises = ALL_SOURCES.map(async (source) => {
-    try {
-      const content = await fetchUrl(source.url);
-      const items = parseRSS(content);
-      return {
-        name: source.name,
-        category: source.category,
-        region: source.region,
-        itemCount: items.length,
-        items: items
-      };
-    } catch (error) {
-      console.error(`Error fetching ${source.name}:`, error.message);
-      return {
-        name: source.name,
-        category: source.category,
-        region: source.region,
-        itemCount: 0,
-        items: [],
-        error: error.message
-      };
-    }
-  });
-  
-  results.sources = await Promise.all(promises);
-  
-  // 统计
-  const totalItems = results.sources.reduce((sum, s) => sum + s.itemCount, 0);
-  console.log(`Fetched ${totalItems} articles from ${results.sources.length} sources`);
-  
-  res.status(200).json(results);
-};
