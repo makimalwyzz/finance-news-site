@@ -1,0 +1,42 @@
+name: Update Finance News Daily
+
+on:
+  schedule:
+    # 每天 UTC 01:00 运行 (北京时间 09:00)
+    - cron: '0 1 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests
+      
+      - name: Fetch news from RSS feeds
+        run: |
+          python scripts/fetch_news.py
+      
+      - name: Generate HTML with embedded data
+        run: |
+          python scripts/generate_html.py
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Auto update news - $(date +'%Y-%m-%d %H:%M')" && git push)
