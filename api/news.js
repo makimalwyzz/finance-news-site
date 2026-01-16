@@ -1,5 +1,6 @@
 // Vercel Serverless Function - 实时抓取财经新闻
 // 路径: /api/news.js
+// 优化版本：减少超时，提高可靠性
 
 export default async function handler(req, res) {
   // CORS 头
@@ -12,14 +13,15 @@ export default async function handler(req, res) {
     return res.status(200).end();
   }
   
-  // 国际财经新闻 RSS 源
+  // 国际财经新闻 RSS 源 - 优先快速响应的源
   const SOURCES = [
-    { name: 'Reuters Business', url: 'https://feeds.reuters.com/reuters/businessNews', region: 'international' },
+    // 快速源优先
     { name: 'BBC Business', url: 'https://feeds.bbci.co.uk/news/business/rss.xml', region: 'international' },
+    { name: 'Reuters Business', url: 'https://feeds.reuters.com/reuters/businessNews', region: 'international' },
     { name: 'CNBC Top News', url: 'https://www.cnbc.com/id/100003114/device/rss/rss.html', region: 'international' },
+    { name: 'WSJ Markets', url: 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml', region: 'international' },
     { name: 'Financial Times', url: 'https://www.ft.com/rss/home', region: 'international' },
     { name: 'Yahoo Finance', url: 'https://finance.yahoo.com/news/rssindex', region: 'international' },
-    { name: 'WSJ Markets', url: 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml', region: 'international' },
     { name: '36氪财经', url: 'https://36kr.com/feed', region: 'chinese' },
     { name: '虎嗅网', url: 'https://www.huxiu.com/rss/0.xml', region: 'chinese' }
   ];
@@ -29,11 +31,12 @@ export default async function handler(req, res) {
     sources: []
   };
 
-  // 并行获取所有新闻源
+  // 使用 Promise.allSettled 确保部分源失败不影响整体
   const fetchPromises = SOURCES.map(async (source) => {
     try {
       const controller = new AbortController();
-      const timeout = setTimeout(() => controller.abort(), 8000);
+      // 减少超时到 5 秒，避免 Vercel 整体超时
+      const timeout = setTimeout(() => controller.abort(), 5000);
       
       const response = await fetch(source.url, {
         headers: {
@@ -47,7 +50,8 @@ export default async function handler(req, res) {
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       
       const content = await response.text();
-      const items = parseRSS(content);
+      // 限制每个源最多 10 条新闻，加快处理
+      const items = parseRSS(content, 10);
       
       return {
         name: source.name,
@@ -67,7 +71,9 @@ export default async function handler(req, res) {
     }
   });
 
-  results.sources = await Promise.all(fetchPromises);
+  // 使用 allSettled 确保即使部分失败也返回结果
+  const settledResults = await Promise.allSettled(fetchPromises);
+  results.sources = settledResults.map(r => r.status === 'fulfilled' ? r.value : r.reason);
   
   // 统计
   const totalItems = results.sources.reduce((sum, s) => sum + s.itemCount, 0);
@@ -76,13 +82,13 @@ export default async function handler(req, res) {
   return res.status(200).json(results);
 }
 
-// 解析 RSS
-function parseRSS(content) {
+// 解析 RSS - maxItems 限制返回的最大条目数
+function parseRSS(content, maxItems = 10) {
   const items = [];
   const itemRegex = /<item[^>]*>([\s\S]*?)<\/item>|<entry[^>]*>([\s\S]*?)<\/entry>/gi;
   let match;
   
-  while ((match = itemRegex.exec(content)) !== null && items.length < 15) {
+  while ((match = itemRegex.exec(content)) !== null && items.length < maxItems) {
     const itemContent = match[1] || match[2];
     
     // 提取标题
