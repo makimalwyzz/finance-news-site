@@ -1,0 +1,10 @@
+{
+  "name": "finance-news-site",
+  "version": "1.0.0",
+  "description": "国际财经新闻实时监控面板",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
