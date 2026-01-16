@@ -1773,7 +1773,38 @@
                 return;
             }
 
-            allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+            // 统一的日期解析函数
+            function parseDate(dateStr) {
+                if (!dateStr) return null;
+                try {
+                    // 检测 Unix 时间戳（纯数字，10位或13位）
+                    if (/^\d{10,13}$/.test(dateStr)) {
+                        const timestamp = dateStr.length === 10 ? parseInt(dateStr) * 1000 : parseInt(dateStr);
+                        return new Date(timestamp);
+                    }
+                    // 检测中文格式 "2026-01-16 10:27:24 +0800"
+                    if (/^\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2}/.test(dateStr)) {
+                        const cleanDate = dateStr.replace(/\s+\+(\d{2})(\d{2})$/, '+$1:$2').trim();
+                        const d = new Date(cleanDate);
+                        return isNaN(d.getTime()) ? null : d;
+                    }
+                    // 标准格式直接解析
+                    const d = new Date(dateStr);
+                    return isNaN(d.getTime()) ? null : d;
+                } catch (e) {
+                    return null;
+                }
+            }
+
+            // 按时间排序（最新的在前面）
+            allNews.sort((a, b) => {
+                const dateA = parseDate(a.pubDate);
+                const dateB = parseDate(b.pubDate);
+                if (!dateA && !dateB) return 0;
+                if (!dateA) return 1;  // 无效日期排后面
+                if (!dateB) return -1;
+                return dateB - dateA;  // 降序
+            });
 
             container.innerHTML = allNews.map((news, index) => `
                 <article class="news-card ${news.region === 'chinese' ? 'chinese' : ''}" onclick="window.open('${news.link}', '_blank')" style="animation-delay: ${index * 0.04}s">
@@ -1799,14 +1830,44 @@
         function formatTime(dateStr) {
             if (!dateStr) return '';
             try {
-                const date = new Date(dateStr);
+                let date;
+                
+                // 检测 Unix 时间戳（纯数字，10位或13位）
+                if (/^\d{10,13}$/.test(dateStr)) {
+                    const timestamp = dateStr.length === 10 ? parseInt(dateStr) * 1000 : parseInt(dateStr);
+                    date = new Date(timestamp);
+                }
+                // 检测中文格式 "2026-01-16 10:27:24 +0800"
+                else if (/^\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2}/.test(dateStr)) {
+                    // 将 " +0800" 替换为 "+08:00" 或直接移除
+                    const cleanDate = dateStr.replace(/\s+\+(\d{2})(\d{2})$/, '+$1:$2').trim();
+                    date = new Date(cleanDate);
+                }
+                // 标准格式直接解析
+                else {
+                    date = new Date(dateStr);
+                }
+                
+                // 检查是否为有效日期
+                if (isNaN(date.getTime())) {
+                    return '';  // 返回空字符串，不显示 Invalid Date
+                }
+                
                 const now = new Date();
                 const diff = now - date;
                 
+                // 过滤未来日期和过旧日期
+                if (diff < 0 || diff > 7 * 86400000) {
+                    return date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
+                }
+                
+                if (diff < 60000) return '刚刚';
                 if (diff < 3600000) return `${Math.floor(diff / 60000)} 分钟前`;
                 if (diff < 86400000) return `${Math.floor(diff / 3600000)} 小时前`;
-                return date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
-            } catch (e) { return dateStr; }
+                return `${Math.floor(diff / 86400000)} 天前`;
+            } catch (e) { 
+                return ''; 
+            }
         }
 
         function escapeHtml(text) {
