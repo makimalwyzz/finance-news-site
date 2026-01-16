@@ -353,6 +353,16 @@
         .news-card:nth-child(4) { animation-delay: 0.2s; }
         .news-card:nth-child(5) { animation-delay: 0.25s; }
         .news-card:nth-child(6) { animation-delay: 0.3s; }
+        
+        @keyframes slideIn {
+            from { transform: translateX(100px); opacity: 0; }
+            to { transform: translateX(0); opacity: 1; }
+        }
+        
+        @keyframes fadeOut {
+            from { opacity: 1; }
+            to { opacity: 0; }
+        }
     </style>
 
     <script>
@@ -1806,6 +1816,9 @@
             return div.innerHTML;
         }
 
+        // Vercel API 端点（部署后自动可用）
+        const API_ENDPOINT = '/api/news';
+        
         async function refreshNews() {
             const btn = document.querySelector('.refresh-btn');
             btn.classList.add('loading');
@@ -1813,13 +1826,58 @@
             document.getElementById('news-container').innerHTML = `
                 <div class="loading-container">
                     <div class="loading-spinner"></div>
-                    <p class="loading-text">正在刷新财经新闻...</p>
+                    <p class="loading-text">正在实时抓取最新财经新闻...</p>
                 </div>
             `;
 
-            await new Promise(resolve => setTimeout(resolve, 1500));
-            await loadNewsData();
+            try {
+                // 尝试调用 Vercel API 实时抓取新闻
+                const response = await fetch(API_ENDPOINT);
+                if (response.ok) {
+                    newsData = await response.json();
+                    updateUI();
+                    showNotification('✅ 已获取最新新闻！', 'success');
+                } else {
+                    throw new Error('API 请求失败');
+                }
+            } catch (error) {
+                console.log('API 调用失败，使用缓存数据:', error);
+                // 如果 API 失败，回退到内嵌数据
+                if (window.embeddedNewsData) {
+                    newsData = window.embeddedNewsData;
+                    updateUI();
+                    showNotification('⚠️ 实时抓取失败，显示缓存数据', 'warning');
+                }
+            }
+            
             btn.classList.remove('loading');
+        }
+        
+        function showNotification(message, type) {
+            // 创建通知元素
+            const notification = document.createElement('div');
+            notification.style.cssText = `
+                position: fixed;
+                top: 20px;
+                right: 20px;
+                padding: 12px 24px;
+                background: ${type === 'success' ? 'rgba(16, 185, 129, 0.9)' : 'rgba(245, 158, 11, 0.9)'};
+                color: white;
+                border-radius: 8px;
+                font-size: 14px;
+                font-weight: 500;
+                z-index: 9999;
+                animation: slideIn 0.3s ease;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+            `;
+            notification.textContent = message;
+            document.body.appendChild(notification);
+            
+            // 3秒后自动消失
+            setTimeout(() => {
+                notification.style.animation = 'fadeOut 0.3s ease';
+                setTimeout(() => notification.remove(), 300);
+            }, 3000);
         }
 
         document.addEventListener('DOMContentLoaded', loadNewsData);
