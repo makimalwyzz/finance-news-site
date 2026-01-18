@@ -1,5 +1,5 @@
 {
-  "fetchTime": "2026-01-17T04:02:06.913908",
+  "fetchTime": "2026-01-18T04:15:33.174128",
   "sources": [
     {
       "name": "Reuters Business",
@@ -18,10 +18,22 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Trump to unveil home buying plan involving retirement funds",
-          "link": "https://www.bbc.com/news/articles/cpdyjde1ey3o?at_medium=RSS&at_campaign=rss",
-          "description": "The housing proposal will let Americans use their 401(k)s for down payments, a Trump economic adviser said.",
-          "pubDate": "Fri, 16 Jan 2026 22:25:12 GMT"
+          "title": "British Gas took 15 months to refund me £1,500. It's absurd",
+          "link": "https://www.bbc.com/news/articles/c62n9qp3gezo?at_medium=RSS&at_campaign=rss",
+          "description": "Beth Kojder said it was frustrating it took so long to get her money back, given the ombudsman had ruled in her favour nearly a year ago.",
+          "pubDate": "Sun, 18 Jan 2026 01:32:14 GMT"
+        },
+        {
+          "title": "The one measure that can tell us a lot about the state of the UK economy",
+          "link": "https://www.bbc.com/news/articles/c150leql9pgo?at_medium=RSS&at_campaign=rss",
+          "description": "Consumer confidence levels are rebounding for some in the UK, but older generations look to be immune, writes Faisal Islam.",
+          "pubDate": "Sat, 17 Jan 2026 12:24:50 GMT"
+        },
+        {
+          "title": "Trump's proposed credit card cap spotlights Americans' debt. Would it help?",
+          "link": "https://www.bbc.com/news/articles/cp37eerlql1o?at_medium=RSS&at_campaign=rss",
+          "description": "President Trump's proposal to cap credit card interest rates at 10% - an idea with bipartisan support - received swift backlash from bank executives.",
+          "pubDate": "Sat, 17 Jan 2026 00:39:26 GMT"
         },
         {
           "title": "Government to give cash payouts to people in financial crisis",
@@ -36,28 +48,28 @@
           "pubDate": "Fri, 16 Jan 2026 18:00:24 GMT"
         },
         {
+          "title": "Trump to unveil home buying plan involving retirement funds",
+          "link": "https://www.bbc.com/news/articles/cpdyjde1ey3o?at_medium=RSS&at_campaign=rss",
+          "description": "The housing proposal will let Americans use their 401(k)s for down payments, a Trump economic adviser said.",
+          "pubDate": "Fri, 16 Jan 2026 22:25:12 GMT"
+        },
+        {
           "title": "Weight loss jabs are 'opportunity' for Leon, boss says",
           "link": "https://www.bbc.com/news/articles/cd7z8j9j3ypo?at_medium=RSS&at_campaign=rss",
           "description": "John Vincent says the chain could benefit from the weight loss trend, and sets out his plans to revive the business.",
           "pubDate": "Fri, 16 Jan 2026 09:55:12 GMT"
         },
         {
+          "title": "The threat to the US economy from Trump’s fight with the Fed",
+          "link": "https://www.bbc.com/news/articles/cy9yxlz70dvo?at_medium=RSS&at_campaign=rss",
+          "description": "Donald Trump's stand-off with the US central bank has recalled episodes in other countries - which ended badly for the economy.",
+          "pubDate": "Fri, 16 Jan 2026 06:02:36 GMT"
+        },
+        {
           "title": "Mother of Elon Musk's child sues xAI over Grok deepfakes",
           "link": "https://www.bbc.com/news/articles/cp37erw0zwwo?at_medium=RSS&at_campaign=rss",
           "description": "The parent company of X and Grok, xAI, launched a counter-suit saying she had violated its terms of service.",
           "pubDate": "Fri, 16 Jan 2026 13:56:05 GMT"
-        },
-        {
-          "title": "'They are essential':  How smoke detectors are evolving",
-          "link": "https://www.bbc.com/news/articles/cwynxdnj927o?at_medium=RSS&at_campaign=rss",
-          "description": "AI trained to recognise fire is among the latest developments in fire alarm tech.",
-          "pubDate": "Fri, 16 Jan 2026 00:04:26 GMT"
-        },
-        {
-          "title": "Trump's Fed fight looks like something from another country",
-          "link": "https://www.bbc.com/news/articles/cy9yxlz70dvo?at_medium=RSS&at_campaign=rss",
-          "description": "Donald Trump's stand-off with the US central bank has recalled episodes in other countries - which ended badly for the economy.",
-          "pubDate": "Fri, 16 Jan 2026 06:02:36 GMT"
         },
         {
           "title": "'We're in survival mode': The milk price crisis draining dairy farms",
@@ -90,52 +102,40 @@
           "pubDate": "Thu, 15 Jan 2026 21:50:24 GMT"
         },
         {
-          "title": "Serial rail fare evader faces jail over 112 unpaid tickets",
-          "link": "https://www.bbc.com/news/articles/c17zwv58x99o?at_medium=RSS&at_campaign=rss",
-          "description": "Charles Brohiri pleaded guilty to travelling without buying a ticket a total of 112 times.",
-          "pubDate": "Thu, 15 Jan 2026 17:39:32 GMT"
-        },
-        {
           "title": "How realistic is India's quest for magnets made of rare earths",
           "link": "https://www.bbc.com/news/articles/c9qe1d8p5xgo?at_medium=RSS&at_campaign=rss",
           "description": "India has a $800m plan to make rare earth magnets, aiming to reduce dependence on Chinese imports - but can it work?",
           "pubDate": "Fri, 16 Jan 2026 01:08:55 GMT"
         },
         {
-          "title": "UK economy grew by 0.3% in November, beating forecasts",
-          "link": "https://www.bbc.com/news/articles/c8d041pp85mo?at_medium=RSS&at_campaign=rss",
-          "description": "The economy was boosted by a rebound in car production and from the services sector.",
-          "pubDate": "Thu, 15 Jan 2026 11:16:47 GMT"
+          "title": "'They are essential':  How smoke detectors are evolving",
+          "link": "https://www.bbc.com/news/articles/cwynxdnj927o?at_medium=RSS&at_campaign=rss",
+          "description": "AI trained to recognise fire is among the latest developments in fire alarm tech.",
+          "pubDate": "Fri, 16 Jan 2026 00:04:26 GMT"
         },
         {
-          "title": "X to stop Grok AI from undressing images of real people after backlash",
-          "link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
-          "description": "Grok will no longer allow users to remove clothing from images of real people in jurisdictions where it is illegal.",
-          "pubDate": "Thu, 15 Jan 2026 15:54:17 GMT"
+          "title": "Honey, I shrunk the data centres: Is small the new big?",
+          "link": "https://www.bbc.com/news/articles/cd0ynenr1eno?at_medium=RSS&at_campaign=rss",
+          "description": "Huge data centres are being built to handle AI computing but some experts say they aren't necessary.",
+          "pubDate": "Wed, 14 Jan 2026 00:07:50 GMT"
         },
         {
-          "title": "Ofwat launches investigation into South East Water",
-          "link": "https://www.bbc.com/news/articles/cq6vm1rp2pjo?at_medium=RSS&at_campaign=rss",
-          "description": "Anger is high after thousands of customers in Kent and Sussex have experienced days of water chaos.",
-          "pubDate": "Thu, 15 Jan 2026 15:38:07 GMT"
+          "title": "Why are more bosses sharing the top job?",
+          "link": "https://www.bbc.com/news/articles/c62n5j96nqpo?at_medium=RSS&at_campaign=rss",
+          "description": "More bosses are sharing the top job giving them more time for family and breaks.",
+          "pubDate": "Tue, 13 Jan 2026 00:01:51 GMT"
         },
         {
-          "title": "'My home was uninhabitable' - residents reveal 'botched' work after energy firm folds",
-          "link": "https://www.bbc.com/news/articles/cp3zlp9gyqdo?at_medium=RSS&at_campaign=rss",
-          "description": "A woman whose home flooded during works carried out by a now-folded company says she is trying to rebuild her life.",
-          "pubDate": "Thu, 15 Jan 2026 10:09:05 GMT"
+          "title": "Why luxury carmakers are now building glitzy skyscrapers",
+          "link": "https://www.bbc.com/news/articles/clyenj18vvxo?at_medium=RSS&at_campaign=rss",
+          "description": "Bugatti is the latest auto firm to construct an opulent apartment building for the super rich.",
+          "pubDate": "Mon, 12 Jan 2026 00:02:08 GMT"
         },
         {
-          "title": "Boeing knew of flaw in part linked to UPS plane crash, US safety board report says",
-          "link": "https://www.bbc.com/news/articles/cly56w0p9e1o?at_medium=RSS&at_campaign=rss",
-          "description": "An aircraft that crashed in November had a structural flaw that had been identified by Boeing 15 years ago, investigators say.",
-          "pubDate": "Thu, 15 Jan 2026 12:49:56 GMT"
-        },
-        {
-          "title": "Labubu toy manufacturer exploited workers, labour group claims",
-          "link": "https://www.bbc.com/news/articles/cn4037v0w12o?at_medium=RSS&at_campaign=rss",
-          "description": "Investigators allege that a factory making Pop Mart products neglected staff safety and welfare.",
-          "pubDate": "Thu, 15 Jan 2026 05:36:45 GMT"
+          "title": "'I had no electricity for six months': US families struggle with soaring energy prices",
+          "link": "https://www.bbc.com/news/articles/c1dz0dz0zkvo?at_medium=RSS&at_campaign=rss",
+          "description": "Rising electricity costs have emerged as a key cost-of-living concern, pushing families further into debt.",
+          "pubDate": "Sun, 11 Jan 2026 01:58:29 GMT"
         }
       ]
     },
@@ -147,58 +147,82 @@
       "itemCount": 20,
       "items": [
         {
+          "title": "Trump says 8 European nations face tariffs rising to 25% if Greenland isn&apos;t sold to the U.S.",
+          "link": "https://www.cnbc.com/2026/01/17/trump-greenland-tariffs-nato.html",
+          "description": "Trump recently hinted that he may pursue a tariff strategy on Greenland similar to the one he used to force foreign countries to change their drug prices.",
+          "pubDate": "Sat, 17 Jan 2026 23:26:01 GMT"
+        },
+        {
+          "title": "Trump threatens to sue JPMorgan Chase for &apos;debanking&apos; him",
+          "link": "https://www.cnbc.com/2026/01/17/trump-jpmorgan-chase-debanking.html",
+          "description": "President Trump threatened to sue JPMorgan for allegedly \"debanking\" him following the Jan. 6 insurrection in 2021.",
+          "pubDate": "Sat, 17 Jan 2026 22:07:48 GMT"
+        },
+        {
+          "title": "Warren Buffett on parenting, horse betting and why he stopped talking politics",
+          "link": "https://www.cnbc.com/2026/01/17/warren-buffett-on-parenting-horse-betting-and-why-he-stopped-talking-politics.html",
+          "description": "Warren Buffett and Becky Quick covered a wide variety of topics in the interviews that aired in a two-hour special on CNBC.",
+          "pubDate": "Sat, 17 Jan 2026 13:50:34 GMT"
+        },
+        {
+          "title": "Smaller companies are rising quickly to challenge Big Tech as AI&apos;s best trade",
+          "link": "https://www.cnbc.com/2026/01/17/ai-power-demand-markets-investor-risk.html",
+          "description": "Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps.",
+          "pubDate": "Sat, 17 Jan 2026 21:43:09 GMT"
+        },
+        {
+          "title": "Disney dominated the 2025 box office. Here&apos;s how it could keep the crown in 2026",
+          "link": "https://www.cnbc.com/2026/01/17/disney-dominated-2025-box-office.html",
+          "description": "Disney accounted for 27.5% of the domestic box office's overall annual haul. It looks to be a dominant force in 2026, too.",
+          "pubDate": "Sat, 17 Jan 2026 13:00:01 GMT"
+        },
+        {
+          "title": "Warren Buffett used to ask college students this question—it can help you become richer and more successful",
+          "link": "https://www.cnbc.com/2026/01/17/warren-buffett-to-maximize-your-potential-ask-yourself-this-question.html",
+          "description": "The Berkshire Hathaway chairman asked students which of their peers they'd bet on. The lesson was to bet on yourself.",
+          "pubDate": "Sat, 17 Jan 2026 14:00:02 GMT"
+        },
+        {
+          "title": "Unexpected expenses take 10% of retirees&apos; income, on average, research shows — many don&apos;t have enough cash on hand",
+          "link": "https://www.cnbc.com/2026/01/17/retirees-emergency-savings.html",
+          "description": "The typical retiree household will spend an amount equivalent to 10% of annual income on unexpected expenses, and about 40% lack the cash to cover those costs.",
+          "pubDate": "Sat, 17 Jan 2026 13:30:01 GMT"
+        },
+        {
+          "title": "Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet",
+          "link": "https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html",
+          "description": "Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.",
+          "pubDate": "Sat, 17 Jan 2026 15:35:04 GMT"
+        },
+        {
           "title": "Hassett pivots to possible &apos;Trump cards&apos; amid credit card interest rate battle with banks",
           "link": "https://www.cnbc.com/2026/01/16/white-house-hassett-trump-cards-credit-card-battle.html",
           "description": "Trump called for banks to cap credit card interest rates at 10%, an idea that has been roundly rejected by industry executives and their lobbyists this week.",
           "pubDate": "Fri, 16 Jan 2026 19:33:45 GMT"
         },
         {
-          "title": "Trump floats new tariffs in push to acquire Greenland",
-          "link": "https://www.cnbc.com/2026/01/16/trump-greenland-tariffs.html",
-          "description": "The comments show Trump considering applying his aggressive tariff strategies to his efforts to acquire Greenland.",
-          "pubDate": "Fri, 16 Jan 2026 19:32:38 GMT"
+          "title": "Activist Irenic takes a stake in Integer. Here’s what could be next for the company",
+          "link": "https://www.cnbc.com/2026/01/17/activist-irenic-takes-a-stake-in-integer-heres-what-could-be-next-for-the-company.html",
+          "description": "Activist Irenic Capital took a position in Integer. The firm seeks a refresh of the board and calls for the exploration of a potential sale of the company.",
+          "pubDate": "Sat, 17 Jan 2026 14:18:27 GMT"
         },
         {
-          "title": "Labor Dept. accused of echoing Nazi slogan in social media post",
-          "link": "https://www.cnbc.com/2026/01/16/trump-labor-nazi-slogan-social-media.html",
-          "description": "",
-          "pubDate": "Sat, 17 Jan 2026 00:00:16 GMT"
+          "title": "Week in review: Stocks battled a flood of news and we booked some profits",
+          "link": "https://www.cnbc.com/2026/01/17/week-in-review-stocks-battled-a-flood-of-news-and-we-booked-some-profits.html",
+          "description": "Stocks finished last week slightly lower as the market battled a series of political headlines and policy news.",
+          "pubDate": "Sat, 17 Jan 2026 19:21:41 GMT"
         },
         {
-          "title": "Elon Musk&apos;s xAI faces tougher road building out data centers after EPA rule update",
-          "link": "https://www.cnbc.com/2026/01/16/musks-xai-faces-tougher-road-expanding-memphis-area-after-epa-update.html",
-          "description": "An updated rule from the EPA closed a loophole that allowed xAI to build its Memphis data center quickly using air-polluting turbines as a power source.",
-          "pubDate": "Sat, 17 Jan 2026 01:35:08 GMT"
+          "title": "The founders of billion-dollar AI startups are getting younger — here’s why",
+          "link": "https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html",
+          "description": "Experimenting in the age of AI \"counts as more important than traditional corporate experience,\" Antler's co-founder Fridjtof Berge told CNBC Make It.",
+          "pubDate": "Sat, 17 Jan 2026 09:54:08 GMT"
         },
         {
-          "title": "Google files to appeal search monopoly case",
-          "link": "https://www.cnbc.com/2026/01/16/google-files-to-appeal-search-monopoly-case.html",
-          "description": "The appeal could delay any implementation of the finalized remedies.",
-          "pubDate": "Fri, 16 Jan 2026 23:11:57 GMT"
-        },
-        {
-          "title": "OpenAI has committed billions to recent chip deals. Some big names have been left out",
-          "link": "https://www.cnbc.com/2026/01/16/openai-chip-deal-with-cerebras-adds-to-roster-of-nvidia-amd-broadcom.html",
-          "description": "OpenAI has inked multibillion-dollar deals with AI chipmakers including Nvidia, AMD, Broadcom and Cerebras.",
-          "pubDate": "Fri, 16 Jan 2026 20:00:01 GMT"
-        },
-        {
-          "title": "Education Department to delay collections on defaulted student loans",
-          "link": "https://www.cnbc.com/2026/01/16/student-loan-collections-paused.html",
-          "description": "The Education Department has announced it will delay the implementation of wage garnishment and other collections efforts for defaulted student loans.",
-          "pubDate": "Fri, 16 Jan 2026 22:27:20 GMT"
-        },
-        {
-          "title": "Trump pitches direct payments to consumers for health care. What policy experts say about the plan",
-          "link": "https://www.cnbc.com/2026/01/15/trump-direct-payments-health-care.html",
-          "description": "President Donald Trump wants to send payments directly to households for health costs. Experts think the plan may raise costs and the number of uninsured.",
-          "pubDate": "Thu, 15 Jan 2026 22:17:57 GMT"
-        },
-        {
-          "title": "Republicans want to end the ‘marriage penalty’ for this childcare tax credit",
-          "link": "https://www.cnbc.com/2026/01/16/child-and-dependent-care-tax-credit.html",
-          "description": "The Republican framework for \"Reconciliation 2.0\" includes an expansion for the child and dependent care tax credit. Here's what families need to know.",
-          "pubDate": "Fri, 16 Jan 2026 21:23:53 GMT"
+          "title": "Discipline isn&apos;t the most common habit among people with self-control, says bestselling author—here&apos;s what is",
+          "link": "https://www.cnbc.com/2026/01/17/james-clear-how-to-create-better-habits-without-relying-on-discipline.html",
+          "description": "You can reach your goals and create better habits, even if you aren't the most disciplined, says James Clear. But you'll need the right environment.",
+          "pubDate": "Sat, 17 Jan 2026 14:05:01 GMT"
         },
         {
           "title": "Cramer&apos;s week ahead: Earnings from Netflix, Intel, Capital One, McCormick",
@@ -207,64 +231,40 @@
           "pubDate": "Fri, 16 Jan 2026 23:12:34 GMT"
         },
         {
-          "title": "Biggest offshore wind project in U.S. to resume construction after judge lifts Trump suspension",
-          "link": "https://www.cnbc.com/2026/01/16/biggest-offshore-wind-project-in-us-to-resume-construction-after-judge-lifts-trump-suspension.html",
-          "description": "Coastal Virginia Offshore Wind will resume construction after a federal judge on Friday temporarily lifted the Trump administration's suspension.",
-          "pubDate": "Fri, 16 Jan 2026 20:05:58 GMT"
+          "title": "Trump pitches direct payments to consumers for health care. What policy experts say about the plan",
+          "link": "https://www.cnbc.com/2026/01/15/trump-direct-payments-health-care.html",
+          "description": "President Donald Trump wants to send payments directly to households for health costs. Experts think the plan may raise costs and the number of uninsured.",
+          "pubDate": "Thu, 15 Jan 2026 22:17:57 GMT"
         },
         {
-          "title": "Trump unveils health-care plan outline as Congress wrestles over Obamacare subsidies",
-          "link": "https://www.cnbc.com/2026/01/15/trump-congress-aca-subsidies-health-care.html",
-          "description": "Trump urged Congress, which is grappling over an extension of key ACA tax credits, to pass \"The Great Healthcare Plan\" without delay.",
-          "pubDate": "Thu, 15 Jan 2026 18:37:03 GMT"
+          "title": "Labor Department accused of echoing Nazi slogan in social media post",
+          "link": "https://www.cnbc.com/2026/01/16/trump-labor-nazi-slogan-social-media.html",
+          "description": "Social media users quickly noted similarities — in word, form and sentiment — between the Labor Department's post and a slogan used by the Nazi Party.",
+          "pubDate": "Sat, 17 Jan 2026 11:18:57 GMT"
         },
         {
-          "title": "OpenAI to begin testing ads on ChatGPT in the U.S.",
-          "link": "https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html",
-          "description": "OpenAI said ads would not influence ChatGPT's responses and that it will \"never\" sell user data to advertisers.",
-          "pubDate": "Fri, 16 Jan 2026 21:14:45 GMT"
+          "title": "Trump tells Hassett he wants to keep him where he is; Warsh Fed chair odds jump",
+          "link": "https://www.cnbc.com/2026/01/16/warsh-sprints-ahead-in-fed-chair-race-following-trump-comments-on-hassett-prediction-markets-show.html",
+          "description": "Trump, without explicitly stating his decision, said he'd prefer to keep Hassett in his position as top economic advisor.",
+          "pubDate": "Fri, 16 Jan 2026 20:28:14 GMT"
         },
         {
-          "title": "Micron stock climbs as CEO highlights AI demand for memory",
-          "link": "https://www.cnbc.com/2026/01/16/micron-stock-climbs-as-ceo-highlights-ai-demand-for-memory.html",
-          "description": "\"We need more and more memory to address that demand,\" Micron CEO Sanjay Mehrotra told CNBC's Jim Cramer.",
-          "pubDate": "Fri, 16 Jan 2026 21:28:37 GMT"
+          "title": "Elon Musk&apos;s xAI faces tougher road building out data centers after EPA rule update",
+          "link": "https://www.cnbc.com/2026/01/16/musks-xai-faces-tougher-road-expanding-memphis-area-after-epa-update.html",
+          "description": "An updated rule from the EPA closed a loophole that allowed xAI to build its Memphis data center quickly using air-polluting turbines as a power source.",
+          "pubDate": "Sat, 17 Jan 2026 01:35:08 GMT"
         },
         {
-          "title": "Novo Nordisk shares rise 8% after Wegovy obesity pill has &apos;solid&apos; launch",
-          "link": "https://www.cnbc.com/2026/01/16/novo-nordisk-shares-wegovy-obesity-pill-launch.html",
-          "description": "The early data is a boost to the Danish drugmaker's hopes of winning back more market share from Eli Lilly in the obesity drug space.",
-          "pubDate": "Fri, 16 Jan 2026 21:02:05 GMT"
+          "title": "Republicans want to end the ‘marriage penalty’ for this childcare tax credit",
+          "link": "https://www.cnbc.com/2026/01/16/child-and-dependent-care-tax-credit.html",
+          "description": "The Republican framework for \"Reconciliation 2.0\" includes an expansion for the child and dependent care tax credit. Here's what families need to know.",
+          "pubDate": "Fri, 16 Jan 2026 21:23:53 GMT"
         },
         {
-          "title": "More employers worry about their workers&apos; financial well-being, research shows. Here&apos;s what they&apos;re doing about it",
-          "link": "https://www.cnbc.com/2026/01/16/employers-focusing-more-on-employee-financial-wellbeing-study-shows.html",
-          "description": "Employer concern about their workers' financial life has grown as many households struggle to manage the rising cost of living.",
-          "pubDate": "Sat, 17 Jan 2026 00:13:56 GMT"
-        },
-        {
-          "title": "&apos;Markets are callous&apos;: Why stocks aren&apos;t fazed by Iran, Greenland or Venezuela",
-          "link": "https://www.cnbc.com/2026/01/16/trump-sp-500-iran-greenland-venezuela-geopolitics.html",
-          "description": "One fund manager described stocks' continued moves higher, despite escalating tensions, as \"equity market 'meh.'\"",
-          "pubDate": "Fri, 16 Jan 2026 18:25:36 GMT"
-        },
-        {
-          "title": "Machado presents her Nobel award to Trump, prompting incredulity in Norway",
-          "link": "https://www.cnbc.com/2026/01/16/trump-machado-norway-.html",
-          "description": "\"This is incredibly embarrassing,\" Raymond Johansen, a Norwegian lawmaker for the center-left Labour Party, said in a Facebook post.",
-          "pubDate": "Fri, 16 Jan 2026 14:45:55 GMT"
-        },
-        {
-          "title": "U.S. threats of a Greenland takeover spark talk of trade wars",
-          "link": "https://www.cnbc.com/2026/01/16/us-invasion-of-greenland-could-hit-eu-trade-french-finance-minister.html",
-          "description": "Economic ties between the U.S. and Europe could be damaged if Trump moves to take the Danish territory.",
-          "pubDate": "Fri, 16 Jan 2026 09:51:18 GMT"
-        },
-        {
-          "title": "Trump wants tech companies to foot the bill for new power plants because of AI",
-          "link": "https://www.cnbc.com/2026/01/16/trump-wants-tech-companies-to-foot-the-bill-for-new-power-plants-because-of-ai.html",
-          "description": "Utility bills are rising in many parts of the U.S. despite Trump's promise to lower energy prices during his presidential campaign.",
-          "pubDate": "Fri, 16 Jan 2026 20:58:31 GMT"
+          "title": "Google files to appeal search monopoly case",
+          "link": "https://www.cnbc.com/2026/01/16/google-files-to-appeal-search-monopoly-case.html",
+          "description": "The appeal could delay any implementation of the finalized remedies.",
+          "pubDate": "Fri, 16 Jan 2026 23:11:57 GMT"
         }
       ]
     },
@@ -273,79 +273,73 @@
       "category": "Finance",
       "region": "international",
       "url": "https://www.ft.com/rss/home",
-      "itemCount": 12,
+      "itemCount": 11,
       "items": [
         {
-          "title": "The threat to the global economy from Trump’s war on the Fed",
-          "link": "https://www.ft.com/content/77f43154-8ce1-45ab-bcfd-23b77ee06f21",
-          "description": "The escalating conflict between the White House and the US central bank could have far-reaching consequences",
-          "pubDate": "Fri, 16 Jan 2026 21:47:39 GMT"
+          "title": "Trump to hit Europe with 10% tariffs until Greenland deal is agreed",
+          "link": "https://www.ft.com/content/60552052-78b7-4734-b398-efc87c1d4b17",
+          "description": "US president said levies against eight nations would rise to 25% unless they support his acquisition of the island",
+          "pubDate": "Sat, 17 Jan 2026 20:07:07 GMT"
         },
         {
-          "title": "Trump says he wants Fed chair contender Hassett to stay in White House job",
-          "link": "https://www.ft.com/content/ef716145-8e4b-461d-8b09-b61160f7f9d2",
-          "description": "US president says moving National Economic Council director to central bank would be a ‘serious concern for me’",
-          "pubDate": "Fri, 16 Jan 2026 21:41:09 GMT"
+          "title": "Former Nato chief attacks Trump’s ‘gangster’ talk on Greenland",
+          "link": "https://www.ft.com/content/9dd480eb-5969-495b-b1fe-b108eb602e2a",
+          "description": "Anders Fogh Rasmussen says US president is using island as a ‘weapon of mass distraction’ from real threats such as Russia’s war in Ukraine",
+          "pubDate": "Sat, 17 Jan 2026 14:57:30 GMT"
         },
         {
-          "title": "‘Maga has gone Maoist’: corporate America reels as Trump turns interventionist",
-          "link": "https://www.ft.com/content/36ab31dd-6cb6-4b1e-b15d-32eafdcea556",
-          "description": "President’s freewheeling policy proclamations send shockwaves through companies and financial markets",
-          "pubDate": "Fri, 16 Jan 2026 05:00:21 GMT"
+          "title": "EU and Mercosur bloc sign trade deal after decades of talks",
+          "link": "https://www.ft.com/content/d894fa07-72a5-4081-8311-42127f20ab76",
+          "description": "The agreement will create one of the largest free trade zones in the world but must be ratified by member states",
+          "pubDate": "Sat, 17 Jan 2026 16:51:41 GMT"
         },
         {
-          "title": "Can Mark Carney Trump-proof Canada’s economy?",
-          "link": "https://www.ft.com/content/19169eb4-bb65-4887-bfbb-69a09ffa12aa",
-          "description": "After several decades of closer integration with the US, the country’s prime minister is pushing large infrastructure projects and looking for new markets",
-          "pubDate": "Fri, 16 Jan 2026 05:00:21 GMT"
+          "title": "Iran’s road to revolt",
+          "link": "https://www.ft.com/content/3aece075-9801-4959-a25d-c05d2cd72fcc",
+          "description": "How isolation, intransigence and desperate economic hardship provoked an upsurge of protest that brought the regime to the brink",
+          "pubDate": "Sat, 17 Jan 2026 05:00:30 GMT"
         },
         {
-          "title": "To transform Iran, the west needs patience not over-reach",
-          "link": "https://www.ft.com/content/36258864-3996-4c5d-882e-18df767db611",
-          "description": "Playing a long game paid off with the Soviet Union and a similar trajectory of regime collapse could come in Tehran",
-          "pubDate": "Fri, 16 Jan 2026 15:30:02 GMT"
+          "title": "The right will want a United States of Europe",
+          "link": "https://www.ft.com/content/6dc7fea9-7f2e-44cc-a486-fa10791eb267",
+          "description": "Conservatives will come to see a unified continent as the only defence against America and China",
+          "pubDate": "Sat, 17 Jan 2026 05:10:07 GMT"
         },
         {
-          "title": "Trump names Tony Blair, Jared Kushner and Marc Rowan to advise Gaza ‘Board of Peace’",
-          "link": "https://www.ft.com/content/e98e3cbd-9653-44a8-b9e7-daa467ddc945",
-          "description": "US president will chair executive body that he says will guide reconstruction of war-ravaged enclave",
-          "pubDate": "Sat, 17 Jan 2026 02:05:52 GMT"
+          "title": "How to deal with a bad bonus",
+          "link": "https://www.ft.com/content/913d98bf-15ca-47b6-b1f5-71129a82eaef",
+          "description": "The strategies for coping when handed a disappointing award",
+          "pubDate": "Sat, 17 Jan 2026 05:00:30 GMT"
         },
         {
-          "title": "US floats expanding Gaza ‘Board of Peace’ to other global hotspots",
-          "link": "https://www.ft.com/content/34617296-0816-4e94-b807-7cef5f90e4a1",
-          "description": "Trump-headed body could mediate in countries such as Ukraine and Venezuela",
-          "pubDate": "Fri, 16 Jan 2026 20:11:19 GMT"
+          "title": "Private credit investors pull $7bn from Wall Street’s biggest funds",
+          "link": "https://www.ft.com/content/8d7a9c3d-8e1c-40be-915c-7118c4946468",
+          "description": "Funds managed by Apollo, Ares and Blackstone were among those hit by redemption requests in late 2025",
+          "pubDate": "Sat, 17 Jan 2026 12:00:10 GMT"
         },
         {
-          "title": "Nvidia suppliers halt H200 output after China blocks chip shipments",
-          "link": "https://www.ft.com/content/02a3eb7c-684f-4e39-87b8-36e9595ef800",
-          "description": "Parts makers concerned about whether Beijing will allow imports of AI processors",
-          "pubDate": "Sat, 17 Jan 2026 01:30:05 GMT"
+          "title": "Why has more Maga mayhem equalled ever-higher stocks?",
+          "link": "https://www.ft.com/content/7f0aa635-cfad-4d59-8a96-a926a4a01520",
+          "description": "There are three possible explanations and investors must choose one",
+          "pubDate": "Sat, 17 Jan 2026 05:00:29 GMT"
         },
         {
-          "title": "Trump threatens tariffs on allies over opposition to Greenland plan",
-          "link": "https://www.ft.com/content/8c804726-aecb-4d48-b532-91334be8cd1b",
-          "description": "US president redoubles demands for Danish territory two days after Washington agreed to be part of high-level working group",
-          "pubDate": "Fri, 16 Jan 2026 18:43:30 GMT"
+          "title": "Broad mandate of Trump’s Board of Peace sets it up for rivalry with UN",
+          "link": "https://www.ft.com/content/0ee79faa-86d3-4c01-a180-add6e164ac28",
+          "description": "Body was originally planned to oversee Gaza but charter’s expansive wording suggests it could mediate in other conflicts",
+          "pubDate": "Sat, 17 Jan 2026 22:35:05 GMT"
         },
         {
-          "title": "France warns US that Greenland seizure would endanger EU trade",
-          "link": "https://www.ft.com/content/0b35932b-eb39-465b-b49e-342946d8e14b",
-          "description": "French finance minister Roland Lescure raised concerns with American Treasury secretary Scott Bessent",
-          "pubDate": "Fri, 16 Jan 2026 05:00:31 GMT"
+          "title": "Ali Sha’ath: the new Gaza chief who must rebuild the shattered enclave",
+          "link": "https://www.ft.com/content/814f1ab6-31d5-4591-9c83-eeb328c1ea4e",
+          "description": "Civil engineer and former deputy minister in the Palestinian Authority faces daunting reconstruction task",
+          "pubDate": "Sat, 17 Jan 2026 17:06:07 GMT"
         },
         {
-          "title": "OpenAI brings advertising to ChatGPT in push for new revenue",
-          "link": "https://www.ft.com/content/ec1656cd-e07b-48ed-92a8-26c7fe517899",
-          "description": "$500bn start-up seeks ways to fund expansion and fend off competition from rivals Google and Anthropic",
-          "pubDate": "Fri, 16 Jan 2026 18:00:04 GMT"
-        },
-        {
-          "title": "AI voice start-up ElevenLabs in funding talks at $11bn valuation",
-          "link": "https://www.ft.com/content/5bb87485-7641-4577-8b64-144a1553d42e",
-          "description": "Fundraising would transform company into UK’s most highly valued AI start-up",
-          "pubDate": "Fri, 16 Jan 2026 21:00:04 GMT"
+          "title": "NYC may reinvest in Israel bonds in defiance of mayor Mamdani’s stance",
+          "link": "https://www.ft.com/content/0dad5c9c-3588-437c-90ca-3fcfb0f0e117",
+          "description": "Comptroller Mark Levine wants to separate politics from investment strategy to boost public pension fund",
+          "pubDate": "Sat, 17 Jan 2026 12:00:10 GMT"
         }
       ]
     },
@@ -357,40 +351,22 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Edison Sues LA County Over Fire Deaths for Delayed Alerts",
-          "link": "https://www.bloomberg.com/news/articles/2026-01-16/edison-blames-la-county-for-wildfire-deaths-over-delayed-alerts",
-          "description": "Edison International sued Los Angeles County and other public agencies for allegedly failing to ensure timely evacuation alerts that the company says could have saved most of the 19 people who died in a massive wildfire last year.",
-          "pubDate": "Fri, 16 Jan 2026 23:08:07 GMT"
+          "title": "Sweetgreen Chief Development Officer Tarrant to Leave Chain",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-17/sweetgreen-chief-development-officer-to-leave-restaurant-chain",
+          "description": "Sweetgreen Inc. Chief Development Officer Chris Tarrant is leaving the restaurant chain after a more than a year leading the company’s efforts to expand its footprint.",
+          "pubDate": "Sat, 17 Jan 2026 20:20:43 GMT"
         },
         {
-          "title": "Bill Dudley: Trump Pressure on Powell ‘Counterproductive’",
-          "link": "https://www.bloomberg.com/news/videos/2026-01-17/dudley-trump-pressure-on-powell-counterproductive-video",
-          "description": "Former New York Fed President Bill Dudley reacts to the Justice Department’s criminal subpoena of Fed Chair Jerome Powell, and discusses Powell’s public response. Dudley explains how the Trump Administration’s pressure on the Fed to lower interest rates is ‘counterproductive,’ and addresses concerns about damaging the Fed’s credibility. He says that although President Donald Trump views interest rates like a real estate developer, lower rates aren’t always good for American consumers. (Source: B",
-          "pubDate": "Sat, 17 Jan 2026 02:03:30 GMT"
+          "title": "EU Set to Halt US Trade Deal Over Trump’s New Tariff Threat",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-17/eu-set-to-halt-us-trade-deal-over-trump-s-latest-tariff-threat",
+          "description": "European Union lawmakers are poised to halt approval of the EU’s trade deal with the US over President Donald Trump’s vow to impose tariffs on countries that supported Greenland in the face of American threats.",
+          "pubDate": "Sat, 17 Jan 2026 20:26:18 GMT"
         },
         {
-          "title": "Capital A Completes Sale of Aviation Business to AirAsia X",
-          "link": "https://www.bloomberg.com/news/articles/2026-01-17/capital-a-completes-sale-of-aviation-business-to-airasia-x",
-          "description": "Malaysia’s Capital A Bhd. said it completed the sale of its short-haul aviation business to AirAsia X Bhd., as part of the restructuring of the business empire controlled by Tony Fernandes.",
-          "pubDate": "Sat, 17 Jan 2026 01:58:30 GMT"
-        },
-        {
-          "title": "Takaichi to Mull Suspension of Food Sales Tax, Mainichi Reports",
-          "link": "https://www.bloomberg.com/news/articles/2026-01-17/takaichi-to-mull-suspension-of-food-sales-tax-mainichi-reports",
-          "description": "Japanese Prime Minister Sanae Takaichi will consider a temporary suspension of sales tax on food as part of her election campaign pledge after her expected dissolution of parliament next week, Mainichi newspaper reported, citing unnamed people familiar with the matter.",
-          "pubDate": "Sat, 17 Jan 2026 00:51:49 GMT"
-        },
-        {
-          "title": "Russell 2000 Rallies as Small Caps Outperform Broader Market | The Close 1/16/2026",
-          "link": "https://www.bloomberg.com/news/videos/2026-01-17/the-close-1-16-2026-video",
-          "description": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Morgan Stanley Investment, Management’s Andrew Slimmon, Scotiabank’s Andrew Weisel, Monness Crespi Hardt & Co’s Brian White, Former FDIC Chair Sheila Bair, Neuberger Berman’s Jeff Blazek, Needham & Company’s Laura Martin, Evercore’s Nicholas Amicucci, Mizuho Securities USA’s Dan Kolev, AlixPartners’ Simon Freakley, McKinsey ",
-          "pubDate": "Sat, 17 Jan 2026 00:19:55 GMT"
-        },
-        {
-          "title": "Mckinsey’s Bradley: We’re in a New Economic Era",
-          "link": "https://www.bloomberg.com/news/videos/2026-01-16/mckinsey-s-bradley-we-re-in-a-new-economic-era-video",
-          "description": "Chris Bradley, McKinsey Global Institute Director and Senior Partner, says we are entering a new economic era. He speaks with Romaine Bostick on “The Close.” (Source: Bloomberg)",
-          "pubDate": "Fri, 16 Jan 2026 23:53:28 GMT"
+          "title": "BOJ Keeps Yen Watchers on Edge for Rate-Hike Clues",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-17/boj-keeps-yen-watchers-on-edge-for-rate-hike-clues",
+          "description": "The upcoming Bank of Japan meeting offers scope for sharp movements in the yen as investors try to gauge the timing of its next hike &mdash; with a looming election adding to the confusion.",
+          "pubDate": "Sat, 17 Jan 2026 21:00:00 GMT"
         },
         {
           "title": "H&amp;F Explores $9 Billion-Plus Sale of Medical Device Maker Cordis",
@@ -399,82 +375,100 @@
           "pubDate": "Fri, 16 Jan 2026 23:38:41 GMT"
         },
         {
-          "title": "AlixPartners Exec. Chairman: Disruption the New Norm Among CEOs",
-          "link": "https://www.bloomberg.com/news/videos/2026-01-16/freakley-disruption-the-new-norm-among-ceos-video",
-          "description": "Simon Freakley, AlixPartners Executive Chairman, says CEOs are adapting to intense disruption and managing through volatile times. He speaks with Romaine Bostick and Katie Greifeld on “The Close.”\n (Source: Bloomberg)",
-          "pubDate": "Fri, 16 Jan 2026 23:35:03 GMT"
+          "title": "MBS Gains Are Another Reason to Buy Company Debt: Credit Weekly",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-17/mbs-gains-are-another-reason-to-buy-company-debt-credit-weekly",
+          "description": "Demand for corporate bonds could get a boost from a surprising source in the coming months: investors taking profits on US mortgage bond holdings who need another asset to buy instead.",
+          "pubDate": "Sat, 17 Jan 2026 20:00:00 GMT"
         },
         {
-          "title": "Fmr. FDIC Chair: Supreme Court Could Step In to Protect Fed",
-          "link": "https://www.bloomberg.com/news/videos/2026-01-16/bair-supreme-court-could-step-in-to-protect-fed-video",
-          "description": "Sheila Bair, former FDIC chair and a member of the Center for Financial Stability Advisory Board, says the Supreme Court may draw a line to protect the Fed’s independence. She speaks with Romaine Bostick and Emily Graffeo on “The Close.” (Source: Bloomberg)",
-          "pubDate": "Fri, 16 Jan 2026 23:29:14 GMT"
+          "title": "Trump Blasts Dimon, Threatens to Sue JPMorgan Over Debanking",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-17/trump-blasts-dimon-threatens-to-sue-jp-morgan-over-debanking",
+          "description": "President Donald Trump railed against JPMorgan Chase &amp; Co. and its leader Jamie Dimon, threatening to sue the banking giant over his claim that he was debanked after the Jan. 6, 2021, Capitol riot.",
+          "pubDate": "Sat, 17 Jan 2026 18:11:18 GMT"
         },
         {
-          "title": "Mag 7 Stock Options Get SEC Nod for Monday, Wednesday Expiries",
-          "link": "https://www.bloomberg.com/news/articles/2026-01-16/mag-7-stock-options-get-sec-nod-for-monday-wednesday-expiries",
-          "description": "The Securities and Exchange Commission has approved new expirations for Magnificent Seven stocks, moving the US market a step closer to daily expiries in single stock options.",
-          "pubDate": "Fri, 16 Jan 2026 23:14:05 GMT"
+          "title": "EU Inks South America Trade Deal After 25 Years of Negotiations",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-17/eu-inks-south-america-trade-deal-after-25-years-of-negotiations",
+          "description": "The European Union and Mercosur officially signed one of the world’s largest free trade agreements on Saturday, clinching a deal that has been in the works for more than two decades.",
+          "pubDate": "Sat, 17 Jan 2026 17:00:02 GMT"
         },
         {
-          "title": "Belgian Immune System Drugmaker AgomAb Files for US IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-01-16/belgian-immune-system-drugmaker-agomab-files-for-us-ipo",
-          "description": "AgomAb Therapeutics NV filed for a initial public offering in the US to help fund trials of its drugs to treat immune and inflammation diseases.",
-          "pubDate": "Fri, 16 Jan 2026 23:05:19 GMT"
+          "title": "India Regulator Fines IndiGo $2.4 Million Over December Meltdown",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-17/india-regulator-fines-indigo-2-4-million-over-december-meltdown",
+          "description": "India’s Directorate General of Civil Aviation said late Saturday that it imposed a penalty of over 220 million rupees ($2.4 million) on IndiGo and chided the airline’s executives over their December flight cancellations.",
+          "pubDate": "Sat, 17 Jan 2026 16:42:52 GMT"
         },
         {
-          "title": "Dana White on UFC at the White House, Future of Boxing",
-          "link": "https://www.bloomberg.com/news/videos/2026-01-16/dana-white-on-ufc-at-the-white-house-future-of-boxing-video",
-          "description": "Dana White, UFC President, CEO and Co-Owner, discusses the UFC’s deal with Paramount, a potential White House event, and the future of boxing with Romaine Bostick and Katie Greifeld on “The Close.” (Source: Bloomberg)",
-          "pubDate": "Fri, 16 Jan 2026 23:02:34 GMT"
+          "title": "Edison Sues LA County Over Fire Deaths for Delayed Alerts",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-16/edison-blames-la-county-for-wildfire-deaths-over-delayed-alerts",
+          "description": "Edison International sued Los Angeles County and other public agencies for allegedly failing to ensure timely evacuation alerts that the company says could have saved most of the 19 people who died in a massive wildfire last year.",
+          "pubDate": "Fri, 16 Jan 2026 23:08:07 GMT"
         },
         {
-          "title": "Stocks Close Lower While Chip Names Outperform Broad Market | Closing Bell",
-          "link": "https://www.bloomberg.com/news/videos/2026-01-16/stocks-close-lower-as-chip-outperform-closing-bell-video",
-          "description": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Emily Graffeo, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-          "pubDate": "Fri, 16 Jan 2026 23:01:52 GMT"
+          "title": "2020 Fed Transcripts Show How Powell Sold Fateful Rate Guidance",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-17/2020-fed-transcripts-show-how-powell-sold-fateful-rate-guidance",
+          "description": "Transcripts of the Federal Reserve’s 2020 policy meetings, made public Friday, revealed new details about how Chair Jerome Powell pushed for a change he would later regret.",
+          "pubDate": "Sat, 17 Jan 2026 15:40:02 GMT"
         },
         {
-          "title": "Takaichi Trade Faces Risks From Inflation, Yen Slump, Yield Jump",
-          "link": "https://www.bloomberg.com/news/articles/2026-01-16/takaichi-trade-faces-risks-from-inflation-yen-slump-yield-jump",
-          "description": "The surge in Japanese stocks, triggered by Prime Minister Sanae Takaichi’s snap election plans, may fade if she gets what she wants, as overspending drives up inflation and government borrowing costs.",
-          "pubDate": "Fri, 16 Jan 2026 23:00:00 GMT"
+          "title": "Wall Street Week | Dudley on Powell, Saudi Arabia Tourism, Israeli Tech Economy, Megapass Skiing",
+          "link": "https://www.bloomberg.com/news/videos/2026-01-17/wall-street-week-fed-unity-saudi-arabia-tourism-video",
+          "description": "This week, former New York Fed President Bill Dudley discusses the Justice Department’s criminal investigation of Fed Chair Jay Powell. And,Saudi Arabia is betting big on tourism to diversify its economy and transform how the world sees the Kingdom. Plus, Israel’s startup economy after the war, and how the Epic and Ikon passes transformed skiing, boosted growth, and forced resorts and skiers to weigh scale against experience. (Source: Bloomberg)",
+          "pubDate": "Sat, 17 Jan 2026 15:14:46 GMT"
         },
         {
-          "title": "Defense Firm York Space Systems Seeks $544 Million in US IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-01-16/defense-firm-york-space-systems-seeks-544-million-in-us-ipo",
-          "description": "York Space Systems Inc., a space and defense firm backed by AE Industrial Partners, is seeking to raise as much as $544 million in an initial public offering.",
-          "pubDate": "Fri, 16 Jan 2026 22:29:18 GMT"
+          "title": "NASA Starts Artemis II Roll Out to Kennedy Space Center",
+          "link": "https://www.bloomberg.com/news/videos/2026-01-17/nasa-starts-artemis-ii-roll-out-to-kennedy-space-center-video",
+          "description": "NASA started rolled out of Artemis II to the Kennedy Space Center launch pad,  in Florida, on Saturday. The mission is a milestone in the lunar space race between the US and China. The rocket's short 4-mile long trip will take the team as long as 12 hours, according to a NASA. (Source: Bloomberg)",
+          "pubDate": "Sat, 17 Jan 2026 14:23:50 GMT"
         },
         {
-          "title": "Venezuela Signs First Gas Export Deal, Citing LPG Contract",
-          "link": "https://www.bloomberg.com/news/articles/2026-01-16/venezuela-signs-first-gas-export-deal-citing-lpg-contract",
-          "description": "Venezuela has signed its first contract to export liquefied petroleum gas, or LPG, Acting President Delcy Rodríguez said Friday.",
-          "pubDate": "Fri, 16 Jan 2026 22:50:29 GMT"
+          "title": "Pricey Equity Markets Charge Into a High-Stakes Earnings Season",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-17/pricey-equity-markets-charge-into-a-high-stakes-earnings-season",
+          "description": "So far, so good for global equity investors looking to clock a fourth straight year of solid returns as stocks rise in tandem from Tokyo to Paris to New York.",
+          "pubDate": "Sat, 17 Jan 2026 14:00:00 GMT"
         },
         {
-          "title": "Chemical Maker Trinseo Gears Up for Debt Talks as Demand Wanes",
-          "link": "https://www.bloomberg.com/news/articles/2026-01-16/chemical-firm-trinseo-gears-up-for-debt-talks-as-demand-wanes",
-          "description": "Trinseo PLC is preparing to start negotiations with its creditors as the chemical company seeks to shore up its balance sheet amid slumping sales.",
-          "pubDate": "Fri, 16 Jan 2026 22:40:38 GMT"
+          "title": "From Oil Giant to Travel Hub: Saudi Arabia’s Vision 2030 Test",
+          "link": "https://www.bloomberg.com/news/videos/2026-01-17/saudi-arabia-s-vision-2030-test-video",
+          "description": "Saudi Arabia is attempting one of the most ambitious economic transformations in the world, hoping to use tourism to reduce its reliance on oil and reshape its global image. Under Vision 2030, Crown Prince Mohammed bin Salman has backed massive investments in luxury resorts, cultural destinations, airlines, and infrastructure. Tourism Minister Ahmed Al-Khateeb, Red Sea Global CEO John Pagano, and Royal Commission for AlUla CEO Abeer AlAkel explain how projects like the Red Sea resorts and AlUla ",
+          "pubDate": "Sat, 17 Jan 2026 13:03:55 GMT"
         },
         {
-          "title": "What you need to know about the latest US bank earnings",
-          "link": "https://www.bloomberg.com/news/videos/2026-01-16/what-you-need-to-know-about-the-latest-us-bank-earnings-video",
-          "description": "JPMorgan kicked Q4 earnings season. Norah Mulinda breaks down what the big six US banks reported. (Source: Bloomberg)",
-          "pubDate": "Fri, 16 Jan 2026 22:38:53 GMT"
+          "title": "A United Front at the Fed and in Israel",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-01-17/what-doj-subpoenas-mean-for-the-fed-and-what-war-means-for-israel-s-startups",
+          "description": "Grand jury subpoenas could backfire on the Fed",
+          "pubDate": "Sat, 17 Jan 2026 13:00:07 GMT"
         },
         {
-          "title": "How Investors Fall Into Bias Traps: Masters in Business",
-          "link": "https://www.bloomberg.com/news/videos/2026-01-16/how-investors-fall-into-bias-traps-masters-in-business-video",
-          "description": "Barry speaks with Richard Thaler and Alex Imas award winning economists and co-authors of \"The Winner's Curse: Behavioral Economics Anomalies\". They discuss the psychology of spending at auctions, and the effects of draft picks on NFL team spending. They also discuss the anomalies of human behavior and decision making that challenge classical economic theories.  (Source: Bloomberg)",
-          "pubDate": "Fri, 16 Jan 2026 22:06:42 GMT"
+          "title": "Alex Imas and Richard Thaler on Learning Behavioral Economics",
+          "link": "https://www.bloomberg.com/news/videos/2026-01-17/alex-imas-and-richard-thaler-on-behavioral-economics-video",
+          "description": "Barry speaks with Richard Thaler and Alex Imas award winning economists and co-authors of \"The Winner's Curse: Behavioral Economics Anomalies\". They discuss the psychology of spending at auctions, and the effects of draft picks on NFL team spending. They also discuss the anomalies of human behavior and decision making that challenge classical economic theories. \n\nListen to the people, ideas and conversations that shape markets on the Masters in Business podcast:\n Apple: http://bit.ly/43wa4F4\n Sp",
+          "pubDate": "Sat, 17 Jan 2026 10:02:15 GMT"
         },
         {
-          "title": "Hedge Funds Slash Bullish Silver Wagers to 22-Month Low",
-          "link": "https://www.bloomberg.com/news/articles/2026-01-16/hedge-funds-slash-bullish-silver-wagers-to-22-month-low",
-          "description": "Money managers slashed their bullish wagers on silver to the lowest in nearly two years before the White House refrained from putting import tariffs on critical minerals that include the white metal.",
-          "pubDate": "Fri, 16 Jan 2026 21:56:22 GMT"
+          "title": "EU Aims to Fight Industrial Decline With ‘Made in Europe’ Law",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-17/eu-aims-to-fight-industrial-decline-with-made-in-europe-law",
+          "description": "The European Union is set to propose a swathe of new conditions to ensure local companies are prioritized when investment decisions are made in the region by member-states and foreign firms, upending a free-trade philosophy that has governed decades of policy.",
+          "pubDate": "Sat, 17 Jan 2026 09:52:40 GMT"
+        },
+        {
+          "title": "HDFC Bank’s Net Income Exceeds Estimates on Strong Loan Growth",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-17/hdfc-bank-s-net-income-exceeds-estimates-on-strong-loan-growth",
+          "description": "HDFC Bank Ltd.’s third-quarter profit beat estimates on strong growth in loans while margins stayed under pressure at India’s largest private sector lender.",
+          "pubDate": "Sat, 17 Jan 2026 09:38:59 GMT"
+        },
+        {
+          "title": "China Lowers Downpayment Ratio for Commercial Property to 30%",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-17/china-lowers-downpayment-ratio-for-commercial-property-to-30",
+          "description": "The People’s Bank of China has lowered the minimum downpayment ratio for commercial property purchases to 30%, the central bank said in a statement Saturday.",
+          "pubDate": "Sat, 17 Jan 2026 08:41:18 GMT"
+        },
+        {
+          "title": "Hope of German Industrial Recovery Fuels a Broader Stock Rally",
+          "link": "https://www.bloomberg.com/news/articles/2026-01-17/hope-of-german-industrial-recovery-fuels-a-broader-stock-rally",
+          "description": "As German stocks outpaced broader European indexes in recent years, a big part of the country’s market was left behind. That’s finally changing.",
+          "pubDate": "Sat, 17 Jan 2026 08:00:00 GMT"
         }
       ]
     },
@@ -486,124 +480,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Home BancShares Q4 Earnings Call Highlights",
-          "link": "https://finance.yahoo.com/news/home-bancshares-q4-earnings-call-210438483.html",
+          "title": "Deficits boost U.S. debt but also inflate corporate profits and stocks, so reducing red ink could trigger a financial crisis, analysts warn",
+          "link": "https://finance.yahoo.com/news/deficits-boost-u-debt-inflate-204743551.html",
           "description": "",
-          "pubDate": "2026-01-15T21:04:38Z"
+          "pubDate": "2026-01-16T20:47:43Z"
         },
         {
-          "title": "Why Elon Musk And Tesla Are Going The Subscription Route With FSD",
-          "link": "https://www.investors.com/news/tesla-elon-musk-go-the-subscription-route-with-fsd/?src=A00220&yptr=yahoo",
+          "title": "Wells Fargo Can’t Get Enough of These 2 Semiconductor Stocks",
+          "link": "https://finance.yahoo.com/news/wells-fargo-t-enough-2-205320169.html",
           "description": "",
-          "pubDate": "2026-01-15T21:07:02Z"
+          "pubDate": "2026-01-16T20:53:20Z"
         },
         {
-          "title": "Stock market today: Dow, S&amp;P 500, Nasdaq rise as TSMC boosts AI hopes, bank stocks rally",
-          "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-tsmc-boosts-ai-hopes-bank-stocks-rally-195049176.html",
+          "title": "Ahead of the Quantinuum IPO, Should You Buy Honeywell Stock?",
+          "link": "https://finance.yahoo.com/news/ahead-quantinuum-ipo-buy-honeywell-205550077.html",
           "description": "",
-          "pubDate": "2026-01-15T21:00:48Z"
+          "pubDate": "2026-01-16T20:55:50Z"
         },
         {
-          "title": "Another Nuclear Play Leans Into Grid Consolidation With $3.45 Billion Natural Gas Deal",
-          "link": "https://www.investors.com/news/nuclear-play-talen-energy-power-grid-consolidation-natural-gas/?src=A00220&yptr=yahoo",
+          "title": "Dollar Recovers on Fed Chair Speculation",
+          "link": "https://finance.yahoo.com/news/dollar-recovers-fed-chair-speculation-204119300.html",
           "description": "",
-          "pubDate": "2026-01-15T21:11:22Z"
+          "pubDate": "2026-01-16T20:41:19Z"
         },
         {
-          "title": "Chip stocks jump as Nvidia supplier TSMC dismisses bubble fears: 'AI is real'",
-          "link": "https://finance.yahoo.com/news/chip-stocks-jump-as-nvidia-supplier-tsmc-dismisses-bubble-fears-ai-is-real-142119829.html",
+          "title": "Mortgages for retirees and older adults",
+          "link": "https://finance.yahoo.com/news/mortgages-seniors-getting-home-loan-205035212.html",
           "description": "",
-          "pubDate": "2026-01-15T14:21:19Z"
+          "pubDate": "2026-01-16T20:40:24Z"
         },
         {
-          "title": "Ralph Lauren Names Cesar Conde, Chairman of NBCUniversal News Group, to Board of Directors",
-          "link": "https://finance.yahoo.com/news/ralph-lauren-names-cesar-conde-210500505.html",
+          "title": "White House Plan Would Let Americans Tap 401(k)s for Down Payments on Homes",
+          "link": "https://www.wsj.com/politics/policy/trump-plan-would-let-americans-use-401-k-s-for-down-payments-on-homes-official-says-64eb4375?siteid=yhoof2&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-01-15T21:05:00Z"
+          "pubDate": "2026-01-16T20:48:00Z"
         },
         {
-          "title": "As Trump Unveils His ‘Great Healthcare Plan,’ How Should You Play UnitedHealth Stock?",
-          "link": "https://finance.yahoo.com/news/trump-unveils-great-healthcare-plan-211635951.html",
+          "title": "Funds Make Deep Connection With This AI Play — So Do Nvidia, Tesla",
+          "link": "https://www.investors.com/research/ibd-stock-analysis/te-connectivity-tel-in-demand-among-top-funds-nvidia-tesla/?src=A00220&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-01-15T21:16:35Z"
+          "pubDate": "2026-01-16T21:00:05Z"
         },
         {
-          "title": "Cathie Wood Is Trimming Her Palantir Stake Again. How Should You Play PLTR in January 2026?",
-          "link": "https://finance.yahoo.com/news/cathie-wood-trimming-her-palantir-211658121.html",
+          "title": "Fed’s Bowman sees risks to job market, says Fed 'should be ready' to cut rates",
+          "link": "https://finance.yahoo.com/news/feds-bowman-sees-risks-to-job-market-says-fed-should-be-ready-to-cut-rates-164944625.html",
           "description": "",
-          "pubDate": "2026-01-15T21:16:58Z"
+          "pubDate": "2026-01-16T16:49:44Z"
         },
         {
-          "title": "Lightning Flashes As Boston Scientific Takes Over Penumbra For $14.5 Billion",
-          "link": "https://www.investors.com/news/technology/boston-scientific-will-buy-penumbra-14-5-billion-medtech-deal/?src=A00220&yptr=yahoo",
+          "title": "Dear Netflix Stock Fans, Mark Your Calendars for January 20",
+          "link": "https://finance.yahoo.com/news/dear-netflix-stock-fans-mark-210310474.html",
           "description": "",
-          "pubDate": "2026-01-15T21:16:50Z"
+          "pubDate": "2026-01-16T21:03:10Z"
         },
         {
-          "title": "Goldman Sachs, Morgan Stanley Report Atop Multimonth Rallies",
-          "link": "https://www.investors.com/news/goldman-sachs-earnings-q4-2025-gs-stock-dow-jones-morgan-stanley-ms-stock/?src=A00220&yptr=yahoo",
+          "title": "2026 Trucking capacity: Why it will tighten and who gets trucks first",
+          "link": "https://finance.yahoo.com/news/2026-trucking-capacity-why-tighten-203000328.html",
           "description": "",
-          "pubDate": "2026-01-15T21:17:06Z"
+          "pubDate": "2026-01-16T20:30:00Z"
         },
         {
-          "title": "Stock-Split Watch: Is Applied Digital Next?",
-          "link": "https://finance.yahoo.com/news/stock-split-watch-applied-digital-210500392.html",
+          "title": "Supreme Court to Hear Bayer’s Challenge to Roundup Weedkiller Cases",
+          "link": "https://www.wsj.com/business/supreme-court-to-hear-bayers-challenge-to-roundup-weedkiller-cases-70a0378a?siteid=yhoof2&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-01-15T21:05:00Z"
+          "pubDate": "2026-01-16T20:46:00Z"
         },
         {
-          "title": "Ocular Launches, And Then Yo-Yoes, On Rumors Sanofi Is Preparing A Bigger Bid",
-          "link": "https://www.investors.com/news/technology/ocular-therapeutix-sanofi-takeover-rumor/?src=A00220&yptr=yahoo",
+          "title": "Trump Just Took Aim at Health Insurance ‘Middlemen.’ What Does That Mean for UnitedHealth Stock?",
+          "link": "https://finance.yahoo.com/news/trump-just-took-aim-health-210701681.html",
           "description": "",
-          "pubDate": "2026-01-15T21:20:02Z"
+          "pubDate": "2026-01-16T21:07:01Z"
         },
         {
-          "title": "MySavant.ai launches AI-powered nearshore workforce for logistics and supply chain teams",
-          "link": "https://finance.yahoo.com/news/mysavant-ai-launches-ai-powered-205813655.html",
+          "title": "Iran Tensions Underpin Crude Oil Prices",
+          "link": "https://finance.yahoo.com/news/iran-tensions-underpin-crude-oil-202235313.html",
           "description": "",
-          "pubDate": "2026-01-15T20:58:13Z"
+          "pubDate": "2026-01-16T20:22:35Z"
         },
         {
-          "title": "BlackRock Surges On Q4 Beat, Dividend Hike. Shares In Bullish Pattern.",
-          "link": "https://www.investors.com/news/blackrock-earnings-revenue-q4-2025-blk-stock/?src=A00220&yptr=yahoo",
+          "title": "Chinese EVs are making inroads in North America. That worries industry experts",
+          "link": "https://finance.yahoo.com/news/chinese-evs-making-inroads-north-211111451.html",
           "description": "",
-          "pubDate": "2026-01-15T21:25:36Z"
+          "pubDate": "2026-01-16T21:11:11Z"
         },
         {
-          "title": "Bilt Cards 2.0 review: Are they better than the original — and can you still earn points on rent?",
-          "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/bilt-cards-20-review-are-they-better-than-the-original--and-can-you-still-earn-points-on-rent-213002747.html",
+          "title": "Stock market today: Dow, S&amp;P 500, Nasdaq slip, chip stocks rise as Wall Street ends volatile week lower",
+          "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-chip-stocks-rise-as-wall-street-ends-volatile-week-lower-210151640.html",
           "description": "",
-          "pubDate": "2026-01-15T21:30:02Z"
+          "pubDate": "2026-01-16T21:01:51Z"
         },
         {
-          "title": "Richelieu Hardware Q4 Earnings Call Highlights",
-          "link": "https://finance.yahoo.com/news/richelieu-hardware-q4-earnings-call-210439633.html",
+          "title": "Oil Futures Post Fourth Straight Weekly Gain",
+          "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-882bc917?siteid=yhoof2&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-01-15T21:04:39Z"
+          "pubDate": "2026-01-16T20:46:00Z"
         },
         {
-          "title": "Stock Market Today: Gains Fade For Indexes, Small Caps Lead; These Breakouts Cool (Live Coverage)",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-nvidia-tsmc-tsm-stock/?src=A00220&yptr=yahoo",
+          "title": "AI Data Center Buildout In Focus With Major Industry Conference On Tap",
+          "link": "https://www.investors.com/news/data-centers-ai-crh-vulcan-materials-martin-marietta-world-of-concrete/?src=A00220&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-01-15T21:31:24Z"
+          "pubDate": "2026-01-16T21:12:30Z"
         },
         {
-          "title": "Stocks Boosted by Chip Demand Optimism",
-          "link": "https://finance.yahoo.com/news/stocks-boosted-chip-demand-optimism-213357977.html",
+          "title": "Abundant Nat-Gas Supplies Pressure Prices",
+          "link": "https://finance.yahoo.com/news/abundant-nat-gas-supplies-pressure-202043631.html",
           "description": "",
-          "pubDate": "2026-01-15T21:33:57Z"
+          "pubDate": "2026-01-16T20:20:43Z"
         },
         {
-          "title": "Morgan Stanley Says Chip Sales Weakened in November. What Does That Mean for Nvidia Stock?",
-          "link": "https://finance.yahoo.com/news/morgan-stanley-says-chip-sales-205005612.html",
+          "title": "Blockchain Lender Figure Technology Soars 196% From Its September IPO",
+          "link": "https://www.investors.com/research/the-new-america/figure-technology-fintech-crypto-blockchain-loans-home-equity-mortgage-interest-rates/?src=A00220&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-01-15T20:50:05Z"
+          "pubDate": "2026-01-16T21:14:11Z"
         },
         {
-          "title": "Taiwan Semi Stock Moves Into Overbought Territory on Earnings Pop, But Is There Still a Case for Buying TSMC Here?",
-          "link": "https://finance.yahoo.com/news/taiwan-semi-stock-moves-overbought-204859751.html",
+          "title": "Viking Stock Swing Trade Cruised To Profits In Rough Waters",
+          "link": "https://www.investors.com/research/swing-trading/viking-stock-swing-trade-cruised-to-profits-in-rough-waters/?src=A00220&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-01-15T20:48:59Z"
+          "pubDate": "2026-01-16T20:18:33Z"
         }
       ]
     },
@@ -615,64 +609,64 @@
       "itemCount": 10,
       "items": [
         {
-          "title": "Colleges could go tuition-free if their endowment-fund managers just invested in this stock index",
-          "link": "https://www.marketwatch.com/story/colleges-could-go-tuition-free-if-their-endowment-fund-managers-just-invested-in-this-stock-index-64129772?mod=mw_rss_topstories",
-          "description": "Buy-and-hold S&amp;P 500 investors outperform college endowment managers. Could this be why?",
-          "pubDate": "Sat, 17 Jan 2026 03:39:00 GMT"
+          "title": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
+          "link": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
+          "description": "&#x201c;I am 69, and started collecting Social Security when I was 66&#xbd;.&#x201d;",
+          "pubDate": "Sun, 18 Jan 2026 00:30:00 GMT"
         },
         {
-          "title": "From Iran to Venezuela, why the oil market is on edge this weekend",
-          "link": "https://www.marketwatch.com/story/from-iran-to-venezuela-why-the-oil-market-is-on-edge-this-weekend-cf5e1ddb?mod=mw_rss_topstories",
-          "description": "Weekends now seem to be the worse time for oil traders to let their guard down.",
-          "pubDate": "Sat, 17 Jan 2026 01:46:00 GMT"
+          "title": "My wealthy friend invited me to stay, but he doesn&#x2019;t need more &#x2018;stuff.&#x2019; What do I get the man who has everything?",
+          "link": "https://www.marketwatch.com/story/my-wealthy-friend-invited-me-to-stay-but-he-doesnt-need-more-stuff-what-do-i-get-the-man-who-has-everything-077914b7?mod=mw_rss_topstories",
+          "description": "&#x201c;He has a beautiful home, and enough antiques and collectibles stored up over a lifetime.&#x201d;",
+          "pubDate": "Sat, 17 Jan 2026 23:57:00 GMT"
+        },
+        {
+          "title": "These 20 cheap S&amp;P 500 stocks can cushion the blow in a market downturn",
+          "link": "https://www.marketwatch.com/story/these-stocks-are-steady-eddies-if-s-p-500-earnings-growth-slips-and-the-market-slides-add642d0?mod=mw_rss_topstories",
+          "description": "Conservative investors favor stocks trading at low P/E ratios &#x2014; and the long-term record proves them right.",
+          "pubDate": "Sat, 17 Jan 2026 19:54:00 GMT"
+        },
+        {
+          "title": "14 million Americans are getting access to these game-changing investment accounts &#x2014; without risking their Supplemental Security Income and Medicaid benefits",
+          "link": "https://www.marketwatch.com/story/14-million-americans-are-getting-access-to-these-game-changing-investment-accounts-without-risking-their-supplemental-security-income-and-medicaid-benefits-afeb569d?mod=mw_rss_topstories",
+          "description": "ABLE accounts have expanded eligibility to those up to age 46.",
+          "pubDate": "Sat, 17 Jan 2026 19:35:00 GMT"
+        },
+        {
+          "title": "Trump plans 10% tariffs on European countries over Greenland: What it means for markets.",
+          "link": "https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-over-greenland-what-it-means-for-markets-1b2d3373?mod=mw_rss_topstories",
+          "description": "Trump levels latest threat at Europe as Supreme Court decision on his tariffs loom",
+          "pubDate": "Sat, 17 Jan 2026 19:15:00 GMT"
+        },
+        {
+          "title": "Young men are worried about having enough money &#x2014; but confident they&#x2019;ll own a home. What gives?",
+          "link": "https://www.marketwatch.com/story/gen-z-men-believe-theyll-buy-a-home-someday-but-see-their-finances-getting-worse-what-gives-73edc83d?mod=mw_rss_topstories",
+          "description": "Homeownership, marriage and parenthood are highly valued goals for Gen Z &#x2014; and a tall order in today&#x2019;s economy.",
+          "pubDate": "Sat, 17 Jan 2026 18:50:00 GMT"
+        },
+        {
+          "title": "The financial elite aren&#x2019;t worried about a stock-market bubble yet &#x2014; but you can&#x2019;t afford to be so complacent",
+          "link": "https://www.marketwatch.com/story/if-you-havent-experienced-a-bear-market-talk-with-someone-who-has-youll-thank-them-later-4cb15a97?mod=mw_rss_topstories",
+          "description": "Investors know bull markets end, of course. But even the global leaders descending on Davos may underestimate the dangers.",
+          "pubDate": "Sat, 17 Jan 2026 18:28:00 GMT"
+        },
+        {
+          "title": "&#x2018;Your whole life is on the phone.&#x2019; Should companies like Verizon be forced to refund you the next time there&#x2019;s a major outage?",
+          "link": "https://www.marketwatch.com/story/verizon-outage-spurs-calls-for-mandatory-refunds-when-cell-service-is-disrupted-you-shouldnt-have-to-beg-for-it-d95650b2?mod=mw_rss_topstories",
+          "description": "In the meantime, here&#x2019;s how to claim the $20 credit Verizon is offering in response to this week&#x2019;s service disruption.",
+          "pubDate": "Sat, 17 Jan 2026 18:08:00 GMT"
         },
         {
           "title": "Trump wants to let you take money from your 401(k) to buy a house. Putting it back is complicated.",
           "link": "https://www.marketwatch.com/story/trump-wants-to-let-you-take-money-from-your-401-k-to-buy-a-house-putting-it-back-is-complicated-da955f85?mod=mw_rss_topstories",
           "description": "If you can avoid the 10% penalty, does that make it a good deal?",
-          "pubDate": "Fri, 16 Jan 2026 22:42:00 GMT"
+          "pubDate": "Sat, 17 Jan 2026 17:42:00 GMT"
         },
         {
-          "title": "These stocks have the most to lose from Trump&#x2019;s push to lower electricity prices",
-          "link": "https://www.marketwatch.com/story/these-stocks-have-the-most-to-lose-from-trumps-push-to-lower-electricity-prices-e920c47f?mod=mw_rss_topstories",
-          "description": "The stocks of Constellation Energy and Vistra dropped after investors were spooked by the Trump administration&#x2019;s plan to push large technology companies to help lower electricity prices for consumers.",
-          "pubDate": "Fri, 16 Jan 2026 22:16:00 GMT"
-        },
-        {
-          "title": "&#x2018;I have no mortgage&#x2019;: Is it reckless to cancel my homeowner&#x2019;s insurance? I can&#x2019;t justify $4K a year anymore.",
-          "link": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
-          "description": "&#x201c;My deductible is $5,000.&#x201d;",
-          "pubDate": "Fri, 16 Jan 2026 22:06:00 GMT"
-        },
-        {
-          "title": "Warsh&#x2019;s chances of becoming Fed chair jump as Trump suggests he doesn&#x2019;t want Hassett in that job",
-          "link": "https://www.marketwatch.com/story/warshs-chances-of-becoming-fed-chair-jump-as-trump-suggests-he-doesnt-want-hassett-in-that-job-146fb6a9?mod=mw_rss_topstories",
-          "description": "The contest to become the next chair of the Federal Reserve took another turn Friday, as President Donald Trump hinted that he may want to keep economist Kevin Hassett in his current White House job.",
-          "pubDate": "Fri, 16 Jan 2026 22:03:00 GMT"
-        },
-        {
-          "title": "My mom, 90, has dementia. My brother wants her to buy a $500K property near his house. Does that make any sense?",
-          "link": "https://www.marketwatch.com/story/tell-me-im-not-crazy-my-mom-90-has-dementia-my-sibling-wants-her-to-buy-a-500k-house-nearby-does-that-make-any-sense-14b78953?mod=mw_rss_topstories",
-          "description": "&#x201c;I can&#x2019;t, for the life of me, see how this makes sense on any level &#x2014; personal or financial.&#x201d;",
-          "pubDate": "Fri, 16 Jan 2026 21:38:00 GMT"
-        },
-        {
-          "title": "&#x2018;I don&#x2019;t want to step on any toes&#x2019;: I manage an $80K trust for a 15-year-old relative. How do I deal with interfering relatives?",
-          "link": "https://www.marketwatch.com/story/i-dont-want-to-step-on-any-toes-i-manage-a-80k-trust-for-a-15-year-old-relative-how-do-i-deal-with-nosy-relatives-9f2d4754?mod=mw_rss_topstories",
-          "description": "&#x201c;I also want to teach my young relative good money habits without overstepping the parents&#x2019; authority.&#x201d;",
-          "pubDate": "Fri, 16 Jan 2026 21:31:00 GMT"
-        },
-        {
-          "title": "Micron&#x2019;s stunning stock gains are encapsulated by this milestone",
-          "link": "https://www.marketwatch.com/story/microns-stunning-stock-gains-are-encapsulated-by-this-milestone-a42b3ada?mod=mw_rss_topstories",
-          "description": "Micron Technology is now worth more than $400 billion, just a few weeks after topping a $300 billion valuation.",
-          "pubDate": "Fri, 16 Jan 2026 21:00:00 GMT"
-        },
-        {
-          "title": "Education Department pauses plan to seize wages, tax refunds of defaulted student-loan borrowers",
-          "link": "https://www.marketwatch.com/story/education-department-pauses-plan-to-seize-wages-tax-refunds-of-defaulted-student-loan-borrowers-be7a4e69?mod=mw_rss_topstories",
-          "description": "The announcement comes a little more than a week after the agency had planned to start warning defaulted borrowers their wages would be garnished.",
-          "pubDate": "Fri, 16 Jan 2026 20:40:00 GMT"
+          "title": "Inflation relief is on the way &#x2014; if these 3 market forces can come together",
+          "link": "https://www.marketwatch.com/story/inflation-relief-is-on-the-way-if-these-3-market-forces-can-come-together-this-year-13be218f?mod=mw_rss_topstories",
+          "description": "Productivity gains, tame oil prices and lower taxes could ease the pressure on consumers.",
+          "pubDate": "Sat, 17 Jan 2026 17:22:00 GMT"
         }
       ]
     },
@@ -813,124 +807,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "美商务部长喊话韩存储芯片企业：如不投资，或面临100%关税",
-          "link": "https://finance.sina.com.cn/world/2026-01-17/doc-inhhqtmz9910502.shtml",
-          "description": "随着特朗普政府加大呼吁外国增加在美投资的力度，美国商务部部长霍华德・卢特尼克表示，未在美国投资的韩国存储芯片制造商，若不承诺扩大在美产能...",
-          "pubDate": "1768622508"
+          "title": "分析：欧洲方正寄望于美最高法院裁决特朗普关税政策的合法性",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-18/doc-inhhswmc7934686.shtml",
+          "description": "美国总统特朗普于当地时间周六上午在社交媒体发文，公布其夺取格陵兰岛控制权的最新策略：对多个欧洲国家集团加新关税，直至这些国家同意坐到谈判桌前...",
+          "pubDate": "1768708756"
         },
         {
-          "title": "追觅科技俞浩再谈“打造百万亿美元公司”：不少人怕我膨胀了，放心吧，稳得很",
-          "link": "https://finance.sina.com.cn/tech/2026-01-17/doc-inhhqtmz9901912.shtml",
-          "description": "新浪科技讯 1月17日上午消息，追觅科技创始人兼CEO俞浩今日于微博发文回应“打造百万亿美元公司”言论称：“我说的是未来，不是一年，做出人类历史上第一个百万亿美金公司...",
-          "pubDate": "1768620825"
+          "title": "分析：特朗普为拿下格陵兰威胁加征关税 其经济影响几何？",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-18/doc-inhhswmc7921499.shtml",
+          "description": "美国总统特朗普就格陵兰岛问题威胁对几个欧洲国家加征关税，这可能导致美国平均关税税率升高1.1个百分点，当然，他可能只是在虚张声势...",
+          "pubDate": "1768706460"
         },
         {
-          "title": "美国准备“二打”伊朗？绕不开这三个问题",
-          "link": "https://finance.sina.com.cn/world/gjcj/2026-01-17/doc-inhhqtmz9898427.shtml",
-          "description": "作者： 钟新军 据美国福克斯新闻网报道，随着航母打击群驶向中东，美国开始向该地区大举增调陆海空力量，准备对伊朗发起新一轮打击。",
-          "pubDate": "1768620006"
+          "title": "存货跌价准备计提不准确，坤彩科技被责令改正",
+          "link": "https://finance.sina.com.cn/stock/2026-01-18/doc-inhhswmc7921625.shtml",
+          "description": "来源：深圳商报 1月16日晚间，坤彩科技（603826）发布公告称，公司与相关责任人于近日收到福建证监局下发的《关于对福建坤彩材料科技股份有限公司采取责令改正措施及对谢秉...",
+          "pubDate": "1768706153"
         },
         {
-          "title": "陈光明一把捐了1.3亿！最新发声",
-          "link": "https://finance.sina.com.cn/roll/2026-01-17/doc-inhhqtmz9898710.shtml",
-          "description": "【导读】陈光明向上海交大捐赠1.3亿元，覆盖医疗帮扶、科研创新等领域 中国基金报记者若晖 饮水思源，支持科研创新，又有投资界大佬向母校捐赠，以实际行动回馈社会。",
-          "pubDate": "1768619280"
+          "title": "韩国银行业联手官方部门稳定本币汇率",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-18/doc-inhhswkz8954855.shtml",
+          "description": " 有关官员于周日表示，韩国主要商业银行正与政府外汇主管部门协同加码施策，通过推出鼓励客户抛售美元的优惠政策、下调外币存款利率等举措，遏制韩元近期的贬值势头。",
+          "pubDate": "1768705247"
         },
         {
-          "title": "西红柿“身价暴涨” 原因何在？",
-          "link": "https://finance.sina.com.cn/chanjing/cyxw/2026-01-17/doc-inhhqpcx1871960.shtml",
-          "description": "“俩西红柿要10块钱”“鸡蛋都快配不上西红柿啦”……近段时间，全国多地西红柿价格明显上涨，引发市场高度关注。 西红柿为啥变得这么贵？其他蔬菜也会涨价吗？",
-          "pubDate": "1768618173"
+          "title": "一天两失利！国家队和民营航天双双遇挫！股民最担心的事来了",
+          "link": "https://finance.sina.com.cn/stock/2026-01-18/doc-inhhswkz2228788.shtml",
+          "description": "来源丨深蓝财经 1月17日，中国航天在短短半天内接连遭遇两次发射异常：一次是“国家队”主力火箭长征三号乙运载火箭搭载实践三十二号卫星升空，火箭飞行异常...",
+          "pubDate": "1768703547"
         },
         {
-          "title": "115名省部级及以上干部被立案！中纪委通报2025年最新情况",
-          "link": "https://finance.sina.com.cn/stock/zqgd/2026-01-17/doc-inhhqpee0008640.shtml",
-          "description": "《中国纪检监察报》1月17日消息，中央纪委国家监委通报2025年全国纪检监察机关监督检查、审查调查情况。2025年，全国纪检监察机关共接收信访举报416.8万件次...",
-          "pubDate": "1768615196"
+          "title": "消息称FBI要求全美特工前往明尼阿波利斯执行临时任务",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-18/doc-inhhswmc7898816.shtml",
+          "description": "据知情人士透露，美国联邦调查局（FBI）正要求全美特工前往明尼阿波利斯执行临时任务。近日，联邦调查局向全国各地特工发送消息，招募志愿者临时调往该市...",
+          "pubDate": "1768702576"
         },
         {
-          "title": "央企掌门人年薪披露：20人超90万元，国家电网董事长居首",
-          "link": "https://finance.sina.com.cn/roll/2026-01-17/doc-inhhqhvz1956140.shtml",
-          "description": "南方财经记者郑玮 实习生龚晨晨 广州报道 1月14日，国务院国资委以提供网页链接的形式，在官方网站上系统披露了其所监管的部分中央企业负责人2024年度薪酬情况。",
-          "pubDate": "1768608480"
+          "title": "海南封关满月看变化：“磁吸效应”渐显 中外企业纷至",
+          "link": "https://finance.sina.com.cn/roll/2026-01-18/doc-inhhswkx3732785.shtml",
+          "description": "中新网海口1月18日电 （记者 张茜翼）“您好，请问是哪个国家的企业？”在海口复兴城互联网信息产业园内，企多邦（海南）商务服务有限责任公司（简称“企多邦”）总经理秦嫣泽...",
+          "pubDate": "1768702310"
         },
         {
-          "title": "美国白宫考虑以行政令限制信用卡利率上限",
-          "link": "https://finance.sina.com.cn/world/2026-01-17/doc-inhhqhwc4882873.shtml",
-          "description": " 美国白宫正考虑发布一项行政令，落实特朗普关于设定信用卡利率上限的提议，同时还计划推出其他多项举措，以缓解美国民众面临的生活成本压力。",
-          "pubDate": "1768607685"
+          "title": "净利润超3亿！上海这家模拟芯片公司发布25年年度业绩预告！",
+          "link": "https://finance.sina.com.cn/stock/2026-01-18/doc-inhhswmc7931464.shtml",
+          "description": "来源：大D谈芯 近日，上海艾为电子技术股份有限公司2025 年年度业绩预告，经财务部门初步测算，预计2025年年度实现归属于母公司所有者的净利润3亿元-3.3亿元，同比增加17...",
+          "pubDate": "1768702265"
         },
         {
-          "title": "明星公司推进赴港上市 AH溢价指数小幅波动估值差距收窄",
-          "link": "https://finance.sina.com.cn/jjxw/2026-01-17/doc-inhhqhwf3371484.shtml",
-          "description": "人民财讯1月17日电，2025年四季度以来，A股公司赴港上市再掀小高潮，A+H板块总共新增了10家公司，包括今年上市的兆易创新和豪威集团。",
-          "pubDate": "1768607460"
+          "title": "屡次被挖角 AI初创企业Thinking Machines面临人才流失危机",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-18/doc-inhhsscc9064027.shtml",
+          "description": "对于 Thinking Machines Lab 而言，此事发生的时机尴尬至极。据一位知情人士透露，周三，这家人工智能初创公司召开全员大会，其首席执行官 Mira Murati 在会上宣布...",
+          "pubDate": "1768701632"
         },
         {
-          "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
-          "link": "https://finance.sina.com.cn/world/gjcj/2026-01-17/doc-inhhqhvz1951698.shtml",
-          "description": " 每经AI快讯，当地时间16日，马杜罗之子、委内瑞拉议员尼古拉斯·马杜罗·格拉在委内瑞拉法学界人士大会上表示，委内瑞拉应与美国建立外交关系并设立大使馆。",
-          "pubDate": "1768607358"
+          "title": "报道称特朗普要求成员国支付10亿美元留在“和平委员会” 白宫回应",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-18/doc-inhhsscf7995038.shtml",
+          "description": "特朗普政府要求，凡希望在其新设立的“和平委员会”中获得永久席位的国家，均需缴纳至少10亿美元。 据报道，该拟设机构章程草案显示，特朗普总统将出任委员会首任主席...",
+          "pubDate": "1768696802"
         },
         {
-          "title": "美能源部长：美国正迅速扩大雪佛龙在委内瑞拉的许可范围",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-17/doc-inhhqhwf3367745.shtml",
-          "description": " 美国能源部长克里斯-赖特（Chris Wright）周五表示，美国正在尽快批准雪佛龙公司（Chevron）扩大在委内瑞拉的石油生产许可。",
-          "pubDate": "1768606571"
+          "title": "光伏行业，迎重要整合",
+          "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-01-18/doc-inhhsscf7993841.shtml",
+          "description": "光伏行业迎来标志性整合。 1月16日晚，TCL中环公告称，公司拟投资一道新能源科技股份有限公司（下称“一道新能源”），并与其签署《合作框架意向书》。",
+          "pubDate": "1768695581"
         },
         {
-          "title": "特朗普购入100万美元奈飞、华纳兄弟相关债券",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-01-17/doc-inhhqhwc4877875.shtml",
-          "description": "据白宫于上周五发布的财务披露文件显示，美国总统特朗普于12月12日和16日购入Netflix（奈飞）以及探索频道的债券。探索频道已于2022年与华纳媒体合并...",
-          "pubDate": "1768606277"
+          "title": "利好！上市公司密集公告",
+          "link": "https://finance.sina.com.cn/stock/s/2026-01-18/doc-inhhsscc2312223.shtml",
+          "description": "A股上市公司2025年全年业绩预告正在陆续披露中。 据Wind统计，截至1月17日，已有365家上市公司发布2025年全年业绩预告，其中138家预喜。",
+          "pubDate": "1768695104"
         },
         {
-          "title": "神舟二十号乘组返回后首次公开亮相",
-          "link": "https://finance.sina.com.cn/chanjing/cyxw/2026-01-17/doc-inhhqhvz1946030.shtml",
-          "description": "神舟二十号乘组返回后首次公开亮相 《人民日报》（2026年01月17日第05版） 本报北京1月16日电（刘诗瑶、占康）1月16日，中国航天员科研训练中心在北京航天城举行神舟二十号...",
-          "pubDate": "1768605654"
+          "title": "太空光伏+存储芯片+卫星通信，300842，一周暴涨超43%！",
+          "link": "https://finance.sina.com.cn/roll/2026-01-18/doc-inhhsscc9026569.shtml",
+          "description": "近一周机构调研个股有170多只，翔宇医疗调研机构数最多。 据证券时报·数据宝统计，翔宇医疗近一周（1月9日—15日）有208家机构调研，其中包括63家基金公司、21家证券公司...",
+          "pubDate": "1768695104"
         },
         {
-          "title": "人民日报和音：中加关系转圜向好蕴含的启示与机遇",
-          "link": "https://finance.sina.com.cn/china/gncj/2026-01-17/doc-inhhqhvz1944822.shtml",
-          "description": "中加关系转圜向好蕴含的启示与机遇（和音） 《人民日报》（2026年01月17日第03版） 中加关系发展积累的经验与启示，不仅对于两国是共同财富，对于世界各国共克时艰...",
-          "pubDate": "1768605341"
+          "title": "证监局出手！黄金概念股股东，收警示函",
+          "link": "https://finance.sina.com.cn/stock/s/2026-01-18/doc-inhhsscf7985182.shtml",
+          "description": "1月16日晚，莱绅通灵发布公告称，公司当日收到《江苏证监局对欧陆之星钻石（上海）有限公司采取出具警示函措施的决定》（简称“《警示函》”）...",
+          "pubDate": "1768694773"
         },
         {
-          "title": "人民日报专家点评：培育更多数字经济“合伙人”",
-          "link": "https://finance.sina.com.cn/chanjing/cyxw/2026-01-17/doc-inhhqhvz1944345.shtml",
-          "description": "培育更多数字经济“合伙人”（专家点评） 马志云《人民日报》（2026年01月17日第02版） 宁夏中卫抢抓“东数西算”工程机遇，使黄沙戈壁成为算力“热土”...",
-          "pubDate": "1768605258"
+          "title": "突发！特朗普宣布：向欧洲8国加税10%！",
+          "link": "https://finance.sina.com.cn/stock/2026-01-18/doc-inhhsmvf2428532.shtml",
+          "description": "特朗普因格陵兰岛向欧洲8国加税。 格陵兰岛是世界第一大岛，也是丹麦自治领地，有高度自治权，国防和外交事务由丹麦政府掌管。美国目前在格陵兰岛设有一处军事基地。",
+          "pubDate": "1768691875"
         },
         {
-          "title": "从存到算，百人团队“算”出近2亿营收（奋进“十五五”·一线见闻）",
-          "link": "https://finance.sina.com.cn/chanjing/cyxw/2026-01-17/doc-inhhqhvz1944180.shtml",
-          "description": "加快人工智能等数智技术创新，突破基础理论和核心技术，强化算力、算法、数据等高效供给。 ——摘自“十五五”规划建议 对于宁夏西云算力科技有限公司而言...",
-          "pubDate": "1768605203"
+          "title": "贝莱德里克・里德角逐美联储主席一职呼声渐高",
+          "link": "https://finance.sina.com.cn/world/2026-01-18/doc-inhhsmvf9139421.shtml",
+          "description": "知情人士透露，随着美国总统唐纳德・特朗普力求为美联储挑选一位立场亲和的主席人选，同时权衡此举可能引发的国会反对声浪，贝莱德集团的里克・里德竞选下一任美联储主席的...",
+          "pubDate": "1768690860"
         },
         {
-          "title": "人民日报今日谈：政策托底，为生育护航",
-          "link": "https://finance.sina.com.cn/china/gncj/2026-01-17/doc-inhhqhvz1943970.shtml",
-          "description": "政策托底，为生育护航（今日谈） 白弈非《人民日报》（2026年01月17日第01版） 继育儿补贴制度全面落地实施后，近日，多地全面提高产检费用保障水平...",
-          "pubDate": "1768605103"
+          "title": "美官员：欧盟应考虑将格陵兰岛关税问题与美欧贸易协定剥离",
+          "link": "https://finance.sina.com.cn/world/2026-01-18/doc-inhhsmvi8098020.shtml",
+          "description": " 美国贸易代表格里尔于周六表示，针对美国总统特朗普因格陵兰岛事宜对部分欧洲国家发出的新一轮关税威胁，是否就此议题展开交涉的决定权在欧洲一方。",
+          "pubDate": "1768690498"
         },
         {
-          "title": "李强主持召开国务院常务会议 部署做好清理拖欠企业账款和保障农民工工资支付有关工作",
-          "link": "https://finance.sina.com.cn/china/2026-01-17/doc-inhhqhwh0092927.shtml",
-          "description": "李强主持召开国务院常务会议 听取提振消费专项行动进展情况汇报并研究加快培育服务消费新增长点等促消费举措，部署做好清理拖欠企业账款和保障农民工工资支付有关工作...",
-          "pubDate": "1768604952"
+          "title": "特朗普政府宣扬推动降低汽车售价，淡化对电动汽车的侧重",
+          "link": "https://finance.sina.com.cn/world/2026-01-18/doc-inhhsmvc3930751.shtml",
+          "description": " 鉴于汽车价格亲民度仍是美国民众关注的核心问题，特朗普政府分管汽车政策的高层官员于周六对外宣称，正通过取消机动车排放相关法规，推动联邦层面降低汽车售价的举措。",
+          "pubDate": "1768690094"
         },
         {
-          "title": "留学、灵活就业、辞职……档案存哪里？",
-          "link": "https://finance.sina.com.cn/roll/2026-01-17/doc-inhhqhwc4876509.shtml",
-          "description": "档案在我们的生活中非常重要 参加考录招聘、办理政审考察、 申报职称评审、办理退休时都会用到它 那么档案应该存在哪里？ 一起了解↓ 出国留学，档案存哪里？",
-          "pubDate": "1768604700"
+          "title": "美媒：特朗普因顾虑成本问题，放弃对伊朗发动打击",
+          "link": "https://finance.sina.com.cn/world/2026-01-18/doc-inhhsmvf9128531.shtml",
+          "description": "周三上午临近中午时分，中东地区多数国家及美国官方似乎都认定，美国总统特朗普即将下令对伊朗发动惩戒性空袭。这将是他在短短两周内第二次大规模动用美国军事力量，此前...",
+          "pubDate": "1768687720"
         },
         {
-          "title": "美国公布加沙“和平委员会”成员名单",
-          "link": "https://finance.sina.com.cn/roll/2026-01-17/doc-inhhqhvz1946328.shtml",
-          "description": "美国白宫16日公布美方主导的巴勒斯坦加沙地带“和平委员会”成员名单，由美国总统特朗普担任主席，美国务卿鲁比奥、总统特使威特科夫...",
-          "pubDate": "1768604640"
+          "title": "特朗普发出最新关税威胁后 欧盟准备暂停欧美贸易协议",
+          "link": "https://finance.sina.com.cn/world/2026-01-18/doc-inhhsmvf9125523.shtml",
+          "description": "欧盟议员准备暂停批准欧盟与美国的贸易协议，原因是美国总统唐纳德·特朗普誓言对支持格陵兰的国家征收关税。 欧洲议会最大的政治团体 —— 欧洲人民党（EPP） ——...",
+          "pubDate": "1768686914"
         }
       ]
     },
@@ -950,124 +944,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "美国暂不征收“关键矿产”关税，摩根大通：白银暂时扛住了，但回调风险巨大，这对黄金是机会",
-          "link": "https://wallstreetcn.com/articles/3763515",
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "link": "https://wallstreetcn.com/articles/3763533",
           "description": "",
-          "pubDate": "2026-01-17T03:33:06"
+          "pubDate": "2026-01-18T03:49:39"
         },
         {
-          "title": "“AI云”又杀回来了！2026年至今，CoreWeave涨超40%，Nebius涨近30%",
-          "link": "https://wallstreetcn.com/articles/3763510",
+          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
+          "link": "https://wallstreetcn.com/articles/3763532",
           "description": "",
-          "pubDate": "2026-01-17T03:04:35"
+          "pubDate": "2026-01-18T03:49:21"
         },
         {
-          "title": "“HBM之父”：高带宽闪存（HBF）商业化进程超预期，或将在2-3年内集成到GPU，市场规模将超HBM",
-          "link": "https://wallstreetcn.com/articles/3763511",
+          "title": "下周重磅日程：中国GDP、“美联储最爱通胀指标”、日央行决议、冬季达沃斯",
+          "link": "https://wallstreetcn.com/articles/3763440",
           "description": "",
-          "pubDate": "2026-01-17T02:57:27"
-        },
-        {
-          "title": "宋雪涛：今年市场的两条主线",
-          "link": "https://wallstreetcn.com/articles/3763509",
-          "description": "",
-          "pubDate": "2026-01-17T01:51:43"
-        },
-        {
-          "title": "知名策略师“抛弃”比特币，理由是“担心量子计算很快实现”",
-          "link": "https://wallstreetcn.com/articles/3763507",
-          "description": "",
-          "pubDate": "2026-01-17T01:49:44"
-        },
-        {
-          "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
-          "link": "https://wallstreetcn.com/articles/3763508",
-          "description": "",
-          "pubDate": "2026-01-17T01:44:08"
-        },
-        {
-          "title": "又生变数！美联储独立性再遭冲击，后续如何演变？",
-          "link": "https://wallstreetcn.com/articles/3763436",
-          "description": "",
-          "pubDate": "2026-01-17T01:20:09"
-        },
-        {
-          "title": "AI玩具爆发元年，剑指万亿级“孤独”生意",
-          "link": "https://wallstreetcn.com/articles/3763459",
-          "description": "",
-          "pubDate": "2026-01-17T01:19:13"
-        },
-        {
-          "title": "证监会首部衍生品市场部门规章公开征求意见，鼓励利用衍生品市场从事套期保值",
-          "link": "https://wallstreetcn.com/articles/3763506",
-          "description": "",
-          "pubDate": "2026-01-17T01:17:50"
+          "pubDate": "2026-01-18T03:36:05"
         },
         {
           "title": "不仅美国人在用电费给AI买单 全世界现在都在“暗中补贴”AI的发展",
           "link": "https://wallstreetcn.com/articles/3763491",
           "description": "",
-          "pubDate": "2026-01-17T01:17:41"
+          "pubDate": "2026-01-18T03:30:33"
         },
         {
-          "title": "哈塞特“出局”，但美债为何“不涨反跌”？",
-          "link": "https://wallstreetcn.com/articles/3763504",
+          "title": "万亿“存款搬家”风暴：存量资金2026年如何影响股债？",
+          "link": "https://wallstreetcn.com/articles/3763186",
           "description": "",
-          "pubDate": "2026-01-17T01:14:49"
+          "pubDate": "2026-01-18T03:28:49"
         },
         {
-          "title": "委内瑞拉“内鬼”找到了，是马杜罗亲密“发小”！他被曝为美国5000万美元悬赏出卖马杜罗，事后美方却没给钱！委代总统会见CIA局长",
-          "link": "https://wallstreetcn.com/articles/3763505",
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "link": "https://wallstreetcn.com/articles/3763531",
           "description": "",
-          "pubDate": "2026-01-17T01:13:39"
+          "pubDate": "2026-01-18T03:06:51"
         },
         {
-          "title": "2026，谁在竞逐“星辰大海”",
-          "link": "https://wallstreetcn.com/articles/3763503",
+          "title": "【新年焕新 见闻历团购特惠开启】新年仪式感，从一本见闻历开始！",
+          "link": "https://wallstreetcn.com/articles/3757165",
           "description": "",
-          "pubDate": "2026-01-17T00:45:59"
+          "pubDate": "2026-01-18T02:41:54"
         },
         {
-          "title": "字节跳动发布新一代折叠模型SeedFold，性能超越谷歌AlphaFold 3",
-          "link": "https://wallstreetcn.com/articles/3763502",
+          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
+          "link": "https://wallstreetcn.com/articles/3763529",
           "description": "",
-          "pubDate": "2026-01-17T00:38:03"
+          "pubDate": "2026-01-18T01:36:19"
         },
         {
-          "title": "特朗普称他“说服了自己”暂缓对伊朗采取军事行动",
-          "link": "https://wallstreetcn.com/articles/3763498",
+          "title": "谁是新主席、起诉鲍威尔、颠覆美联储？围绕美联储的各种斗争，下周分胜负？",
+          "link": "https://wallstreetcn.com/articles/3763527",
           "description": "",
-          "pubDate": "2026-01-17T00:11:35"
+          "pubDate": "2026-01-18T01:34:28"
         },
         {
-          "title": "华尔街见闻早餐FM-Radio | 2026年1月17日",
-          "link": "https://wallstreetcn.com/articles/3763500",
+          "title": "美欧直接开干，全世界看得目瞪口呆",
+          "link": "https://wallstreetcn.com/articles/3763528",
           "description": "",
-          "pubDate": "2026-01-16T23:23:03"
+          "pubDate": "2026-01-18T01:29:29"
         },
         {
-          "title": "美国公布加沙“和平委员会”成员名单",
-          "link": "https://wallstreetcn.com/articles/3763501",
+          "title": "为夺格陵兰岛，美再挥关税大棒、欧洲8国集体反击",
+          "link": "https://wallstreetcn.com/articles/3763525",
           "description": "",
-          "pubDate": "2026-01-16T23:04:46"
+          "pubDate": "2026-01-18T00:51:13"
         },
         {
-          "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
-          "link": "https://wallstreetcn.com/articles/3763450",
+          "title": "金融市场“三大脱钩”与全球“民粹主义”崛起",
+          "link": "https://wallstreetcn.com/articles/3763522",
           "description": "",
-          "pubDate": "2026-01-16T23:02:27"
+          "pubDate": "2026-01-17T11:37:21"
         },
         {
-          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "link": "https://wallstreetcn.com/articles/3763499",
+          "title": "我国年用电量突破10万亿度，在全球单一国家中尚属首次",
+          "link": "https://wallstreetcn.com/articles/3763521",
           "description": "",
-          "pubDate": "2026-01-16T21:56:37"
+          "pubDate": "2026-01-17T10:30:56"
         },
         {
-          "title": "美联储理事鲍曼呼吁美联储准备降息，美国就业市场仍然脆弱",
-          "link": "https://wallstreetcn.com/articles/3763495",
+          "title": "两型运载火箭发射失利：长征三号乙与谷神星二号任务未获成功",
+          "link": "https://wallstreetcn.com/articles/3763518",
           "description": "",
-          "pubDate": "2026-01-16T19:58:07"
+          "pubDate": "2026-01-17T09:50:18"
+        },
+        {
+          "title": "镍价再创新高：印尼配额“休克式”收缩与定价权归位",
+          "link": "https://wallstreetcn.com/articles/3763437",
+          "description": "",
+          "pubDate": "2026-01-17T08:15:11"
+        },
+        {
+          "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
+          "link": "https://wallstreetcn.com/articles/3763519",
+          "description": "",
+          "pubDate": "2026-01-17T08:01:36"
+        },
+        {
+          "title": "豪车神话破灭，保时捷销量创16年来最大跌幅",
+          "link": "https://wallstreetcn.com/articles/3763490",
+          "description": "",
+          "pubDate": "2026-01-17T07:32:50"
+        },
+        {
+          "title": "机构路演：存储行业正转向“高利润、稳价格、弱周期”的运营模式",
+          "link": "https://wallstreetcn.com/articles/3763516",
+          "description": "",
+          "pubDate": "2026-01-17T04:39:40"
+        },
+        {
+          "title": "CoreWeave投资者会议：AI需求“无法解决”，客户愿意签长约，且提前12个月签约",
+          "link": "https://wallstreetcn.com/articles/3763514",
+          "description": "",
+          "pubDate": "2026-01-17T04:27:18"
+        },
+        {
+          "title": "美国暂不征收“关键矿产”关税，摩根大通：白银暂时扛住了，但回调风险巨大，这对黄金是机会",
+          "link": "https://wallstreetcn.com/articles/3763515",
+          "description": "",
+          "pubDate": "2026-01-17T03:33:06"
         }
       ]
     },
@@ -1078,6 +1072,12 @@
       "url": "https://36kr.com/feed",
       "itemCount": 20,
       "items": [
+        {
+          "title": "大学无用？奥特曼辍学当了CEO，但名校生撑起了整个OpenAI！",
+          "link": "https://36kr.com/p/3644311216344712?f=rss",
+          "description": "山姆·奥特曼\n  知识就是力量，人才结构决定企业命运。从奥特曼的辍学神话到OpenAI员工母校排行，学历无用论被数据击溃！OpenAI斯坦福、伯克利、MIT毕业生云集，AI人才聚集效应浮现。\n  世上从不缺天才。\n  OpenAI的首席执行官奥特曼上了2年大学后，从斯坦福辍学开始创业，没有大学文凭；\n  Meta的首席AI官Alexandr Wang汪滔，从MIT辍学创业；\n  谷歌大脑前研究科学家、OpenAI可解释性负责人、Anthropic的联创Christopher Olah，甚至没上过大学。\n  奥特曼甚至说，大学对「大多数而言，并没什么效果」。\n  \n  山姆·奥特曼\n  他暗示自己的孩子「很可能不会」上大学，并把这番话包装成一种理性选择。\n  但现实，很快打脸了这种「学历无用论」。\n  当 OpenAI 员工的母校分布图被公开时，一切变得异常清晰。\n  \n  OpenAI 员工的母校分布图\n  OpenAI的员工数据，有几所大学的表现尤为突出：\n  🥇 斯坦福大学：230名员工\n  🥈 加州大学伯克利分校：151名员工（作为一所公立大学，表现相当不错！）\n  🥉 麻省理工",
+          "pubDate": "2026-01-18 10:40:06  +0800"
+        },
         {
           "title": "科大讯飞推出SuperAgent应用框架，驱动营销关系演进至B2A2C丨最前线",
           "link": "https://36kr.com/p/3642948995862405?f=rss",
@@ -1133,70 +1133,64 @@
           "pubDate": "2026-01-16 08:02:56  +0800"
         },
         {
-          "title": "一家烟台公司卖了“抗癌新药”，落袋6.5亿美金",
-          "link": "https://36kr.com/p/3640390353636742?f=rss",
-          "description": "文｜胡香赟\n  编辑｜海若镜\n  曾经的创新药优等生终于回来了。\n  近日，荣昌生物（688331.SH/09995.HK）宣布已将PD-1/VEGF双抗RC148的海外权益全部授权给艾伯维，首付款6.5亿美元，加上未来的研发等里程碑收入和潜在销售分成后，这笔交易的总价可高达56亿美元，约合人民币近400亿元。\n  荣昌生物是国内较早一批创新药企发展路径的缩影。2008年，制药届“老炮儿”王威东领导的烟台荣昌制药，与哈佛海归科学家房健民共同创办了荣昌生物，并早早开始了ADC（抗体偶联）药物等创新产品的研发，曾作为“国产ADC第一股”登陆资本市场，如今A、H股总市值破千亿。\n  早期含着金汤勺出身、扎实的技术储备，让荣昌生物的战略风格也偏向于“高举高打”。\n  曾有药企人士对36氪提到，荣昌生物留给他的印象“很山东，做事情比较‘重’”，这体现在公司一度大规模铺开研发管线，销售团队一度达到1400人等。\n  但由于产品商业化进度相对缓慢，叠加过去几年资本寒冬，荣昌生物曾被市场质疑战略激进。截至去年3季度，荣昌生物亏损超5亿元，同期货币资金储备仅有10.7亿元。\n  RC148这笔交易达成后",
-          "pubDate": "2026-01-16 08:00:07  +0800"
+          "title": "封关“满月” 海南自贸港新增备案外贸企业超5000家",
+          "link": "https://36kr.com/newsflashes/3644380857143176?f=rss",
+          "description": "36氪获悉，据“海关发布”消息，海南自贸港封关迎来“满月”。据海口海关统计，自2025年12月18日封关以来截至1月17日，海口海关在“一线”监管“零关税”货物7.5亿元，在“二线”监管销往内地的加工增值免关税货物8586.7万元。封关以来，各项政策扎实推进，口岸通关顺畅高效，整体运行平稳有序。受海南自贸港封关利好和开放磁吸效应影响，更多外贸企业选择在海南安家落户。一个月来，海南新增备案外贸企业5132家。",
+          "pubDate": "2026-01-18 12:05:39  +0800"
         },
         {
-          "title": "中信证券：看好半导体设备的投资机遇 建议关注高弹性细分龙头",
-          "link": "https://36kr.com/newsflashes/3642968234806919?f=rss",
-          "description": "中信证券研报认为，台积电2025年业绩创纪录，2026年资本支出大幅上调，表明了AI算力与先进制程带来的持续红利。面对国内百万片级的先进产能缺口，国内晶圆厂正迎来扩产热潮，为设备市场释放出千亿美元的空间，且国产化率有望实现翻倍增长。基于先进制程与国产替代的双轮驱动，我们看好半导体设备的投资机遇，建议关注具备平台化能力的领军企业及高弹性细分龙头。（财联社）",
-          "pubDate": "2026-01-17 11:56:49  +0800"
+          "title": "2025年港股股权融资规模同比增长251%，IPO热潮延续",
+          "link": "https://36kr.com/newsflashes/3644379098287750?f=rss",
+          "description": "2025年，港股股权融资市场实现爆发式增长。据Wind数据，融资总额达6122亿港元，同比增幅高达250.91%。其中IPO市场更是重回全球首位，117家企业合计募资2858亿港元，同比增长224.24%。在经历2025年股权融资规模暴增251%后，港股市场依然火热，目前仅排队IPO的公司已超过300家。目前，多数机构都研判港股股权融资活跃态势会持续。而对于IPO对港股流动性的影响，受访人士指出，应该区分结构性问题与阶段性现象。好的IPO不仅不会抽走流动性，反而会吸引更多国际资本进入。（券商中国）",
+          "pubDate": "2026-01-18 11:52:57  +0800"
         },
         {
-          "title": "现代汽车计划将旗下高端化品牌引入中国市场",
-          "link": "https://36kr.com/newsflashes/3642967804792708?f=rss",
-          "description": "据北汽集团消息，2026年1月13日，北汽集团党委书记、董事长张建勇与来访的现代汽车CEO何塞·穆诺兹举行会谈，双方就支持北京现代发展达成多项共识。何塞表示，中国市场始终是其全球战略的核心，将持续加码在中国市场的投入与发展。据介绍，现代汽车将进一步强化技术与人员支持，并将旗下高端化品牌引入中国市场。现代汽车2025年全球销量超727万辆，北京现代全年销量达21万台。根据北京现代此前发布的“智启2030计划”，未来4-5年计划推出20款新车，目标年销50万辆。（界面）",
-          "pubDate": "2026-01-17 11:46:34  +0800"
+          "title": "特朗普：从未向摩根大通CEO戴蒙提供过美联储主席一职",
+          "link": "https://36kr.com/newsflashes/3644275245977218?f=rss",
+          "description": "美国总统特朗普在其社交媒体“真实社交”表示，《华尔街日报》在头版刊登文章未经任何核实便称我曾向摩根大通的杰米・戴蒙提供美联储主席一职。此说法纯属捏造，我从未提出过这样的邀约。接下来两周内，特朗普将起诉摩根大通，缘由是该行在1月6日抗议事件后终止了与他的银行业务往来。此外，还有传言称我曾有意提名杰米・戴蒙出任财政部长。但问题是，目前贝森特的工作表现极为出色，我凭什么要把这个职位交给杰米？（新浪财经）",
+          "pubDate": "2026-01-18 11:38:22  +0800"
         },
         {
-          "title": "商业航天企业中科宇航完成上市辅导",
-          "link": "https://36kr.com/newsflashes/3642966212857481?f=rss",
-          "description": "证监会近日公开发行辅导公示系统显示，中科宇航技术股份有限公司（简称中科宇航）于近日辅导工作完成。（每经网）",
-          "pubDate": "2026-01-17 11:36:52  +0800"
+          "title": "传深圳水贝市场出现投资铜条",
+          "link": "https://36kr.com/newsflashes/3644270833782662?f=rss",
+          "description": "金银的市场热度早已从交易盘面蔓延至线下。投资金条和银条成为“爆款”之后，市场消息传出深圳水贝市场竟然出现“投资铜条”。对此，记者在17日再次走访水贝市场的多个交易中心，暂时没有发现“投资铜条”实物。不过，有商家表示，“投资铜条”的实物需要预定，目前价格是190元一条，重量为1000克，量大可以优惠。多位商家表示，目前还不知道具体回收方式，“我们现在是只卖不回收”。也有商家表示：“铜条的工费可能比铜本身的价格还高，即使回收可能也就是按原材料价格回收，所以价值并不大。即便有看到同行在进货，也不会随便跟风。” （证券时报）",
+          "pubDate": "2026-01-18 11:25:52  +0800"
         },
         {
-          "title": "小鹏汽车：小鹏充电今年前两周新增超充站53座",
-          "link": "https://36kr.com/newsflashes/3642964149554820?f=rss",
-          "description": "据小鹏汽车消息，小鹏充电2026年第1和2周新增超充站53座，其中S5超快充站5座，S4超快充站37座，超快充站10座，超充站1座。（每经网）",
-          "pubDate": "2026-01-17 11:34:46  +0800"
+          "title": "Anthropic将Claude Cowork扩展至20美元Pro订阅用户",
+          "link": "https://36kr.com/newsflashes/3644269568790400?f=rss",
+          "description": "Anthropic的AI助手Claude Cowork现已面向所有每月支付20美元Pro订阅的用户开放试用，该助手可帮助您处理电脑上的简单任务。Anthropic最初将Cowork作为Max订阅用户的专属功能推出，Max订阅用户每月至少支付100美元，即可享受更多使用Claude昂贵推理模型的权益，并提前体验实验性功能。现在，Claude Cowork的价格更加亲民，但Anthropic也指出，“Pro用户可能比Max用户更早达到使用上限”。（新浪财经）",
+          "pubDate": "2026-01-18 11:13:32  +0800"
         },
         {
-          "title": "动力电池回收千亿元级市场待启",
-          "link": "https://36kr.com/newsflashes/3642855687671682?f=rss",
-          "description": "1月16日，工业和信息化部举行新闻发布会，会上介绍了工业和信息化部等六部门联合印发的《新能源汽车废旧动力电池回收和综合利用管理暂行办法》（简称《管理办法》）。\n\n近年来，我国新能源汽车产业快速发展，产销量持续攀升。同时，随着已经销售使用的新能源汽车动力电池容量衰减步入退役期，废旧动力电池产生量不断增长，我国即将进入动力电池规模化退役阶段。\n\n国家市场监督管理总局此前公布的数据显示，2024年国内动力电池回收量突破30万吨，对应市场规模超480亿元，预计到2030年国内市场规模将突破千亿元。\n\n随着动力电池回收产业的市场规模站上千亿元级，技术成为了这一产业未来竞争的关键之一，其中不仅包括生产工艺技术的持续创新，更涉及数字技术在动力电池回收全生命周期信息溯源管理中的深度应用。（证券时报）",
-          "pubDate": "2026-01-17 10:51:19  +0800"
+          "title": "全球最大汽车供应商预警利润跌破2%",
+          "link": "https://36kr.com/newsflashes/3644268958551687?f=rss",
+          "description": "全球最大的汽车零部件供应商博世在2025年面临较大的财务压力。近日，据德国《经理人杂志》报道，博世首席执行官斯特凡·哈通（Stefan Hartung）在一份内部邮件中向员工表示，博世集团2025年的利润率明显低于2%，远未达到预期目标。哈通在邮件中指出，2025年博世利润缩水部分源于高昂的高达31亿欧元的重组成本，即为裁员等计划拨备的准备金，约占销售额的3.5%。 该报道还称，博世2025年营收约为910亿欧元，略高于2024年的900亿欧元。（第一财经）",
+          "pubDate": "2026-01-18 11:01:59  +0800"
         },
         {
-          "title": "逾300家A股公司发布2025年业绩预告",
-          "link": "https://36kr.com/newsflashes/3642853130555017?f=rss",
-          "description": "数据显示，截至1月16日收盘，有超过300家A股公司发布了2025年业绩预告。其中，有6家公司预计2025年归属于上市公司股东的净利润超过百亿元。发布2025年业绩预告的公司中，多家有色金属相关公司预计去年业绩良好。例如，紫金矿业预告的净利润（下限）目前排在首位。公告显示，紫金矿业预计2025年度实现归属于上市公司股东的净利润约510亿元至520亿元，同比增长约59%至62%。从已公布的上市公司业绩预报来看，多家光伏行业上市公司2025年业绩承压。（财联社）",
-          "pubDate": "2026-01-17 10:41:41  +0800"
+          "title": "三只松鼠宣布提价",
+          "link": "https://36kr.com/newsflashes/3644267877453443?f=rss",
+          "description": "1月16日，三只松鼠Mini店与分销事业部发布调价通知，宣布自1月19日起上调线下分销渠道部分坚果礼产品出厂价，引发行业关注。在春节年货消费旺季来临之际，这一调价动作不仅折射出休闲食品行业的成本压力，更暗藏着三只松鼠深耕线下市场的战略意图。（中国基金报）",
+          "pubDate": "2026-01-18 10:53:51  +0800"
         },
         {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权",
-          "link": "https://36kr.com/newsflashes/3642851343683460?f=rss",
-          "description": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。（华尔街见闻）",
-          "pubDate": "2026-01-17 10:32:50  +0800"
+          "title": "香港特区立法会议员邓飞：AI赋能教育，香港不能落后",
+          "link": "https://36kr.com/newsflashes/3644263745392265?f=rss",
+          "description": "生成式人工智能的出现正逐渐改变人们工作和生活的面貌，同时为教育领域带来深刻影响。香港特区立法会教育界议员邓飞认为，人工智能进步迅速，香港必须把握机遇，让教育紧跟时代步伐。香港的经济、社会等方面要兴旺起来，不可能绕开人工智能。 “我们要让人工智能作为重要的教育内容和工具，在实践过程中不断推动、检讨、优化。”邓飞日前接受采访时说。（新华社）",
+          "pubDate": "2026-01-18 10:41:42  +0800"
         },
         {
-          "title": "国际移民组织2026年危机应对计划拟筹集25亿美元资金",
-          "link": "https://36kr.com/newsflashes/3642850493124225?f=rss",
-          "description": "国际移民组织当地时间1月16日发布《2026年危机应对计划》，提出32项优先国家及区域方案，阐述该组织将如何应对全球最紧迫的人道主义危机，并强调基于实证、以人为本的应对策略。国际移民组织表示，在全球人道需求持续攀升的背景下，这些计划旨在为2270万移民、境内流离失所者及收容社区提供救生援助与韧性建设干预。落实相关行动需要25亿美元资金，这一需求既反映了人道危机的规模，也构成2026年全球呼吁行动的核心组成部分。（第一财经）",
-          "pubDate": "2026-01-17 10:22:01  +0800"
+          "title": "灵机AI与立奇达成合作，推出首款AI智能拐杖",
+          "link": "https://36kr.com/newsflashes/3644263004475271?f=rss",
+          "description": "36氪获悉，Lgenie（灵机AI Agent平台）与立奇（奇龄LINKY品牌）宣布正式达成战略合作，双方以AI智能拐杖作为首个落地产品。双方也在探索“硬件预埋AI能力+持续服务解锁”模式，推动适老辅具走向长期运营。",
+          "pubDate": "2026-01-18 10:30:53  +0800"
         },
         {
-          "title": "黑芝麻智能携手中远海运旗下数智公司，启动船舶智能巡检机器人项目",
-          "link": "https://36kr.com/newsflashes/3642890794684034?f=rss",
-          "description": "1月15日，黑芝麻智能与中远海运集团旗下全资子公司青岛中远海运数智科技正式签约，共同启动船用具身智能巡检机器人项目。这标志着黑芝麻智能机器人业务在船舶与航运领域迈出关键一步，也为其在更多复杂工业场景中的应用落地奠定基础。项目聚焦远洋船舶复杂环境下的智能巡检需求，围绕具身智能机器人系统、端侧智能控制平台及感知与决策算法展开联合研发与探索，旨在将智能算力、算法能力与真实行业场景深度融合，推动具身智能技术在高复杂度、高可靠性场景中的工程化落地。",
-          "pubDate": "2026-01-17 10:20:08  +0800"
-        },
-        {
-          "title": "OpenAI拟在ChatGPT中测试定向广告",
-          "link": "https://36kr.com/newsflashes/3642847890017923?f=rss",
-          "description": "当地时间1月16日，OpenAI透露，将于未来几周内，面向美国部分用户在ChatGPT应用内启动广告测试。广告投放对象涵盖免费版ChatGPT用户，以及此前率先在印度推出、现正拓展至美国市场的新款低价套餐——月费8美元的Go套餐用户。而价格更高的ChatGPT付费高级版则依旧不会出现广告。（界面）",
-          "pubDate": "2026-01-17 10:11:19  +0800"
+          "title": "存储芯片涨价潮或将贯穿2026年",
+          "link": "https://36kr.com/newsflashes/3644262001348487?f=rss",
+          "description": "存储芯片涨价潮从2025年持续到2026年，目前还在上涨。记者查阅装机助手小程序发现，多款内存最近90天价格飞升。以宏碁掠夺者32G（16G×2）DDR5 6000 PallasⅡ为例，该款内存2025年10月30日前后价格还在1300元附近，但2026年1月14日就飙涨到2700元左右。对于存储芯片的未来价格走势，受访人士以及机构皆认为，2026年，存储芯片价格将继续上涨，景气度至少延续到2026年上半年，市场对景气度持续到2026年之后的判断也在增多。（中国经营报）",
+          "pubDate": "2026-01-18 10:18:53  +0800"
         }
       ]
     },
@@ -1214,9 +1208,69 @@
       "category": "商业",
       "region": "chinese",
       "url": "https://www.huxiu.com/rss/0.xml",
-      "itemCount": 0,
-      "items": [],
-      "error": "Failed to fetch"
+      "itemCount": 10,
+      "items": [
+        {
+          "title": "BBA，势败如山倒",
+          "link": "http://www.huxiu.com/article/4827348.html?f=wangzhan",
+          "description": "出品 | 虎嗅汽车组作者 | 魏微头图 | 视觉中国2025年BBA的销量季上演“定语大比拼”：“40万以上市场头名”“燃油豪华车销冠”等话术刷屏，被业内戏称为“又到了考验定语的时刻”。此前部分国产品牌赖以“上周销量榜头名”的文字技巧，竟然被传统豪华品牌拿来主义了。这些细分口径虽非虚构，却精准掩盖了三巨头集体失速的核心事实。2025年，奔驰、宝马、奥迪在华销量分别同比下滑19%、12.5%、4.9%，全年销量均跌至70万辆以下，终结了此前五年的高位稳定态势。品牌2025年在华销量（万辆）同比变动宝马（含BMW、MINI）62.55-12.5%奥迪（一汽+上汽）61.7-5%奔驰（含商用车）57.5-19%传统豪华品牌用文字游戏切割颓势，本质是对市场竞争逻辑重构的被动回应。巨大的惯性之下，BBA在2026年情况或许还会更糟。本期车圈脉动VOL.18，让我们一起关注传统豪华品牌BBA 2025年在中国市场的销量表现，以及他们在2026年将面对的更大的挑战。豪华根基真的被国产电动瓦解了吗？根据奔驰、宝马、奥迪各品牌公布数据，2025年，奔驰在中国市场交付新车57.5万辆（含商用车），同比下滑",
+          "pubDate": "Sat, 17 Jan 2026 15:54:00 +0800"
+        },
+        {
+          "title": "一条视频了解爆火的GEO到底是啥？有哪些机会？",
+          "link": "http://www.huxiu.com/article/4826763.html?f=wangzhan",
+          "description": "在商业航天、机器人、脑机接口相继火了之后，又一个领域突然爆火了，那就是GEO。有人因为它赚了大钱，有人因为它吃了大面，有人说GEO就是资本和AI联手正在给我们打造一座无形的信息牢房，它比信息茧房更致命，随着时间的推移，这牢房的铁栏会越焊越死，无法逆转，事实是这样吗？今天我们就用一条视频讲清楚，这个逃不开的信息牢房它到底是啥？我们如何识别？下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Fri, 16 Jan 2026 15:10:00 +0800"
+        },
+        {
+          "title": "从珠峰滑下来，最难的到底是哪一步？",
+          "link": "http://www.huxiu.com/article/4826886.html?f=wangzhan",
+          "description": "攀冰、高山滑雪等高门槛项目增加，意味着行业开始强调技能与风险控制，而非纯娱乐消费。&nbsp;&nbsp;下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Fri, 16 Jan 2026 12:00:00 +0800"
+        },
+        {
+          "title": "第二次外卖大战：平台资本和国家监管的博弈，谁输谁赢？",
+          "link": "http://www.huxiu.com/article/4826742.html?f=wangzhan",
+          "description": "美团、淘宝、京东的外卖大战，我们普通人看到的是三大平台互抢订单、狂撒红包、宣传社保，而在我们看不到的地方，是平台资本和国家监管之间相互摸底线、算筹码、不断试探和博弈的暗战。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Thu, 15 Jan 2026 18:32:58 +0800"
+        },
+        {
+          "title": "一支痔疮药的断供，如何折射全球供应链的气候脆弱性",
+          "link": "http://www.huxiu.com/article/4826622.html?f=wangzhan",
+          "description": "气候变化正以前所未有的速度冲击全球供应链，从农业减产到制造业停产，气候风险已演变为企业经营的核心挑战。随着ESG监管趋严和碳中和目标推进，企业亟需将气候风险管理纳入战略核心，从供应链溯源到成本模型重构，构建可持续韧性。本期视频以“痔疮药停产”事件为切入点，深度解析气候风险如何通过原料断供、产能波动、成本飙升等环节重塑商业逻辑，并从战略识别、优先级行动、量化回报三层面，为企业提供可落地的应对框架。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Thu, 15 Jan 2026 18:00:00 +0800"
+        },
+        {
+          "title": "我开拓了一趟罗马",
+          "link": "http://www.huxiu.com/article/4826474.html?f=wangzhan",
+          "description": "去之前：有些期待；去时候：非常失望；回来后：还想去。至于为什么，视频里慢慢说......下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Thu, 15 Jan 2026 16:00:00 +0800"
+        },
+        {
+          "title": "16亿只是保底，马斯克想给朱晓彤的是100亿",
+          "link": "http://www.huxiu.com/article/4826692.html?f=wangzhan",
+          "description": "本文来自微信公众号：字母PRO，作者：苗正，题图来自：视觉中国特斯拉近期向美国证券交易委员会（SEC）提交的一份关键文件显示，公司向汽车业务高级副总裁朱晓彤（Tom Zhu）授予了520021份股票期权，行权价格定为435.80美元，授予日期为2026年1月8日。按照授予时的市价计算，这份期权的理论面值高达2.26亿美元，也就是约16亿人民币，如果10年内特斯拉市值冲上马斯克许诺的8万亿美元，那这份期权的价值将膨胀到约100亿人民币。熟悉马斯克的人不难发现，这压根不是他的风格。因为马斯克这个人向来以冷酷著称。2022年10月收购推特后，他在短短数周内裁掉了超过50%的员工，约3700人被一纸邮件扫地出门，CEO帕拉格·阿格拉瓦尔等四位核心高管，更是在交易完成当天即被解雇，毫无商量余地。在特斯拉，他同样不留情面。2024年4月，为削减成本应对利润压力，马斯克突然宣布全球裁员超过10%，涉及约14000名员工，甚至包括特斯拉超级充电团队的负责人，也是整个特斯拉充电网络的灵魂人物丽贝卡·蒂努奇。马斯克的管理哲学简单粗暴，谁不能立即创造价值，谁就没有存在的必要。然而对于朱晓彤，马斯克却反其道而",
+          "pubDate": "Thu, 15 Jan 2026 15:26:44 +0800"
+        },
+        {
+          "title": "鲍威尔为何成懂王眼中钉？",
+          "link": "http://www.huxiu.com/article/4825757.html?f=wangzhan",
+          "description": "美国司法部居然对鲍威尔动手了，罪名听着特别接地气，说他在美联储大楼翻修工程上乱花钱，搞奢侈装修还涉嫌对着国会撒谎，这理由是不是有点太扯了......下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Thu, 15 Jan 2026 14:26:18 +0800"
+        },
+        {
+          "title": "一条看懂中西世界“稀土大战”",
+          "link": "http://www.huxiu.com/article/4826539.html?f=wangzhan",
+          "description": "美德英法意加日七国想联合减少对中国稀土的依赖，甚至设定价格下限、搞关税和地理限制，可惜他们离摆脱中国还差得远。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+          "pubDate": "Thu, 15 Jan 2026 11:10:00 +0800"
+        },
+        {
+          "title": "十问2026中国电影",
+          "link": "http://www.huxiu.com/article/4826481.html?f=wangzhan",
+          "description": "本文来自微信公众号：壹娱观察，作者：路柯，原文标题：《十问2026中国电影：500亿票房还能达成吗？100亿影片还会有吗？》，题图来自：视觉中国没有人能否认2025年电影市场给出的“意外惊喜”有多巨大——518.32亿总票房成功重返高位，其中《哪吒之魔童闹海》以154亿元的单片成绩刷新华语影史纪录、成为今年全球票房TOP1且跃升至全球影史票房TOP5。图源：灯塔专业版这一成绩不仅印证了观众观影需求的强劲反弹，更展现了头部IP对市场大盘的强大拉动能力。高光数据背后的结构性问题同样不容忽视。超级爆款的虹吸效应显著，导致头部资源过度集中，大量中小成本影片面临排片挤压、票房惨淡的生存困境，百花齐放的市场环境似乎没有了，市场生态的均衡性亟待改善。更致命的是，不少倾注心力的工业化大片纷纷遭遇票房折戟，情绪、口碑、尺度、系列化如何拉动观影成了玄学，市场上出现了“片名完全决定成败”等哭笑不得的现象。“一家独大、众星黯淡”的格局，也为行业可持续发展埋下了隐患。2025年票房排行（前20）图源：灯塔专业版与此同时，资本的哨声也在释放信号。改变了市场格局的阿里影业直接“变身”为大麦娱乐，电影进一步明确线下场",
+          "pubDate": "Wed, 14 Jan 2026 22:00:22 +0800"
+        }
+      ]
     }
   ],
   "regions": {
