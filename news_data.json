@@ -1,5 +1,5 @@
 {
-  "fetchTime": "2026-03-07T03:19:08.500033",
+  "fetchTime": "2026-03-08T03:31:58.222054",
   "sources": [
     {
       "name": "Reuters Business",
@@ -18,6 +18,12 @@
       "itemCount": 20,
       "items": [
         {
+          "title": "There’s an inflation wave coming - what does the Iran war mean for the UK economy?",
+          "link": "https://www.bbc.com/news/articles/cd9gvv5w3v8o?at_medium=RSS&at_campaign=rss",
+          "description": "Economic consequences are an intrinsic aspect of the Iran conflict, writes BBC economics editor Faisal Islam.",
+          "pubDate": "Sat, 07 Mar 2026 04:02:08 GMT"
+        },
+        {
           "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
           "link": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss",
           "description": "Energy Minister Saad al-Kaabi says oil could hit $150 a barrel if the Iran conflict continues over the coming weeks.",
@@ -30,16 +36,16 @@
           "pubDate": "Fri, 06 Mar 2026 18:09:19 GMT"
         },
         {
-          "title": "US economy unexpectedly sheds 92,000 jobs in February",
-          "link": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss",
-          "description": "The contraction came as a surprise with payrolls down in nearly every sector.",
-          "pubDate": "Fri, 06 Mar 2026 14:50:36 GMT"
-        },
-        {
           "title": "Axel Springer agrees to buy Telegraph Media Group in £575m deal",
           "link": "https://www.bbc.com/news/articles/cyv916d999no?at_medium=RSS&at_campaign=rss",
           "description": "Last year the Daily Mail and General Trust proposed to buy the company in a £500m takeover.",
           "pubDate": "Fri, 06 Mar 2026 18:00:47 GMT"
+        },
+        {
+          "title": "US economy unexpectedly sheds 92,000 jobs in February",
+          "link": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss",
+          "description": "The contraction came as a surprise with payrolls down in nearly every sector.",
+          "pubDate": "Fri, 06 Mar 2026 14:50:36 GMT"
         },
         {
           "title": "Surge in jet fuel prices could push up air fares, analysts warn",
@@ -48,16 +54,16 @@
           "pubDate": "Fri, 06 Mar 2026 15:51:05 GMT"
         },
         {
-          "title": "Five ways the Iran war could affect you - in charts",
-          "link": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
-          "description": "With fuel and gas prices having risen in recent days, here are some ways the conflict could affect households.",
-          "pubDate": "Fri, 06 Mar 2026 00:05:31 GMT"
-        },
-        {
           "title": "Price of first class stamps to rise to £1.80",
           "link": "https://www.bbc.com/news/articles/cvgv497gndno?at_medium=RSS&at_campaign=rss",
           "description": "Royal Mail says the increase reflects the rise in delivery costs, but the move angers consumer groups.",
           "pubDate": "Fri, 06 Mar 2026 13:12:02 GMT"
+        },
+        {
+          "title": "Five ways the Iran war could affect you - in charts",
+          "link": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
+          "description": "With fuel and gas prices having risen in recent days, here are some ways the conflict could affect households.",
+          "pubDate": "Fri, 06 Mar 2026 00:05:31 GMT"
         },
         {
           "title": "Lenders lift mortgage rates as Iran war hits borrowing costs",
@@ -75,7 +81,7 @@
           "title": "Emirates resumes some Dubai flights – what's the latest on travel to UK?",
           "link": "https://www.bbc.com/news/articles/c4ge52x4w37o?at_medium=RSS&at_campaign=rss",
           "description": "New flights to the UK from the Middle East follow days of widespread air travel disruption which had left Britons stranded.",
-          "pubDate": "Fri, 06 Mar 2026 15:00:26 GMT"
+          "pubDate": "Sat, 07 Mar 2026 05:04:33 GMT"
         },
         {
           "title": "One in 7 shops in UK has turned cashless in the past year, survey finds",
@@ -130,12 +136,6 @@
           "link": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
           "description": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023.",
           "pubDate": "Thu, 05 Mar 2026 03:10:52 GMT"
-        },
-        {
-          "title": "US trade court orders tariff refunds in setback for Trump administration",
-          "link": "https://www.bbc.com/news/articles/c1d66k5r1x4o?at_medium=RSS&at_campaign=rss",
-          "description": "A trade court has cleared the way for businesses to receive refunds for tariffs that the Supreme Court struck down last month.",
-          "pubDate": "Thu, 05 Mar 2026 00:13:16 GMT"
         }
       ]
     },
@@ -147,64 +147,34 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
-          "link": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
-          "description": "The oil market is worried that Gulf countries will have to shut production if tankers are unable to pass through the Strait of Hormuz.",
-          "pubDate": "Fri, 06 Mar 2026 20:23:08 GMT"
+          "title": "Iran vows it won&apos;t surrender as war with the U.S. and Israel enters second week",
+          "link": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
+          "description": "The U.S. and Israel continued their campaign to rid Tehran of its nuclear and ballistic missile capabilities and push for regime change.",
+          "pubDate": "Sat, 07 Mar 2026 23:34:18 GMT"
+        },
+        {
+          "title": "Iran war could make affordability bigger issue in 2026 elections",
+          "link": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
+          "description": "The 2026 midterm election will determine whether Democrats can win back majorities in both chambers of Congress, and check President Donald Trump's policies.",
+          "pubDate": "Sat, 07 Mar 2026 17:27:55 GMT"
         },
         {
           "title": "FDA vaccine head will step down in April after string of controversial decisions",
           "link": "https://www.cnbc.com/2026/03/06/fda-vaccine-head-prasad-step-down.html",
           "description": "Vinay Prasad is leaving his post as director of the Center for Biologics Evaluation and Research.",
-          "pubDate": "Fri, 06 Mar 2026 23:23:33 GMT"
+          "pubDate": "Sat, 07 Mar 2026 18:04:07 GMT"
         },
         {
-          "title": "Trump tariffs: Customs and Border Protection tells judge it can&apos;t comply with refund order",
-          "link": "https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html",
-          "description": "CBP told Judge Richard Eaton that the technology upgrades it plans would save more than 4 million man-hours in processing refunds for Trump's tariffs.",
-          "pubDate": "Fri, 06 Mar 2026 21:16:15 GMT"
+          "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
+          "link": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
+          "description": "An unusual swell of Canadian patriotism seen after Trump's threats and tariffs last year has evolved into a new social and economic order.",
+          "pubDate": "Sat, 07 Mar 2026 20:09:03 GMT"
         },
         {
-          "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
-          "link": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
-          "description": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran.",
-          "pubDate": "Sat, 07 Mar 2026 00:07:18 GMT"
-        },
-        {
-          "title": "Trump says no deal with Iran to end war without &apos;unconditional surrender&apos;",
-          "link": "https://www.cnbc.com/2026/03/06/trump-iran-oil-surrender.html",
-          "description": "The futures price of the global benchmark Brent crude oil rose, breaking $90 per barrel, after Trump posted his demand to Iran to end the war.",
-          "pubDate": "Fri, 06 Mar 2026 19:23:17 GMT"
-        },
-        {
-          "title": "Robinhood&apos;s venture fund, which gives investors access to private companies, tanks 11% on first day",
-          "link": "https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html",
-          "description": "Robinhood's Venture Fund I plunged 11% in its debut on the New York Stock Exchange on Friday, casting doubt on investors' appetite for riskier investment.",
-          "pubDate": "Fri, 06 Mar 2026 23:41:32 GMT"
-        },
-        {
-          "title": "Trump vows executive order to &apos;fix&apos; college sports NIL payments &apos;mess&apos;",
-          "link": "https://www.cnbc.com/2026/03/06/trump-college-football-sports-congress.html",
-          "description": "Critics of paying college athletes say it undercuts schools' finances and their educational mandate.",
-          "pubDate": "Fri, 06 Mar 2026 23:42:16 GMT"
-        },
-        {
-          "title": "Trump says defense CEOs agree to quadruple production of &apos;Exquisite Class&apos; weaponry",
-          "link": "https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html",
-          "description": "President Trump said he met with CEOs of BAE Systems, Lockheed Martin, Northrop Grumman, RTX Corp., Boeing, Honeywell Aerospace and L3Harris Missile Solutions.",
-          "pubDate": "Fri, 06 Mar 2026 23:08:08 GMT"
-        },
-        {
-          "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
-          "link": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html",
-          "description": "Miran said in a CNBC interview that the Fed should be focusing more on supporting the labor market than worrying about inflation.",
-          "pubDate": "Fri, 06 Mar 2026 18:14:50 GMT"
-        },
-        {
-          "title": "Average IRS tax refund is up 10.6%, early filing data shows",
-          "link": "https://www.cnbc.com/2026/03/06/average-irs-tax-refund.html",
-          "description": "The average IRS tax refund is up 10.6%, based on early filing data. Here's what you can expect.",
-          "pubDate": "Fri, 06 Mar 2026 22:04:12 GMT"
+          "title": "&apos;E-shaped&apos; economy is replacing a K-shaped one in 2026, economist says: The middle class is &apos;spending in a nervous way&apos; now",
+          "link": "https://www.cnbc.com/2026/03/06/e-shaped-economy-replacing-k-shape-2026.html",
+          "description": "Economist Heather Long says the U.S. economy is diverging into three tiers of consumer behavior instead of two, amid an ongoing affordability crisis.",
+          "pubDate": "Sat, 07 Mar 2026 04:34:33 GMT"
         },
         {
           "title": "GOP &apos;big beautiful bill&apos; poised to deliver &apos;shock&apos; to ACA marketplace, health policy experts say",
@@ -213,22 +183,40 @@
           "pubDate": "Fri, 06 Mar 2026 18:24:01 GMT"
         },
         {
-          "title": "Analysis: Tough jobs report puts Trump&apos;s Iran war plans to the test",
-          "link": "https://www.cnbc.com/2026/03/06/jobs-report-trump-iran-israel-war-economy.html",
-          "description": "The economy is showing signs of slowing as the Iran war quickly pushes up gas prices.",
-          "pubDate": "Fri, 06 Mar 2026 16:12:54 GMT"
+          "title": "Middle-income homebuyers have $30,000 more buying power than a year ago, research finds. It&apos;s still not enough",
+          "link": "https://www.cnbc.com/2026/03/07/median-income-households-buying-power.html",
+          "description": "While the amount that a median-income household can afford is higher than it was a year ago, it is still below the median price for a single-family home.",
+          "pubDate": "Sat, 07 Mar 2026 14:30:02 GMT"
         },
         {
-          "title": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
-          "link": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html",
-          "description": "Nonfarm payrolls were expected to increase 50,000 in February while the unemployment rate held steady at 4.3%.",
-          "pubDate": "Fri, 06 Mar 2026 16:12:55 GMT"
+          "title": "Iran war threatens $11.7 trillion global travel industry as passengers get caught in crossfire",
+          "link": "https://www.cnbc.com/2026/03/05/iran-war-travel-flights-cruise-hotels.html",
+          "description": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects.",
+          "pubDate": "Sat, 07 Mar 2026 15:56:05 GMT"
         },
         {
-          "title": "Amazon says Anthropic’s Claude still OK for AWS customers to use outside defense work",
-          "link": "https://www.cnbc.com/2026/03/06/amazon-aws-anthropic-claude-pentagon-blacklist.html",
-          "description": "Amazon joined Microsoft and Google in continue to offer Anthropic's Claude AI technology to customers after the Pentagon deemed it a \"supply chain risk.\"",
-          "pubDate": "Sat, 07 Mar 2026 00:02:47 GMT"
+          "title": "Berkshire CEO Greg Abel on working with Buffett, Kraft Heinz and using all his salary to buy the stock",
+          "link": "https://www.cnbc.com/2026/03/07/berkshire-ceo-greg-abel-on-working-with-buffett-kraft-heinz-and-using-all-his-salary-to-buy-the-stock.html",
+          "description": "Berkshire Hathaway's new CEO, Greg Abel, generated some significant headlines during a roughly half-hour live interview on CNBC's \"Squawk Box.\"",
+          "pubDate": "Sat, 07 Mar 2026 13:31:42 GMT"
+        },
+        {
+          "title": "How China is challenging the U.S. to become the next great space power",
+          "link": "https://www.cnbc.com/2026/03/07/china-us-space-race-rockets.html",
+          "description": "A new report warns that the U.S. could lose its dominance in space to China in the next few years.",
+          "pubDate": "Sat, 07 Mar 2026 13:00:01 GMT"
+        },
+        {
+          "title": "Inside the booming business of wellness third spaces and membership clubs",
+          "link": "https://www.cnbc.com/2026/03/07/wellness-third-spaces-othership-bathhouse-glo30.html",
+          "description": "A growing number of consumers are seeking out third spaces and membership clubs surrounding wellness, to improve their health while also socializing.",
+          "pubDate": "Sat, 07 Mar 2026 18:52:06 GMT"
+        },
+        {
+          "title": "When to talk to AI chatbots about mental health—and when to stay far away, professionals say",
+          "link": "https://www.cnbc.com/2026/03/07/when-you-shouldand-shouldntuse-chatgpt-as-a-therapist-from-experts.html",
+          "description": "Some Americans are using AI chatbots for therapy. Mental health experts share when it is, and isn't, safe to use those tools for emotional support.",
+          "pubDate": "Sat, 07 Mar 2026 14:05:01 GMT"
         },
         {
           "title": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
@@ -237,34 +225,46 @@
           "pubDate": "Fri, 06 Mar 2026 19:53:35 GMT"
         },
         {
-          "title": "As millions claim Trump&apos;s &apos;no tax on overtime&apos; deduction, filers risk mistakes, experts say",
-          "link": "https://www.cnbc.com/2026/03/06/trump-no-tax-on-overtime.html",
-          "description": "Millions have claimed President Donald Trump's \"no tax on overtime\" deduction. But there could be filing mistakes, according to tax experts.",
-          "pubDate": "Fri, 06 Mar 2026 17:31:58 GMT"
+          "title": "Average IRS tax refund is up 10.6%, early filing data shows",
+          "link": "https://www.cnbc.com/2026/03/06/average-irs-tax-refund.html",
+          "description": "The average IRS tax refund is up 10.6%, based on early filing data. Here's what you can expect.",
+          "pubDate": "Fri, 06 Mar 2026 22:04:12 GMT"
         },
         {
-          "title": "Here&apos;s how the U.S.-Iran war is already hitting consumers&apos; pocketbooks",
-          "link": "https://www.cnbc.com/2026/03/06/us-iran-war-gas-mortgage-markets.html",
-          "description": "The U.S.-Israeli strikes on Iran over the weekend gave way to a week with topsy-turvy markets, spiking mortgage rates and higher prices at the pump.",
-          "pubDate": "Fri, 06 Mar 2026 17:01:36 GMT"
+          "title": "Here are 3 themes that drove another challenging week on Wall Street",
+          "link": "https://www.cnbc.com/2026/03/07/here-are-3-themes-that-drove-another-challenging-week-on-wall-street.html",
+          "description": "Surprising economic data, another batch of earnings, and an intensifying conflict in the Middle East all combined to move the market, mostly downward.",
+          "pubDate": "Sat, 07 Mar 2026 15:29:52 GMT"
         },
         {
-          "title": "San Francisco Fed&apos;s Daly says jobs report complicates interest rate call",
-          "link": "https://www.cnbc.com/2026/03/06/san-francisco-feds-daly-says-jobs-report-complicates-interest-rate-call.html",
-          "description": "Daly told CNBC on Friday that the weak February jobs report adds to a difficult policymaking environment.",
-          "pubDate": "Fri, 06 Mar 2026 16:11:33 GMT"
+          "title": "Trump tariffs: Customs and Border Protection tells judge it can&apos;t comply with refund order",
+          "link": "https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html",
+          "description": "CBP told Judge Richard Eaton that the technology upgrades it plans would save more than 4 million man-hours in processing refunds for Trump's tariffs.",
+          "pubDate": "Fri, 06 Mar 2026 21:16:15 GMT"
         },
         {
-          "title": "Boeing moves closer to a huge deal — plus, positive signs for one of our AI plays",
-          "link": "https://www.cnbc.com/2026/03/06/boeings-potential-big-deal-plus-positive-signs-for-one-an-ai-play.html",
-          "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-          "pubDate": "Fri, 06 Mar 2026 19:27:39 GMT"
+          "title": "Trump admin announces $20 billion reinsurance program for oil tankers during Iran war",
+          "link": "https://www.cnbc.com/2026/03/06/trump-reinsurance-oil-iran-war.html",
+          "description": "Tanker traffic through the Strait of Hormuz remains at a standstill as the Iran war engulfs the region.",
+          "pubDate": "Sat, 07 Mar 2026 15:33:31 GMT"
         },
         {
-          "title": "Vast wraps $500 million funding round as company vies for NASA space station contract",
-          "link": "https://www.cnbc.com/2026/03/06/vast-funding-round-nasa-iss-space-station.html",
-          "description": "Vast is betting on a \"leapfrog strategy\" to land a phase two NASA award for the International Space Station.",
-          "pubDate": "Fri, 06 Mar 2026 20:41:21 GMT"
+          "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
+          "link": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
+          "description": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran.",
+          "pubDate": "Sat, 07 Mar 2026 00:07:18 GMT"
+        },
+        {
+          "title": "2 confidence-building tools for parents to set kids up for &apos;a lifetime of success,&apos; from a mental performance coach",
+          "link": "https://www.cnbc.com/2026/03/07/confidence-building-tools-parents-help-kids-succeed.html",
+          "description": "Parents who prioritize boosting their kids' confidence are \"setting them up for a lifetime of success,\" says mental performance coach Cindra Kamphoff.",
+          "pubDate": "Sat, 07 Mar 2026 18:49:21 GMT"
+        },
+        {
+          "title": "Robinhood&apos;s venture fund, which gives investors access to private companies, tanks 11% on first day",
+          "link": "https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html",
+          "description": "Robinhood's Venture Fund I plunged 11% in its debut on the New York Stock Exchange on Friday, casting doubt on investors' appetite for riskier investment.",
+          "pubDate": "Fri, 06 Mar 2026 23:41:32 GMT"
         }
       ]
     },
@@ -273,85 +273,61 @@
       "category": "Finance",
       "region": "international",
       "url": "https://www.ft.com/rss/home",
-      "itemCount": 13,
+      "itemCount": 9,
       "items": [
         {
-          "title": "Oil hits highest level since 2023 as Iran war triggers historic surge",
-          "link": "https://www.ft.com/content/d3e2c2a1-73aa-4952-b1f1-08c87042b507",
-          "description": "Goldman Sachs warns crude will soar past 2008 peak if action is not taken to reopen Strait of Hormuz",
-          "pubDate": "Fri, 06 Mar 2026 21:52:35 GMT"
+          "title": "Trump hits out at Starmer over UK reluctance to support Iran attacks",
+          "link": "https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682",
+          "description": "Comments come as London considers deploying aircraft carrier to the region",
+          "pubDate": "Sun, 08 Mar 2026 00:58:56 GMT"
         },
         {
-          "title": "Qatar warns war will force Gulf to stop energy exports ‘within days’",
-          "link": "https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea",
-          "description": "Brent crude tops $90 after gas producer says it will take ‘weeks to months’ to restore deliveries",
-          "pubDate": "Fri, 06 Mar 2026 14:11:18 GMT"
+          "title": "Iran warns it will hit US bases across region hours after president’s apology",
+          "link": "https://www.ft.com/content/7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261",
+          "description": "Masoud Pezeshkian had said Tehran would stop attacks on Gulf neighbours",
+          "pubDate": "Sat, 07 Mar 2026 16:31:43 GMT"
         },
         {
-          "title": "Global bonds suffer one of worst routs in years",
-          "link": "https://www.ft.com/content/d0b40a4d-9cd8-4904-8c0a-ea14326341b7",
-          "description": "Debt markets head for worst week in more than a year after energy price surge sparks inflation fears",
-          "pubDate": "Fri, 06 Mar 2026 17:17:49 GMT"
+          "title": "The bombing of Tehran — in maps and satellite images",
+          "link": "https://www.ft.com/content/59cfcbfb-34e2-4d26-b687-5d768dcc5650",
+          "description": "Israeli and US strikes have targeted regime infrastructure and also struck civilian sites. Here are some of the key buildings hit",
+          "pubDate": "Sat, 07 Mar 2026 09:00:07 GMT"
         },
         {
-          "title": "Trump says no deal with Iran except ‘unconditional surrender’",
-          "link": "https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38",
-          "description": "President says US defence groups to boost output of sophisticated missiles after meeting CEOs",
-          "pubDate": "Sat, 07 Mar 2026 00:37:05 GMT"
+          "title": "Trump’s war on Iran is spreading. Where does it stop?",
+          "link": "https://www.ft.com/content/ddb4a3fd-2f99-43a4-8ae6-330c6d29c14a",
+          "description": "US allies in the Arab world have been plunged into a conflict they neither wanted nor consented to. Historian Eugene Rogan on what it means for the Middle East",
+          "pubDate": "Sat, 07 Mar 2026 05:00:26 GMT"
         },
         {
-          "title": "In the centre of the storm: what does the Iran war mean for Dubai?",
-          "link": "https://www.ft.com/content/f7efce04-b122-4243-bcd2-2c524951c10d",
-          "description": "Test comes for city that sold itself as metropolis of peace and stability as UAE’s ambitions threatened",
-          "pubDate": "Fri, 06 Mar 2026 19:00:07 GMT"
+          "title": "The war of unintended consequences",
+          "link": "https://www.ft.com/content/0b16e3e8-d52b-4b87-a212-bba90af39ceb",
+          "description": "Israel and the US have achieved many military aims in Iran, but the unpredictable fallout poses threats to everyone",
+          "pubDate": "Sat, 07 Mar 2026 05:00:27 GMT"
         },
         {
-          "title": "Silent killer: the return of torpedo warfare",
-          "link": "https://www.ft.com/content/0bc35dca-b43d-4737-8c98-53ef8f2487e0",
-          "description": "The sinking of an Iranian ship near Sri Lanka, the first of its kind in decades, has sparked scrutiny about Washington’s tactics",
-          "pubDate": "Fri, 06 Mar 2026 13:45:28 GMT"
+          "title": "We’ll always have Dubai",
+          "link": "https://www.ft.com/content/fa5caf43-0ad4-4da2-a6fc-d2575bea4f41",
+          "description": "Why the newly endangered city will endure",
+          "pubDate": "Sat, 07 Mar 2026 05:00:26 GMT"
         },
         {
-          "title": "US draws up strict new AI guidelines amid Anthropic clash",
-          "link": "https://www.ft.com/content/d8c2969f-2812-44d2-8860-3059fb770bdb",
-          "description": "Draft rules mandate civilian government contracts make models available for ‘any lawful’ use",
-          "pubDate": "Sat, 07 Mar 2026 00:02:22 GMT"
+          "title": "US faced with few good options to tamp down surging oil prices",
+          "link": "https://www.ft.com/content/5bd03549-22b2-4d7a-a6d6-44a9aa5c3842",
+          "description": "Experts say reopening Strait of Hormuz remains most viable option as ideas such as influencing futures market fade",
+          "pubDate": "Sat, 07 Mar 2026 11:00:08 GMT"
         },
         {
-          "title": "Oracle and OpenAI scrap deal to expand flagship Texas data centre",
-          "link": "https://www.ft.com/content/2fa83bbf-abf2-43f1-b2f0-84a1391150b9",
-          "description": "Meta in talks to take up additional computing capacity that the ChatGPT maker will not take up",
-          "pubDate": "Fri, 06 Mar 2026 22:40:01 GMT"
+          "title": "A week of war in charts: the impact on the US",
+          "link": "https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
+          "description": "The conflict with Iran is unpopular with the American public and is roiling markets and the economy",
+          "pubDate": "Sat, 07 Mar 2026 11:00:08 GMT"
         },
         {
-          "title": "BlackRock limits redemptions at private credit fund as outflows swell",
-          "link": "https://www.ft.com/content/2336fccb-745d-4f3b-8ade-d84f0027e70f",
-          "description": "Decision taken after withdrawal requests at flagship HPS Corporate Lending Fund surged to 9.3% of net asset value",
-          "pubDate": "Fri, 06 Mar 2026 13:28:04 GMT"
-        },
-        {
-          "title": "US economy sheds 92,000 jobs in February in sharp slide",
-          "link": "https://www.ft.com/content/6542bd0c-59ca-493b-ab5d-2d69e4e00cae",
-          "description": "Figure far below expectations comes as doubts persist over labour market strength",
-          "pubDate": "Fri, 06 Mar 2026 14:06:55 GMT"
-        },
-        {
-          "title": "Google gives CEO Sundar Pichai new pay deal worth up to $692mn",
-          "link": "https://www.ft.com/content/1d3fa4f9-ec94-49ff-b22f-bd69b92be8ce",
-          "description": "Alphabet boss gets bumper package of stock options tied to the share price and growth of Waymo in the next three years",
-          "pubDate": "Sat, 07 Mar 2026 01:10:33 GMT"
-        },
-        {
-          "title": "US agency to create $20bn reinsurance facility for Gulf shipping",
-          "link": "https://www.ft.com/content/d1d68d91-0d2c-4682-9204-01320a9320d4",
-          "description": "Development Finance Corporation to offer coverage in hopes of restarting shipping through Strait of Hormuz",
-          "pubDate": "Fri, 06 Mar 2026 20:35:12 GMT"
-        },
-        {
-          "title": "Ships in Gulf declare themselves Chinese to dodge attack",
-          "link": "https://www.ft.com/content/eaecc3ce-ba4e-4e19-9d0a-6cf1536a5aed",
-          "description": "At least 10 vessels have changed transponder messages in apparent attempt to avoid becoming targets",
-          "pubDate": "Fri, 06 Mar 2026 18:20:41 GMT"
+          "title": "Donald Trump calls for more US military action in Latin America",
+          "link": "https://www.ft.com/content/b974477f-61a4-492e-b8b7-9709f4086b4c",
+          "description": "President announces Shield of the Americas coalition of regional allies that excludes Brazil, Colombia and Mexico",
+          "pubDate": "Sat, 07 Mar 2026 17:42:51 GMT"
         }
       ]
     },
@@ -363,124 +339,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Gold Stuck in Dubai Is Being Sold at Discount as War Widens",
-          "link": "https://www.bloomberg.com/news/articles/2026-03-06/gold-stuck-in-dubai-is-being-sold-at-a-discount-as-war-widens",
-          "description": "Gold is being offered at a steep discount in Dubai, as the war in the Middle East grounds flights and hampers suppliers’ ability to move bullion out of the key trading hub.",
-          "pubDate": "Fri, 06 Mar 2026 08:45:23 GMT"
+          "title": "UAE and Kuwait Start Oil Output Cuts After Hormuz Blockage",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-07/kuwait-cuts-oil-and-refining-output-as-hormuz-transits-slow",
+          "description": "The United Arab Emirates and Kuwait started reducing oil production, as the near-closure of the crucial Strait of Hormuz ripples through energy markets and affects global supply.",
+          "pubDate": "Sat, 07 Mar 2026 13:51:46 GMT"
         },
         {
-          "title": "China’s PBOC Extends Gold Buying as Middle East Tension Simmers",
-          "link": "https://www.bloomberg.com/news/articles/2026-03-07/china-s-pboc-extends-gold-buying-as-middle-east-tension-simmers",
-          "description": "China’s central bank bought more gold in February, extending its streak of purchasing to 16 months, as bullion climbs amid escalating Middle East tensions.",
-          "pubDate": "Sat, 07 Mar 2026 02:44:06 GMT"
+          "title": "Trump Says Good Reason Needed to Deploy Ground Troops To Iran",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-07/trump-says-good-reason-needed-to-deploy-ground-troops-to-iran",
+          "description": "There would have to be a “very good reason” for the US to deploy ground troops to Iran, President Donald Trump says in a meeting with the press on Air Force One.",
+          "pubDate": "Sat, 07 Mar 2026 21:50:47 GMT"
         },
         {
-          "title": "Greer, Schwarzman Lined Up for Australia Pensions Summit in US",
-          "link": "https://www.bloomberg.com/news/articles/2026-03-07/greer-schwarzman-lined-up-for-australia-pensions-summit-in-us",
-          "description": "Representatives of the A$4.5 trillion ($3.2 trillion) Australian pensions industry will head to the US next week, seeking to showcase the scale of the sector’s investments in the world’s largest economy.",
-          "pubDate": "Sat, 07 Mar 2026 02:17:54 GMT"
+          "title": "US Inflation Gauges Likely Diverged Before War in Iran",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-07/us-inflation-gauges-likely-diverged-before-war-in-iran",
+          "description": "A pair of inflation reports, including the Federal Reserve’s preferred price gauge, surface in the coming week after a dismal February jobs report that challenged perceptions the labor market is stabilizing.",
+          "pubDate": "Sat, 07 Mar 2026 21:00:00 GMT"
         },
         {
-          "title": "Novo and Hims End Feud, Will Sell Obesity Drugs Together",
-          "link": "https://www.bloomberg.com/news/articles/2026-03-07/novo-and-hims-end-feud-will-sell-obesity-drugs-together",
-          "description": "Novo Nordisk A/S plans to sell its weight-loss drugs on Hims &amp; Hers Health Inc.’s platform, according to a person familiar with the matter, ending a highly public feud between the two companies that spiraled into a legal battle last month.",
-          "pubDate": "Sat, 07 Mar 2026 00:31:12 GMT"
+          "title": "Traders Snatch Up Derivatives as Risks Grow: Credit Weekly",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-07/traders-snatch-up-derivatives-as-risks-grow-credit-weekly",
+          "description": "War in Iran. A weakening US jobs market. Artificial intelligence and the potential demise of whole industries. Growing pressure on private credit.",
+          "pubDate": "Sat, 07 Mar 2026 20:00:00 GMT"
         },
         {
-          "title": "Sri Lanka: In 'Good Position' to Absorb Oil Price Shocks",
-          "link": "https://www.bloomberg.com/news/videos/2026-03-07/sri-lanka-in-good-position-to-absorb-oil-price-shocks-video",
-          "description": "Central Bank of Sri Lanka Governor P Nandalal Weerasinghe believes his country is in a 'good position' to be able to absorb the price shocks from the Middle East conflict. He speaks with Haslinda Amin from the sidelines of 'IMF Conference; Asia 2050'. (Source: Bloomberg)",
-          "pubDate": "Sat, 07 Mar 2026 01:30:49 GMT"
+          "title": "US Offers $20 Billion Reinsurance Plan to Spur Gulf Oil Flow",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-06/us-launches-20-billion-reinsurance-plan-to-ease-gulf-oil-trade",
+          "description": "The Trump administration announced a $20 billion reinsurance program aimed at reviving shipping in the Strait of Hormuz, where traffic has all but stopped amid the US and Israeli attacks on Iran.",
+          "pubDate": "Fri, 06 Mar 2026 20:53:03 GMT"
         },
         {
-          "title": "Queues, Price Hikes and Shortages as Asia Battles Fuel Crunch",
-          "link": "https://www.bloomberg.com/news/articles/2026-03-07/queues-price-hikes-and-shortages-as-asia-battles-fuel-crunch",
-          "description": "From Thai farmers racing for diesel to Indian refinery executives monitoring the Persian Gulf through the night, energy buyers across import-dependent Asia are feeling the impact of a dramatic crunch.",
-          "pubDate": "Sat, 07 Mar 2026 01:05:24 GMT"
+          "title": "Bloomberg This Weekend 3/7/2026",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-07/bloomberg-this-weekend-03-07-2026-video",
+          "description": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity and context to the weekend’s biggest headlines, LIVE from New York. Joined by Global Affairs Journalist Elise Labott, The Atlantic Staff Writer Vivian Salama, Former Secretary of State Antony Blinken, Heritage Foundation VP of Institute for National Security & Foreign Policy Victoria Coates and State Department Bureau of Near Eastern Affairs Former Deputy Assistant Secretary Jen Gavito.  (S",
+          "pubDate": "Sat, 07 Mar 2026 17:39:30 GMT"
         },
         {
-          "title": "Greer and LeBlanc Meet as USMCA Countries Gear Up for Talks",
-          "link": "https://www.bloomberg.com/news/articles/2026-03-06/greer-leblanc-meet-in-washington-as-usmca-preparations-ramp-up",
-          "description": "US Trade Representative Jamieson Greer and Canada-US Trade Minister Dominic LeBlanc met Friday in Washington in the first high-level, in-person talks between the two men in months.",
-          "pubDate": "Fri, 06 Mar 2026 18:01:08 GMT"
+          "title": "Polymarket Founder Says War Bets Are Facing Growing Resistance",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-07/polymarket-founder-says-war-bets-are-facing-growing-resistance",
+          "description": "Polymarket founder and CEO Shayne Coplan said the prediction market industry’s war-related contracts face growing risks and acknowledged that rising visibility brings “more money, more problems” &mdash; a blunt concession from one of the sector’s most prominent figures that its flagship product threatens to become a political liability.",
+          "pubDate": "Sat, 07 Mar 2026 17:40:21 GMT"
         },
         {
-          "title": "Wall Street Week | Lloyd Blankfein, Ukraine’s Tech, Big Tobacco’s Future, Building Data Centers",
-          "link": "https://www.bloomberg.com/news/videos/2026-03-07/wall-street-week-ukraine-s-tech-future-of-nicotine-video",
-          "description": "This week, from Iran to inflation, former Goldman Sachs CEO Lloyd Blankfein explains why risk management matters most when markets appear stable and confident. And, From digital IDs to AI agents, Ukraine is rebuilding government services even as war reshapes the country. Plus, as smokeless products such as Zyn and IQOS surge in popularity, are we witnessing harm reduction or a smarter tobacco strategy? Later, who will build the data centers powering artificial intelligence and are there enough w",
-          "pubDate": "Sat, 07 Mar 2026 00:15:01 GMT"
+          "title": "AtaiBeckley Is Said to Explore Options for Main Psychedelic Drug",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-07/ataibeckley-is-said-to-explore-options-for-main-psychedelic-drug",
+          "description": "AtaiBeckley Inc. is working with advisers to explore options for its flagship psychedelic drug candidate, according to people familiar with the matter.",
+          "pubDate": "Sat, 07 Mar 2026 16:42:00 GMT"
         },
         {
-          "title": "Tiger Global Alum’s Firm Bets on Prying People Off Their Screens",
-          "link": "https://www.bloomberg.com/news/videos/2026-03-07/tiger-global-alum-bets-on-prying-people-off-screens-video",
-          "description": "Greg Mazlin and Matthew Lloyd-Thomas are betting that hybrid work and AI will allow more people to get away from their screens and be more active. Mazlin &mdash; one of the few partners to depart the $50 billion Tiger Global in recent years &mdash; started raising his first fund in 2024 to invest in private companies poised to benefit from two long-term trends: people craving real-life experiences and an increase in leisure time created by artificial intelligence and hybrid work. One of his inve",
-          "pubDate": "Sat, 07 Mar 2026 00:01:17 GMT"
+          "title": "US Officials Confirm Russia-Iran Intelligence Sharing",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-07/us-officials-confirm-russia-iran-intelligence-sharing-video",
+          "description": "US officials confirmed intelligence sharing between Russia and Iran. Bloomberg Economics Defense Lead Becca Wasser discusses with David Gura and Christina Ruffini on \"Bloomberg This Weekend.\" (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Mar 2026 13:21:55 GMT"
         },
         {
-          "title": "DEA Investigated Epstein Over Ketamine, Prostitution and Money",
-          "link": "https://www.bloomberg.com/news/videos/2026-03-06/dea-investigated-epstein-over-ketamine-prostitution-video",
-          "description": "The Federal Drug Enforcement Administration opened an investigation into Jeffrey Epstein and a dozen other individuals in 2015 that centered on allegations of money laundering, drug trafficking and the procurement of Eastern European prostitutes for high-profile clients, according to five people familiar with the case. The investigation, which grew out of a longstanding probe into organized crime, was conducted by a secretive intelligence and law enforcement unit of the DEA and a transnational c",
-          "pubDate": "Fri, 06 Mar 2026 23:57:22 GMT"
+          "title": "Mullin to Replace Noem as DHS Secretary",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-07/this-weekend-mullin-to-replace-noem-as-dhs-secretary-video",
+          "description": "Bloomberg’s David Gura and Christina Ruffini are joined by Bloomberg News Managing Editor Americas Weekends Kevin Whitelaw to discuss who is currently in charge of the DHS and more regarding Noem's anticipated departure from the agency on \"Bloomberg This Weekend.\"  (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Mar 2026 14:36:03 GMT"
         },
         {
-          "title": "Goldman Junior Banker Fashion Shoot Sets Off Blame Game",
-          "link": "https://www.bloomberg.com/news/videos/2026-03-06/goldman-junior-banker-fashion-shoot-sets-off-blame-game-video",
-          "description": "A magazine’s glossy photo shoot with young Wall Streeters, including a pair from Goldman Sachs who opined on their spending and dating, is setting off finger-pointing inside the famously restrained investment bank. When they were confronted by executives, at least one of the men said that they believed compliance was OK with participating in Interview Magazine’s feature, “Meet the Finest Boys in Finance,” according to people with knowledge of the matter. But the press office, which stewards the ",
-          "pubDate": "Fri, 06 Mar 2026 23:55:31 GMT"
+          "title": "Trump Speaks on Global US Military Superiority",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-07/trump-speaks-on-global-us-military-superiority-video",
+          "description": "US President Donald Trump spoke at the 2026 Shield of Americas Summit saying that over the last year the world has witnessed the \"supreme power of the US\". (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Mar 2026 15:58:35 GMT"
         },
         {
-          "title": "BlackRock $26 Billion Private Credit Fund Limits Withdrawals",
-          "link": "https://www.bloomberg.com/news/videos/2026-03-06/blackrock-26b-private-credit-fund-limits-withdrawals-video-mmfjo1in",
-          "description": "BlackRock curbed withdrawals from one of its biggest private credit funds after client requests for redemptions spiked, the latest sign of investor anxiety about the $1.8 trillion private credit industry. The firm’s $26 billion HPS Corporate Lending Fund, one of the largest non-traded business development companies, said in a statement Friday that shareholders requested 9.3% of their shares, but management decided to cap the repurchases at 5%. James Crombie, Bloomberg News Senior Editor for Cred",
-          "pubDate": "Fri, 06 Mar 2026 23:47:26 GMT"
+          "title": "Antony Blinken on War With Iran",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-07/this-weekend-antony-blinken-on-war-with-iran-video",
+          "description": "Former Secretary of State Antony Blinken discussed with Bloomberg's David Gura the Trump administration’s evolving justifications for the war in Iran, warning about unclear imminent threats and serious risks of unintended regional escalation on \"Bloomberg This Weekend.\" (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Mar 2026 14:08:40 GMT"
         },
         {
-          "title": "Calvin Klein Is Missing Its Carolyn Bessette Kennedy Moment",
-          "link": "https://www.bloomberg.com/news/videos/2026-03-06/calvin-klein-is-missing-its-cbk-moment-video",
-          "description": "As fans of FX’s new limited series, Love Story: John F. Kennedy Jr. & Carolyn Bessette search for real-life versions of the characters' wardrobes, they're running into roadblocks. According to Google Trends, searches for “Calvin Klein 90s” shot up 850% in the US the week Love Story premiered. When customers found more fleece joggers and graphic tees on its website than the sleek basics they were looking for, some turned to secondhand sellers. PVH Corp., the apparel conglomerate that bought the C",
-          "pubDate": "Fri, 06 Mar 2026 23:40:12 GMT"
+          "title": "Rising Gas Price Concerns, Fed Policymakers Cautious",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-07/rising-gas-price-concerns-fed-policymakers-cautious-video",
+          "description": "Bloomberg News Economics Editor, Michael McKee, joins Bloomberg’s David Gura and Christina Ruffini to discuss recent comments from Tom Barker of the Richmond Fed regarding the impact of rising gasoline prices on the US economy. The Federal Reserve is aware that lowering interest rates will not reduce gasoline prices and could instead fuel inflation, so they are monitoring for secondary effects on the broader economy rather than reacting directly to fuel cost changes. Watch on \"Bloomberg This Wee",
+          "pubDate": "Sat, 07 Mar 2026 15:57:10 GMT"
         },
         {
-          "title": "'Triple-Digit' Oil Prices Possible if Iran War Extends: Transversal's Wald",
-          "link": "https://www.bloomberg.com/news/videos/2026-03-06/traders-warn-100-oil-imminent-if-iran-war-keeps-raging-video",
-          "description": "A week into one of the biggest ever disruptions to global energy markets, oil prices still remain far below levels seen in previous crises. But a growing chorus of energy executives and traders is warning that every day that war rages on brings the world closer to a tipping point &mdash; with several predicting $100 crude within days. Ship traffic through the Strait of Hormuz has all but halted &mdash; making reality what had long been considered a worst-case scenario for the energy markets. The",
-          "pubDate": "Fri, 06 Mar 2026 23:34:39 GMT"
+          "title": "This Weekend | Oil Surges Above $90 Amid Iran Conflict",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-07/this-weekend-oil-surges-above-90-amid-iran-conflict-video",
+          "description": "Michael McKee, Bloomberg News Economics Editor, discusses the recent market volatility as all three major U.S. stock indexes dropped about 1% amid a sharp rise in oil and gas prices with Bloomberg’s David Gura, Christina Ruffini on “Bloomberg This Weekend.”  (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Mar 2026 13:21:48 GMT"
         },
         {
-          "title": "Surprise Drop in US Payrolls Casts Doubt on Steadying Job Market",
-          "link": "https://www.bloomberg.com/news/videos/2026-03-06/february-payrolls-casts-doubt-on-steadying-job-market-video",
-          "description": "US employers unexpectedly cut jobs in February and the unemployment rate rose, pointing to lingering fragility in a labor market that was thought to be stabilizing. Nonfarm payrolls fell 92,000 last month, one of the largest declines since the pandemic, after a strong start to the year. While some of the downside was expected in advance, like a temporary dent from striking healthcare workers and a potential hit from bad weather, a wide array of industries cut jobs in the month. The figures call ",
-          "pubDate": "Fri, 06 Mar 2026 23:26:37 GMT"
+          "title": "Trump Addresses Military Actions in Iran",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-07/trump-addresses-military-actions-in-iran-video",
+          "description": "During a live address at the 'Shield of the Americas' event in Doral, Florida, the President highlighted the strength and readiness of the US military, emphasizing improvements made during his first administration. The remarks framed the military efforts as necessary for global security and condemned Iran as a dangerous adversary. Watch, on \"Bloomberg This Weekend.\"  (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Mar 2026 15:32:35 GMT"
         },
         {
-          "title": "Oil Leaps, Stocks Fall on War and Credit Fears: Markets Wrap",
-          "link": "https://www.bloomberg.com/news/articles/2026-03-05/asian-stocks-to-fall-oil-climbs-as-conflict-rages-markets-wrap",
-          "description": "A weak jobs report hit stocks at a time when a widening war in the Middle East is lifting oil prices and fueling inflation jitters. Anxiety about the private-credit industry also reduced risk appetite. Bitcoin tumbled.",
-          "pubDate": "Thu, 05 Mar 2026 22:26:59 GMT"
+          "title": "Finland’s Stubb Sees No End Game For Iran Conflict",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-07/finland-s-stubb-sees-no-end-game-for-iran-conflict-video",
+          "description": "Finland’s President Alexander Stubb does not see any strategic end game for the conflict in the Middle East. He does not believe any mediation will help in easing the Iran conflict. (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Mar 2026 15:28:48 GMT"
         },
         {
-          "title": "When God Appears in Contracts, That’s ‘Force Majeure’",
-          "link": "https://www.bloomberg.com/news/articles/2026-03-06/why-the-iran-war-is-prompting-force-majeure-declarations",
-          "description": "The new war in the Middle East has given fresh relevance to the legal term “force majeure.” It’s a clause that can be found buried in many contracts that lets a party off the hook in the event of some unforeseen “act of God.”",
-          "pubDate": "Fri, 06 Mar 2026 22:52:20 GMT"
+          "title": "Finland’s Stubb Says Iran Strikes May Benefit Ukraine",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-07/finland-s-stubb-says-iran-strikes-may-benefit-ukraine-video",
+          "description": "Finland’s President Alexander Stubb has said that Ukraine stands to see some benefits from the conflict in the Middle East, which may hamper Russia’s ability to cooperate militarily with Iran. (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Mar 2026 15:26:40 GMT"
         },
         {
-          "title": "Vertiv, Lumentum, Coherent, EchoStar to Join S&amp;P 500 This Month",
-          "link": "https://www.bloomberg.com/news/articles/2026-03-06/vertiv-lumentum-coherent-echostar-to-join-s-p-500-this-month",
-          "description": "Vertiv Holdings Co., Lumentum Holdings Inc., Coherent Corp. and EchoStar Corp. will join the S&amp;P 500 in the latest quarterly rebalance, S&amp;P Dow Jones Indices said Friday.",
-          "pubDate": "Fri, 06 Mar 2026 22:51:46 GMT"
+          "title": "Coming Up on This Weekend | Trump on Iran, Oil Price Outlook",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-07/this-weekend-join-us-this-morning-0307-video",
+          "description": "At 6:11am EST, President Trump posted to Truth Social saying “Today Iran will be hit very hard!” Bloomberg’s David Gura, Christina Ruffini and Lisa Mateo bring you the latest developments on the evolving conflict on \"Bloomberg This Weekend.”  (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Mar 2026 12:29:53 GMT"
         },
         {
-          "title": "Bezel, Kalshi Bring Luxury Watches to Prediction Markets",
-          "link": "https://www.bloomberg.com/news/videos/2026-03-06/bezel-kalshi-bring-luxury-watches-to-prediction-markets-video",
-          "description": "Bezel CEO & Co-Founder Quaid Walker discusses their new partnership with Kalshi designed to build contracts tied to watch prices. Walker hopes the partnership will lead to more accessibility for customers and lead to a more \"vibrant and interesting' watch world. He talks with Romaine Bostick and Bailey Lipschultz on \"The Close.\" (Source: Bloomberg)",
-          "pubDate": "Fri, 06 Mar 2026 22:44:47 GMT"
+          "title": "How Ukraine Digitized Government in the Middle of War",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-07/how-ukraine-digitized-government-in-the-middle-of-war-video",
+          "description": "As Ukraine fights for its sovereignty on the battlefield, it is also transforming how government works at home. Since launching its digital transformation ministry in 2019, Ukraine has built “Diia,” a super app used by more than 23 million citizens to access documents, pay taxes, register businesses and even marry online. Now, amid war, officials are pushing further, aiming to evolve from a digital state to what they call an “AI-native” state, where government services anticipate citizens’ needs",
+          "pubDate": "Sat, 07 Mar 2026 15:03:20 GMT"
         },
         {
-          "title": "Bessent Says US May ‘Unsanction’ More Russia Oil Post India Move",
-          "link": "https://www.bloomberg.com/news/articles/2026-03-06/bessent-says-us-may-unsanction-more-russia-oil-post-india-move",
-          "description": "Treasury Secretary Scott Bessent said the US may lift sanctions on further Russian oil supply after a move Thursday to give Indian refiners the green light to purchase crude from the nation.",
-          "pubDate": "Fri, 06 Mar 2026 21:55:38 GMT"
+          "title": "Mixed Messaging on US Objectives in Mideast Conflict",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-07/mixed-messaging-on-us-objectives-in-mideast-conflict-video",
+          "description": "Former Trump deputy national security adviser Victoria Coates and former Biden State Department official Jen Gavito join Bloomberg’s David Gura and Christina Ruffini to discuss US strategy in the second week of the war with Iran on “Bloomberg This Weekend.”   (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Mar 2026 14:52:05 GMT"
         }
       ]
     },
@@ -492,124 +468,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "US regulators say banks won't face extra capital charges on tokenized securities",
-          "link": "https://finance.yahoo.com/news/us-regulators-banks-wont-face-205750625.html",
+          "title": "As Marvell Breaks Through Key Resistance Levels, Should You Chase the Rally in MRVL Stock?",
+          "link": "https://finance.yahoo.com/news/marvell-breaks-key-resistance-levels-202311135.html",
           "description": "",
-          "pubDate": "2026-03-05T21:02:12Z"
+          "pubDate": "2026-03-06T20:23:11Z"
         },
         {
-          "title": "The Toronto-Dominion Bank (TD) Reports Record Q1 Earnings Fueled by Strong Revenue and Volume Growth",
-          "link": "https://finance.yahoo.com/news/toronto-dominion-bank-td-reports-211115851.html",
+          "title": "Crude Prices Surge as Iran War Halts Middle East Crude Shipments",
+          "link": "https://finance.yahoo.com/news/crude-prices-surge-iran-war-202236947.html",
           "description": "",
-          "pubDate": "2026-03-05T21:11:15Z"
+          "pubDate": "2026-03-06T20:22:36Z"
         },
         {
-          "title": "Dow Drops 780 Points Ahead of Jobs Report. Oil Hits Highest Settle Since 2024.",
-          "link": "https://www.barrons.com/livecoverage/stock-market-news-today-030526/card/dow-drops-780-points-ahead-of-jobs-report-oil-hits-highest-settle-since-2024--TW20jtp9kUgFSpr8bNVL?siteid=yhoof2&yptr=yahoo",
+          "title": "Oil Makes Record Weekly Gains As Strait of Hormuz Stays Shut",
+          "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-after-bessent-unveils-stopgap-measure-for-india-2657c96b?siteid=yhoof2&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-03-05T21:01:38Z"
+          "pubDate": "2026-03-06T20:22:00Z"
         },
         {
-          "title": "Dear Raytheon Stock Fans, Mark Your Calendars for March 6",
-          "link": "https://finance.yahoo.com/news/dear-raytheon-stock-fans-mark-210802829.html",
+          "title": "Nat-Gas Prices Sharply Higher on Global Supply Risks",
+          "link": "https://finance.yahoo.com/news/nat-gas-prices-sharply-higher-202103881.html",
           "description": "",
-          "pubDate": "2026-03-05T21:08:02Z"
+          "pubDate": "2026-03-06T20:21:03Z"
         },
         {
-          "title": "Venezuela to ensure security of mining companies, exceed oil production goals-Burgum",
-          "link": "https://finance.yahoo.com/news/venezuela-ensure-security-mining-companies-210430740.html",
+          "title": "$100 oil back on the table? by Oil &amp; Gas 360",
+          "link": "https://finance.yahoo.com/news/100-oil-back-table-oil-203019775.html",
           "description": "",
-          "pubDate": "2026-03-05T21:04:30Z"
+          "pubDate": "2026-03-06T20:30:19Z"
         },
         {
-          "title": "Fireside Chat with Xanadu Founder &amp; CEO Christian Weedbrook, Mar 11 at 2PM ET",
-          "link": "https://finance.yahoo.com/news/fireside-chat-xanadu-founder-ceo-211050056.html",
+          "title": "Apple Just Unveiled the New iPhone 17e. Should You Buy, Sell, or Hold AAPL Stock Now?",
+          "link": "https://finance.yahoo.com/news/apple-just-unveiled-iphone-17e-201740368.html",
           "description": "",
-          "pubDate": "2026-03-05T21:10:50Z"
+          "pubDate": "2026-03-06T20:17:40Z"
         },
         {
-          "title": "Broadcom Shows AI Infrastructure Spending Remains Strong",
-          "link": "https://www.investors.com/news/technology/broadcom-stock-avgo-fiscal-q1-beat-ai-outlook/?src=A00220&yptr=yahoo",
+          "title": "Taco Bell Parent, Data Center Play And Two Other Stocks Weather War Storm, Hover Near Highs",
+          "link": "https://www.investors.com/stock-lists/new-highs/taco-bell-parent-yum-stock-data-center/?src=A00220&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-03-05T21:04:55Z"
+          "pubDate": "2026-03-06T20:17:09Z"
         },
         {
-          "title": "U.S. stocks swept up by growing fears of an oil shock",
-          "link": "https://finance.yahoo.com/news/u-stocks-swept-growing-fears-211100005.html",
+          "title": "3 Stocks That Cut You a Check Each Month",
+          "link": "https://finance.yahoo.com/news/3-stocks-cut-check-month-202000324.html",
           "description": "",
-          "pubDate": "2026-03-05T21:11:00Z"
+          "pubDate": "2026-03-06T20:20:00Z"
         },
         {
-          "title": "Bank of Montreal (BMO) Achieves Record Q1 Results Driven by Strong Revenue Across All Business Lines",
-          "link": "https://finance.yahoo.com/news/bank-montreal-bmo-achieves-record-211224710.html",
+          "title": "Eversource Energy (ES) Target Lifted to $79 at BMO After Q4 Results",
+          "link": "https://finance.yahoo.com/news/eversource-energy-es-target-lifted-201141095.html",
           "description": "",
-          "pubDate": "2026-03-05T21:12:24Z"
+          "pubDate": "2026-03-06T20:11:41Z"
         },
         {
-          "title": "Royal Bank of Canada (RY) Posts Record Q1 Earnings Driven by Wealth Management and Personal Banking Growth",
-          "link": "https://finance.yahoo.com/news/royal-bank-canada-ry-posts-211054329.html",
+          "title": "XPLR Infrastructure, LP (XIFR) Target Increased to $12 at Barclays",
+          "link": "https://finance.yahoo.com/news/xplr-infrastructure-lp-xifr-target-201039904.html",
           "description": "",
-          "pubDate": "2026-03-05T21:10:54Z"
+          "pubDate": "2026-03-06T20:10:39Z"
         },
         {
-          "title": "Canadian Imperial Bank of Commerce (CM) Delivers Record Q1 Earnings on Margin Expansion and Revenue Growth",
-          "link": "https://finance.yahoo.com/news/canadian-imperial-bank-commerce-cm-211326457.html",
+          "title": "A $100 Billion and More Reasons to Buy Broadcom Stock Now",
+          "link": "https://finance.yahoo.com/news/100-billion-more-reasons-buy-204017509.html",
           "description": "",
-          "pubDate": "2026-03-05T21:13:26Z"
+          "pubDate": "2026-03-06T20:40:17Z"
         },
         {
-          "title": "Tango Therapeutics, Up 39% This Year, Surges Again On Another Cancer Pact",
-          "link": "https://www.investors.com/news/technology/tango-therapeutics-erasca-deal-biotech-stock/?src=A00220&yptr=yahoo",
+          "title": "Dollar Pressured by a Weak US Payroll Report",
+          "link": "https://finance.yahoo.com/news/dollar-pressured-weak-us-payroll-204015524.html",
           "description": "",
-          "pubDate": "2026-03-05T21:10:18Z"
+          "pubDate": "2026-03-06T20:40:15Z"
         },
         {
-          "title": "This Investor Built a $34 Million Stake in nCino Despite Shares Sinking 50% in One Year",
-          "link": "https://finance.yahoo.com/news/investor-built-34-million-stake-211318472.html",
+          "title": "Oil Prices Close Above $90 Amid Fears of Spreading Mideast War",
+          "link": "https://www.wsj.com/livecoverage/iran-war-news-updates-2026/card/brent-crude-tops-90-a-barrel-mYmCVdlbZ2KDgyADiipv?siteid=yhoof2&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-03-05T21:13:18Z"
+          "pubDate": "2026-03-06T20:28:40Z"
         },
         {
-          "title": "International Exchange Drops $25B on OKX, a Big Bet on Tokenized Markets",
-          "link": "https://finance.yahoo.com/news/international-exchange-drops-25b-okx-210651834.html",
+          "title": "Is Archer Aviation (ACHR) One of the Stocks That Should Double in 3 Years?",
+          "link": "https://finance.yahoo.com/news/archer-aviation-achr-one-stocks-200112490.html",
           "description": "",
-          "pubDate": "2026-03-05T21:06:51Z"
+          "pubDate": "2026-03-06T20:01:12Z"
         },
         {
-          "title": "Ecopetrol Eyes Oil Output Boost As Iran Crisis Pushes Up Prices",
-          "link": "https://finance.yahoo.com/news/ecopetrol-eyes-oil-output-boost-210000922.html",
+          "title": "Anterix (ATEX), Qualcomm (QCOM) Expand Collaboration for Next-Gen Utility Wireless",
+          "link": "https://finance.yahoo.com/news/anterix-atex-qualcomm-qcom-expand-200101800.html",
           "description": "",
-          "pubDate": "2026-03-05T21:00:00Z"
+          "pubDate": "2026-03-06T20:01:01Z"
         },
         {
-          "title": "Is United Rentals, Inc. (URI) A Good Stock To Buy Now?",
-          "link": "https://finance.yahoo.com/news/united-rentals-inc-uri-good-211511230.html",
+          "title": "Federal Realty (FRT) Reports 2025 FFO of $7.22 Per Share, 6.6% YoY Increase",
+          "link": "https://finance.yahoo.com/news/federal-realty-frt-reports-2025-200052673.html",
           "description": "",
-          "pubDate": "2026-03-05T21:15:11Z"
+          "pubDate": "2026-03-06T20:00:52Z"
         },
         {
-          "title": "Farmers see fertiliser price surge as Iran war blocks exports, threatening losses",
-          "link": "https://finance.yahoo.com/news/farmers-see-fertiliser-price-surge-205826090.html",
+          "title": "Applied Digital (APLD) Prices $2.15B Private Offering for North Dakota AI Factory",
+          "link": "https://finance.yahoo.com/news/applied-digital-apld-prices-2-200044864.html",
           "description": "",
-          "pubDate": "2026-03-05T20:58:26Z"
+          "pubDate": "2026-03-06T20:00:44Z"
         },
         {
-          "title": "Think Medicare Covers Everything? Here's What It Doesn't Pay For.",
-          "link": "https://finance.yahoo.com/news/think-medicare-covers-everything-heres-210900659.html",
+          "title": "Jet fuel prices just jumped 80%. Will airline tickets get more expensive next?",
+          "link": "https://finance.yahoo.com/news/jet-fuel-prices-just-jumped-203000629.html",
           "description": "",
-          "pubDate": "2026-03-05T21:09:00Z"
+          "pubDate": "2026-03-06T20:30:00Z"
         },
         {
-          "title": "Want to file taxes the old-fashioned way? Here's how to file a paper return.",
-          "link": "https://finance.yahoo.com/personal-finance/taxes/article/want-to-file-taxes-the-old-fashioned-way-heres-how-to-file-a-paper-return-211646230.html",
+          "title": "Webull (BULL) Reports 2025 Revenue of $571M, 46% YoY Growth",
+          "link": "https://finance.yahoo.com/news/webull-bull-reports-2025-revenue-200036444.html",
           "description": "",
-          "pubDate": "2026-03-05T21:16:46Z"
+          "pubDate": "2026-03-06T20:00:36Z"
         },
         {
-          "title": "Is Grupo Televisa, S.A.B. (TV) A Good Stock To Buy?",
-          "link": "https://finance.yahoo.com/news/grupo-televisa-b-tv-good-205827348.html",
+          "title": "Eaton (ETN) Appoints David Foster as EVP and CFO Following 2025 Financial Results",
+          "link": "https://finance.yahoo.com/news/eaton-etn-appoints-david-foster-200019141.html",
           "description": "",
-          "pubDate": "2026-03-05T20:58:27Z"
+          "pubDate": "2026-03-06T20:00:19Z"
         }
       ]
     },
@@ -621,64 +597,64 @@
       "itemCount": 10,
       "items": [
         {
-          "title": "Four companies, including AI and data-center plays, are joining the S&amp;P 500 index",
-          "link": "https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245?mod=mw_rss_topstories",
-          "description": "Vertiv, Lumentum, Coherent and EchoStar are the newest entrants to the S&amp;P 500.",
-          "pubDate": "Fri, 06 Mar 2026 23:01:00 GMT"
+          "title": "&#x2018;I don&#x2019;t own a home&#x2019;: I&#x2019;m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?",
+          "link": "https://www.marketwatch.com/story/i-dont-own-a-home-im-62-unemployed-and-have-1-5-million-saved-can-i-afford-to-divorce-my-husband-f5887515?mod=mw_rss_topstories",
+          "description": "&#x201c;He has no loyalty to me or our vows.&#x201d;",
+          "pubDate": "Sat, 07 Mar 2026 22:15:00 GMT"
         },
         {
-          "title": "These stocks in the S&amp;P 500 have dropped the most since the U.S. and Israel attacked Iran",
-          "link": "https://www.marketwatch.com/story/these-stocks-in-the-s-p-500-have-dropped-the-most-since-the-u-s-and-israel-attacked-iran-ee7d67da?mod=mw_rss_topstories",
-          "description": "A disappointing Friday employment report helped send stocks down further, with cruise operators hammered",
-          "pubDate": "Fri, 06 Mar 2026 22:16:00 GMT"
+          "title": "We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?",
+          "link": "https://www.marketwatch.com/story/my-husband-and-i-have-13-5-million-and-3-kids-but-one-is-an-addict-how-do-we-fairly-divide-our-estate-669a955b?mod=mw_rss_topstories",
+          "description": "&#x201c;We are the first generation on either side of our families to experience this level of success.&#x201d;",
+          "pubDate": "Sat, 07 Mar 2026 22:14:00 GMT"
         },
         {
-          "title": "That viral Big Arch burger video could be worth at least $18 million to McDonald&#x2019;s in free publicity",
-          "link": "https://www.marketwatch.com/story/that-viral-big-arch-burger-video-could-be-worth-at-least-18-million-to-mcdonalds-in-free-publicity-87a3d882?mod=mw_rss_topstories",
-          "description": "Rivals like Burger King and Wendy&#x2019;s have also been biting off that McDonald&#x2019;s CEO video &#x2014; and industry experts say it&#x2019;s good for business for everybody.",
-          "pubDate": "Fri, 06 Mar 2026 22:09:00 GMT"
+          "title": "Stagflation? $150 oil? That doesn&#x2019;t mean everyone&#x2019;s 401(k) is losing money.",
+          "link": "https://www.marketwatch.com/story/stagflation-150-oil-not-all-401-k-s-are-losing-money-09c302cb?mod=mw_rss_topstories",
+          "description": "The problem with crises like this is that stocks and bonds can both fail.",
+          "pubDate": "Sat, 07 Mar 2026 19:41:00 GMT"
         },
         {
-          "title": "Defense-tech stocks are the hot trade as Iran conflict widens",
-          "link": "https://www.marketwatch.com/story/defense-tech-stocks-are-the-hot-trade-as-iran-conflict-widens-c8a5951c?mod=mw_rss_topstories",
-          "description": "In a week when conflict in Iran sent the U.S. equity market into a tailspin, technology stocks tied to cybersecurity and artificial intelligence have proved more resilient than sectors investors have typically treated as safe havens.",
-          "pubDate": "Fri, 06 Mar 2026 22:04:00 GMT"
+          "title": "The 4% rule is done &#x2014; 5 signs your $1 million retirement portfolio can survive the new withdrawal reality",
+          "link": "https://www.marketwatch.com/story/the-4-rule-is-done-5-signs-your-1-million-retirement-portfolio-can-survive-the-new-withdrawal-reality-490c029a?mod=mw_rss_topstories",
+          "description": "Here&#x2019;s what financial planners know but many retirees discover too late.",
+          "pubDate": "Sat, 07 Mar 2026 19:40:00 GMT"
         },
         {
-          "title": "Oil surge sparks Treasury market&#x2019;s worst weekly rout since &#x2018;liberation day&#x2019; chaos",
-          "link": "https://www.marketwatch.com/story/oil-surge-sparks-treasury-markets-worst-weekly-rout-since-liberation-day-chaos-e4e34ad0?mod=mw_rss_topstories",
-          "description": "Government bonds globally were hit hard by surging oil prices as the Iran conflict extends into the weekend",
-          "pubDate": "Fri, 06 Mar 2026 21:53:00 GMT"
+          "title": "There&#x2019;s a new record number of 401(k) millionaires &#x2014; and the Iran conflict will test their discipline",
+          "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-and-the-iran-conflict-will-test-their-discipline-fae185b8?mod=mw_rss_topstories",
+          "description": "The same financial habits that pushed the number of 401(k) millionaires to new highs should help retirement savers through the current global uncertainty",
+          "pubDate": "Sat, 07 Mar 2026 19:40:00 GMT"
         },
         {
-          "title": "Defense companies agree to ramp up output after meeting with Trump",
-          "link": "https://www.marketwatch.com/story/defense-companies-are-meeting-trump-today-heres-what-hell-ask-for-after-demanding-irans-surrender-c84d34d3?mod=mw_rss_topstories",
-          "description": "The meeting came shortly after a Trump social-media post appearing to rule out talks with Iran as the conflict drags down stocks and as oil prices shoot up.",
-          "pubDate": "Fri, 06 Mar 2026 21:47:00 GMT"
+          "title": "The most expensive state for in-home caregiving may surprise you &#x2014; and it costs almost $9,000 a month there",
+          "link": "https://www.marketwatch.com/story/the-most-expensive-state-for-in-home-caregiving-may-surprise-you-and-it-costs-almost-9-000-a-month-there-1cdc19d1?mod=mw_rss_topstories",
+          "description": "The cost of care for an aging parent, whether in their own home or in a nursing facility, varies greatly depending on where they live.",
+          "pubDate": "Sat, 07 Mar 2026 19:40:00 GMT"
         },
         {
-          "title": "&#x2018;I have a legal and a moral question&#x2019;: My dad left when I was 9, reconnected with me in my 50s and now needs money. What do I owe him?",
-          "link": "https://www.marketwatch.com/story/i-have-a-legal-and-a-moral-question-my-dad-left-when-i-was-9-reconnected-with-me-in-my-50s-and-now-needs-money-what-do-i-owe-him-ca780520?mod=mw_rss_topstories",
-          "description": "&#x201c;After the divorce was finalized, he and his partner moved out of state to a place where there would be no child-support enforcement.&#x201d;",
-          "pubDate": "Fri, 06 Mar 2026 21:21:00 GMT"
+          "title": "People taking money out of their 401(k)s isn&#x2019;t necessarily the crisis everyone thinks it is",
+          "link": "https://www.marketwatch.com/story/rise-in-401-k-hardship-withdrawals-may-not-be-the-problem-you-think-it-is-ec74fc79?mod=mw_rss_topstories",
+          "description": "Workers are taking hardship withdrawals from their 401(k) accounts, but people needing emergency access to funds can be helped in other ways.",
+          "pubDate": "Sat, 07 Mar 2026 19:40:00 GMT"
         },
         {
-          "title": "Oil prices are surging. Will that help Tesla and others sell more EVs?",
-          "link": "https://www.marketwatch.com/story/oil-prices-are-surging-will-that-help-tesla-and-others-sell-more-evs-1f2f3856?mod=mw_rss_topstories",
-          "description": "A 9% jump in gasoline prices in a week could make electric vehicles look more affordable to consumers.",
-          "pubDate": "Fri, 06 Mar 2026 21:09:00 GMT"
+          "title": "The cost of healthcare in retirement keeps getting scarier",
+          "link": "https://www.marketwatch.com/story/the-scary-numbers-on-retirement-healthcare-youll-need-up-to-469-000-saved-ae5d4f96?mod=mw_rss_topstories",
+          "description": "These healthcare estimates don&#x2019;t even include everything you might need.",
+          "pubDate": "Sat, 07 Mar 2026 19:40:00 GMT"
         },
         {
-          "title": "Crude-oil futures haven&#x2019;t been this overbought since 1990. That doesn&#x2019;t mean the rally is over.",
-          "link": "https://www.marketwatch.com/story/crude-oil-futures-havent-been-this-overbought-since-1990-that-doesnt-mean-the-rally-is-over-1550e567?mod=mw_rss_topstories",
-          "description": "A momentum indicator for a crude futures chart has soared to its highest level in 36 years, but as the Wall Street saying goes, overbought doesn&#x2019;t mean over.",
-          "pubDate": "Fri, 06 Mar 2026 20:45:00 GMT"
+          "title": "Blue Owl&#x2019;s private-credit stumble revives fears of another Bear Stearns moment",
+          "link": "https://www.marketwatch.com/story/why-blue-owls-private-credit-shocker-has-investors-seeing-shadows-of-bear-stearns-45506299?mod=mw_rss_topstories",
+          "description": "This is not yet a repeat of 2008. But dismissing it as a nonevent would be a mistake.",
+          "pubDate": "Sat, 07 Mar 2026 19:37:00 GMT"
         },
         {
-          "title": "U.S. oil prices notch record weekly gain of nearly 36%, as Middle East conflict spurs worries over production cuts",
-          "link": "https://www.marketwatch.com/story/oil-at-20-month-high-as-qatar-minister-warns-of-halt-to-energy-shipments-ffd3f8f9?mod=mw_rss_topstories",
-          "description": "Oil prices rallied Friday to set a record weekly gain, with the Middle East starting to feel a squeeze in production and storage capacity as the Iran conflict ran through a seventh day.",
-          "pubDate": "Fri, 06 Mar 2026 20:35:00 GMT"
+          "title": "I scrapped $70 million in sales to build a more profitable business. Here&#x2019;s what I learned.",
+          "link": "https://www.marketwatch.com/story/i-walked-away-from-70-million-in-sales-to-remake-my-brand-shrinking-the-business-actually-made-it-more-profitable-c48edee0?mod=mw_rss_topstories",
+          "description": "Tibi founder Amy Smilovic talks about building the fashion retail giant &#x2014; her way &#x2014; and answers the question every successful entrepreneur faces.",
+          "pubDate": "Sat, 07 Mar 2026 19:37:00 GMT"
         }
       ]
     },
@@ -819,124 +795,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "民生主题记者会丨孙业礼：2025年全年、2026年春节假期国内出游人次与花费均创历史新高",
-          "link": "https://finance.sina.com.cn/jjxw/2026-03-07/doc-inhqcpvq1924465.shtml",
-          "description": "十四届全国人大四次会议今天举行民生主题记者会。 文化和旅游部部长孙业礼在会上介绍，今年春节9天假期，国内旅游人次5.96亿、花费超过8000亿元，创下了历史新高。",
-          "pubDate": "1772852918"
+          "title": "王毅：解决台湾问题 实现祖国完全统一不可阻挡",
+          "link": "https://finance.sina.com.cn/china/2026-03-08/doc-inhqfxar4530373.shtml",
+          "description": "【王毅：解决台湾问题 实现祖国完全统一不可阻挡】两会新华社快讯：王毅说，台湾问题是中国的内政，是中国核心利益中的核心，这一红线不容逾越或踩踏。",
+          "pubDate": "1772940588"
         },
         {
-          "title": "日本要求美国在新关税规则下不使东京处于不利地位",
-          "link": "https://finance.sina.com.cn/world/2026-03-07/doc-inhqcpvt5386777.shtml",
-          "description": " 日本经济产业大臣赤泽亮正周五表示，日本已向美国寻求保证，确保东京不会在华盛顿最新的关税措施下处于不利地位，并敦促不要对日本商品征收潜在的15%关税。",
-          "pubDate": "1772848351"
+          "title": "王毅谈中印关系：排除干扰，相向而行",
+          "link": "https://finance.sina.com.cn/china/2026-03-08/doc-inhqfxap7750988.shtml",
+          "description": "【王毅谈中印关系：排除干扰，相向而行 】两会新华社快讯：王毅说，中印互为重要邻国，同属全球南方，具有深厚人文渊源和广泛共同利益。",
+          "pubDate": "1772940276"
         },
         {
-          "title": "伊朗战争导致迪拜黄金滞销 据悉被迫打折出售",
-          "link": "https://finance.sina.com.cn/world/2026-03-07/doc-inhqcipt8725823.shtml",
-          "description": "由于中东战争导致航班停飞，供应商无法将黄金运出迪拜这个重要的交易中心，因此有人以大幅折扣价格出售黄金。 许多买家已暂停下单，不愿支付异常高的运费和保险费...",
-          "pubDate": "1772846703"
+          "title": "王毅谈南海问题：兴风作浪不得人心，无事生非已没有市场",
+          "link": "https://finance.sina.com.cn/china/2026-03-08/doc-inhqfxat0934881.shtml",
+          "description": "【王毅谈南海问题：兴风作浪不得人心，无事生非已没有市场】两会新华社快讯：王毅在就南海问题答问时说，和平、合作、友好才是南海的新叙事，兴风作浪不得人心...",
+          "pubDate": "1772940008"
         },
         {
-          "title": "谷歌为CEO提供了一份6.92亿美元的新薪酬方案",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-03-07/doc-inhqcipx2012885.shtml",
-          "description": "谷歌已将桑达尔・皮查伊未来三年的潜在总薪酬提高至 6.92 亿美元，使其成为全球薪酬最高的首席执行官之一。 该公司周五表示，皮查伊薪酬方案的主要部分为绩效股票单位（PSU...",
-          "pubDate": "1772846147"
+          "title": "医渡科技于3月6日斥资462.29万港元回购78.6万股",
+          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-03-08/doc-inhqfxan0927271.shtml",
+          "description": "医渡科技（02158）发布公告，于2026年3月6日斥资462.29万港元回购78.6万股。",
+          "pubDate": "1772939925"
         },
         {
-          "title": "韩国协助公民从中东热点地区撤离",
-          "link": "https://finance.sina.com.cn/world/2026-03-07/doc-inhqcipx2002805.shtml",
-          "description": "韩国外交部在一份声明中表示，随着地区紧张局势持续，韩国在中东的外交使团正积极协助本国公民撤离至周边国家。 3 月 5 日，在科威特的 14...",
-          "pubDate": "1772844616"
+          "title": "天任集团：要约人就要约项下合共80.4万股要约股份接获六份有效接纳",
+          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-03-08/doc-inhqfxap7748172.shtml",
+          "description": " 天任集团（01429）及要约人大成国际控股有限公司联合公布，要约已于2026年3月6日（星期五）下午四时正结束，且要约人并无作出修订或延期。",
+          "pubDate": "1772939876"
         },
         {
-          "title": "日本考虑为第二个美国投资项目斥资15万亿日元",
-          "link": "https://finance.sina.com.cn/world/2026-03-07/doc-inhqcips1982308.shtml",
-          "description": "日本政府正考虑为其对美5500亿美元投资承诺的第二批项目提供总计约15万亿日元的资金。 被列为主要投资候选的项目包括：下一代核反应堆建设...",
-          "pubDate": "1772842583"
+          "title": "渣打集团于3月5日斥资1506.54万英镑回购87.24万股",
+          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-03-08/doc-inhqfxat0933436.shtml",
+          "description": " 渣打集团（02888）发布公告，于2026年3月5日，该公司斥资1506.54万英镑回购87.24万股股份，每股回购价16.895-17.585英镑。",
+          "pubDate": "1772939777"
         },
         {
-          "title": "美国因与Anthropic产生分歧 制定严格新人工智能指南",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-03-07/doc-inhqcipx1985616.shtml",
-          "description": " 特朗普政府为民用人工智能合同制定了严格规定，要求人工智能公司允许 “任何合法” 使用其模型的行为，这是五角大楼与 Anthropic 之间僵持不下的背景下出台的举措。",
-          "pubDate": "1772842141"
+          "title": "鹰君因购股期权获行使而发行1万股",
+          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-03-08/doc-inhqfxar4524267.shtml",
+          "description": "鹰君（00041）发布公告，于2026年3月6日根据2019年购股期权计划行使购股期权而发行1万股普通股股份。",
+          "pubDate": "1772939729"
         },
         {
-          "title": "报道：特朗普私下表达对向伊朗派遣地面部队的兴趣",
-          "link": "https://finance.sina.com.cn/world/2026-03-07/doc-inhqcipt8674201.shtml",
-          "description": "据美国全国广播公司（NBC）援引多名消息人士报道，美国总统特朗普私下表达了对向伊朗派遣美国地面部队的兴趣。 报道称，特朗普与助手及白宫以外的共和党官员讨论了部署地面...",
-          "pubDate": "1772840824"
+          "title": "王毅谈中日关系：绝不允许任何人为殖民张目，为侵略翻案",
+          "link": "https://finance.sina.com.cn/china/2026-03-08/doc-inhqfxar4525546.shtml",
+          "description": "#绝不允许为殖民张目为侵略翻案# 【#王毅谈中日关系#：绝不允许任何人为殖民张目，为侵略翻案】两会新华社快讯：王毅在就中日关系答问时说，今年是又一个80周年...",
+          "pubDate": "1772939705"
         },
         {
-          "title": "恐慌指数VIX飙升至4月关税动荡以来最高水平",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-03-07/doc-inhqcips1963650.shtml",
-          "description": "芝加哥期权交易所波动率指数（VIX）周五飙升至去年4月以来最高水平，投资者紧急买入防护措施，防范股市进一步下跌。 VIX上涨6点，本周收盘报29点以上...",
-          "pubDate": "1772840683"
+          "title": "广发证券完成发行50亿元公司债券",
+          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-03-08/doc-inhqfxat0932779.shtml",
+          "description": "广发证券（01776）发布公告，广发证券股份有限公司（以下简称“发行人”）公开发行面值总额不超过人民币700亿元（含）的公司债券已获得中国证券监督管理委员会证监许可〔2026...",
+          "pubDate": "1772939661"
         },
         {
-          "title": "两会深观察｜4.5%-5%，开局之年何以重启区间目标",
-          "link": "https://finance.sina.com.cn/jjxw/2026-03-07/doc-inhqcipt8664022.shtml",
-          "description": "3月5日，国务院总理李强作政府工作报告时提出了2026年经济增长预期目标：4.5%-5%，在实际工作中努力争取更好结果。 从上年的“5%左右”到今年的区间目标，怎么看？",
-          "pubDate": "1772839200"
+          "title": "心动公司于3月6日斥资778.27万港元回购11万股",
+          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-03-08/doc-inhqfxap7746041.shtml",
+          "description": "心动公司（02400）发布公告，于2026年3月6日斥资778.27万港元回购11万股。",
+          "pubDate": "1772939594"
         },
         {
-          "title": "营收1339亿创新高！中兴通讯2025年报发布，算力业务“狂飙”150%",
-          "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-03-07/doc-inhqccfx5557503.shtml",
-          "description": "新浪科技讯 3月7日上午消息，中兴通讯昨晚发布2025年年报。年报显示，其全年营收达1339亿元，同比增长10.4%；归母净利润56.2亿元；扣非归母净利润33...",
-          "pubDate": "1772837273"
+          "title": "21个问题，信息量很大！一文读懂外交主题记者会：王毅谈伊朗局势、中美关系、中欧关系、中日关系......",
+          "link": "https://finance.sina.com.cn/china/2026-03-08/doc-inhqfxan0931049.shtml",
+          "description": "十四届全国人大四次会议于2026年3月8日（星期日）上午10时，在梅地亚中心新闻发布厅举行记者会，邀请中共中央政治局委员、外交部长王毅就“中国外交政策和对外关系”相关问题...",
+          "pubDate": "1772939028"
         },
         {
-          "title": "3月7日隔夜要闻：美股收跌 油价飙升 传波音获大额飞机订单 美国称将为中东油轮提供保险 委恢复稀释原油出口",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-03-07/doc-inhqccfz2075126.shtml",
-          "description": "欲览更多环球财经资讯，请移步7×24小时实时财经新闻 市场 3月7日收盘：美股本周收跌 中东战事令油价飙升、股指承压 3月7日美股成交额前20：Palantir本周累涨15%...",
-          "pubDate": "1772836252"
+          "title": "王毅谈中拉合作：与谁交朋友要由拉美国家自己决定",
+          "link": "https://finance.sina.com.cn/china/2026-03-08/doc-inhqfxar4518178.shtml",
+          "description": "#与谁交朋友拉美国家自己定#【王毅谈中拉合作：与谁交朋友要由拉美国家自己决定】 两会新华社快讯：王毅说，21世纪的国际舞台，不应再上演19世纪的旧戏码。",
+          "pubDate": "1772938697"
         },
         {
-          "title": "大宗商品综述：WTI创纪录最大周涨幅 黄金收窄单周跌幅 铝价大涨",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-03-07/doc-inhqccfx5551365.shtml",
-          "description": "美国原油价格录得有纪录以来最大单周涨幅，因伊朗战事扰乱关键能源市场流动，经由霍尔木兹海峡的航运几乎全面停摆。黄金周五走高...",
-          "pubDate": "1772836252"
+          "title": "王毅：中国绝不走国强必霸的路",
+          "link": "https://finance.sina.com.cn/china/2026-03-08/doc-inhqfxap7739654.shtml",
+          "description": " 【#中国绝不走国强必霸的路#】王毅：回看历史，每一次大国争霸，阵营对抗都给人类带来了灾难和痛苦。中国绝不走国强必霸的路。",
+          "pubDate": "1772938100"
         },
         {
-          "title": "美国股市：标普500指数创10月以来最大周跌幅 能源冲击叠加就业疲弱",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-03-07/doc-inhqccfv8772902.shtml",
-          "description": " 随着伊朗战争升级引发油价飙升和通胀担忧，加之美国就业意外下滑加剧增长忧虑，标普500指数录得去年10月以来最大单周跌幅，波动率大幅攀升。",
-          "pubDate": "1772836044"
+          "title": "王毅：乐见欧洲来中国市场强筋壮骨",
+          "link": "https://finance.sina.com.cn/china/2026-03-08/doc-inhqfxat0923359.shtml",
+          "description": " 【#乐见欧洲来中国市场强筋壮骨#】王毅：我们乐见欧洲的朋友们走出保护主义的“小阁楼”，来到中国市场的“健身房”，到这里来强筋壮骨，提升竞争能力。",
+          "pubDate": "1772938039"
         },
         {
-          "title": "白宫反驳弹药告罄担忧 特朗普称防务巨头将把部分武器产量提高三倍",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-03-07/doc-inhqccfu2069808.shtml",
-          "description": "针对外界关于美国武器库存下降的担忧，特朗普在白宫会议后表示，最大几家防务企业已同意增加部分武器产量。 “我们刚刚结束了与最大几家国防制造公司的会议，非常成功...",
-          "pubDate": "1772835570"
+          "title": "王毅谈伊朗局势：停止军事行动 避免升级蔓延",
+          "link": "https://finance.sina.com.cn/china/2026-03-08/doc-inhqfxan0915608.shtml",
+          "description": "外交部长王毅在会上表示，伊朗局势是当前国际局势的焦点。中方秉持客观公正态度，已多次阐明原则立场，归结为一句话就是停火止战。",
+          "pubDate": "1772937907"
         },
         {
-          "title": "大宗商品指数飙升至历史新高 战争引发石油、金属等普涨",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-03-07/doc-inhqccfz2076576.shtml",
-          "description": "周五石油引领大宗商品市场全面反弹。伊朗战争引发的混乱波及全球，同时也影响了金属供应。 商品现货指数跃升3.7%，创下历史新高。",
-          "pubDate": "1772835509"
+          "title": "王毅：世界乱象丛生 你身后的祖国稳如泰山",
+          "link": "https://finance.sina.com.cn/china/2026-03-08/doc-inhqfxar4510050.shtml",
+          "description": "【#我们的祖国稳如泰山#】王毅：世界乱象丛生，你身后的祖国稳如泰山。",
+          "pubDate": "1772937701"
         },
         {
-          "title": "纽约汇市：美元指数录得2024年11月来最佳单周表现 加元走强",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-03-07/doc-inhqccfx5546504.shtml",
-          "description": " 美元周五下跌，尽管油价飙升。美国雇主二月份意外削减就业人数。美元指数本周创2024年11月以来最大单周涨幅，加元走强，在发达国家货币中涨幅最大。",
-          "pubDate": "1772835428"
+          "title": "环球新材国际：CQV年度净利润94.51亿韩元 同比增加2.01%",
+          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-03-08/doc-inhqfxap7732289.shtml",
+          "description": "环球新材国际（06616）发布公告，本公司的非全资附属公司CQV Co．， Ltd．（CQV）截至2025年12月31日止年度总收益565.19亿韩元，同比减少6.03%；净利润94.51亿韩元...",
+          "pubDate": "1772937646"
         },
         {
-          "title": "3月7日美股成交额前20：Palantir本周累涨15%，法庭胜诉强化其知识产权和人才保护",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-03-07/doc-inhqccfz2072742.shtml",
-          "description": "周五美股成交额第1名英伟达收跌2.98%，成交337.28亿美元。据媒体援引知情人士透露，美国官员已起草法规草案，拟限制全球范围内未经美国批准的人工智能芯片发货...",
-          "pubDate": "1772834230"
+          "title": "龙源电力前2个月累计完成发电量1353.57万兆瓦时 同比增长6.42%",
+          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-03-08/doc-inhqfxap7731766.shtml",
+          "description": "龙源电力（00916）发布公告，龙源电力集团股份有限公司（以下简称本公司，连同其附属公司合称本集团）2026年2月按合并报表口径完成发电量637.29万兆瓦时...",
+          "pubDate": "1772937580"
         },
         {
-          "title": "原油：美油创纪录最大周涨幅 伊朗战事持续冲击能源供应",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-03-07/doc-inhqccfx5539789.shtml",
-          "description": "美国原油价格录得有纪录以来最大单周涨幅，因伊朗战事扰乱关键能源市场流动，经由霍尔木兹海峡的航运几乎全面停摆。 WTI周五上涨12%，收于每桶91美元下方...",
-          "pubDate": "1772834179"
+          "title": "名创优品于3月6日斥资177.16万港元回购5.26万股",
+          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-03-08/doc-inhqfxap7731315.shtml",
+          "description": "名创优品（09896）发布公告，于2026年3月6日，该公司斥资177.16万港元回购5.26万股股份，每股回购价32.9-34.04港元。",
+          "pubDate": "1772937527"
         },
         {
-          "title": "美满电子科技股价今日因何大涨18%",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-03-07/doc-inhqccfz2071286.shtml",
-          "description": "网络芯片设计公司美满电子科技（纳斯达克代码：MRVL）股价周五大涨18.35%，此前该公司公布的第四季度营收超出了华尔街预期，并为下一季度提供了强劲的销售预测。",
-          "pubDate": "1772833718"
+          "title": "越秀地产前2个月累计合同销售金额约为71.06亿元",
+          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-03-08/doc-inhqfxar4508074.shtml",
+          "description": " 越秀地产（00123）发布公告，2026年2月，本公司实现合同销售（连同合营企业及联营公司项目的合同销售）金额约为人民币29.05亿元，实现合同销售面积约为10.69万平方米。",
+          "pubDate": "1772937478"
         }
       ]
     },
@@ -956,124 +932,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "别只盯着伊朗，美国私募信贷危机正一步步重现“次贷危机”",
-          "link": "https://wallstreetcn.com/articles/3766940",
+          "title": "王毅：今年是中美关系的“大年”，高层交往议程已摆在桌面上",
+          "link": "https://wallstreetcn.com/articles/3766968",
           "description": "",
-          "pubDate": "2026-03-07T02:47:36"
+          "pubDate": "2026-03-08T03:09:06"
         },
         {
-          "title": "连续16个月增持！中国2月末黄金储备环比增加3万盎司",
-          "link": "https://wallstreetcn.com/articles/3766943",
+          "title": "中东战火冲击大类资产，油价飙升，听中国国际问题研究所杨希雨闭门分享中东局势风向标",
+          "link": "https://wallstreetcn.com/articles/3766956",
           "description": "",
-          "pubDate": "2026-03-07T02:35:11"
+          "pubDate": "2026-03-08T02:57:31"
         },
         {
-          "title": "中国正在卷起一场OpenClaw风暴",
-          "link": "https://wallstreetcn.com/articles/3766942",
+          "title": "真要压油价，美国“几乎只有一个办法”：霍尔木兹海峡",
+          "link": "https://wallstreetcn.com/articles/3766964",
           "description": "",
-          "pubDate": "2026-03-07T02:03:18"
+          "pubDate": "2026-03-08T02:23:52"
         },
         {
-          "title": "贝森特称或解除更多对俄原油制裁，释放“滞留海上原油”压油价",
-          "link": "https://wallstreetcn.com/articles/3766938",
+          "title": "成功闯关霍尔木兹，这家船队在美伊战争中赚翻了！ ——一文起底希腊船王Prokopiou",
+          "link": "https://wallstreetcn.com/articles/3766961",
           "description": "",
-          "pubDate": "2026-03-07T01:46:13"
+          "pubDate": "2026-03-08T02:12:33"
         },
         {
-          "title": "新门罗主义：霸权逻辑的演进与危害",
-          "link": "https://wallstreetcn.com/articles/3766939",
+          "title": "中国货船“铁娘子”号，成功通过霍尔木兹海峡！",
+          "link": "https://wallstreetcn.com/articles/3766966",
           "description": "",
-          "pubDate": "2026-03-07T01:15:18"
+          "pubDate": "2026-03-08T01:53:34"
         },
         {
-          "title": "美国私募信贷危机扩散！“全球最大资管”也被迫“限制赎回”旗下私募信贷基金",
-          "link": "https://wallstreetcn.com/articles/3766937",
+          "title": "中东原油“停产潮”：阿联酋、科威特宣布减产",
+          "link": "https://wallstreetcn.com/articles/3766962",
           "description": "",
-          "pubDate": "2026-03-07T00:55:09"
+          "pubDate": "2026-03-08T01:15:55"
         },
         {
-          "title": "华尔街见闻早餐FM-Radio | 2026年3月7日",
-          "link": "https://wallstreetcn.com/articles/3766936",
+          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
+          "link": "https://wallstreetcn.com/articles/3766963",
           "description": "",
-          "pubDate": "2026-03-06T23:31:33"
+          "pubDate": "2026-03-08T00:48:07"
         },
         {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "link": "https://wallstreetcn.com/articles/3766935",
+          "title": "美银与存储一线厂商交流：中东目前影响甚微，2月销售异常强劲",
+          "link": "https://wallstreetcn.com/articles/3766960",
           "description": "",
-          "pubDate": "2026-03-06T23:05:17"
+          "pubDate": "2026-03-07T12:30:05"
         },
         {
-          "title": "非农爆冷叠加中东战火，美国股汇齐跌，大宗商品指数历史新高，美油飙升16%，“恐慌指数”VIX大涨",
-          "link": "https://wallstreetcn.com/articles/3766902",
+          "title": "关于GDP增长目标、新兴与未来产业、延长义务教育年限...发改委解读“十五五”规划《纲要（草案）》",
+          "link": "https://wallstreetcn.com/articles/3766959",
           "description": "",
-          "pubDate": "2026-03-06T23:00:49"
+          "pubDate": "2026-03-07T12:04:15"
         },
         {
-          "title": "特朗普保海湾航运第一步：美国推出200亿美元海运再保险工具",
-          "link": "https://wallstreetcn.com/articles/3766934",
+          "title": "高盛的判断：Claude Cowork成首个“代理工作流可信案例”，OpenClaw展示未来人机交互方向",
+          "link": "https://wallstreetcn.com/articles/3766958",
           "description": "",
-          "pubDate": "2026-03-06T22:40:46"
+          "pubDate": "2026-03-07T11:32:38"
         },
         {
-          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
-          "link": "https://wallstreetcn.com/articles/3766927",
+          "title": "美国宣布有条件放松对委内瑞拉黄金交易相关制裁！委代总统：将以“特朗普式速度”加快美获取委矿产进程，包括黄金、稀土等",
+          "link": "https://wallstreetcn.com/articles/3766957",
           "description": "",
-          "pubDate": "2026-03-06T22:20:33"
+          "pubDate": "2026-03-07T10:41:30"
         },
         {
-          "title": "彭博大宗商品指数飙至历史新高，美油日涨17%、周涨幅创纪录，欧天然气全周一度翻倍",
-          "link": "https://wallstreetcn.com/articles/3766932",
+          "title": "没了卡塔尔的LNG—中国化工的机会，亚洲电力的风险",
+          "link": "https://wallstreetcn.com/articles/3766955",
           "description": "",
-          "pubDate": "2026-03-06T22:12:17"
+          "pubDate": "2026-03-07T10:26:40"
         },
         {
-          "title": "油价、失业率齐升！“新美联储通讯社”：美联储最害怕的局面逼近",
-          "link": "https://wallstreetcn.com/articles/3766933",
+          "title": "20%回调又如何？高盛：韩股将在盘整后创新高",
+          "link": "https://wallstreetcn.com/articles/3766952",
           "description": "",
-          "pubDate": "2026-03-06T22:06:12"
+          "pubDate": "2026-03-07T08:56:58"
         },
         {
-          "title": "能源金属之后，农产品正悄然接棒新一轮大宗商品行情",
-          "link": "https://wallstreetcn.com/articles/3766918",
+          "title": "3月6日经济主题记者会的十大增量信息",
+          "link": "https://wallstreetcn.com/articles/3766953",
           "description": "",
-          "pubDate": "2026-03-06T16:07:57"
+          "pubDate": "2026-03-07T08:56:29"
         },
         {
-          "title": "美国经济疲软与对伊朗军事行动：一场危险的博弈",
-          "link": "https://wallstreetcn.com/articles/3766930",
+          "title": "真正的油价冲击！中东原油“停产潮”即将来到",
+          "link": "https://wallstreetcn.com/articles/3766945",
           "description": "",
-          "pubDate": "2026-03-06T16:07:46"
+          "pubDate": "2026-03-07T08:33:11"
         },
         {
-          "title": "WTI原油涨幅扩大至8%，报道：因存储空间耗尽，科威特削减部分石油产量",
-          "link": "https://wallstreetcn.com/articles/3766924",
+          "title": "今年1月，“风光无限”的“AI编程明星”Cursor发现：市场可能没了",
+          "link": "https://wallstreetcn.com/articles/3766951",
           "description": "",
-          "pubDate": "2026-03-06T16:07:18"
+          "pubDate": "2026-03-07T08:02:56"
         },
         {
-          "title": "非农意外大幅转弱，美联储戴利称劳动力市场不稳时很难加息，古尔斯比盼年内恢复降息",
-          "link": "https://wallstreetcn.com/articles/3766925",
+          "title": "全球市场回调何时结束？“2020年代市场”会重演“1970年代”滞胀剧本吗？",
+          "link": "https://wallstreetcn.com/articles/3766949",
           "description": "",
-          "pubDate": "2026-03-06T15:52:48"
+          "pubDate": "2026-03-07T07:16:11"
         },
         {
-          "title": "熬过中东冲突 文远知行迪拜Robotaxi实现复运",
-          "link": "https://wallstreetcn.com/articles/3766931",
+          "title": "高盛“撕报告”：如果霍尔木兹海峡未来几天没“如期恢复”，油价“巨大上行风险”迅速扩大",
+          "link": "https://wallstreetcn.com/articles/3766948",
           "description": "",
-          "pubDate": "2026-03-06T15:44:47"
+          "pubDate": "2026-03-07T06:18:38"
         },
         {
-          "title": "报道：日本考虑单独行动，释放国家石油储备",
-          "link": "https://wallstreetcn.com/articles/3766907",
+          "title": "付鹏：迎接AI时代的生产关系变革【付鹏说21】",
+          "link": "https://wallstreetcn.com/articles/3766812",
           "description": "",
-          "pubDate": "2026-03-06T15:33:34"
+          "pubDate": "2026-03-07T05:47:29"
         },
         {
-          "title": "爆冷！美国2月非农就业人口减少9.2万，前两月就业下修6.9万，失业率意外升至4.4%",
-          "link": "https://wallstreetcn.com/articles/3766920",
+          "title": "事关教育、医疗、就业……这场记者会信息量很大！",
+          "link": "https://wallstreetcn.com/articles/3766947",
           "description": "",
-          "pubDate": "2026-03-06T15:09:23"
+          "pubDate": "2026-03-07T05:39:47"
         }
       ]
     },
@@ -1085,7 +1061,25 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "9点1氪丨贾国龙卸任西贝CEO；字节跳动启动最大规模转正实习生招聘；OpenClaw爆火，程序员上门安装收费500元",
+          "title": "OpenClaw掀起龙虾热：行动ASI奇点时刻！全球打工人巨变",
+          "link": "https://36kr.com/p/3713633084125321?f=rss",
+          "description": "编辑：犀牛\n  OpenClaw是我们这个时代「最重要的」软件发布！\n  刚刚，黄仁勋在摩根士丹利大会上激动地表示。\n  「这证明了Agentic AI的真正实力」，他说。\n  \n  黄仁勋\n  3月，这只龙虾以人类历史上从未见过的速度，爬上GitHub的王座。\n  正式加冕GitHub软件项目星标榜史上第一。\n  \n  GitHub软件项目星标榜\n  React花了十三年，靠无数求职要求、企业架构选型和培训班的反复锤炼才攒下逾24万颗星。\n  OpenClaw达到同样的高度，只用了100天。\n  随着OpenClaw的爆火，全球用户在AI Agent上消耗的Token量 整整 暴涨了1000倍！\n  这不是一次普通的开源项目走红，这是一个信号——一个比编程奇点更加剧烈的奇点，正在撕裂我们习以为常的世界。\n  我们暂把它叫做：行动奇点。\n  Claude Code和Claude Cowork证明了AI能独立造出软件级产品，而OpenClaw证明了AI能直接接管人类的操作界面去执行任务。\n  前者改变的是开发者的工作方式，后者将改变的是所有人的工作方式。\n  这两股力量，正在以指数级速度",
+          "pubDate": "2026-03-08 10:10:59  +0800"
+        },
+        {
+          "title": "90 后女首富诞生",
+          "link": "https://36kr.com/p/3713629026972034?f=rss",
+          "description": "作者/王露\n  报道/投资界PEdaily\n  AI造富惊人。\n  最新发布的《胡润全球富豪榜》中，Lucy Guo以90亿元身家跻身榜单，成为全球90后白手起家女首富。\n  她的故事正是这一轮AI浪潮的缩影：10年前联合创办Scale AI，即便早已离职，但凭借手中疯狂膨胀的股权，跻身全球前1%富豪之列。\n  把视线拉远，一幅更宏大的财富图景正在展开：越来越多的女性创业者在AI赛道强势崛起，成为聚光灯下的新主角。而在光影之外，另一条通往财富自由的路径也被打通。一批AI公司里年轻的工程师、研究员乃至实习生，在短短数年间完成了命运跃迁。\n  31岁，全球最年轻女富豪\n  一位90后女生成长往事徐徐展开。\n  1994年，Lucy Guo出生于旧金山一个华裔家庭，父母是电子工程师。正如大部分中国式父母那样，认为好好学习才是正道，对她的教育非常严格。补习、竞赛、珠算练习，几乎一样不落。\n  她也早早展露出了极客天赋。十几岁时自学编程，并在网上售卖虚拟物品，赚到了人生的第一笔钱。后来，她顺利考入卡耐基梅隆大学攻读计算机科学。但命运很快给她打开了另一扇门——获得蒂尔奖学金后，她做出一个大胆决定：",
+          "pubDate": "2026-03-08 09:45:52  +0800"
+        },
+        {
+          "title": "全球最小电缸诞生：原法雷奥团队创业、上汽等投资超亿元｜36氪首发",
+          "link": "https://36kr.com/p/3713617026199688?f=rss",
+          "description": "作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，精密传动部件供应商——诺仕机器人（NOUSBOT）近日完成超亿元人民币A轮融资。\n  本轮融资由上海半导体产投领投，联想创投、琥珀资本跟投，汽车产业链上市公司克来机电、鹏翎股份战略入股，老股东上汽金控继续加注。资金将用于产能扩张、技术研发迭代及市场拓展。\n  诺仕机器人成立于2023年7月，专注于行星滚柱丝杠及微型线性执行器的研发与量产。\n  关于团队背景，公司技术顾问徐根林教授是上海大学退休教授，在机械制造领域深耕超过50年；公司创始人徐杨本人硕士毕业于同济大学，曾任法国汽⻋⻰头法雷奥集团亚太研发中心研发部负责人；联合创始人王晓斌曾任法雷奥集团分公司副总经理。整个高管团队多来自法雷奥。\n  行星滚柱丝杠是线性传动的核心部件，其微型化是精密机械制造领域的技术高地。诺仕机器人的核心突破在于将行星滚柱丝杠做到全球最小——直径仅1.5mm，螺母直径5.5mm，却能稳定输出10kg负载力，寿命超300万次。\n  此外，公司进一步集成无刷电机与非接触式传感器，打造出全球体积最小的一体化微型线性电缸。这一突破使人形机器人的灵巧手首次具备每个手指独立驱动、",
+          "pubDate": "2026-03-08 09:26:53  +0800"
+        },
+        {
+          "title": "9点1氪丨贾国龙卸任西贝CEO；字节��动启动最大规模转正实习生招聘；OpenClaw爆火，程序员上门安装收费500元",
           "link": "https://36kr.com/p/3712170172264838?f=rss",
           "description": "今日热点导览\n  \n   字节跳动启动最大规模转正实习生招聘，拟招超7000人\n   黄仁勋称OpenClaw为：当代最重磅的软件发布\n   印尼：3月28日起将限制16岁以下儿童使用YouTube、Facebook等平台\n   SpaceX计划在2027年底前发射约1200颗第二代卫星\n   雅诗兰黛收购Forest Essentials剩余股份\n   东芝重组巨额债务，目标2028财年重新上市\n  \n  TOP3大新闻\n  贾国龙卸任西贝CEO，前任CEO董俊义重新回归该职\n  36氪独家获悉，春节前，贾国龙卸任西贝主品牌CEO，前任CEO董俊义重新回归该职。后者从1992年起就加入西贝，从学徒一路成长为店长、分部经理，直至西贝事业部CEO。\n  近日，西贝对内宣告“因公司业务量大幅下降”，不少总部员工需待岗（按照最低工资标准执行），或是离开。\n  一位被要求离开的总部员工告诉36氪，公司给出三种方案——一是停薪留职；二是公司发放2025年的部分绩效，员工收到后主动离职；三是按照“N”倍补偿解聘，但补偿金需分期一年支付，也可能以“转股份”形式解决。据36氪了解，原本西贝总部有超过5",
           "pubDate": "2026-03-07 08:57:15  +0800"
@@ -1127,82 +1121,64 @@
           "pubDate": "2026-03-05 23:23:30  +0800"
         },
         {
-          "title": "透视“速成车”，行业不可承受之快",
-          "link": "https://36kr.com/p/3616382576084225?f=rss",
-          "description": "“速成车”踩刹车\n  2026年一开年，监管部门再一次收紧了对汽车开发的要求。这让不少“老汽车人”松了一口气。\n  一名头部车企的软件总工告诉36氪，在他十余年的从业生涯里，从未经历过去几年的激进时刻：\n  原本需要适配两年才能上车的新架构，现在10个月就得上车；之前机械验证要做的两次冬测试、两次夏测，被压缩成了一次冬测、一次夏测。\n  原本要验证4个月的整车控制软件，现在2个星期就可以上车。\n  他这种内行人才知道���隐忧还有：看似测试环节都在，但压缩时长伴随着高强度加班，实际操作中，需要测200次的项目最后可能只测了30次；测完10次，员工便可能说已经测过100次了。\n  “有些问题就会测不出来，其中可能包含高安全相关问题。比如经常车卖出去，门把手出不来等等B类问题还有一堆。”\n  因为智能电动车普遍的特点是可以空中升级，不少车交车时，一些软件还未开发完成，公司就寄希望于后续推出软件更新，这自然包括使用更新来修复验证不充分导致的问题。\n  一位头部造车公司的辅助驾驶人士说，“为了改进刹车体验，虽然有一版软件带有制动时机偏晚的安全隐患，也被推了出去。”\n  “因为觉得反正可以OTA",
-          "pubDate": "2026-03-05 21:30:30  +0800"
+          "title": "王毅：“零关税”为非洲提供机遇",
+          "link": "https://36kr.com/newsflashes/3713724937498761?f=rss",
+          "description": "3月8日，十四届全国人大四次会议今天举行外交主题记者会。外交部长王毅在会上表示，中国将于5月1日全面实施对非洲100%税目产品的零关税，在中国高水平开放带动下，我们将以关税的“减法”，推动贸易的“加法”，实现民生的“乘法”，让中国大市场为非洲提供更大的机遇。（央视新闻）",
+          "pubDate": "2026-03-08 11:16:21  +0800"
         },
         {
-          "title": "奔驰新车平台首落中国，要用吉利架构 | 36氪独家",
-          "link": "https://36kr.com/p/3709965457240197?f=rss",
-          "description": "今年1月底，奔驰管理层开始不断出现在吉利杭州湾研发中心，36氪从多位产业人士处了解到，两家车企巨头正在商谈一场整车电子电气级别的合作。&nbsp;\n  电子电气架构，也叫EE架构，是汽车智能化、数字化、网联化的基础，也是支撑辅助驾驶、智能座舱的核心。或者说，它就是智能汽车时代，车企口中的“灵魂”部分。&nbsp;\n  2月初，吉利管理层又带着翻译人员前往上海金桥，与奔驰进一步敲定了合作方向。&nbsp;\n  目前，双方已经初步达成共识，奔驰将基于吉利的GEEA电子电气架构，开发全新的电动车平台。目前，奔驰在基于GEEA&nbsp;4.0版本做POC验证（项目开始前的概念验证）。\n  吉利GEEA4.0架构，是吉利集团正在开发的、油电通用的电子电气架构。2024年，GEEA3.0架构首发于银河E5车型，这一架构曾为吉利撑起了百万级的销量规模。&nbsp;\n  吉利是奔驰母公司戴姆勒的大机构股东之一，从发动机、到混动系统以及智驾，双方业务交往颇多。\n  但整车级的合作，这几乎是首次。事实上，在行业中，也几乎只有大众和小鹏、斯特兰蒂斯与零跑等车企之间，通过强资本绑定，方能展开整车级的深度合作",
-          "pubDate": "2026-03-05 19:32:26  +0800"
+          "title": "王毅谈中国经济：大国之大，在于利天下",
+          "link": "https://36kr.com/newsflashes/3713724433183112?f=rss",
+          "description": "3月8日，王毅在就中国经济答问时说，大国之大，在于利天下。中国将扩大高水平对外开放，不仅承担起“世界工厂”的责任，还要发挥好“世界市场”的作用。（新华社）",
+          "pubDate": "2026-03-08 11:15:51  +0800"
         },
         {
-          "title": "氪星晚报｜谷歌DeepMind向千问团队抛橄榄枝；韩国总统下令实施100万亿韩元资本市场稳定计划；默沙东回应美国疫苗工厂裁员",
-          "link": "https://36kr.com/p/3709831706374531?f=rss",
-          "description": "大公司：\n  阿里巴巴旗下公司在杭州成立智能科技新公司\n  36氪获悉，爱企查App显示，近日，杭州瓴通智能科技有限公司成立，法定代表人为林鸣晖，注册资本1000万元人民币，经营范围包括软件开发、计算机软硬件及外围设备制造、数据处理和存储支持服务、大数据服务、互联网数据服务、人工智能应用软件开发等。股东信息显示，该公司由阿里巴巴旗下北京锐讯灵通科技有限公司全资持股。\n  谷歌DeepMind向千问团队抛橄榄枝\n  3月5日下午，谷歌DeepMind开发团队相关负责人Omar Sanseviero在社交平台喊话Qwen 的朋友：“如果您想找个新地方来构建优秀的模型，并为开放模型生态系统做出贡献，请联系我们！我们的发展路线图上有很多令人兴奋的内容，未来还有很多工作要做。”今日，阿里巴巴批准通义实验室林俊旸的辞职申请。（第一财经）\n  京东健康：2025年总收入734亿元，同比增长26.3%\n  36氪获悉，京东健康发布2025年全年业绩公告。2025年，京东健康总收入为734亿元，同比增长26.3%；非国际财务报告准则指标下（Non-IFRS）净利润达65亿元，同比增长36.3%，净利润率",
-          "pubDate": "2026-03-05 17:27:33  +0800"
+          "title": "王毅：继续优化人员往来政策，进一步释放免签红利",
+          "link": "https://36kr.com/newsflashes/3713715991261320?f=rss",
+          "description": "王毅说，我们将继续优化人员往来政策，进一步释放免签红利，完善各项配套服务，让外国朋友来华旅游生活更加舒适便捷，让中国公民“走出去”也更加顺畅安全。（新华社）",
+          "pubDate": "2026-03-08 11:07:15  +0800"
         },
         {
-          "title": "人力资源社会保障部部长：正研究措施发挥人工智能创造新岗位和赋能传统岗位作用",
-          "link": "https://36kr.com/newsflashes/3712308738716032?f=rss",
-          "description": "人力资源社会保障部部长王晓萍3月7日在十四届全国人大四次会议民生主题记者会上表示，人力资源社会保障部正在研究相关措施，积极发挥人工智能在创造新岗位和赋能传统岗位方面的作用，推动实现技术进步与民生改善相协调的包容性发展。（新华社）",
-          "pubDate": "2026-03-07 11:15:43  +0800"
+          "title": "王毅谈中欧关系：相互依赖不是风险，利益交融不是威胁",
+          "link": "https://36kr.com/newsflashes/3713707227820162?f=rss",
+          "description": "王毅说，中欧合作的事实表明，相互依赖不是风险，利益交融不是威胁，开放合作不会损害经济安全，筑墙设垒只能孤立自己。我们乐见欧洲的朋友们走出保护主义的“小阁楼”，来到中国市场的“健身房”，到这里来强筋壮骨，提升竞争能力。（新华社）",
+          "pubDate": "2026-03-08 10:58:20  +0800"
         },
         {
-          "title": "我国高等教育毛入学率超60% “双一流”高校扩招3.8万人",
-          "link": "https://36kr.com/newsflashes/3712301777334658?f=rss",
-          "description": "十四届全国人大四次会议今天举行民生主题记者会。教育部部长怀进鹏在会上介绍，当前，我国举办着世界上规模最大且有质量的教育。在高等教育方面，“十四五”期间累计向社会输送5500万人才，毛入学率从十八大前的不到30%到现在超过60%，提高一倍多。近两年通过优质本科扩容，“双一流”高校扩招3.8万人。此外，这五年还新增普通本科高校18所、职业本科70所，增加本科招生70万；推进国际合作办学，新设540多个本科以上中外合作办学机构和项目，新增学位供给35万。（央视新闻）",
-          "pubDate": "2026-03-07 11:08:39  +0800"
+          "title": "王毅谈中美关系：中美改变不了彼此，但可以改变相处方式",
+          "link": "https://36kr.com/newsflashes/3713681922306438?f=rss",
+          "description": "3月8日，王毅说，中美都是大国，都改变不了彼此，但可以改变相处方式，那就是秉持相互尊重的态度，守住和平共处的底线，争取合作共赢的前景，这才符合两国人民的利益，也符合国际社会的期待。（新华社）",
+          "pubDate": "2026-03-08 10:32:36  +0800"
         },
         {
-          "title": "青岛：发布首批OPC AI工具包清单",
-          "link": "https://36kr.com/newsflashes/3712253995692162?f=rss",
-          "description": "3月6日，青岛人工智能产业协会发布青岛市OPC（一人公司）AI工具包（第一批）清单。首批清单涵盖13款工具，工具包聚焦单人创业高频刚需，集成内容生成、数据处理、效率办公、智能客服等核心能力，能够为创业者提供从想法到落地的全链条AI赋能。",
-          "pubDate": "2026-03-07 11:04:56  +0800"
+          "title": "王毅：从深圳再出发，向着亚太共同体目标再启航",
+          "link": "https://36kr.com/newsflashes/3713674404721029?f=rss",
+          "description": "3月8日，王毅说，今年是亚太经合组织（APEC）“中国年”，也是中国第3次担任东道主。我们愿同各方一道，推动APEC从深圳再出发，向着亚太共同体目标再启航。（新华社）",
+          "pubDate": "2026-03-08 10:24:57  +0800"
         },
         {
-          "title": "中信证券：继续看好存储需求超预期 预计行业供不应求将持续至27H1",
-          "link": "https://36kr.com/newsflashes/3712251033858435?f=rss",
-          "description": "3月7日，中信证券研报指出，2月以来，随铠侠业绩及指引超预期、NAND一季度合约价上调、以及国内模组厂商佰维存储发布1-2月业绩公告超预期，进一步验证了存储行业景气度维持高位。中信证券继续看好存储需求超预期，预计行业供不应求将持续至27H1，核心推荐短期业绩爆发性强的存储模组公司、存储原厂及贴近原厂的设计公司。（每经网）",
-          "pubDate": "2026-03-07 10:43:37  +0800"
+          "title": "王毅谈元首外交：推动人类命运共同体建设开辟新境界",
+          "link": "https://36kr.com/newsflashes/3713673573249159?f=rss",
+          "description": "3月8日，王毅说，今年，习近平主席将在国内接待各方来宾，主持亚太经合组织领导人非正式会议、第二届中国－阿拉伯国家峰会等重大主场外交，还将开展数起重要的出访，必将推动中国与世界的关系朝着更加积极的方向迈进，必将推动人类命运共同体建设开辟新的境界，必将推动中华民族为世界的和平与发展事业作出新的贡献。（新华社）",
+          "pubDate": "2026-03-08 10:24:06  +0800"
         },
         {
-          "title": "我国科学家研发出人体热发电新型材料",
-          "link": "https://36kr.com/newsflashes/3712248759283842?f=rss",
-          "description": "把人变成“行走的充电宝”，有望从科幻走进现实。现在，科学家盯上了我们身上产生的多余热量，研发出一种特殊的塑料热电薄膜材料，可将热能转化为电能，给随身的电子设备充电，其核心指标创造了同类材料的最新世界纪录。这一成果昨天（6日）在国际学术期刊《科学》发表。（央视新闻）",
-          "pubDate": "2026-03-07 10:25:45  +0800"
+          "title": "韩国正考虑30年来首次实施石油价格上限制度",
+          "link": "https://36kr.com/newsflashes/3713655643369860?f=rss",
+          "description": "消息人士透露，韩国正考虑30年来首次实施石油价格上限制度。（新浪财经）",
+          "pubDate": "2026-03-08 10:20:50  +0800"
         },
         {
-          "title": "谷歌为CEO提供了一份6.92亿美元的新薪酬方案",
-          "link": "https://36kr.com/newsflashes/3712208447320455?f=rss",
-          "description": "谷歌已将桑达尔・皮查伊未来三年的潜在总薪酬提高至 6.92 亿美元，使其成为全球薪酬最高的首席执行官之一。该公司周五表示，皮查伊薪酬方案的主要部分为绩效股票单位（PSUs），目标价值 1.26 亿美元，平均分为两批发放。这些绩效股票单位的价值将根据母公司 Alphabet 的总股东回报率与标普 100 指数成分股的对比情况确定：若 Alphabet 业绩显著领先，最高可发放目标价值的两倍，即 2.52 亿美元；若业绩落后，则可能分文不得。（新浪财经）",
-          "pubDate": "2026-03-07 10:17:29  +0800"
+          "title": "阿布扎比国家石油公司称正在“管理”海上石油产量以应对存储需求",
+          "link": "https://36kr.com/newsflashes/3713650696401281?f=rss",
+          "description": "阿联酋最大的石油公司表示，正在“管理”海上石油产量水平，以应对存储需求。阿布扎比国家石油公司在声明中称，公司正在继续利用绕开霍尔木兹海峡的出口能力，以及其国际存储设施，确保供应仍能送达全球市场的客户。（新浪财经）",
+          "pubDate": "2026-03-08 10:07:48  +0800"
         },
         {
-          "title": "诺和诺德和HIMS将共同销售减肥药，结束双方的争端。",
-          "link": "https://36kr.com/newsflashes/3712205223211143?f=rss",
-          "description": "Hims & Hers Health(HIMS.US)美股盘后暴涨超35%，消息称诺和诺德计划在Hims & Hers Health Inc.的平台上销售其减肥药，从而终结两家公司之间一场高度公开的纠纷，该纠纷上月曾升级为法律诉讼。这位要求匿名的知情人士表示，诺和诺德与Hims最早可能于下周一宣布建立新的合作关系。两家公司去年曾达成类似协议，但在Hims拒绝停止营销和销售仿制版本药物后，诺和诺德单方面终止了协议。（格隆汇）",
-          "pubDate": "2026-03-07 09:59:31  +0800"
-        },
-        {
-          "title": "微软、谷歌和亚马逊确认继续提供Anthropic技术",
-          "link": "https://36kr.com/newsflashes/3712198940324229?f=rss",
-          "description": "在美国国防部近期将人工智能新贵 Anthropic 技术正式认定为供应链风险之后，谷歌周五宣布将继续向客户提供Anthropic的人工智能技术，但国防相关用途除外。随后亚马逊跟进，宣布将继续向其云服务客户提供Anthropic相关技术。此前一天，微软已向客户发布了类似声明。\n\n上周，Anthropic拒绝接受国防部提出的使用条款后，美国总统特朗普下令联邦机构停止使用该公司技术；国防部长皮特・赫格塞斯表示，与Anthropic的合作将在六个月内逐步终止。（第一财经）",
-          "pubDate": "2026-03-07 09:52:13  +0800"
-        },
-        {
-          "title": "欧洲私募巨头CVC拟在上市前收购比利时Belfius银行股份",
-          "link": "https://36kr.com/newsflashes/3712186603090049?f=rss",
-          "description": "欧洲私募巨头CVC拟在上市前收购比利时Belfius银行股份。据媒体报道，比利时政府计划出售国有银行Belfius 20%至30%的股份，旨在为增加国防开支筹集数十亿欧元资金。比利时承诺到2029年将其国防开支提高至GDP的2%。（财联社）",
-          "pubDate": "2026-03-07 09:45:34  +0800"
-        },
-        {
-          "title": "美联储柯林斯：无紧急必要改变货币政策立场，预计通胀将缓慢回落至2%的目标",
-          "link": "https://36kr.com/newsflashes/3712194076012676?f=rss",
-          "description": "据报道，美联储柯林斯表示，就业增长步伐可能会加快，但很可能会保持总体温和；目前是美联储在利率政策上保持耐心和审慎的时候；若要再次降息，需看到通胀回落的明确证据；没有紧急必要改变货币政策立场，预计通胀将缓慢回落至2%的目标；通胀前景存在不确定性，存在上行风险。并表示，美联储政策目前处于有利地位，预计美联储利率目标“在一段时间内”将保持稳定。（界面新闻）",
-          "pubDate": "2026-03-07 09:38:54  +0800"
+          "title": "OpenAI年化营收突破250亿美元，Anthropic缩小差距",
+          "link": "https://36kr.com/newsflashes/3713631049757064?f=rss",
+          "description": "知情人士透露，截至上个月，OpenAI的年化营收已突破250亿美元。这一数字比该公司去年年底的214亿美元年化营收增长了17%。OpenAI的营收仍然高于其竞争对手Anthropic，但两家巨头之间的差距正在缩小：Anthropic的年化营收最近突破190亿美元，是去年年底的两倍，比两周前增长了36%。（新浪财经）",
+          "pubDate": "2026-03-08 09:46:54  +0800"
         }
       ]
     },
@@ -1220,8 +1196,14 @@
       "category": "商业",
       "region": "chinese",
       "url": "https://www.huxiu.com/rss/0.xml",
-      "itemCount": 9,
+      "itemCount": 10,
       "items": [
+        {
+          "title": "刀片再出鞘，王传福能否杀出“逆风局”？",
+          "link": "http://www.huxiu.com/article/4839882.html?f=wangzhan",
+          "description": "出品|虎嗅汽车组作者|王亚骏头图|视觉中国“我想，没有人，比我们比亚迪更懂电池。”在3月5日举办的比亚迪技术发布会上，一向低调的王传福并未掩锋芒。&nbsp;当晚，比亚迪发布了第二代刀片电池、新的闪充技术，并展示了仰望U7、大唐和宋Ultra等10款车型。图源：发布会在发布会上，第二代刀片电池是首个被介绍的产品，王传福并没有过多解释其技术原理，而是重点介绍了这款产品会如何提升补能效率：&nbsp;从10%到70%，充电时间5分钟；从10%到97%，充电时间9分钟；在零下30摄氏度的气温下，只会多出3分钟。&nbsp;对比市面上的其他车型来看，新电池的充电速度的确快了约30%～50%。行业中有观点认为，比亚迪第二代刀片电池甚至已经撼动了蔚来的换电优势。与之对比，蔚来第四代换电站换电的最快速度为2分24秒。&nbsp;对于比亚迪而言，刀片电池的确有着特殊的意义。6年前，比亚迪发布了第一代刀片电池，这款产品一定程度上帮助公司进入了一轮高增长周期。&nbsp;2020年，比亚迪年销量为42.7万辆，在行业内只能算“有力竞争者之一”；而到了2025年，公司年销量达到了460.2万辆，不仅连续四年",
+          "pubDate": "Sat, 07 Mar 2026 10:40:05 +0800"
+        },
         {
           "title": "激光雷达，能拉爆鸿蒙五界的销量吗？",
           "link": "http://www.huxiu.com/article/4839768.html?f=wangzhan",
