@@ -1,5 +1,5 @@
 {
-  "fetchTime": "2026-06-24T05:04:08.615072",
+  "fetchTime": "2026-06-25T05:08:24.902671",
   "sources": [
     {
       "name": "Reuters Business",
@@ -18,28 +18,52 @@
       "itemCount": 20,
       "items": [
         {
+          "title": "I've spent 30 years in recruitment - this is how to get a job",
+          "link": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
+          "description": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
+          "pubDate": "Wed, 24 Jun 2026 23:06:16 GMT"
+        },
+        {
+          "title": "VAT cut on theme parks and kids' meals comes into force",
+          "link": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss",
+          "description": "The government will reduce tax from 20% to 5% on a range of attractions as schools begin to break-up.",
+          "pubDate": "Wed, 24 Jun 2026 23:02:33 GMT"
+        },
+        {
+          "title": "Baroness Mone among individuals sued to recover PPE Medpro millions",
+          "link": "https://www.bbc.co.uk/news/articles/c7vy1y7myn5o?at_medium=RSS&at_campaign=rss",
+          "description": "The Baroness and her husband Doug Barrowman are among individuals being sued in a bid to recover some of the money owed to the government by the business.",
+          "pubDate": "Wed, 24 Jun 2026 17:32:22 GMT"
+        },
+        {
+          "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+          "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+          "description": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+          "pubDate": "Thu, 25 Jun 2026 03:12:17 GMT"
+        },
+        {
+          "title": "Texas family sues Tesla over fatal crash into home",
+          "link": "https://www.bbc.co.uk/news/articles/c8x2rzke05yo?at_medium=RSS&at_campaign=rss",
+          "description": "A woman in her 70s was killed after a Tesla crashed directly into the family’s home.",
+          "pubDate": "Wed, 24 Jun 2026 22:33:56 GMT"
+        },
+        {
+          "title": "The legal fight to get equal pay for Germany's disabled workers",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
+          "description": "A test case is seeking the minimum wage for 300,000 disabled people who currently get paid less.",
+          "pubDate": "Wed, 24 Jun 2026 23:10:28 GMT"
+        },
+        {
+          "title": "Elon Musk loses trillionaire status as global tech rout hits SpaceX",
+          "link": "https://www.bbc.co.uk/news/articles/c8j2m2p8dgmo?at_medium=RSS&at_campaign=rss",
+          "description": "Elon Musk lost his trillionaire status on Tuesday after a brutal global tech rout erased billions from his wealth.",
+          "pubDate": "Wed, 24 Jun 2026 17:45:13 GMT"
+        },
+        {
           "title": "The economic challenges facing the next prime minister",
           "link": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
           "description": "Though the person in charge of the country will change, the fiscal issues remain the same.",
           "pubDate": "Tue, 23 Jun 2026 23:01:55 GMT"
-        },
-        {
-          "title": "Ten years on, Brexit's economic impact is becoming clearer",
-          "link": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss",
-          "description": "A decade ago, many economists argued the UK would sustain longer-term economic damage by leaving the EU. So what did happen?",
-          "pubDate": "Tue, 23 Jun 2026 23:07:34 GMT"
-        },
-        {
-          "title": "Stanford was their golden ticket - could AI help or hinder that?",
-          "link": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
-          "description": "The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.",
-          "pubDate": "Tue, 23 Jun 2026 23:16:37 GMT"
-        },
-        {
-          "title": "Tech stocks tumble on concerns over AI spending",
-          "link": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss",
-          "description": "A sudden wave of selling in major tech shares triggers doubt over the sustainability of the AI boom.",
-          "pubDate": "Tue, 23 Jun 2026 17:34:02 GMT"
         },
         {
           "title": "Who could be the UK's next chancellor?",
@@ -48,10 +72,58 @@
           "pubDate": "Wed, 24 Jun 2026 00:43:24 GMT"
         },
         {
-          "title": "Do you know your 'sweat score'? The rise of hydration tech",
-          "link": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
-          "description": "Hydration tracking gadgets are flooding the market but is it too much information?",
-          "pubDate": "Mon, 22 Jun 2026 23:01:11 GMT"
+          "title": "Trump accuses big oil firms of price-gouging drivers",
+          "link": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+          "description": "The US president named Shell, ExxonMobil, BP and Chevron when talking to reporters about a probe into fuel prices.",
+          "pubDate": "Thu, 25 Jun 2026 01:45:33 GMT"
+        },
+        {
+          "title": "Council tax debt rises to £9bn but here's how you can get help",
+          "link": "https://www.bbc.co.uk/news/articles/c0my4gwe3y2o?at_medium=RSS&at_campaign=rss",
+          "description": "New figures show billions of pounds is owed to councils but the government has plans to reform the system.",
+          "pubDate": "Wed, 24 Jun 2026 10:48:24 GMT"
+        },
+        {
+          "title": "Train passed red signal before fatal crash - report",
+          "link": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&at_campaign=rss",
+          "description": "A preliminary report from the Independent Rail Accident Investigation Branch is published.",
+          "pubDate": "Wed, 24 Jun 2026 13:09:44 GMT"
+        },
+        {
+          "title": "Ten years on, Brexit's economic impact is becoming clearer",
+          "link": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss",
+          "description": "A decade ago, many economists argued the UK would sustain longer-term economic damage by leaving the EU. So what did happen?",
+          "pubDate": "Tue, 23 Jun 2026 23:07:34 GMT"
+        },
+        {
+          "title": "Why are there holiday delay warnings over the EU's new border system?",
+          "link": "https://www.bbc.co.uk/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+          "description": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
+          "pubDate": "Wed, 24 Jun 2026 09:47:35 GMT"
+        },
+        {
+          "title": "Burnham likely to replace Reeves if he becomes PM",
+          "link": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&at_campaign=rss",
+          "description": "Rachel Reeves would be offered a more junior cabinet role, the BBC understands.",
+          "pubDate": "Wed, 24 Jun 2026 08:20:26 GMT"
+        },
+        {
+          "title": "Tech stocks tumble on concerns over AI spending",
+          "link": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss",
+          "description": "A sudden wave of selling in major tech shares triggers doubt over the sustainability of the AI boom.",
+          "pubDate": "Tue, 23 Jun 2026 17:34:02 GMT"
+        },
+        {
+          "title": "How has Northern Ireland's economy fared since Brexit?",
+          "link": "https://www.bbc.co.uk/news/articles/crel5d221ggo?at_medium=RSS&at_campaign=rss",
+          "description": "A decade on from Brexit, BBC News NI's John Campbell looks at whether the region has benefited from having dual access to the EU and GB markets.",
+          "pubDate": "Wed, 24 Jun 2026 06:45:31 GMT"
+        },
+        {
+          "title": "Stanford graduates rethink their futures as AI transforms tech",
+          "link": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
+          "description": "The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.",
+          "pubDate": "Tue, 23 Jun 2026 23:16:37 GMT"
         },
         {
           "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
@@ -64,78 +136,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
           "description": "The company had started just two months ago tracking workers’ computer usage for AI training data.",
           "pubDate": "Tue, 23 Jun 2026 17:51:30 GMT"
-        },
-        {
-          "title": "Kunal Shah: The Indian entrepreneur taking charge of WhatsApp",
-          "link": "https://www.bbc.co.uk/news/articles/c0my4n38myjo?at_medium=RSS&at_campaign=rss",
-          "description": "Kunal Shah has been a recognisable figure in India's startup ecosystem for a while but now he faces global spotlight.",
-          "pubDate": "Tue, 23 Jun 2026 21:57:05 GMT"
-        },
-        {
-          "title": "Stop pretending EU's new border system is working, says airports chief",
-          "link": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&at_campaign=rss",
-          "description": "The head of Europe's airports lobby says concerns over EES are keeping him awake at night and he doesn't know how airports will cope over the summer.",
-          "pubDate": "Tue, 23 Jun 2026 13:39:36 GMT"
-        },
-        {
-          "title": "Google's YouTube settles social media addiction case with teen",
-          "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
-          "description": "The 15-year-old plaintiff's case against three other tech giants begins next month.",
-          "pubDate": "Tue, 23 Jun 2026 23:39:55 GMT"
-        },
-        {
-          "title": "Can you keep your kids off school or refuse to work during a heatwave?",
-          "link": "https://www.bbc.co.uk/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss",
-          "description": "As temperatures increase significantly over the next few days, these are your rights.",
-          "pubDate": "Tue, 23 Jun 2026 09:58:41 GMT"
-        },
-        {
-          "title": "Ticket reseller StubHub UK customers to get refunds over illegal hidden fees",
-          "link": "https://www.bbc.co.uk/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
-          "description": "The Competition and Markets Authority said StubHub must refund 50,000 customers and pay a fine.",
-          "pubDate": "Tue, 23 Jun 2026 09:53:22 GMT"
-        },
-        {
-          "title": "Campaigners consider appeal after Gatwick bids fail",
-          "link": "https://www.bbc.co.uk/news/articles/cjdg158v185o?at_medium=RSS&at_campaign=rss",
-          "description": "A High Court ruling backs Gatwick Airport's expansion after campaigners raise climate concerns.",
-          "pubDate": "Tue, 23 Jun 2026 17:44:40 GMT"
-        },
-        {
-          "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
-          "link": "https://www.bbc.co.uk/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
-          "description": "The cuts are part of a wider trend among tech firms as they spend hundreds of billions of dollars on AI.",
-          "pubDate": "Tue, 23 Jun 2026 10:18:11 GMT"
-        },
-        {
-          "title": "Millions in UK could claim share of £3bn after Apple case given green light",
-          "link": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
-          "description": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
-          "pubDate": "Tue, 23 Jun 2026 15:01:40 GMT"
-        },
-        {
-          "title": "Tesla crash that killed a woman under US federal investigation",
-          "link": "https://www.bbc.co.uk/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
-          "description": "A Tesla driver on Friday said he was using ‘self-driving’ technology after his vehicle sped into a Texas home.",
-          "pubDate": "Mon, 22 Jun 2026 22:20:07 GMT"
-        },
-        {
-          "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-          "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-          "description": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
-          "pubDate": "Tue, 23 Jun 2026 12:14:58 GMT"
-        },
-        {
-          "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
-          "link": "https://www.bbc.co.uk/news/articles/cn8q5nx6jw6o?at_medium=RSS&at_campaign=rss",
-          "description": "The group says that it is unlawful for Australia to continue approving fossil fuel exports without protecting its citizens.",
-          "pubDate": "Tue, 23 Jun 2026 03:55:00 GMT"
-        },
-        {
-          "title": "EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer",
-          "link": "https://www.bbc.co.uk/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss",
-          "description": "The airline describes the latest bid approach from Castlelake as \"highly opportunistic\".",
-          "pubDate": "Mon, 22 Jun 2026 10:29:11 GMT"
         }
       ]
     },
@@ -147,124 +147,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Three New York Democrats backed by Mamdani win House seat primaries; 2 incumbents lose",
-          "link": "https://www.cnbc.com/2026/06/24/mamdani-democrats-house-primary-lander-valdez-chevalier.html",
-          "description": "Two candidates backed by the Democratic Socialist of America won their primaries, a year after the DSA-backed Zohran Mamdani won New York mayor's race.",
-          "pubDate": "Wed, 24 Jun 2026 03:56:45 GMT"
+          "title": "Iran declares new Hormuz route &apos;unacceptable and dangerous,&apos; warns against ships transiting without approval",
+          "link": "https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html",
+          "description": "The stern warning underscores Tehran's resolve to retain control over the Strait of Hormuz and to resist transits that bypass its authorization.",
+          "pubDate": "Thu, 25 Jun 2026 03:28:37 GMT"
         },
         {
-          "title": "Asia tech stocks mixed as Samsung rebounds, but chip shares remain under pressure after global selloff",
-          "link": "https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html",
-          "description": "Asia's technology stocks pared an earlier rebound to trade mixed on Wednesday after global equities posted steep losses in the previous session.",
-          "pubDate": "Wed, 24 Jun 2026 03:52:02 GMT"
+          "title": "SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing",
+          "link": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
+          "description": "Shares of South Korean chip giant SK Hynix surged 12% on Thursday after the company said it is seeking to raise as much as $29.4 billion.",
+          "pubDate": "Thu, 25 Jun 2026 04:17:22 GMT"
         },
         {
-          "title": "Cerebras falls 10% after chipmaker forecasts shrinking margin in first earnings report since IPO",
-          "link": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
-          "description": "Cerebras went public on the Nasdaq in May, giving Wall Street access to a pureplay AI company.",
-          "pubDate": "Tue, 23 Jun 2026 22:11:21 GMT"
+          "title": "Micron is tech&apos;s new margin king as memory crisis pushes company past Nvidia and Meta",
+          "link": "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html",
+          "description": "Micron said in its earnings report that its gross margin jumped to 84.9% from 39% a year ago.",
+          "pubDate": "Wed, 24 Jun 2026 22:33:45 GMT"
         },
         {
-          "title": "VIX owner Cboe jumps into prediction markets to build on zero-day options growth",
-          "link": "https://www.cnbc.com/2026/06/24/vix-owner-cboe-jumps-into-prediction-markets-to-build-on-0dte-growth.html",
-          "description": "Global markets operator Cboe has launched its first prediction markets products to meet consumer demand in the fast growing sector.",
-          "pubDate": "Wed, 24 Jun 2026 02:07:56 GMT"
+          "title": "Oil prices erase wartime gains as supply concerns ease with Hormuz tanker traffic resuming",
+          "link": "https://www.cnbc.com/2026/06/25/oil-price-supply-concerns-ease-with-hormuz-tanker-traffic-resuming-.html",
+          "description": "Oil prices fell as investors bet global crude supplies will improve, as tankers stranded in the Persian Gulf for months have begun leaving the Strait of Hormuz.",
+          "pubDate": "Thu, 25 Jun 2026 02:25:32 GMT"
         },
         {
-          "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
-          "link": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
-          "description": "SpaceX raised $25 billion in a debt sale, after seeing nearly $90 billion worth of orders, sources say.",
-          "pubDate": "Tue, 23 Jun 2026 21:29:33 GMT"
+          "title": "Micron stock jumps 15% as soaring prices from memory crunch lead to quadrupling of revenue",
+          "link": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+          "description": "Micron's quarterly earnings report follows a 700% surge in the memory maker's stock price over the past year.",
+          "pubDate": "Wed, 24 Jun 2026 22:39:58 GMT"
         },
         {
-          "title": "Alphabet added to Dow Jones Industrial Average, replacing Verizon",
-          "link": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
-          "description": "Alphabet will replace Verizon in the Dow Jones Industrial Average.",
-          "pubDate": "Wed, 24 Jun 2026 01:40:44 GMT"
+          "title": "Inside India newsletter: Meet the humans teaching robots to perform routine tasks, as India finds a way to enter the AI race",
+          "link": "https://www.cnbc.com/2026/06/25/inside-india-newsletter-humans-are-teaching-robots-to-do-ai.html",
+          "description": "Several companies have cropped up in India providing video training data made by humans that is being used to teach robots in the U.S. and China.",
+          "pubDate": "Thu, 25 Jun 2026 00:09:37 GMT"
         },
         {
-          "title": "Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect",
-          "link": "https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html",
-          "description": "Voters are heading to the polls in New York, with four competitive races in Democratic congressional primaries in focus.",
-          "pubDate": "Tue, 23 Jun 2026 20:25:32 GMT"
+          "title": "South Korea’s IPO bust clouds equity markets as Chaebol structure restrains listings",
+          "link": "https://www.cnbc.com/2026/06/24/south-koreas-ipo-bust-clouds-equity-markets.html",
+          "description": "South Korea's IPO activity has lagged that of its regional peers as the structure of the market and governance reforms collide.",
+          "pubDate": "Thu, 25 Jun 2026 01:35:35 GMT"
         },
         {
-          "title": "Five things to watch in Tuesday&apos;s primaries as New York races take center stage",
-          "link": "https://www.cnbc.com/2026/06/23/new-york-maryland-utah-primaries-test-mamdani-trump-and-outside-money.html",
-          "description": "Tuesday’s primaries in New York, Maryland and Utah test outside money, party power and the influence of Zohran Mamdani and Donald Trump.",
-          "pubDate": "Tue, 23 Jun 2026 13:14:59 GMT"
+          "title": "Rescue work underway after quakes rock Venezuela, &apos;high casualties&apos; likely",
+          "link": "https://www.cnbc.com/2026/06/25/buildings-collapse-as-quakes-rock-venezuela-high-casualties-likely.html",
+          "description": "A magnitude 7.2 earthquake struck about 100 miles west of Caracas, with a magnitude 7.5 tremor hitting less than a minute later, according to the U.S. Geological Survey.",
+          "pubDate": "Thu, 25 Jun 2026 02:22:15 GMT"
         },
         {
-          "title": "MSCI keeps South Korea as emerging market, delays Indonesia review amid downgrade risk",
-          "link": "https://www.cnbc.com/2026/06/24/msci-south-korea-emerging-market-indonesia-review-extended.html",
-          "description": "The review comes amid hopes that Seoul could be included in MSCI's Developed Markets watchlist.",
-          "pubDate": "Wed, 24 Jun 2026 02:43:34 GMT"
+          "title": "Iran&apos;s neighbor, U.S. ally: What Pakistan gains from being a peacemaker",
+          "link": "https://www.cnbc.com/2026/06/25/irans-neighbor-us-ally-what-pakistan-gains-from-being-a-peacemaker.html",
+          "description": "Pakistan's efforts to bring an end to the conflict in the Middle East are driven by the need to avoid a spillover across its borders.",
+          "pubDate": "Thu, 25 Jun 2026 03:35:42 GMT"
         },
         {
-          "title": "Factory job cuts in June neared financial crisis and Covid levels, S&amp;P says",
-          "link": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html",
-          "description": "Though the firm's manufacturing index ran better than expected for June, it came largely from an inventory rebuild and despite sharp job cuts.",
-          "pubDate": "Tue, 23 Jun 2026 16:40:57 GMT"
+          "title": "Federal student loans have a new interest rate discount — here&apos;s who qualifies",
+          "link": "https://www.cnbc.com/2026/06/24/student-loan-borrowers-interest-rate-discount.html",
+          "description": "To qualify for the U.S. Department of Education's new interest rate discount on student loans, borrowers must meet several requirements. Here's what to know.",
+          "pubDate": "Wed, 24 Jun 2026 15:53:43 GMT"
         },
         {
-          "title": "FedEx posts strong earnings results in last quarter with freight business",
-          "link": "https://www.cnbc.com/2026/06/23/fedex-fdx-q4-2026-earnings.html",
-          "description": "FedEx posted strong fiscal fourth quarter earnings on Tuesday in the company's last quarter that included the freight business before its spin-off.",
-          "pubDate": "Tue, 23 Jun 2026 21:58:31 GMT"
+          "title": "France suffers major power outage as Europe sizzles in record-breaking heat",
+          "link": "https://www.cnbc.com/2026/06/24/france-power-outage-europe-heat-wave.html",
+          "description": "A heat-related power outage left around 68,000 homes without electricity in western France as record-breaking heat sweeps Europe.",
+          "pubDate": "Wed, 24 Jun 2026 10:57:00 GMT"
         },
         {
-          "title": "The biggest wealth transfer in history is here: How the next generation will spend the trillions",
-          "link": "https://www.cnbc.com/2026/06/24/global-wealth-transfer-heirs-investment-strategies-inheritance.html",
-          "description": "The greatest wealth transfer is underway, and heirs who are set to inherit are preparing to use the money very differently from the generations that built it.",
-          "pubDate": "Wed, 24 Jun 2026 01:59:54 GMT"
+          "title": "Investors still seek a human touch even with AI tools at hand: HSBC",
+          "link": "https://www.cnbc.com/2026/06/25/investors-still-seek-a-human-touch-even-with-ai-tools-at-hand-hsbc-.html",
+          "description": "Investors are still turning to the judgment of a professional adviser in their last investment decision, despite using AI tools, a HSBC survey found.",
+          "pubDate": "Thu, 25 Jun 2026 03:22:15 GMT"
         },
         {
-          "title": "PGA Tour CEO Brian Rolapp unveils sweeping changes to professional golf",
-          "link": "https://www.cnbc.com/2026/06/23/pga-tour-changes.html",
-          "description": "Changes to the PGA Tour are designed to elevate competition and raise payouts for winners.",
-          "pubDate": "Tue, 23 Jun 2026 18:31:27 GMT"
+          "title": "Qualcomm stock pops 15% after chipmaker almost doubles projection for 2029 non-handset revenue",
+          "link": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
+          "description": "Qualcomm's primary business has been smartphones, which accounted for two-thirds of the company's product revenue in it's most recent quarter.",
+          "pubDate": "Wed, 24 Jun 2026 20:44:53 GMT"
         },
         {
-          "title": "House passes affordable housing bill, sends it to Trump&apos;s desk",
-          "link": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
-          "description": "The House on Tuesday gave final passage to a bill aimed at lowering costs for homebuyers and reining in private equity.",
-          "pubDate": "Wed, 24 Jun 2026 02:02:51 GMT"
+          "title": "Trump meets defense CEOs as Iran operations strain U.S. missile stockpiles",
+          "link": "https://www.cnbc.com/2026/06/24/trump-defense-contractors-boeing-lockheed-honeywell-weapons-production-iran.html",
+          "description": "The White House is pressing major defense firms to expand missile and munitions output as Iran talks and weapons stockpile concerns put new pressure on the Pentagon’s industrial base.",
+          "pubDate": "Wed, 24 Jun 2026 22:12:00 GMT"
         },
         {
-          "title": "An off-grid power project gets a major proof of concept. What it means for GE Vernova",
-          "link": "https://www.cnbc.com/2026/06/23/an-off-grid-power-project-gets-a-major-proof-of-concept-what-it-means-for-ge-vernova.html",
-          "description": "AI data centers powered by off-grid power plants took a major step forward this week, a good sign for GE Vernova as industry challenges pile up.",
-          "pubDate": "Tue, 23 Jun 2026 20:32:00 GMT"
+          "title": "Trump cancels signing of bipartisan housing bill ahead of tense meeting with GOP senators",
+          "link": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
+          "description": "President Donald Trump abruptly canceled the signing of a bill aimed at increasing housing affordability an hour before he was due at the Capitol for the ceremony.",
+          "pubDate": "Wed, 24 Jun 2026 20:35:48 GMT"
         },
         {
-          "title": "Senate backs Iran war powers resolution as GOP pressure grows on Trump&apos;s deal to end war",
-          "link": "https://www.cnbc.com/2026/06/23/thune-congress-vote-trump-iran-deal.html",
-          "description": "Senate Republicans want more details on Trump’s Iran deal as questions swirl around sanctions relief, nuclear restrictions and congressional approval.",
-          "pubDate": "Tue, 23 Jun 2026 20:51:52 GMT"
+          "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
+          "link": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
+          "description": "The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.",
+          "pubDate": "Wed, 24 Jun 2026 21:19:27 GMT"
         },
         {
-          "title": "Bill Gates testimony on Jeffrey Epstein ties released by House oversight panel",
-          "link": "https://www.cnbc.com/2026/06/23/bill-gates-jeffrey-epstein-testimony-house-oversight.html",
-          "description": "\"I should never have met with Epstein in the first place,\" Bill Gates told members of the House Oversight and Government Reform Committee.",
-          "pubDate": "Tue, 23 Jun 2026 21:06:13 GMT"
+          "title": "Anthropic accuses Alibaba of campaign to &apos;brazenly&apos; and &apos;illicitly&apos; extract AI capabilities",
+          "link": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
+          "description": "The letter, which was obtained by CNBC, claims Alibaba carried out \"the largest known distillation attack on Anthropic to date.\"",
+          "pubDate": "Wed, 24 Jun 2026 21:18:44 GMT"
         },
         {
-          "title": "CFTC sues Kentucky over actions against prediction markets, making it first red state to face federal scrutiny",
-          "link": "https://www.cnbc.com/2026/06/23/cftc-sues-kentucky-over-actions-against-prediction-markets.html",
-          "description": "The commission has now sued nine states in its battle to defend what it sees as its exclusive right to regulate event contracts.",
-          "pubDate": "Tue, 23 Jun 2026 21:31:49 GMT"
+          "title": "This industrial play has been a quiet winner in 2026. Why the stock has more room to go",
+          "link": "https://www.cnbc.com/2026/06/24/this-industrial-play-has-been-a-quiet-winner-in-2026-why-the-stock-has-more-room-to-go.html",
+          "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+          "pubDate": "Wed, 24 Jun 2026 18:33:13 GMT"
         },
         {
-          "title": "Inside Kevin Warsh&apos;s selection process for the next Atlanta Fed president",
-          "link": "https://www.cnbc.com/2026/06/23/fed-warsh-atlanta-michael-faulkender.html",
-          "description": "Choosing a new head for the Federal Reserve Bank of Atlanta is an opportunity for new Fed Chairman Kevin Warsh to reshape the central bank.",
-          "pubDate": "Tue, 23 Jun 2026 18:25:44 GMT"
+          "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
+          "link": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
+          "description": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
+          "pubDate": "Wed, 24 Jun 2026 21:42:05 GMT"
         },
         {
-          "title": "Strait of Hormuz evacuation plan to begin for ships stranded in Persian Gulf, maritime organization says",
-          "link": "https://www.cnbc.com/2026/06/23/strait-hormuz-persian-gulf-ship-tanker-evacuation.html",
-          "description": "More than 11,000 seafarers stuck in the Persian Gulf will begin to exit through the Hormuz Strait in a large-scale evacuation plan backed by Iran and the U.S.",
-          "pubDate": "Tue, 23 Jun 2026 19:04:12 GMT"
+          "title": "Energy secretary says U.S. has ended Iran&apos;s ability to close Strait of Hormuz",
+          "link": "https://www.cnbc.com/2026/06/24/iran-strait-hormuz-oil-chris-wright-energy-secretary.html",
+          "description": "Some 72 ships loaded with 19 million barrels of oil have passed through Hormuz in the past 24 hours, Energy Secretary Chris Wright said.",
+          "pubDate": "Wed, 24 Jun 2026 19:07:26 GMT"
         }
       ]
     },
@@ -273,61 +273,73 @@
       "category": "Finance",
       "region": "international",
       "url": "https://www.ft.com/rss/home",
-      "itemCount": 9,
+      "itemCount": 11,
       "items": [
         {
-          "title": "Venezuela to reveal $240bn debt pile in world’s largest restructuring",
-          "link": "https://www.ft.com/content/b7f25ca2-827c-40f9-ab1a-57067d8ec90d",
-          "description": "Caracas to disclose it has much more borrowing than expected after overthrow of Maduro",
-          "pubDate": "Wed, 24 Jun 2026 04:00:24 GMT"
+          "title": "Oil price back at prewar levels as Gulf flows pick up",
+          "link": "https://www.ft.com/content/7a05c821-491f-41a7-8d03-53183fbbb719",
+          "description": "Brent crude drops below the $72.48 a barrel it traded at in late February before Iran conflict erupted",
+          "pubDate": "Thu, 25 Jun 2026 03:14:50 GMT"
         },
         {
-          "title": "The decade that made Andy Burnham",
-          "link": "https://www.ft.com/content/9949d99f-a348-4c66-805f-438653384fa6",
-          "description": "What 10 years covering the Manchester mayor’s many reinventions taught me about the man who wants to lead Britain",
-          "pubDate": "Wed, 24 Jun 2026 04:00:21 GMT"
+          "title": "Insurers slash war premiums for Strait of Hormuz ships",
+          "link": "https://www.ft.com/content/b62d823c-865b-4fa6-a492-1cd65d3400cb",
+          "description": "Premiums for hull war coverage drop by more than half as ceasefire deal holds",
+          "pubDate": "Thu, 25 Jun 2026 04:00:29 GMT"
         },
         {
-          "title": "The rise and fall of US hegemony",
-          "link": "https://www.ft.com/content/5a9fed66-57fa-4f7b-bce9-f5519bd1d84b",
-          "description": "On the eve of its 250th birthday, America and the world order it created are in crisis",
-          "pubDate": "Wed, 24 Jun 2026 04:00:24 GMT"
+          "title": "Robot nation: China’s bid to beat its demographic decline",
+          "link": "https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68",
+          "description": "The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap",
+          "pubDate": "Thu, 25 Jun 2026 00:51:05 GMT"
         },
         {
-          "title": "Heatwave shows we are marinating in a crisis of our own making",
-          "link": "https://www.ft.com/content/f059869e-294b-42b7-bf38-fe55b46ad812",
-          "description": "Political inaction in the battle against climate change is costly and getting costlier",
-          "pubDate": "Wed, 24 Jun 2026 04:00:29 GMT"
+          "title": "The future of TV: lots of choice, lots of hassle",
+          "link": "https://www.ft.com/content/3b4e94c4-0ce8-421f-be85-41ae51e110a9",
+          "description": "The fracturing of platforms has created both delight and frustration for viewers",
+          "pubDate": "Thu, 25 Jun 2026 04:00:30 GMT"
         },
         {
-          "title": "Pete Hegseth forces out top US army officer in Europe",
-          "link": "https://www.ft.com/content/b2936511-6549-4a93-9c9f-b6dc3cd165a0",
-          "description": "General CD Donahue will announce his retirement on Wednesday, according to people familiar with the matter",
-          "pubDate": "Wed, 24 Jun 2026 02:29:49 GMT"
+          "title": "What if ideas aren’t getting harder to find, after all?",
+          "link": "https://www.ft.com/content/72b96cb4-15f3-4bfc-a0b7-dabc31bbe1fa",
+          "description": "Large companies may have just become better at hiding the fruits of their labour",
+          "pubDate": "Thu, 25 Jun 2026 04:00:21 GMT"
         },
         {
-          "title": "Nvidia’s banned AI chips double in price on China’s black market",
-          "link": "https://www.ft.com/content/57fcd3ce-464f-4dc2-8ea2-5712d4972c69",
-          "description": "US crackdown on illicit exports has made it riskier, harder and more expensive to buy tech giant’s processors",
-          "pubDate": "Wed, 24 Jun 2026 00:15:04 GMT"
+          "title": "Venezuela rocked by two huge earthquakes",
+          "link": "https://www.ft.com/content/4eb25cfb-1b1e-4f9d-9562-3f8a3b9078c1",
+          "description": "Officials warn of fatalities as people left trapped under rubble",
+          "pubDate": "Thu, 25 Jun 2026 02:24:31 GMT"
         },
         {
-          "title": "Qatar says US-Iran hotline essential to reopen Strait of Hormuz",
-          "link": "https://www.ft.com/content/e2d91812-1553-4d9e-a3cf-abe499de70b1",
-          "description": "Prime Minister Sheikh Mohammed says Gulf state will resume normal LNG production within weeks",
-          "pubDate": "Wed, 24 Jun 2026 04:00:29 GMT"
+          "title": "Micron posts 15-fold profit surge in boost for global AI stocks",
+          "link": "https://www.ft.com/content/9b739203-3274-43f1-b61e-c1905061d32a",
+          "description": "Chipmaker forecasts sustained demand for computer memory, boosting its shares and Asian markets",
+          "pubDate": "Thu, 25 Jun 2026 04:54:50 GMT"
         },
         {
-          "title": "Hormuz closure strands almost 1,200 cargo ships with $125bn worth of goods",
-          "link": "https://www.ft.com/content/4d3dd2b7-cb6b-410b-8c15-203904f32294",
-          "description": "‘Unprecedented’ blockade of the strait raises concerns about the future of global maritime trade, says insurer Allianz",
-          "pubDate": "Tue, 23 Jun 2026 23:01:03 GMT"
+          "title": "South Korea delays plan for new single-stock options amid record volatility",
+          "link": "https://www.ft.com/content/b08c7e63-aeae-4980-b681-6eea05be7114",
+          "description": "Concerns grow of frothiness in world’s best-performing equity market",
+          "pubDate": "Thu, 25 Jun 2026 04:09:47 GMT"
         },
         {
-          "title": "To cool or not to cool: French politicians draw battle lines over aircon",
-          "link": "https://www.ft.com/content/b9abbdc4-0993-4e7b-bb68-75d02d644ecc",
-          "description": "As heatwave intensifies, far-right champions air conditioning while the left calls for renovations and green spaces",
-          "pubDate": "Wed, 24 Jun 2026 04:00:21 GMT"
+          "title": "Trump demands ‘loyalty’ from Nato allies and slams lack of support in Iran war",
+          "link": "https://www.ft.com/content/39883d15-863b-4563-8b31-7e65102301cd",
+          "description": "US president singles out alliance members, including the UK, after meeting secretary-general Mark Rutte",
+          "pubDate": "Wed, 24 Jun 2026 23:03:23 GMT"
+        },
+        {
+          "title": "Nato chief reveals Italy allowed US planes to use bases in Iran war",
+          "link": "https://www.ft.com/content/f5e28723-da78-4822-848b-22d11259a349",
+          "description": "Mark Rutte puts Giorgia Meloni under pressure by disclosing Rome let 500 aircraft take off in Operation Epic Fury",
+          "pubDate": "Wed, 24 Jun 2026 12:27:38 GMT"
+        },
+        {
+          "title": "Rome airports warn of summer ‘disaster’ unless EU border controls suspended",
+          "link": "https://www.ft.com/content/808143bc-74e0-4423-998f-7e2c7faeeb3c",
+          "description": "Biometric checks must be put on hold to cope with passenger numbers, airports boss says",
+          "pubDate": "Thu, 25 Jun 2026 04:00:30 GMT"
         }
       ]
     },
@@ -339,124 +351,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Stocks Falter as Tech Losses Resume Before Micron: Markets Wrap",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-23/asian-stocks-set-to-extend-ai-chip-fueled-selloff-markets-wrap",
-          "description": "Global stocks failed to hold onto early gains following Tuesday’s tech-led rout, as a fresh bout of selling weighed on the sector ahead of highly anticipated results from memory chipmaker Micron Technology Inc.",
-          "pubDate": "Tue, 23 Jun 2026 22:06:14 GMT"
+          "title": "Stocks Get a Boost From Micron Outlook, Oil Slump: Markets Wrap",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-24/us-stock-futures-surge-on-micron-s-strong-forecast-markets-wrap",
+          "description": "Global stocks rebounded from a two-day loss after Micron Technology Inc.’s blowout sales forecast rekindled investor confidence in the artificial-intelligence trade and Brent oil erased all of its wartime gains.",
+          "pubDate": "Wed, 24 Jun 2026 22:04:22 GMT"
         },
         {
-          "title": "Is the AI Bubble Bursting? Not Yet, Says Dan Farley",
-          "link": "https://www.bloomberg.com/news/videos/2026-06-24/is-the-ai-bubble-bursting-not-yet-says-dan-farley-video",
-          "description": "A tentative rebound in Asian equities following Tuesday’s global tech-led rout failed to hold as a fresh bout of selling hit the sector. State Street Investment Management's Dan Farley discusses whether the AI rally still has room to go. (Source: Bloomberg)",
-          "pubDate": "Wed, 24 Jun 2026 04:59:37 GMT"
+          "title": "Japan’s $2.3 Trillion Investment Plan Raises Fresh JGB Concerns",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/japan-s-2-3-trillion-investment-plan-raises-fresh-jgb-concerns",
+          "description": "Bond strategists are warning that Prime Minister Sanae Takaichi’s $2.3 trillion investment plan may put fresh pressure on Japan’s government debt market, sparking uncertainty about financing and prospects for generating the promised growth.",
+          "pubDate": "Thu, 25 Jun 2026 04:55:30 GMT"
         },
         {
-          "title": "Qatar Sees LNG Output Returning to Normal Within Weeks, FT Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/qatar-sees-lng-output-returning-to-normal-within-weeks-ft-says",
-          "description": "Qatar plans to return to normal liquefied natural gas output within weeks from the undamaged parts of its facility, Prime Minister Sheikh Mohammed bin Abdulrahman Al-Thani said in an interview with the Financial Times.",
-          "pubDate": "Wed, 24 Jun 2026 04:37:39 GMT"
+          "title": "Venezuela Hit by Massive Earthquakes",
+          "link": "https://www.bloomberg.com/news/videos/2026-06-25/venezuela-hit-by-massive-earthquakes-video",
+          "description": "Venezuela declared a state of emergency after massive back-to-back earthquakes toppled buildings in Caracas, knocked down power lines and devastated the capital’s main airport. (Source: Bloomberg)",
+          "pubDate": "Thu, 25 Jun 2026 04:49:35 GMT"
         },
         {
-          "title": "Oil Extends Drop as More Tankers Cross Hormuz After Peace Talks",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-23/latest-oil-market-news-and-analysis-for-june-24",
-          "description": "Oil extended declines as more tankers openly cross the Strait of Hormuz, while the US and Iran signal progress toward ending the war.",
-          "pubDate": "Tue, 23 Jun 2026 22:05:51 GMT"
+          "title": "Syfe On Growing APAC Retail Investors",
+          "link": "https://www.bloomberg.com/news/videos/2026-06-25/syfe-on-growing-apac-retail-investors-video",
+          "description": "Dhruv Arora, Founder & CEO at Syfe, discusses the investment platform's expansion plans and retail investor sentiment. He speaks on \"Bloomberg: The China Show.\" (Source: Bloomberg)",
+          "pubDate": "Thu, 25 Jun 2026 04:48:49 GMT"
         },
         {
-          "title": "Trump Says Justice Department to Look Into High Gasoline Prices",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/trump-says-justice-department-to-look-into-high-gasoline-prices",
-          "description": "US President Donald Trump has ordered the Department of Justice to look into gasoline prices, which he says aren’t falling fast enough.",
-          "pubDate": "Wed, 24 Jun 2026 04:23:25 GMT"
+          "title": "StanChart's Liu: PBOC Tightening Unlikely",
+          "link": "https://www.bloomberg.com/news/videos/2026-06-25/stanchart-s-liu-pboc-tightening-unlikely-video",
+          "description": "Becky Liu, Head of Greater China Strategy and Asia Rates at Standard Chartered Bank, discusses China's central bank policy shift. She speaks on \"Bloomberg: The China Show.\"  (Source: Bloomberg)",
+          "pubDate": "Thu, 25 Jun 2026 04:46:51 GMT"
         },
         {
-          "title": "SoftBank Seeks Stake in Japan’s Top Utility to Power AI Boom",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom",
-          "description": "SoftBank Group Corp. is looking to invest in Japan’s biggest power utility to help secure the electricity needed to expand in artificial intelligence, the company’s chief executive officer said.",
-          "pubDate": "Wed, 24 Jun 2026 04:22:20 GMT"
+          "title": "Cal-Maine, Others Poised to Settle DOJ Egg Pricing Probe",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/cal-maine-others-poised-to-settle-doj-egg-pricing-probe",
+          "description": "Cal-Maine Foods Inc. and other egg suppliers are close to resolving an investigation by the US Justice Department and a bipartisan group of states into alleged illegal price coordination, according to people familiar with the matter.",
+          "pubDate": "Thu, 25 Jun 2026 04:39:32 GMT"
         },
         {
-          "title": "Korean Stocks Swing After Rout as Caution Grows on AI Earnings",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/korean-stocks-rebound-after-10-rout-as-focus-back-on-earnings",
-          "description": "South Korean stocks swung between gains and losses as investors debated the outlook for chipmakers’ earnings and the sustainability of this year’s world-beating rally.",
-          "pubDate": "Wed, 24 Jun 2026 00:40:28 GMT"
+          "title": "Bitcoin’s $10 Billion Options Expiry Risks Deepening Selloff",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/bitcoin-s-woes-could-be-compounded-by-10-billion-options-expiry",
+          "description": "Bitcoin is facing a massive options expiry that risks putting more pressure on a market already struggling with fading institutional demand and macroeconomic headwinds.",
+          "pubDate": "Thu, 25 Jun 2026 04:39:01 GMT"
         },
         {
-          "title": "EU Rides Out Budget Spat Without Spooking Markets or Ratings",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/eu-rides-out-budget-spat-without-spooking-markets-or-ratings",
-          "description": "The European Union’s regime for monitoring public finances has arguably just passed its toughest health test since a revamp after the pandemic.",
-          "pubDate": "Wed, 24 Jun 2026 04:15:00 GMT"
+          "title": "PBOC Plans Overnight Reverse Repo in Next Stage of Policy Shift",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/pboc-plans-overnight-reverse-repo-in-next-stage-of-policy-shift",
+          "description": "China’s central bank is introducing an overnight tenor into its open-market operations, a key step toward reshaping how it steers short-term borrowing costs.",
+          "pubDate": "Thu, 25 Jun 2026 01:13:53 GMT"
         },
         {
-          "title": "India’s Shapoorji Pallonji Group Seeks Fresh Bond Extension as Refinancing Drags",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/india-s-sp-group-seeks-fresh-bond-extension-as-refinancing-drags",
-          "description": "India’s Shapoorji Pallonji Group has offered bondholders a 30-basis point fee in exchange for approving another extension on debt owed by its unit, according to people familiar with the matter.",
-          "pubDate": "Wed, 24 Jun 2026 04:10:04 GMT"
+          "title": "Palm Oil Posts Biggest Drop in a Month as Crude Erases War Gains",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/palm-oil-posts-biggest-drop-in-a-month-as-crude-erases-war-gains",
+          "description": "Palm oil futures posted the biggest drop in more than a month, tracking declines in crude and soy oil prices, while a strengthening ringgit added to demand headwinds.",
+          "pubDate": "Thu, 25 Jun 2026 04:22:51 GMT"
         },
         {
-          "title": "China Unfazed by World’s Ire on Trade as Premier Touts Openness",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/china-unfazed-by-world-s-ire-on-trade-as-premier-touts-openness",
-          "description": "Beijing’s No. 2 official played down worries about the disruption wrought by his country’s surging exports on the global economy, championing the benefits provided to the world by China’s development.",
-          "pubDate": "Wed, 24 Jun 2026 04:07:13 GMT"
+          "title": "Micron Revives AI Trade; SK Hynix Seeks US Listing | The Asia Trade 6/25/2026",
+          "link": "https://www.bloomberg.com/news/videos/2026-06-25/the-asia-trade-6-25-2026-video",
+          "description": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
+          "pubDate": "Thu, 25 Jun 2026 04:18:38 GMT"
         },
         {
-          "title": "Indian Tech’s Nifty Share Shrinks to Record Low on AI Worries",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/indian-tech-s-nifty-share-shrinks-to-record-low-on-ai-worries",
-          "description": "India’s software exporters are steadily losing their sway on the country’s stock market as concerns over artificial intelligence-led disruption trigger a prolonged selloff in the sector.",
-          "pubDate": "Wed, 24 Jun 2026 04:04:09 GMT"
+          "title": "How Warsh Sank the Debasement Trade",
+          "link": "https://www.bloomberg.com/opinion/newsletters/2026-06-25/how-warsh-sank-the-debasement-trade",
+          "description": "It’s on its last legs, while Micron is showing&nbsp;that there’s still some life left in chips.",
+          "pubDate": "Thu, 25 Jun 2026 04:14:02 GMT"
         },
         {
-          "title": "Double, Double Toil and Bubble Trouble",
-          "link": "https://www.bloomberg.com/opinion/newsletters/2026-06-24/stocks-selloff-the-bubble-probably-isn-t-bursting-just-yet",
-          "description": "This probably isn’t when it&nbsp;bursts, but there’s room for plenty of over-leveraged damage.",
-          "pubDate": "Wed, 24 Jun 2026 04:00:15 GMT"
+          "title": "Japan’s 20-Year Bond Sale Sees Lowest Demand Since May 2025 Rout",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/japan-s-20-year-bond-sale-sees-weakest-demand-in-over-a-year",
+          "description": "Japan’s 20-year bond auction drew the weakest demand since the market upheaval just over a year ago as worries about inflation and fiscal policy came back to the fore.",
+          "pubDate": "Thu, 25 Jun 2026 03:40:40 GMT"
         },
         {
-          "title": "New Hedge Funds Are Using AI Bots to Rival Industry Giants",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/new-hedge-funds-are-using-ai-bots-to-rival-industry-giants",
-          "description": "Advances in artificial intelligence are leveling the field for fund managers, making it easier for boutique firms to compete with big macro and bond investors.",
-          "pubDate": "Wed, 24 Jun 2026 04:00:00 GMT"
+          "title": "Copper Climbs as Lower Dollar, AI Rally Counter Rate Concerns",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/copper-climbs-as-lower-dollar-ai-rally-counter-rate-concerns",
+          "description": "Copper edged higher, after touching a seven-week low on Wednesday, as a weakening dollar and an artificial intelligence stock rally buoyed sentiment for the metal used in electrification.",
+          "pubDate": "Thu, 25 Jun 2026 04:00:09 GMT"
         },
         {
-          "title": "Xi Pressures Takaichi by Throttling Key Mineral Exports to Japan",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-23/xi-pressures-takaichi-by-throttling-key-mineral-exports-to-japan",
-          "description": "China is choking shipments of some critical minerals to Japan, a slowdown that’s hurting companies and prompting calls for Prime Minister Sanae Takaichi to find a diplomatic off-ramp with Beijing.",
-          "pubDate": "Tue, 23 Jun 2026 23:00:00 GMT"
+          "title": "Adnoc LNG Tanker Appears in Persian Gulf as Transparency Returns",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/adnoc-lng-tanker-appears-in-persian-gulf-as-transparency-returns",
+          "description": "A liquefied natural gas tanker owned by Abu Dhabi National Oil Co. began sending a signal from within the Persian Gulf, as more vessels broadcast their journeys and intentions in recent days following an interim peace deal between the US and Iran.",
+          "pubDate": "Thu, 25 Jun 2026 03:34:07 GMT"
         },
         {
-          "title": "China's Premier Li Says Beijing Remains Committed to Openness",
-          "link": "https://www.bloomberg.com/news/videos/2026-06-24/china-remains-committed-to-openness-premier-li-says-video",
-          "description": "Chinese Premier Li Qiang delivered a special address at the Summer Davos forum in Dalian on Wednesday. He said Beijing will continue to expand domestic demand and accelerate the large-scale application of new technologies. Bloomberg's Minmin Low reports. (Source: Bloomberg)",
-          "pubDate": "Wed, 24 Jun 2026 03:56:28 GMT"
+          "title": "Alibaba Slides to 16-Month Low After Anthropic’s AI Accusations",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/alibaba-drops-after-anthropic-accuses-firm-of-accessing-ai-model",
+          "description": "Alibaba Group Holding Ltd. shares slid to a 16-month low in Hong Kong after Anthropic PBC accused the Chinese technology giant of “illicitly” accessing its artificial intelligence model.",
+          "pubDate": "Thu, 25 Jun 2026 03:28:58 GMT"
         },
         {
-          "title": "China’s Independent Oil Refiners Slash Runs to Nine-Year Low",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/china-s-independent-oil-refiners-slash-runs-to-nine-year-low",
-          "description": "China’s independent oil refiners have slashed operating rates to a nine-year low, highlighting the lingering impact of the US-Iran war on the leading importer of Tehran’s crude.",
-          "pubDate": "Wed, 24 Jun 2026 03:43:15 GMT"
+          "title": "Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-24/latest-oil-market-news-and-analysis-for-june-25",
+          "description": "Brent oil erased all of its wartime gains after flows through the Strait of Hormuz ramped up following progress on a US-Iran peace deal.",
+          "pubDate": "Wed, 24 Jun 2026 22:02:16 GMT"
         },
         {
-          "title": "Copper Holds Losses as Dollar and Hawkish Fed Pressure Metals",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/copper-holds-losses-as-dollar-and-hawkish-fed-pressure-metals",
-          "description": "Copper and industrial metals largely held Tuesday’s slump as a stronger dollar and the Federal Reserve’s hawkish stance weighed on the demand outlook.",
-          "pubDate": "Wed, 24 Jun 2026 03:30:36 GMT"
+          "title": "Australian Hiring Rebounds in May, Pushing Down Unemployment",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/australian-hiring-rebounded-in-may-as-unemployment-edged-lower",
+          "description": "Australian hiring rebounded in May, reversing the previous month’s losses, while the jobless rate edged lower in a validation of the Reserve Bank’s view the labor market still remains tight.",
+          "pubDate": "Thu, 25 Jun 2026 01:32:59 GMT"
         },
         {
-          "title": "Chinese Zinc Traders Eye Export Window to Clear Domestic Glut",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/chinese-zinc-traders-eye-export-window-to-clear-domestic-glut",
-          "description": "Chinese zinc producers are eagerly waiting for exports to become more profitable to help clear a glut of the metal at home.",
-          "pubDate": "Wed, 24 Jun 2026 03:12:21 GMT"
+          "title": "Japan’s Kioxia Plans to Offer US Depositary Shares in Spring",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/japan-s-kioxia-plans-to-offer-us-depositary-shares-next-spring",
+          "description": "Kioxia Holdings Corp. intends to offer US depositary receipts in the spring of 2027 to take advantage of runaway investor demand for exposure to AI-related semiconductor shares.",
+          "pubDate": "Thu, 25 Jun 2026 02:34:53 GMT"
         },
         {
-          "title": "India Lets NRIs Leverage Deposits to Draw Dollars",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-06-24/rbi-lets-nris-leverage-deposits-to-draw-dollars",
-          "description": "RBI swap covers only principal, not interest.",
-          "pubDate": "Wed, 24 Jun 2026 02:46:11 GMT"
+          "title": "Venezuela Hit by Massive Back-to-Back Earthquakes",
+          "link": "https://www.bloomberg.com/news/videos/2026-06-25/venezuela-hit-by-massive-back-to-back-earthquakes-video",
+          "description": "Venezuela has declared a state of emergency after massive back-to-back earthquakes toppled buildings in Caracas, knocked down power lines and devastated the capital’s main airport. (Source: Bloomberg)",
+          "pubDate": "Thu, 25 Jun 2026 03:03:19 GMT"
         },
         {
-          "title": "MSCI Delays Indonesia’s Market Status Review Until November",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-23/msci-delays-indonesia-s-market-status-review-until-november",
-          "description": "MSCI Inc. again decided to postpone its review on Indonesian equities, saying it needs more time to see whether recently announced transparency reforms are effective.",
-          "pubDate": "Tue, 23 Jun 2026 21:03:21 GMT"
+          "title": "Hong Kong Dollar Nears Weak End on Low Volatility, Cheap Rates",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/hong-kong-dollar-nears-weak-end-on-low-volatility-cheap-rates",
+          "description": "The Hong Kong dollar is heading toward the weak end of its fixed trading range as multi-year low volatility and cheap borrowing costs make it easier for traders to short the currency against the greenback.",
+          "pubDate": "Thu, 25 Jun 2026 03:00:56 GMT"
         }
       ]
     },
@@ -468,124 +480,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Intel CEO gives investors a reality check",
-          "link": "https://finance.yahoo.com/technology/ai/articles/intel-ceo-gives-investors-reality-184700678.html",
+          "title": "SpaceX Dropped Sharply on Monday. Is It Worth Buying the Dip?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-dropped-sharply-monday-worth-170815123.html",
           "description": "",
-          "pubDate": "2026-06-22T18:47:00Z"
+          "pubDate": "2026-06-23T17:08:15Z"
         },
         {
-          "title": "52-year-old Outback Steakhouse rival chain closes 24 locations",
-          "link": "https://finance.yahoo.com/economy/articles/52-old-outback-steakhouse-rival-194700477.html",
+          "title": "We're debt-free and have $750K saved for retirement — but I can’t stop growing our emergency fund. How much is enough?",
+          "link": "https://finance.yahoo.com/markets/articles/were-debt-free-750k-saved-171228604.html",
           "description": "",
-          "pubDate": "2026-06-22T19:47:00Z"
+          "pubDate": "2026-06-23T17:12:28Z"
         },
         {
-          "title": "Centrus Agreement Strengthens Oklo Stock’s Nuclear AI Power Thesis",
-          "link": "https://finance.yahoo.com/energy/articles/centrus-agreement-strengthens-oklo-stock-171019120.html",
+          "title": "Corn Holding onto Slight Losses on Tuesday",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/corn-holding-onto-slight-losses-172014618.html",
           "description": "",
-          "pubDate": "2026-06-22T17:10:19Z"
+          "pubDate": "2026-06-23T17:20:14Z"
         },
         {
-          "title": "Cotton Slipping Back Lower on Monday",
-          "link": "https://finance.yahoo.com/markets/commodities/articles/cotton-slipping-back-lower-monday-171933834.html",
+          "title": "Soybeans Showing Fractional Gains on Tuesday",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-showing-fractional-gains-tuesday-172014973.html",
           "description": "",
-          "pubDate": "2026-06-22T17:19:33Z"
+          "pubDate": "2026-06-23T17:20:14Z"
         },
         {
-          "title": "Soybeans Posting Mixed Trade at Midday",
-          "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-posting-mixed-trade-midday-171932520.html",
+          "title": "Cotton Falling on Tuesday",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/cotton-falling-tuesday-172014479.html",
           "description": "",
-          "pubDate": "2026-06-22T17:19:32Z"
+          "pubDate": "2026-06-23T17:20:14Z"
         },
         {
-          "title": "Corn Slipping Lower on Monday",
-          "link": "https://finance.yahoo.com/markets/commodities/articles/corn-slipping-lower-monday-171932606.html",
+          "title": "Stock Market Today, June 23: Sandisk Leads Tech Stock Slide as South Korea Jitters Trigger Global Pullback at Midday",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-23-170748008.html",
           "description": "",
-          "pubDate": "2026-06-22T17:19:32Z"
+          "pubDate": "2026-06-23T17:07:48Z"
         },
         {
-          "title": "Chubb CEO flags threat disrupting global oil supply",
-          "link": "https://finance.yahoo.com/energy/articles/chubb-ceo-flags-threat-disrupting-200700323.html",
+          "title": "Dow Jones AI Giant Nvidia Tumbles Below Key Level; Cummins, GE Vernova Near Buy Zones",
+          "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-nvidia-nvda-stock-cummins-ge-vernova-buy-points/?src=A00220&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-06-22T20:07:00Z"
+          "pubDate": "2026-06-23T17:29:11Z"
         },
         {
-          "title": "A complete timeline of federal student loan changes: Every key date from 2026 to 2028",
-          "link": "https://finance.yahoo.com/personal-finance/student-loans/article/timeline-of-federal-student-loan-changes-172356420.html",
+          "title": "Huge, Unusual In-the-Money Call Option Volume in Intel Stock Today Shows Investors Bullish",
+          "link": "https://finance.yahoo.com/markets/options/articles/huge-unusual-money-call-option-173002577.html",
           "description": "",
-          "pubDate": "2026-06-22T17:23:56Z"
+          "pubDate": "2026-06-23T17:30:02Z"
         },
         {
-          "title": "Accenture PLC Has Huge Unusual Put and Call Options Activity After Lower Guidance",
-          "link": "https://finance.yahoo.com/markets/options/articles/accenture-plc-huge-unusual-put-173003593.html",
+          "title": "Global imbalances could fuel financial stability risks, says BoC Governor Macklem",
+          "link": "https://finance.yahoo.com/news/global-imbalances-could-fuel-financial-133957514.html",
           "description": "",
-          "pubDate": "2026-06-22T17:30:03Z"
+          "pubDate": "2026-06-23T17:32:00Z"
         },
         {
-          "title": "Vimeo owner Bending Spoons seeks $1.62 billion US IPO, sources say",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/vimeo-owner-bending-spoons-seeks-172943084.html",
+          "title": "Amazon Could Soon Sell Its Custom AI Chips. That Could Be Bad News for Google Stock.",
+          "link": "https://finance.yahoo.com/technology/ai/articles/amazon-could-soon-sell-custom-173242469.html",
           "description": "",
-          "pubDate": "2026-06-22T17:29:43Z"
+          "pubDate": "2026-06-23T17:32:42Z"
         },
         {
-          "title": "D-Wave Just Unveiled a Major Quantum Breakthrough. QBTS Stock Looks Ready for Another Surge.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/d-wave-just-unveiled-major-173246590.html",
+          "title": "Target launches unexpected partnership beyond apparel",
+          "link": "https://finance.yahoo.com/media-advertising/articles/target-launches-unexpected-partnership-beyond-170700172.html",
           "description": "",
-          "pubDate": "2026-06-22T17:32:46Z"
+          "pubDate": "2026-06-23T17:07:00Z"
         },
         {
-          "title": "Ex-Trump advisor makes bold case for Bitcoin",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/ex-trump-advisor-makes-bold-201601908.html",
+          "title": "Bilt Cards 2.0 review: Are they better than the original — and can you still earn points on rent?",
+          "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/bilt-credit-card-review-002855220.html",
           "description": "",
-          "pubDate": "2026-06-22T20:16:01Z"
+          "pubDate": "2026-01-15T21:30:02Z"
         },
         {
-          "title": "Google DeepMind signs AI research deal with film studio A24",
-          "link": "https://finance.yahoo.com/technology/ai/articles/google-deepmind-signs-ai-research-173807723.html",
+          "title": "Best car insurance companies in 2026",
+          "link": "https://finance.yahoo.com/personal-finance/insurance/article/best-car-insurance-220609280.html",
           "description": "",
-          "pubDate": "2026-06-22T17:38:07Z"
+          "pubDate": "2025-10-21T22:06:09Z"
         },
         {
-          "title": "These 2 Veteran Wall Street Firms Just Revamped Their Micron Stock Price Targets Ahead of Earnings",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/2-veteran-wall-street-firms-174417627.html",
+          "title": "Infrastructure Firm Plummets On Cost Overruns; Top Executive Leaves",
+          "link": "https://www.investors.com/news/primoris-services-prim-stock-cost-overruns-coo-exits/?src=A00220&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-06-22T17:44:17Z"
+          "pubDate": "2026-06-23T17:48:23Z"
         },
         {
-          "title": "Managing Exposure to International Equity ETFs Amid UK Political Shifts",
-          "link": "https://finance.yahoo.com/markets/world-indices/articles/managing-exposure-international-equity-etfs-174424130.html",
+          "title": "Galaxy Backs Digital Prime in Push for Institutional Crypto Lending Standards",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/galaxy-backs-digital-prime-push-175300182.html",
           "description": "",
-          "pubDate": "2026-06-22T17:44:24Z"
+          "pubDate": "2026-06-23T17:53:00Z"
         },
         {
-          "title": "Jabil Shares Jumped on Earnings as AI Demand Boosts Its Business. JBL Stock Is No Longer Cheap.",
-          "link": "https://finance.yahoo.com/technology/ai/articles/jabil-shares-jumped-earnings-ai-174757408.html",
+          "title": "SpaceX Stock Is Down 35% From Its Peak and Back Near Its IPO Price. Is It Time to Buy the Dip?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-35-peak-170700144.html",
           "description": "",
-          "pubDate": "2026-06-22T17:47:57Z"
+          "pubDate": "2026-06-23T17:07:00Z"
         },
         {
-          "title": "The New Berkshire Hathaway Just Made a Fresh Bet on a Department Store Everyone Wrote Off",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-just-made-fresh-171520177.html",
+          "title": "RenaissanceRe (RNR) Announces Retirement of CFO Robert Qutub, Chief Portfolio Officer Ross Curtis",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/renaissancere-rnr-announces-retirement-cfo-175407781.html",
           "description": "",
-          "pubDate": "2026-06-22T17:15:20Z"
+          "pubDate": "2026-06-23T17:54:07Z"
         },
         {
-          "title": "Micron, Anthropic sign AI infrastructure supply agreement",
-          "link": "https://finance.yahoo.com/technology/ai/articles/micron-anthropic-sign-ai-infrastructure-180259668.html",
+          "title": "Here is Why Alamos Gold (AGI) is One of the Most Profitable Undervalued Stocks to Invest In",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-alamos-gold-agi-one-175426249.html",
           "description": "",
-          "pubDate": "2026-06-22T18:02:59Z"
+          "pubDate": "2026-06-23T17:54:26Z"
         },
         {
-          "title": "For a 3rd month in a row, Saia opens new terminals",
-          "link": "https://finance.yahoo.com/small-business/articles/3rd-month-row-saia-opens-180627443.html",
+          "title": "Prudential’s (PUK) Prudence Foundation Launches Levela App to Improve Financial Literacy in Asia and Africa",
+          "link": "https://finance.yahoo.com/small-business/articles/prudential-puk-prudence-foundation-launches-175359136.html",
           "description": "",
-          "pubDate": "2026-06-22T18:06:27Z"
+          "pubDate": "2026-06-23T17:53:59Z"
         },
         {
-          "title": "Franklin Files for Bitcoin-Integrated Dividend ETFs",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/franklin-files-bitcoin-integrated-dividend-180804588.html",
+          "title": "Heineken Taps a Coffee Boss to Wake Up Its Beer Business",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/heineken-taps-coffee-boss-wake-175409334.html",
           "description": "",
-          "pubDate": "2026-06-22T18:08:04Z"
+          "pubDate": "2026-06-23T17:54:09Z"
         }
       ]
     },
@@ -597,64 +609,64 @@
       "itemCount": 10,
       "items": [
         {
-          "title": "Trump may say he&#x2019;s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?",
-          "link": "https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories",
-          "description": "The measure &#x201c;will take time to meaningfully affect housing affordability and will not resolve voter frustration in that area,&#x201d; analysts said.",
-          "pubDate": "Wed, 24 Jun 2026 00:51:00 GMT"
+          "title": "Tesla and Waymo duel in the robotaxi race &#x2014; but the company spending the most builds no cars at all",
+          "link": "https://www.marketwatch.com/story/tesla-and-waymo-are-chasing-the-robotaxi-dream-but-the-company-spending-the-most-to-win-builds-no-cars-at-all-0d8682b9?mod=mw_rss_topstories",
+          "description": "Uber is quietly writing $500 million checks to lock in robotaxis as Waymo threatens to leave it behind.",
+          "pubDate": "Thu, 25 Jun 2026 02:55:00 GMT"
         },
         {
-          "title": "The No. 1 NBA draft pick will make nearly $70 million as TV deals keep money flowing into the NBA",
-          "link": "https://www.marketwatch.com/story/the-no-1-overall-nba-draft-pick-will-make-nearly-70-million-overnight-as-historic-tv-deals-keeping-money-flowing-into-nba-977513f5?mod=mw_rss_topstories",
-          "description": "There&#x2019;s so much money at stake in the NBA draft that falling a few slots could cost a player $30 million.",
-          "pubDate": "Wed, 24 Jun 2026 00:30:00 GMT"
+          "title": "Why SK Hynix&#x2019;s $30 billion U.S. listing could be a double-edged sword for Micron&#x2019;s stock",
+          "link": "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories",
+          "description": "The South Korean memory company could give investors more opportunities beyond Micron, though it may also raise awareness of industry dynamics.",
+          "pubDate": "Thu, 25 Jun 2026 01:09:00 GMT"
         },
         {
-          "title": "Alphabet&#x2019;s stock is set to join the Dow, pivoting index&#x2019;s industrial roots toward tech",
-          "link": "https://www.marketwatch.com/story/alphabets-stock-is-set-to-join-the-dow-heres-which-company-is-getting-the-boot-73453ca7?mod=mw_rss_topstories",
-          "description": "As Alphabet rolls out more data centers &#x2014; and borrowing money to do it &#x2014; it can be argued that it is becoming more of an industrial company, says strategist",
-          "pubDate": "Wed, 24 Jun 2026 00:25:00 GMT"
+          "title": "These hidden PCE triggers could force a Fed rate hike &#x2014; and shock the market",
+          "link": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories",
+          "description": "The PCE inflation report will either calm Wall Street or ignite fears of a restrictive Fed.",
+          "pubDate": "Thu, 25 Jun 2026 01:06:00 GMT"
         },
         {
-          "title": "Cerebras delivers its first earnings report &#x2014; but it&#x2019;s not enough to lift the stock",
-          "link": "https://www.marketwatch.com/story/cerebras-delivers-its-first-earnings-report-but-its-not-enough-to-lift-the-stock-8e80cb6d?mod=mw_rss_topstories",
-          "description": "Despite upbeat revenue figures, Cerebras&#x2019;s stock was falling in after-hours trading.",
-          "pubDate": "Wed, 24 Jun 2026 00:23:00 GMT"
+          "title": "Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry.",
+          "link": "https://www.marketwatch.com/story/everyone-on-wall-street-now-believes-in-buying-the-dip-that-is-exactly-why-you-should-worry-44582465?mod=mw_rss_topstories",
+          "description": "A strategy that feels like free money actually lags the stock market over the long term.",
+          "pubDate": "Thu, 25 Jun 2026 00:47:00 GMT"
         },
         {
-          "title": "&#x2018;It feels like a medical miracle&#x2019;: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
-          "link": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
-          "description": "&#x201c;This medication was generic.&#x201d;",
-          "pubDate": "Tue, 23 Jun 2026 23:15:00 GMT"
+          "title": "My houseguest left heat marks all over my table. I didn&#x2019;t notice them until she was gone. Do I ask her to pay to remove them?",
+          "link": "https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories",
+          "description": "&#x201c;What drives me crazy is that she didn&#x2019;t mention it.&#x201d;",
+          "pubDate": "Thu, 25 Jun 2026 00:45:00 GMT"
         },
         {
-          "title": "SpaceX pulls off one of the biggest AI debt deals yet",
-          "link": "https://www.marketwatch.com/story/spacex-reveals-pricing-details-for-what-could-be-one-of-the-years-biggest-debt-deals-8c027a85?mod=mw_rss_topstories",
-          "description": "The offering is set to close on Friday and help SpaceX pay off its existing debt",
-          "pubDate": "Tue, 23 Jun 2026 23:14:00 GMT"
+          "title": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?",
+          "link": "https://www.marketwatch.com/story/i-had-my-gallbladder-removed-after-i-got-home-the-hospital-asked-me-for-a-donation-is-this-ethical-ad12a8e1?mod=mw_rss_topstories",
+          "description": "&#x201c;The letter asked whether I had a favorite caregiver and if I would like to make a contribution in their honor.&#x201d;",
+          "pubDate": "Thu, 25 Jun 2026 00:30:00 GMT"
         },
         {
-          "title": "&#x2018;It seems too good to be true&#x2019;: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
-          "link": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
-          "description": "&#x201c;He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.&#x201d;",
-          "pubDate": "Tue, 23 Jun 2026 23:00:00 GMT"
+          "title": "Qualcomm&#x2019;s stock is soaring as these big numbers excite Wall Street",
+          "link": "https://www.marketwatch.com/story/qualcomms-stock-is-soaring-as-these-big-numbers-excite-wall-street-316d41f4?mod=mw_rss_topstories",
+          "description": "Shares of Qualcomm soared on Wednesday after the company announced new revenue targets and a partership with Meta Platforms.",
+          "pubDate": "Thu, 25 Jun 2026 00:17:00 GMT"
         },
         {
-          "title": "I want to leave everything to my sons, but I&#x2019;m terrified they&#x2019;ll give it to my ex-husband. How do I prevent this?",
-          "link": "https://www.marketwatch.com/story/i-want-to-leave-everything-to-my-sons-but-im-terrified-theyll-give-it-to-my-ex-husband-how-do-i-prevent-this-8cfc752c?mod=mw_rss_topstories",
-          "description": "&#x201c;I would not like my money to fall into the hands of my former spouse.&#x201d;",
-          "pubDate": "Tue, 23 Jun 2026 22:47:00 GMT"
+          "title": "Rocket Lab, Lockheed Martin among the partners in SpaceX&#x2019;s military space-laser project",
+          "link": "https://www.marketwatch.com/story/rocket-lab-lockheed-martin-among-the-partners-in-spacexs-military-space-laser-project-1b8d61e2?mod=mw_rss_topstories",
+          "description": "Government documents show a lineup of defense contractors joining SpaceX to create a satellite network to track airborne threats.",
+          "pubDate": "Wed, 24 Jun 2026 23:47:00 GMT"
         },
         {
-          "title": "&#x2018;We own our home outright&#x2019;: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-          "link": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-          "description": "&#x201c;We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.&#x201d;",
-          "pubDate": "Tue, 23 Jun 2026 22:10:00 GMT"
+          "title": "A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
+          "link": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
+          "description": "&#x201c;He also wants me to downsize and move.&#x201d;",
+          "pubDate": "Wed, 24 Jun 2026 23:01:00 GMT"
         },
         {
-          "title": "Micron and Sandisk lead a sharp tech selloff in a &#x2018;gut-check&#x2019; moment for AI stocks",
-          "link": "https://www.marketwatch.com/story/micron-and-sandisk-lead-a-sharp-tech-selloff-in-a-gut-check-moment-for-ai-stocks-cd92fa5d?mod=mw_rss_topstories",
-          "description": "Investors are taking a &#x2018;breather&#x2019; from AI-driven momentum, an analyst says",
-          "pubDate": "Tue, 23 Jun 2026 21:23:00 GMT"
+          "title": "Gas prices aren&#x2019;t falling fast enough for Trump. Here&#x2019;s when drivers can expect more relief.",
+          "link": "https://www.marketwatch.com/story/gas-prices-arent-falling-fast-enough-for-trump-heres-when-drivers-can-expect-more-relief-57db7038?mod=mw_rss_topstories",
+          "description": "President Trump is demanding the DOJ look into why gas prices aren&#x2019;t falling faster at the pump. Here are four practical factors at play.",
+          "pubDate": "Wed, 24 Jun 2026 22:57:00 GMT"
         }
       ]
     },
@@ -795,124 +807,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "大和：吉利汽车上升至“买入”评级 目标价上调至27港元",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-24/doc-inientty6259684.shtml",
-          "description": "大和发布研报称，将吉利汽车（00175）的投资评级由“持有”升至“买入”，并将目标价由23.7港元上调至27港元，升幅13.9%。大和认为，吉利汽车旗下高端品牌极氪（Zeekr）的强劲...",
-          "pubDate": "1782277361"
+          "title": "韩国交易所推迟推出三星和海力士等个股周度期权",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqwsy5781360.shtml",
+          "description": "韩国交易所周四表示，已推迟原定于下周一（6月29日）推出的四只权重股的周度期权。 这四只权重股分别是三星电子、SK海力士、现代汽车和LG新能源。",
+          "pubDate": "1782364092"
         },
         {
-          "title": "花旗：开启百度集团-SW30天正面催化剂观察 给予“买入”评级",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-24/doc-inientty6259613.shtml",
-          "description": "花旗发布研报称，开启对百度集团-SW（09888）30天正面催化剂观察，给予其“买入”评级。报告称，百度芯片和云业务的内在实力可能成为推动股价上涨的催化因素...",
-          "pubDate": "1782277355"
+          "title": "三星电子一季度保持全球DRAM市占率第一",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqwta2555382.shtml",
+          "description": " 市场研究公司Counterpoint Research周四公布的数据显示，三星电子今年第一季度继续保持全球最大动态随机存取存储器（DRAM）供应商的地位。",
+          "pubDate": "1782363853"
         },
         {
-          "title": "高盛：腾讯控股维持“买入”评级 目标价700港元",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-24/doc-inientua3035686.shtml",
-          "description": "高盛发布研报称，腾讯控股（00700）旗下微信于上周末正式启动其应用程式内置人工智能助手“小微”（Xiaowei）的试点测试，该行视此为腾讯在人工智能发展路线图上的重要一步...",
-          "pubDate": "1782277352"
+          "title": "去年韩国在美金融资产首次突破1万亿美元，创历史新高",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqwta2553376.shtml",
+          "description": " 韩国央行周四发布的一份报告显示，受华尔街股市上涨吸引，韩国投资者加大对美国股市的投资，导致韩国在美国的金融资产去年创下历史新高。",
+          "pubDate": "1782363659"
         },
         {
-          "title": "韩国央行警告：杠杆投资增加对金融稳定构成威胁",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-24/doc-inienttv8274705.shtml",
-          "description": "韩国央行周三表示，韩国金融体系依然稳定，但房价上涨和股市上涨带动杠杆投资增加，可能加剧金融失衡。 韩国央行在其金融稳定报告中指出：“尽管存在国内外不确定性...",
-          "pubDate": "1782277308"
+          "title": "韩国股市惯于上蹿下跳 堪比往日迷因股行情",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqwsy5762510.shtml",
+          "description": "韩国股市基准指数的波动性已经变得如此极端，以至于投资者和分析师将市场日内剧烈波动比作网络迷因股票的狂热。 虽然乍听之下这种比较可能有些夸张...",
+          "pubDate": "1782361713"
         },
         {
-          "title": "Agility Robotics将通过一笔25亿美元的SPAC交易上市",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-24/doc-inienttv8274349.shtml",
-          "description": "据媒体周三援引该公司高管的话报道，Agility Robotics将通过与Churchill Capital Corp XI合并的方式上市，此次交易将使这家初创企业的估值达到约25亿美元。",
-          "pubDate": "1782277269"
+          "title": "委内瑞拉和日本先后发生7级以上地震 加拉加斯主要机场被毁",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqwta2530848.shtml",
+          "description": "委内瑞拉在遭遇强烈的连续地震后宣布进入紧急状态。首都加拉加斯多处建筑倒塌、电力线路中断，主要机场被毁。 据美国地质调查局，当地周三晚间先发生了一次7.2级地震...",
+          "pubDate": "1782360654"
         },
         {
-          "title": "大和：新奥能源上调至“买入”评级 目标价削至55港元",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-24/doc-inientty6254570.shtml",
-          "description": "大和发布研报称，将新奥能源（02688）投资评级上调一级至“买入”，基于现金流折现值（DCF）将目标价由67.7港元，调低18.8%至55港元。",
-          "pubDate": "1782276643"
+          "title": "交银国际：劲方医药维持“买入”评级 目标价58港元",
+          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-25/doc-inieqwsu1030066.shtml",
+          "description": "交银国际发布研报称，将劲方医药（02595）的投资评级及目标价，分别维持“买入”及51港元。该行称，KRAS G12D 抑制剂海外临床及合作进展理想。",
+          "pubDate": "1782360343"
         },
         {
-          "title": "交银国际：锦欣生殖上调至“买入”评级 目标价3.1港元",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-24/doc-inienttu1492339.shtml",
-          "description": "交银国际发布研报称，将锦欣生殖（01951）投资评级调高至“买入”，目标价3.1港元。交银国际指，2026年1-4月，公司不孕症新患者就诊人次年增7.5%，周期数增长5.2%...",
-          "pubDate": "1782276582"
+          "title": "里昂：华润饮料重申“跑赢大市”评级 目标价为10.7港元",
+          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-25/doc-inieqwsu1030029.shtml",
+          "description": "里昂发布研报称，华润饮料（02460）公布一项自愿性股息计划，预期在2026至2028财年各年支付每股不少于0.37元人民币的年度总股息。",
+          "pubDate": "1782360340"
         },
         {
-          "title": "大摩：恒安国际维持“与大市同步”评级 目标价削至23港元",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-24/doc-inientua3029648.shtml",
-          "description": "摩根士丹利发布研报称，恒安国际（01044）的纸巾业务应该仍是主要增长动力，因受惠于销量增长及市场份额提升，但由于线上及新零售渠道为平均售价带来压力...",
-          "pubDate": "1782276512"
+          "title": "布伦特原油抹去伊朗战争以来的全部涨幅",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqwsy5751064.shtml",
+          "description": "在美伊和平协议取得进展后，霍尔木兹海峡的运输量增加，布伦特原油期货价格已抹去战争期间的所有涨幅。 这一全球基准油价迈向四连跌，一度跌破冲突前的收盘价每桶72...",
+          "pubDate": "1782360299"
         },
         {
-          "title": "中通快递-W于6月23日斥资499.55万美元回购22.74万股",
-          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-24/doc-inientua3029137.shtml",
-          "description": "中通快递-W（02057）发布公告，于2026年6月23日斥资499.55万美元回购22.74万股。",
-          "pubDate": "1782276442"
+          "title": "大摩：相信哔哩哔哩股价未来30天内绝对值上升 回购计划带来正面反应",
+          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-25/doc-inieqwsy5748627.shtml",
+          "description": "摩根士丹利发布研报称，相信哔哩哔哩-W（09626） 的股价在未来30天内绝对值将会上升，发生此情境的概率估计达80%以上（或“高度可能”）。",
+          "pubDate": "1782360049"
         },
         {
-          "title": "软银孙正义寄望“超级AI”，瞄准6.189万亿美元净资产价值",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-24/doc-inienpna6379563.shtml",
-          "description": " 软银创始人孙正义希望在未来十年将这家科技巨头的资产净值提升至6.189万亿美元，基于人工“超级智能”的前景设定了这一大胆目标。",
-          "pubDate": "1782275999"
+          "title": "特朗普：美国准备援助地震后的委内瑞拉",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqwsv7804036.shtml",
+          "description": "美国总统特朗普在社交媒体平台Truth Social发帖称，在委内瑞拉发生强烈地震后，美国已准备好提供援助。特朗普称，他已指示所有美国政府机构做好迅速行动的准备特朗普称...",
+          "pubDate": "1782360040"
         },
         {
-          "title": "万邦投资将于7月13日派发中期股息每股1.6港元",
-          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-24/doc-inienpne3155220.shtml",
-          "description": "万邦投资（00158）发布公告，将于2026年7月13日派发中期股息每股1.6港元。",
-          "pubDate": "1782275957"
+          "title": "港股午评：恒指跌1.38% 科指跌1.67% 科网股、黄金股低迷 半导体板块逆势走强",
+          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqwsv7804779.shtml",
+          "description": "6月25日消息，港股三大指数集体下跌。截至午间收盘，恒生指数跌1.38%，报23088.87，恒生科技指数跌1.67%，国企指数跌1.89%。盘面上，科网股跌多涨少，哔哩哔哩涨超2%...",
+          "pubDate": "1782360039"
         },
         {
-          "title": "香港信贷授出本金金额为1500万港元的新贷款",
-          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-24/doc-inienpne3154366.shtml",
-          "description": "香港信贷（01273）发布公告，于2026年6月24日，香港信贷（作为贷款人）与谭毓桢、辉生有限公司、Top Develop Properties Limited及Great Fortunate International...",
-          "pubDate": "1782275877"
+          "title": "哔哩哔哩-W午前涨逾3% 大摩相信公司股价在未来30天内绝对值上升",
+          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqwsy5747330.shtml",
+          "description": "哔哩哔哩-W（09626）午前涨逾3%，截至发稿，股价上涨2.70%，现报129.50港元，成交额3.42亿港元。 6月24日，哔哩哔哩-W发布公告，其董事会已授权一项新的股份回购计划...",
+          "pubDate": "1782359871"
         },
         {
-          "title": "卡塔尔首相预计该国液化天然气生产将在几周内恢复正常",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-24/doc-inienpne3153433.shtml",
-          "description": "卡塔尔首相阿勒萨尼接受英国金融时报采访表示，卡塔尔液化天然气生产预计将在“几周内”恢复正常。他表示，卡塔尔能源公司正准备恢复正常运营，但受损设施除外。",
-          "pubDate": "1782275778"
+          "title": "和黄医药午前涨超3% 凡瑞格拉替尼关键性研究数据将于ESMO胃肠道肿瘤大会上公布",
+          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqwsu1023583.shtml",
+          "description": "和黄医药（00013）午前涨超3%，截至发稿，股价上涨3.52%，现报16.77港元，成交额3936.65万港元。 6月25日，和黄医药发布公告，凡瑞格拉替尼（HMPL-453）用于治疗肝内胆管癌...",
+          "pubDate": "1782359693"
         },
         {
-          "title": "特朗普称已下令司法部调查汽油价格",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-24/doc-inienpmw1609637.shtml",
-          "description": "美国总统特朗普在Truth Social上发帖称，他已要求司法部调查为何在油价回落的情况下，汽油价格未能更快下降。 特朗普称，“大型石油公司”并未随着油价下跌相应下调加油站的...",
-          "pubDate": "1782275034"
+          "title": "天数智芯午前涨超8%盘中创新高 公司商业化跑通在即",
+          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqwsu1022258.shtml",
+          "description": " 天数智芯（09903）盘中涨超12%，高见887.50港元，再创上市新高。截至发稿，股价上涨8.50%，现报855港元，成交额7.91亿港元。",
+          "pubDate": "1782359568"
         },
         {
-          "title": "智谱据悉考虑在香港发售数十亿美元的股票",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-24/doc-inienpmx8375742.shtml",
-          "description": "媒体援引知情人士透露，中国人工智能模型公司智谱考虑在香港发售股份，融资规模可能达数十亿美元。该公司自1月上市以来，股价已飙升2000%。",
-          "pubDate": "1782273847"
+          "title": "蓝思科技盘中涨超7% 目前正配合海内外客户测试送样",
+          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqwta2502045.shtml",
+          "description": "蓝思科技（06613）盘中涨超7%，截至发稿，股价上涨4.18%，报27.42港元，成交额6.53亿港元。 国信证券表示，Al计算需求快速增长，推动芯片封装向更大面积，更高I/O密度...",
+          "pubDate": "1782358262"
         },
         {
-          "title": "港股午评：恒指涨0.04% 科指涨1.34% 科网股涨跌互现 创新药概念爆发 麦科医药首日涨超89%",
-          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-24/doc-inienpmx8374963.shtml",
-          "description": "6月24日消息，港股三大指数涨跌不一。截至午间收盘，恒生指数涨0.04%，报23344.60，恒生科技指数涨1.34%，国企指数跌0.12%。盘面上，科网股涨跌互现，联想涨超3%，百度...",
-          "pubDate": "1782273645"
+          "title": "长飞光纤光缆盘中涨超10% AI超级周期下驱动光纤行业高景气",
+          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqwsy5723632.shtml",
+          "description": "长飞光纤光缆（06869）今早一度涨超10%，截至发稿，股价上涨7.20%，现报280港元，成交额35.87亿港元。 受益于AI算力网络建设带来的巨量光纤光缆需求...",
+          "pubDate": "1782358083"
         },
         {
-          "title": "日本寻求改进外汇储备管理",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-24/doc-inienpmx8372331.shtml",
-          "description": " 媒体援引一份增长战略报告草案报道，日本政府计划研究如何改进外汇储备的管理。该战略草案并未明确说明对外汇储备资产配置的具体调整方案。",
-          "pubDate": "1782273378"
+          "title": "PCB概念股早盘延续涨势 广合科技及大族数控均涨逾9%",
+          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqsme2628692.shtml",
+          "description": "PCB概念股早盘延续涨势，截至发稿，广合科技（01989）上涨9.45%，报185.90港元；大族数控（03200）上涨8.84%，报200.60港元；建滔积层板（01888）上涨5.99%，报99.15港元。",
+          "pubDate": "1782357940"
         },
         {
-          "title": "希迪智驾午前涨逾4% 正式发布TAG系列产品率先锚定露天矿场景完成深度技术适配",
-          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-24/doc-inienpna6355043.shtml",
-          "description": "希迪智驾（03881）盘中涨超6%，截至发稿，股价上涨3.92%，现报23.88港元，成交额7410.72万港元。 6月24日，据希迪智驾官微消息，在2026亚洲物流双年展首日...",
-          "pubDate": "1782273253"
+          "title": "加息阴影下黄金白银双双“栽了”，又一家机构砍价：别跟美联储对着干",
+          "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-06-25/doc-inieqskx7905928.shtml",
+          "description": "文章来源：金十数据 黄金与白银近日持续承压，价格双双跌破关键关口。现货黄金已下探至每盎司4000美元以下，创下年内新低；白银也跌破每盎司60美元。",
+          "pubDate": "1782357840"
         },
         {
-          "title": "国泰航空午前涨近3% 5月载客量同比增加17%",
-          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-24/doc-inienpmw1588769.shtml",
-          "description": "国泰航空（00293）盘中涨近3%，截至发稿，股价上涨2.35%，现报12.19港元，成交额1.16亿港元。 6月23日，国泰航空发布公告，国泰航空于2026年5月份的载客量较2025年同月增加...",
-          "pubDate": "1782272733"
+          "title": "龙旗科技盘中涨超6% 机构指公司业务有望向消费电子下游延申",
+          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqskw1125445.shtml",
+          "description": "龙旗科技（09611）盘中涨超6%，截至发稿，股价上涨4.96%，现报25.40港元，成交额1995.71万港元。 近日，龙旗科技发布公告，有关收购科峻成精密及吉亚金属（即目标公司）各...",
+          "pubDate": "1782357708"
         },
         {
-          "title": "智谱午前涨逾13% 里昂指其在强化学习领域取重大胜利",
-          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-24/doc-inienpmx8352073.shtml",
-          "description": "智谱（02513）盘中涨超16%，高见2520港元，截至发稿，股价上涨12.62%，现报2444港元，成交额39.34亿港元。 6月17日，智谱发布并开源新一代旗舰大模型GLM-5.2...",
-          "pubDate": "1782271965"
+          "title": "凯乐士科技盘中涨超10% 纳入恒生AI指数迎配置窗口",
+          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqsma5846439.shtml",
+          "description": " 凯乐士科技（02729）盘中涨超10%，昨日股价大涨超11%。截至发稿，股价上涨6.36%，现报32.76港元，成交额976.27万港元。",
+          "pubDate": "1782357407"
         }
       ]
     },
@@ -932,124 +944,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "科创50反弹超2%，算力硬件集体反攻，创新药再拉升，恒科指涨超1%，半导体大涨",
-          "link": "https://wallstreetcn.com/articles/3775362",
+          "title": "华尔街最担心的问题，美光给出了答案",
+          "link": "https://wallstreetcn.com/articles/3775486",
           "description": "",
-          "pubDate": "2026-06-24T04:12:35"
+          "pubDate": "2026-06-25T04:48:37"
         },
         {
-          "title": "高端PI膜：黄金薄膜的\"供需悬崖\"，从1.2万吨缺口演化220亿国产替代蓝海",
-          "link": "https://wallstreetcn.com/articles/3775139",
+          "title": "瑞银发现：60%已开始控制AI支出，企业转向低成本模型与开源中国模型",
+          "link": "https://wallstreetcn.com/articles/3775468",
           "description": "",
-          "pubDate": "2026-06-24T04:01:25"
+          "pubDate": "2026-06-25T04:25:40"
         },
         {
-          "title": "高盛相信“腾讯估值修复取决于AI叙事进展”，微信AI内测是关键一步",
-          "link": "https://wallstreetcn.com/articles/3775368",
+          "title": "付鹏：突破十年区间，纽元NZD的拐点要来了？【付鹏说28】",
+          "link": "https://wallstreetcn.com/articles/3775479",
           "description": "",
-          "pubDate": "2026-06-24T03:48:36"
+          "pubDate": "2026-06-25T04:11:44"
         },
         {
-          "title": "种种迹象显示“接近周期顶部”，但瑞银坚持：现在退出中国科技股“为时过早”",
-          "link": "https://wallstreetcn.com/articles/3775369",
+          "title": "携程2026Q1净收入162亿  Q2预期大幅放缓",
+          "link": "https://wallstreetcn.com/articles/3775484",
           "description": "",
-          "pubDate": "2026-06-24T03:47:50"
+          "pubDate": "2026-06-25T04:08:30"
         },
         {
-          "title": "终于涨不动了，开启调整的美股支撑位在哪？",
-          "link": "https://wallstreetcn.com/articles/3775354",
+          "title": "科创50首破2000点，算力硬件、芯片半导体集体爆发，有色金属大跌，恒科指跌超1%，科网股下挫",
+          "link": "https://wallstreetcn.com/articles/3775467",
           "description": "",
-          "pubDate": "2026-06-24T03:38:25"
+          "pubDate": "2026-06-25T04:06:27"
         },
         {
-          "title": "亚洲股市反弹昙花一现，韩股转跌，三星电子涨幅收窄，黄金跌超1.3%",
-          "link": "https://wallstreetcn.com/articles/3775351",
+          "title": "美银警告：半导体驱动下，纳斯达克已达\"泡沫临界点\"",
+          "link": "https://wallstreetcn.com/articles/3775478",
           "description": "",
-          "pubDate": "2026-06-24T03:33:17"
+          "pubDate": "2026-06-25T03:59:13"
         },
         {
-          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
-          "link": "https://wallstreetcn.com/articles/3775365",
+          "title": "Q3存储涨幅超预期，HBM盈利能力明年追上通用DRAM，野村接连上调海力士和三星目标价",
+          "link": "https://wallstreetcn.com/articles/3775481",
           "description": "",
-          "pubDate": "2026-06-24T03:16:39"
-        },
-        {
-          "title": "锂电添加剂VC：淡季不淡仅是序章，Q3量价齐升或为高潮",
-          "link": "https://wallstreetcn.com/articles/3774983",
-          "description": "",
-          "pubDate": "2026-06-24T02:49:56"
-        },
-        {
-          "title": "豆包正式推出收费版，三档定价、最高一年6000元，贵不贵？",
-          "link": "https://wallstreetcn.com/articles/3775360",
-          "description": "",
-          "pubDate": "2026-06-24T02:38:34"
-        },
-        {
-          "title": "越疆科技一季度营收增长111%：“All in 具身智能”战略进入商业回报期",
-          "link": "https://wallstreetcn.com/articles/3775367",
-          "description": "",
-          "pubDate": "2026-06-24T02:36:17"
-        },
-        {
-          "title": "微信6年来最大改版——关于微信AI助手小微的15条思考",
-          "link": "https://wallstreetcn.com/articles/3775356",
-          "description": "",
-          "pubDate": "2026-06-24T02:36:16"
-        },
-        {
-          "title": "全球科技股暴跌：AI牛市的又一场压力测试",
-          "link": "https://wallstreetcn.com/articles/3775364",
-          "description": "",
-          "pubDate": "2026-06-24T02:07:38"
-        },
-        {
-          "title": "楼市的双重分化",
-          "link": "https://wallstreetcn.com/articles/3775359",
-          "description": "",
-          "pubDate": "2026-06-24T01:29:29"
-        },
-        {
-          "title": "硅电容：MLCC潜在颠覆者？AI先进封装时代的百亿冠军赛道",
-          "link": "https://wallstreetcn.com/articles/3774904",
-          "description": "",
-          "pubDate": "2026-06-24T01:16:47"
-        },
-        {
-          "title": "报道：三星或宣布90万亿韩元股票回购计划，用于支付员工奖金",
-          "link": "https://wallstreetcn.com/articles/3775357",
-          "description": "",
-          "pubDate": "2026-06-24T01:07:27"
-        },
-        {
-          "title": "高盛再谈AI热潮现状：在投资周期见顶之前，“强劲盈利将压倒估值忧虑”，波动性会进一步上升",
-          "link": "https://wallstreetcn.com/articles/3775349",
-          "description": "",
-          "pubDate": "2026-06-24T00:54:48"
-        },
-        {
-          "title": "全球芯片股灾的暴风眼：韩股暴跌背后的“各种鬼故事”",
-          "link": "https://wallstreetcn.com/articles/3775352",
-          "description": "",
-          "pubDate": "2026-06-24T00:50:40"
-        },
-        {
-          "title": "韩国引爆“黑色星期二”，全球芯片股大牛市遭“当头棒喝”，只是“技术性调整”吗？",
-          "link": "https://wallstreetcn.com/articles/3775350",
-          "description": "",
-          "pubDate": "2026-06-24T00:43:04"
+          "pubDate": "2026-06-25T03:50:38"
         },
         {
           "title": "功率半导体行业：AI算力与新能源双轮驱动，供给紧俏开启景气上行周期",
           "link": "https://wallstreetcn.com/articles/3775164",
           "description": "",
-          "pubDate": "2026-06-24T00:42:21"
+          "pubDate": "2026-06-25T03:50:09"
         },
         {
-          "title": "高盛上调全球AI服务器需求预测，提升ASIC占比，云大厂资本开支受昂贵存储和强劲需求推动",
-          "link": "https://wallstreetcn.com/articles/3775347",
+          "title": "华为汪涛预判2030：全球智能体千亿规模重写通信格局",
+          "link": "https://wallstreetcn.com/articles/3775482",
           "description": "",
-          "pubDate": "2026-06-24T00:30:28"
+          "pubDate": "2026-06-25T03:42:11"
+        },
+        {
+          "title": "“亚洲版SpaceX”--高盛解读“亚洲太空经济全景”",
+          "link": "https://wallstreetcn.com/articles/3775456",
+          "description": "",
+          "pubDate": "2026-06-25T03:27:53"
+        },
+        {
+          "title": "英特尔背书，AI芯片新秀SambaNova估值或达百亿，四个月内暴涨五倍",
+          "link": "https://wallstreetcn.com/articles/3775477",
+          "description": "",
+          "pubDate": "2026-06-25T03:26:42"
+        },
+        {
+          "title": "美光财报炸裂，海力士IPO火爆，存储芯片成AI“夜空中最亮的星”",
+          "link": "https://wallstreetcn.com/articles/3775474",
+          "description": "",
+          "pubDate": "2026-06-25T03:21:14"
+        },
+        {
+          "title": "EcoFlow发布多款智慧能源生态新品，以 OASIS 3.0 开启能源智能新时代",
+          "link": "https://wallstreetcn.com/articles/3775480",
+          "description": "",
+          "pubDate": "2026-06-25T03:05:55"
+        },
+        {
+          "title": " 宏观与中观数据再现温差，如何解读？",
+          "link": "https://wallstreetcn.com/articles/3775475",
+          "description": "",
+          "pubDate": "2026-06-25T03:01:56"
+        },
+        {
+          "title": "Anthropic合伙人：AI发展已踩不了刹车，它并非程序而是“模拟脑组织”，大模型会形成“品格”",
+          "link": "https://wallstreetcn.com/articles/3775473",
+          "description": "",
+          "pubDate": "2026-06-25T02:56:26"
+        },
+        {
+          "title": "日本央行鹰派委员：每隔数月加息一次，中性利率目标指向2%",
+          "link": "https://wallstreetcn.com/articles/3775472",
+          "description": "",
+          "pubDate": "2026-06-25T02:51:16"
+        },
+        {
+          "title": "美光财报炸裂，韩股领涨亚太股市，海力士飙升10%、三星大涨5%，黄金跌破4000，白银再跌1%",
+          "link": "https://wallstreetcn.com/articles/3775470",
+          "description": "",
+          "pubDate": "2026-06-25T02:49:51"
+        },
+        {
+          "title": "高通全面发布数据中心战略，预计未来三到五年迎来多个关键拐点",
+          "link": "https://wallstreetcn.com/articles/3775471",
+          "description": "",
+          "pubDate": "2026-06-25T02:17:38"
+        },
+        {
+          "title": "光通信产业链需求爆发，天弘通信设备基金迎AI算力互联升级",
+          "link": "https://wallstreetcn.com/articles/3775469",
+          "description": "",
+          "pubDate": "2026-06-25T02:02:34"
+        },
+        {
+          "title": "汇丰财富洞察：新三大投资引擎，人工智能、能源及国防|汇丰3季度财富洞察（专题一）",
+          "link": "https://wallstreetcn.com/articles/3775394",
+          "description": "",
+          "pubDate": "2026-06-25T02:00:53"
         }
       ]
     },
@@ -1061,124 +1073,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "仙工智能的过山车：暗盘破发7%、首日冲高38%",
-          "link": "https://36kr.com/p/3866666733835522?f=rss",
-          "description": "本文约1100字，建议阅读3分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  6月24日，仙工智能（06106.HK）正式在港交所敲钟上市，开盘平开，报101.6港元，随后一路拉升，最高冲到140.50（+38.3%）。之后回落，截至发稿报115.70港元，仍涨13.88%。振幅38.29%，成交5.33亿，市值127.8亿港元。\n  \n  按这个市值算，其去年4.42亿元收入，静态市销率已升到约25倍，成为港股估值最贵的机器人新股。全球AMR第一的极智嘉约9倍，工业机器人中国第一的埃斯顿只有4~5倍。101.60港元的发行价，已经把\"高增长+高毛利能持续\"的乐观预期price in了。\n  关于仙工智能深度报道，请点击链接查看浙大系创业者冲港股IPO，仙工智能招股书五大看点。\n  事实上，在24小时里，仙工智能经历了过山车。昨日下午的暗盘以105港元小幅高开，盘中一度还冲到130港元（较发行价+27.9%），但随后一路下泄，最低砸到80港元（-21.3%），全天振幅49.21%。最后收在低位94.20港元，较101.60港元的发行价跌7.28%。大部分时间都在发行价下方，平均成交价",
-          "pubDate": "2026-06-24 12:17:53  +0800"
+          "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
+          "link": "https://36kr.com/p/3867998907667462?f=rss",
+          "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”\n  以下为对话内容，经36氪整理编辑：\n  \n  巴芮｜暗涌副主编（主持）\n  李晓飞｜深朴智能 创始人兼CEO\n  李元庆｜乐享科技 联席CTO、穹明智能 总经理\n  李一言｜擎天租 联合创始人、CEO\n  崔轲迪｜BV百度风投 执行董事\n  由天宇｜凯联资本 行业合伙人\n  王子璇｜云时资本 执行董事\n  巴芮：各位好！我们这一桌人最多、最热闹，但是我们时间紧，任务重，所以我快点说。\n  具身智能是这一两年一级市场最吸金的市场，也是期待最高的硬科技赛道之一，",
+          "pubDate": "2026-06-25 11:42:26  +0800"
         },
         {
-          "title": "AI × OPC的新可能：一个人，就是一支队伍｜2026WAVES",
-          "link": "https://36kr.com/p/3866649515938825?f=rss",
-          "description": "2026年6月16日，36氪2026 WAVES 新浪潮大会在广州番禺良仓新造创意园开幕。以下这场圆桌论坛是大会首日下午的收官议题，探讨 AI 时代 OPC（One Person Company）的真实生态。\n  八九十年代，一辆三轮车、一个摊位，就能撑起一门生意。今天的 OPC 看起来形似，但底层逻辑已经彻底不同。\n  过去个体户的杠杆是体力、经验和地理位置，本质上是基于本地的 LBS 服务，脱不开那个具体的摊位。今天 OPC 的杠杆是代码和媒体——边际成本几乎为零的杠杆，加上 AI 带来的生产力平权，让一个人第一次拥有了接近公司的交付能力。\n  这场圆桌汇集了 OPC 生态的上中下游：已经跑出商业闭环的 OPC 创业者、每天和年轻创业者打交道的高校创新创业负责人、云计算和底层算力平台的专家。几个值得关注的行业趋势在讨论中浮出水面：\n  第一，云的用户画像正在发生迁移，云平台的产品逻辑也在随之重构。阿里云今年2月的用户调研发现，传统“写代码的开发者”仅占现场用户的20%，产品与运营背景的人已占35%，企业主占21%。基础设施的服务对象正在从技术极客扩展到“有想法、有业务的普通人”。\n",
-          "pubDate": "2026-06-24 12:00:08  +0800"
+          "title": "实现光学载荷批量化交付，苏州商业航天企业再获数亿元融资｜36氪首发",
+          "link": "https://36kr.com/p/3868029247034371?f=rss",
+          "description": "文&nbsp;|&nbsp;阿至\n  商业航天投资关注度持续向产业链上游延伸。\n  从押注火箭运力、卫星平台和星座运营的宏大叙事，到元器件国产化、核心部件性能跃升，具有自研技术壁垒、能够批产交付并更快跑通商业闭环的上游供应商，正成为抢手的投资标的。\n  36氪获悉，宇航级光学载荷研发制造商苏州吉天星舟空间技术有限公司（以下简称“吉天星舟”）已完成数亿元B轮融资，由苏高新金控、和基资本、卓璞资本、聚合资本、元禾原点、元禾厚望、致道资本、中时资本、邦盛资本等机构联合投资，资金主要用于新一代超高分辨率光学载荷及星敏感器研发、智能制造产线扩建。\n  吉天星舟是我们持续关注的企业，其成立5年来始终专注于一件事：光学载荷，给卫星做“眼睛”。\n  光学载荷是遥感卫星最核心的部件，要理解它为什么重要，一个更直观的数据是产业链价值占比。在传统的遥感卫星产业链当中，卫星平台提供供电和姿控，光学载荷负责成像观测，地面系统完成数据处理，三者之中，光学载荷技术壁垒最高、价值量最大，通常会占到卫星成本的50%以上。\n  过去，国内能够实现批量化、市场化交付的宇航级光学载荷单位屈指可数，体制内科研院所主要服务于国家",
+          "pubDate": "2026-06-25 11:26:07  +0800"
         },
         {
-          "title": "主题圆桌: 迎风而立的人，那些漂洋过海寻找的答案｜36氪WAVES2026新浪潮",
-          "link": "https://36kr.com/p/3866622738060553?f=rss",
-          "description": "&nbsp;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’ 变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。”\n  以下为演讲内容，经36氪整理编辑：\n  \n  彭孝秋 | 36氪硬氪主编（主持）\n  张涵量 | 星展银行（中国）新经济暨汽车、通用行业负责人\n  陶洋峰 | 零一创投 董事总经理\n  郭斌 | 天堂硅谷 合伙人\n  刘兵斌丨征拓 创始人兼CEO\n  彭孝秋：大家好！我是36氪的小秋。今天我们的主题是“那些漂洋过海寻找的答案”。其实我觉得，比答案更重要的是提出好的问题——如果问题本身错了，答案再好也没有意义。所以我们今天准备了三个话题，和各位嘉宾",
-          "pubDate": "2026-06-24 11:38:08  +0800"
+          "title": "国产航电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发",
+          "link": "https://36kr.com/p/3868030861645058?f=rss",
+          "description": "文&nbsp;|&nbsp;阿至\n  给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。\n  这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。\n  在这一核心环节，一家成立不到4年的创业公司，想通过全栈自研打破国际垄断，做自主可控的综合航电系统，沿着“先国家队后民营”的路径，推动一场自上而下的市场卡位。\n  我们了解到，云际航电已于近期连续完成pre-A和pre-A+两轮融资，规模为数千万元，投资方包括海河产业基金、亦庄新城实业、厚天资本、成都科创投和中丽基金，资金将主要投入于技术研发、核心产品的适航取证以及产能扩建。\n  去年底，我们曾报道过云际航电天使轮的融资进展，由北京经开区种子投资基金领投。\n  不到8个月的时间，这家国产航电黑马已完成三轮融资。\n  在商业航天热度一路走高的当下，如此节奏在一级市场并不罕见。但云际航电创始人李贝不太关注所谓的风口和热钱效应，他认为航电是一个需要以10年为周期做",
+          "pubDate": "2026-06-25 11:25:46  +0800"
         },
         {
-          "title": "主题演讲：全密态计算，破解AI时代的数据安全难题 | 36氪WAVES2026新浪潮",
-          "link": "https://36kr.com/p/3866604451845377?f=rss",
-          "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”\n  以下为对话内容，经36氪整理编辑：\n  \n  于功山丨辰宜科技 联合创始人\n  各位嘉宾、各位伙伴、各位同行，下午好！\n  我来分享一个话题，就是全密态计算，破解AI时代的数据安全难题。\n  前一段时间，Anthropic发布了新一代大模型，这应该引起全球的警觉。所有上一代的计算机技术，在面对新一代全球顶尖大模型时，都可能被摧枯拉朽地攻破，原有的安全体系将形同虚设。大家需要反思一个问题：在人工智能与量子计算来临的时代，如何真正保证数据安全？如何守住底线？这已",
-          "pubDate": "2026-06-24 11:14:46  +0800"
+          "title": "秋声 | 紫鸟浏览器冲港股IPO，两个草根逆袭的暴利故事",
+          "link": "https://36kr.com/p/3868019442881537?f=rss",
+          "description": "本文约4500字，建议阅读7分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  \n   编者按：AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。\n   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第二期，紫讯。\n  \n  6月24日，紫讯技术（福建）股份有限公司向港交所递交了上市申请，国泰君安担任独家保荐人。和这两年扎堆赴港的未盈利18C不同，紫讯走的是主板 ——换句话说，这是一家已经实打实赚钱的公司。\n  紫讯招股书把自己定义为\"一家电商科技公司，致力于结合行业专业知识与AI技术来革新电商营运模式\"。开篇七个加粗数字：2023—2025年收入复合增速51.7%、经营利润复合增速145.4%、经营现金流复合增速111.1%、LinkFox订阅者增速238.2%……一个AI驱动、业绩强劲、客群忠诚的叙事，扑面而来。\n  但把这份379页的招股书抽丝剥茧之后会发现：这家公司的故事，比\"AI电商\"四个字要拧巴得多，也有意",
+          "pubDate": "2026-06-25 11:14:02  +0800"
         },
         {
-          "title": "微信AI助手小微，还有许多做不到的事情｜产品观察",
-          "link": "https://36kr.com/p/3865425714795525?f=rss",
-          "description": "文｜王毓婵\n  编辑｜张雨忻\n  微信AI助手“小微”正在灰度内测，36氪智能涌现拿到了首批测试资格。\n  先说结论：一些简单操作，小微做得没那么好；一些复杂操作，小微反而做得比较好。\n  \n  小微入口\n  小微的服务主要基于微信自研模型WeLM，部分回答可能会调用DeepSeek来处理。主入口在微信首页左上角，默认交互方式是语音转文字，亦可直接手动打字输入。\n  小微会默认开启记忆能力、个性化服务和授权帮助模型改进效果。用户也可以在“记忆与隐私”界面手动选择关闭。\n  这款尚为测试版的AI助手打通了小程序、微信聊天、朋友圈、公众号、视频号、微信小店等微信的基础功能，但同时又有很多做不到的事情——比如，它可以读取你的朋友圈内容，却不能直接帮你发布朋友圈；它可以读取你的微信聊天内容，但是一次只能读一条消息。\n  小微在设计上呈现出典型的微信风格，简洁、易用，同时又很小心。在一些可能涉及到信任危机的场景中，它宁愿后撤一步。\n  今年3月，36氪独家了解到，微信内部曾在2025年12月的一场内部高管会议上总结了微信入局AI的几个趋势：\n  第一，微信必须拥有不依赖于第三方系统的内置AI工具",
-          "pubDate": "2026-06-24 10:00:00  +0800"
+          "title": "36氪首发 | 固态变压器领域累计出货超50MW，功率半导体模组厂商完成数千万元融资",
+          "link": "https://36kr.com/p/3867975570035717?f=rss",
+          "description": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，矽迪半导体近日完成数千万元人民币天使轮+融资，由苏创投和婧嘉投资共同投资，后浪资本担任战略财务顾问。本轮融资资金将主要用于固态变压器（SST）功率模组研发、产品迭代以及供应链体系建设。\n  矽迪半导体成立于2023年，主要从事功率半导体模组的研发、制造与销售，产品覆盖全碳化硅（SiC）功率模组、IGBT+SiC混合模组以及定制化功率解决方案，应用方向包括光伏储能、数据中心电源以及固态变压器等场景。\n  据介绍，公司目前已累计开发约60款产品，其中近50余款产品进入量产阶段，量产产品以碳化硅三电平功率模组为主，主要面向新型电力、绿色能源、智能终端三大领域供货，覆盖SST、光伏、储能、及智能充电产业链相关企业。\n  \n  （图源/企业）\n  目前，在SST细分领域，矽迪半导体出货量位居行业第一，创始人李发宝在接受硬氪采访时表示，矽迪的优势在于既有产品又有方案，除功率器件本身外，公司还向客户提供驱动设计、系统硬件参考架构等配套支持，以缩短终端客户的开发周期。\n  在技术布局上，公司重点投入固态变压器",
+          "pubDate": "2026-06-25 10:29:39  +0800"
         },
         {
-          "title": "36氪首发 | 同济博士从建筑机器人转战煤矿，押注辅助作业的“结构性蓝海”",
-          "link": "https://36kr.com/p/3866531692844034?f=rss",
-          "description": "作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，矿山机器人公司随擎机器人（下称“随擎”）近期已完成千万元级天使轮融资，投资方为连云港金桥基金。本轮资金将主要用于煤矿井下核心机器人产品的工程化迭代、供应链构建及团队扩充。\n  随擎2025年初正式成立，此前已通过子公司完成近两年的技术积累与井下验证。随擎核心团队深耕智能机器人及特种装备行业多年，平均从业年限超过10年，形成从80后到98后的年龄梯队，核心骨干均有从产品定义到现场交付的全链条实战经历。创始人王龙是同济大学机器人方向博士，国内建筑机器人早期开拓者，曾任香港科技大学高级研究员。\n  在矿山机器人这个正在从“单点自动化”向“全场景无人化”跨越的赛道上，大多数创业公司会选择采掘、运输等核心作业环节。但随擎做了一个相反的决定——聚焦辅助类作业，包括巷道物资运输、登高作业、密闭墙构筑和浮煤清理等。\n  这个选择背后的商业逻辑很直接：大型采掘运输设备领域已经形成头部企业垄断，新玩家切入极难；而辅助作业场景的人员占井下一线作业人员的60%以上——对应全国近千座大中型矿井中约百万采掘一线工人，恰恰是国家矿山“减员”政策的核心目标人群，但传统煤机企",
-          "pubDate": "2026-06-24 09:59:38  +0800"
+          "title": "光源资本创始人&amp;CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
+          "link": "https://36kr.com/p/3866562600227847?f=rss",
+          "description": "&nbsp;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’&nbsp;变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪&nbsp;· 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些‘少数人’&nbsp;的坚持，如何汇聚成改变行业的浪潮。”\n  活动现场，光源资本创始人&amp;CEO郑烜乐做了“拥抱技术爆炸的黎明：AI与未来科技时代的早期投资范式”的主题演讲，他表示“未来，通用智能本身将不再稀缺，因为大模型公司会主导智能的供给，基于其生态做通用智能的路径价值有限。”此外，他也坦言光源资本成立的L2F光源创业者基金，源于其对大趋势的判断：先进生产要素一定要和产业快速融合，光源希望成为这个过程的推动者和布局者。所以这支基金的定位是中国第一个面向AI与未来科技产",
+          "pubDate": "2026-06-25 09:00:00  +0800"
         },
         {
-          "title": "专访火山引擎谭待：模型好对MaaS是最重要的事，豆包2.1算「上牌桌」了",
-          "link": "https://36kr.com/p/3865912900588548?f=rss",
-          "description": "文 | 邓咏仪\n  编辑 | 张雨忻\n  \n  火山引擎总裁谭待 来源：火山引擎\n  过去三年，火山引擎总裁谭待给团队定 MaaS（模型即服务） 营收目标的过程，也重复了三次：年初，定一个很高的目标，团队都觉得太难了，完不成；到了年中，“居然完成的差不多了”，随后目标再度上调。\n  2026 年初，字节的视频模型 Seedance 2.0 让火山引擎迎来了一场漂亮的开门红。作为云市场的后来者，火山引擎乘着 AI 的风，实现了让行业意想不到的增长。\n  “两年前我就和大家说 MaaS 是个大生意，当时你们都不信。”谭待对36氪说。\n  从 2025 年下半年开始，Coding 和视频模型陆续解锁了商业化生产的场景，这让大家发现，现阶段，模型的能力边界依旧难以预测，顶尖模型是 MaaS 服务当下最核心的增长引擎，甚至没有之一。\n  在 6 月 23 日的火山引擎 Force 大会上，字节新一代旗舰模型豆包大模型 2.1 Pro 登场。这也代表着字节在视频生成之外，模型侧终于补上了 Coding 的拼图。\n  谭待对豆包大模型 2.1 Pro 的定义是，在 Coding 和 Agent 能力",
-          "pubDate": "2026-06-24 09:00:59  +0800"
+          "title": "8点1氪丨SK海力士已提交美国IPO申请；马斯克身家蒸发3400亿美元，已不是万亿富豪；券商暂停股票类跨境TRS新增",
+          "link": "https://36kr.com/p/3867827741086728?f=rss",
+          "description": "今日热点导览\n  豆包专业版正式上线，采用三级阶梯定价方案\n  半导体新股暴涨900%，中一签该股最高盈利超20万元\n  以色列证实向伊朗偷运数万台“星链”接收器\n  霍尔木兹海峡对商船完全开放60天，国际油价下跌\n  券商暂停股票类跨境TRS新增，后续业务规模或将逐步归零\n  消息称苹果将于7月下旬量产首款可折叠iPhone\n  TOP3大新闻\n  SK海力士已提交美国IPO申请\n  据报道，SK海力士已提交美国IPO申请，计划在纳斯达克上市。富邦证券、花旗集团、高盛、摩根大通为其首次公开募股（IPO）的承销商。（财联社）\n  马斯克身家蒸发3400亿美元，已不是万亿富豪\n  6月24日，埃隆·马斯克身价已跌破万亿美元。据彭博亿万富豪指数数据，马斯克目前身价已跌至9570亿美元，较8天前的峰值1.3万亿美元大幅缩水3400亿美元。不过，马斯克缩水后的身家仍然在财富榜上遥遥领先。人类首个万亿美元富豪，只维持了不到2周就“跌落神坛”。（每日经济新闻）\n  券商暂停股票类跨境TRS新增，后续业务规模或将逐步归零\n  记者多方了解到，23日券商起正按照监管要求，暂停股票类跨境TRS（Tota",
+          "pubDate": "2026-06-25 08:00:14  +0800"
         },
         {
-          "title": "8点1氪丨追觅辟谣汽车CEO离职：职务与网传不符；微信小范围内测原生AI助手；苹果、特斯拉核心供应商数据泄露",
-          "link": "https://36kr.com/p/3866428592657411?f=rss",
-          "description": "今日热点导览\n  创业板指创年内最大跌幅，失守4200点整数关口\n  影石回应Luna Ultra新品骗国补质疑：发布会标价有误\n  上交所向沪市公司发出“提质增效重回报”2.0专项行动公开倡议\n  韩国将要求��有上市公司披露库存股详情\n  贾跃亭推出工业级轮臂机器人\n  TOP3大新闻\n  追觅辟谣汽车CEO离职：陈龙冬职务与网络传言不符，今年5月已离职\n  6月23日，针对追觅汽车CEO离职传闻，追觅旗下星辰未来汽车发布声明称：“陈龙冬先生于2025年6月加入追觅科技原星辰未来BU，担任BU负责人，其职务与网络传言‘追觅汽车CEO’不符；2026年5月，陈龙冬先生已从星辰未来离职，该离职属正常人事变动。”\n  此前公司大整改中，追觅把原本两百多个独立业务单元全部整合，只保留全屋智能清洁、智能家电、智慧出行、AI具身智能四大核心板块。汽车、手机两大外界关注度最高的跨界业务，不再作为独立业务运营，统一划入新成立的产业研究院，只保留底层技术研发职能，彻底砍掉C端整车量产、线下门店、重资产整车工厂相关规划。（界面新闻、凤凰网财经）\n  微信迎来重磅更新，原生AI助手开启小范围内测\n  6",
-          "pubDate": "2026-06-24 08:15:39  +0800"
+          "title": "氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观",
+          "link": "https://36kr.com/p/3867032586867972?f=rss",
+          "description": "大公司：\n  华东医药：全资子公司获得注射用HDM2005药物临床试验批准通知书36氪获悉，华东医药公告，全资子公司杭州中美华东制药有限公司收到国家药监局核准签发的《药物临床试验批准通知书》，注射用HDM2005联合PD-1单抗和AD用于治疗经典型霍奇金淋巴瘤的临床试验申请获批。该药物为靶向ROR1的ADC药物，目前正围绕恶性肿瘤开展多适应症临床开发。本次获批将提升公司在肿瘤治疗领域的核心竞争力，但药物从临床试验到上市存在不确定性，对近期业绩无重大影响。\n  SK海力士已提交美国IPO申请\n  据报道，据报道，SK海力士已提交美国IPO申请，计划在纳斯达克上市。富邦证券、花旗集团、高盛、摩根大通为其首次公开募股（IPO）的承销商。（财联社）\n  江西齐云山食品股份有限公司通过港交所上市聆讯\n  36氪获悉，港交所文件显示，江西齐云山食品股份有限公司更新聆讯后资料集，意味着该公司港交所IPO通过聆讯。\n  三星回应将回购价值近90万亿韩元的股票用于发放奖金：正在考虑，细节尚未确定\n  6月24日，三星电子在监管文件中表示，公司正考虑为支付奖金而进行股票回购，但尚未确定具体时间表和规模。三",
+          "pubDate": "2026-06-24 18:35:25  +0800"
         },
         {
-          "title": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
-          "link": "https://36kr.com/p/3865630193030145?f=rss",
-          "description": "AI不是一阵风，它正在变成地平线。而地平线的意思是——你看不到它的尽头，但它一直在那里。\n  当下AI热潮涌动，行业共识尚未形成，但真正的机遇往往诞生在共识之前。接下来就让我们进入比共识更早一步 AI 创投的真实棋局圆桌论坛 !\n  以下为圆桌对话内容，经36氪整理编辑：\n  \n  巴芮｜暗涌副主编（主持人）\n  朱天宇｜蓝驰创投 管理合伙人\n  秦深涛｜OriginFlow创始人&amp;CEO\n  &nbsp;\n  巴芮：大家好！我们这场对谈的主题是比共识更早一步，刚才上一场收尾在说一些非共识的内容，我们这一场是说比共识更早一步的事情。\n  现场这两位，一位是在投资上出手非常早，蓝驰创投管理合伙人朱天宇。另外一位是创业比较早的OriginFlow的创始人秦深涛，这两位是敢于比共识更早一步的行动，其实这是基于非常笃定的判断，我们今天想聊聊这件事情。\n  介绍一下，天宇总是在2009年加入蓝驰创投，在天宇总的带领下，蓝驰投了理想汽车、月之暗面、智元机器人，还有Genspark这些明星公司。而且天宇总非常早的时候说过，早期投资人要做创业者第一个投资人，而且是要最不确定的时候就要拿出真金白",
-          "pubDate": "2026-06-23 18:43:59  +0800"
+          "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
+          "link": "https://36kr.com/p/3865060112438533?f=rss",
+          "description": "文｜王欣逸\n  编辑｜张雨忻\n  2026 年开年来，3D&nbsp;生成模型赛道相当热闹。\n  今年第一季度，影眸科技发布首个 3D 编辑模型 Rodin Gen-2 Edit，让 AI 3D 模型第一次可编辑；今年 6 月，VAST&nbsp;官宣了新一轮融资，Meshy&nbsp;也紧随其后，宣称自己发布了全球首款&nbsp;3D AI Agent。\n  近日，影眸科技——这支扎根学术圈、创业早、年轻的&nbsp;3D&nbsp;模型团队，带着最新的技术研究成果，以及新一轮融资，再添了一把火。\n  这支团队创立于&nbsp;2020&nbsp;年，创始人兼&nbsp;CEO 吴迪、和联合创始人兼 CTO 张启煊以及另外两位联合创始人张龙文、曾初啸均来自上海科技大学。团队约&nbsp;60&nbsp;人，平均年龄不到&nbsp;25&nbsp;岁。\n  尽管看起来年轻，但在&nbsp;B&nbsp;端市场，影眸几乎站稳了头部地位，其&nbsp;B&nbsp;端客户数及收入比行业内其他公司加起来还要多，客户包括字节跳动、Unity、Figma、Canva&nbsp;等企业，海外收入占",
+          "pubDate": "2026-06-24 18:06:36  +0800"
         },
         {
-          "title": "只租办公室的拼多多，在雄安买了一栋楼",
-          "link": "https://36kr.com/p/3865625576297476?f=rss",
-          "description": "扎堆雄安的互联网大厂又多了一个。\n  6月21日，拼多多集团与中国电建完成正式签约，通过整体购置方式持有雄安·电建智汇城数字新消费电商产业园的办公楼。\n  这是拼多多第一次“买楼”。\n  \n  雄安新区产业园\n  拼多多自2015年9月正式成立上线以来，尽管已经发展到了约2.55万员工，超4300亿营收，但它始终采取轻资产办公模式，坚持不买楼、不盖楼。目前拼多多所在的办公地，包括金虹桥国际中心、艺丰中心、晶耀虹桥、星展银行大厦等地的办公楼都是租的。\n  不自建总部、分散租赁办公楼，甚至服务器、仓库等核心运营资产也大多采用租赁模式，减少资金沉淀，把资金都投入到供应链、补贴等公司运营环节，保持高效率，这几乎是拼多多的原则。\n  但这一次不同了，拼多多在雄安选择了买楼。并且，这一次拼多多的动作非常迅速。\n  2026年5月27日，拼多多在雄安注册了一家公司：拼多多信息技术服务（雄安）有限公司，注册资本家5亿元。\n  这家分公司的法人代表是拼多多集团Temu高级副总裁杨清勇，监事是拼多多集团执行总裁兼新拼姆总裁朱政，实控人为拼多多集团联合创始人、集团联席董事长兼联席CEO陈磊。\n  杨清勇属于",
-          "pubDate": "2026-06-23 18:38:04  +0800"
+          "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
+          "link": "https://36kr.com/p/3866900608701449?f=rss",
+          "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”\n  以下为对话内容，经36氪整理编辑：\n  \n  海若镜丨36氪暗涌副主编（主持）\n  王蓓｜高瓴创投 合伙人\n  汪洋｜松禾资本 管理合伙人\n  蔡伟｜光合创投 合伙人\n  海若镜：大家好！我是今天这场圆桌的主持人，暗涌的海若镜。今天这个主题，大家应该都深有体会——AI世界变化太快，时间尺度被压缩得很夸张。以前产业迭代以年甚至五年为单位，现在可能一个月甚至一周就刷新一次认知。刚刚各位嘉宾也提到，不少公司估值一个月就刷新一次，甚至两三轮融资合并推进。\n  所以我",
+          "pubDate": "2026-06-24 16:17:52  +0800"
         },
         {
-          "title": "千问大模型正式发布Qwen-AgentWorld",
-          "link": "https://36kr.com/newsflashes/3866712419193860?f=rss",
-          "description": "36氪获悉，千问大模型正式发布Qwen-AgentWorld，这是首个原生语言世界模型（Language World Model, LWM）。单一模型同时覆盖文本类环境（MCP、Search、Terminal、SWE）与GUI类环境（Web、OS、Android），实现跨领域知识迁移。同步发布的还有 AgentWorldBench，覆盖七大领域的语言世界模型评测基准，每条测试样本均配备真实环境执行所得的真实环境观测数据。",
-          "pubDate": "2026-06-24 13:03:16  +0800"
+          "title": "岚图汽车公布代客泊车专利",
+          "link": "https://36kr.com/newsflashes/3868126966912259?f=rss",
+          "description": "36氪获悉，天眼查知识产权信息显示，近日，岚图汽车申请的 “代客泊车系统的评估方法与电子设备” 专利公布。",
+          "pubDate": "2026-06-25 13:02:13  +0800"
         },
         {
-          "title": "消息人士称高通正与字节跳动就提供定制芯片设计服务进行洽谈",
-          "link": "https://36kr.com/newsflashes/3866701835998472?f=rss",
-          "description": "消息人士称，高通正与字节跳动就提供定制芯片设计服务进行洽谈。（新浪财经）",
-          "pubDate": "2026-06-24 12:52:30  +0800"
+          "title": "恒大物业：获清盘人告知，潜在卖方与潜在买方间谈判已终止",
+          "link": "https://36kr.com/newsflashes/3868110650823938?f=rss",
+          "description": "36氪获悉，恒大物业公告，公司获清盘人告知，潜在卖方与潜在买方之间的谈判已终止，且双方并未就潜在交易订立任何正式或具法律约束力的买卖协议。清盘人正积极与其财务顾问持续磋商以寻求其他潜在买家收购由中国恒大及CEG Holdings所持有的公司控股权益（即潜在交易）。",
+          "pubDate": "2026-06-25 12:45:37  +0800"
         },
         {
-          "title": "上海出台若干措施，支持生物医药外资企业高能级项目落地",
-          "link": "https://36kr.com/newsflashes/3866701287838721?f=rss",
-          "description": "36氪获悉，上海市科委、市发展改革委等部门联合发布《关于支持生物医药外资企业高能级项目落地的若干措施》。其中提出，加快进口药品销售流通。境外已上市药品在取得我国药品批准证明文件后，对符合药品上市放行要求的获批前生产的药品，可以上市销售，加强对其业务指导与服务。深化药品进口通关抽样一体化、24小时通关便利化，加速临床急需进口药品流通应用。加快生物制品批签发检验和进口药品通关检验速度，确保进口药品到港后3个工作日内实施抽样，并将每批次用量从全项检验用量的3倍减为2倍。",
-          "pubDate": "2026-06-24 12:51:57  +0800"
+          "title": "字节跳动申请注册豆包云商标",
+          "link": "https://36kr.com/newsflashes/3868087633564931?f=rss",
+          "description": "36氪获悉，天眼查知识产权信息显示，近日，豆包关联公司北京春田知韵科技有限公司申请注册“豆包云”商标，国际分类涉及科学仪器、网站服务，当前商标状态均为等待实质审查。该公司成立于2023年7月，法定代表人为严林，注册资本100万人民币，经营范围包括计算机系统服务、数据处理服务、软件开发等，由北京抖音信息服务有限公司全资持股。",
+          "pubDate": "2026-06-25 12:32:09  +0800"
         },
         {
-          "title": "孙正义回应软银拟入股东京电力：若成功将建设AI数据中心",
-          "link": "https://36kr.com/newsflashes/3866692795782401?f=rss",
-          "description": "6月24日，软银集团董事长孙正义在股东大会上谈及子公司软银公司计划出资入股东京电力控股公司（TEPCO）一事时表示，“在几家公司中，我们目前作为重要候选公司留了下来。”孙正义指出，如果此次出资得以实现，“（软银）应该在日本建设AI数据中心”。（界面）",
-          "pubDate": "2026-06-24 12:49:13  +0800"
+          "title": "B站：预计到明年，视频播客日均播放时长有望达到3亿分钟",
+          "link": "https://36kr.com/newsflashes/3868086944027655?f=rss",
+          "description": "36氪获悉，近日，B站发布《哔哩哔哩视频播客创作手册》（1.0版本），首次系统披露平台视频播客生态的增长情况、内容特征与创作趋势。数据显示，今年5月13日，B站视频播客单日播放时长首次突破1亿分钟；预计到明年，视频播客日均播放时长有望达到3亿分钟，同比增长300%。",
+          "pubDate": "2026-06-25 12:21:31  +0800"
         },
         {
-          "title": "辉瑞制药无锡公司变更负责人",
-          "link": "https://36kr.com/newsflashes/3866692477293830?f=rss",
-          "description": "36氪获悉，天眼查App显示，近日，辉瑞制药（无锡）有限公司发生工商变更，Jean-Christophe，Michel Pointeau 卸任法定代表人、执行董事、经理，由蔡芳接任法定代表人、经理，并担任董事。该公司成立于1995年9月，注册资本3600万美元，经营范围包括生产冻干粉针剂、小容量注射剂、药品生产等，由辉瑞投资有限公司全资持股。",
-          "pubDate": "2026-06-24 12:42:59  +0800"
+          "title": "IDC：一季度全球手持智能相机市场出货量同比增长33%",
+          "link": "https://36kr.com/newsflashes/3868069256729858?f=rss",
+          "description": "36氪获悉，国际数据公司（IDC）最新报告显示，2026年第一季度全球手持智能相机市场出货量达到414万台，同比增长33%。销售额超过105亿元人民币，同比增长20%。IDC预计，至2030年，全球手持智能相机市场规模将会超过4000万台，五年复合增长率接近18%。",
+          "pubDate": "2026-06-25 12:18:26  +0800"
         },
         {
-          "title": "字节跳动寻求200亿美元境外贷款，规模为该公司历来最大",
-          "link": "https://36kr.com/newsflashes/3866688211948808?f=rss",
-          "description": "媒体援引知情人士透露，字节跳动有限公司正与多家银行开展初步洽谈，计划筹措约200亿美元贷款。此番融资或将成为该公司有史以来规模最大的离岸贷款，当前字节正持续加大人工智能领域的投入。不愿具名的知情人士表示，这家社交媒体巨头已向多家银行接洽这笔新增贷款，贷款期限初定为三年，同时可选择延长至五年。知情人士称，目前尚不清楚字节跳动将如何使用这笔资金，相关磋商仍处于初期阶段，具体条款存在变动可能。（新浪财经）",
-          "pubDate": "2026-06-24 12:38:39  +0800"
+          "title": "半日主力资金加仓电子股，抛售电力设备股",
+          "link": "https://36kr.com/newsflashes/3868068699985156?f=rss",
+          "description": "主力资金早间净流入电子、非银金融、机械设备等板块，净流出电力设备、通信、公用事业等板块。具体到个股来看，长电科技、���易盛、天通股份获净流入43.63亿元、31.48亿元、30.69亿元。净流出方面，中际旭创、南大光电、立讯精密遭抛售20.17亿元、11.09亿元、10.90亿元。（第一财经）",
+          "pubDate": "2026-06-25 12:15:49  +0800"
         },
         {
-          "title": "智谱据悉考虑在香港发售数十亿美元的股票",
-          "link": "https://36kr.com/newsflashes/3866677099828224?f=rss",
-          "description": "媒体援引知情人士透露，中国人工智能模型公司智谱考虑在香港发售股份，融资规模可能达数十亿美元。该公司自1月上市以来，股价已飙升2000%。因涉及非公开信息，要求匿名的知情人士称，智谱在与顾问商讨潜在股份配售事宜，最早可能下个月进行。智谱IPO后为期六个月的锁定期将于7月8日到期。知情人士称，智谱股份发售事宜仍在商讨中，也可能无法达成交易。（新浪财经）",
-          "pubDate": "2026-06-24 12:27:20  +0800"
+          "title": "英力股份：公司暂未取得戴尔AIPC结构件订单",
+          "link": "https://36kr.com/newsflashes/3868068091729156?f=rss",
+          "description": "36氪获悉，英力股份在互动平台表示，公司暂未取得戴尔AIPC结构件订单；惠普的AIPC结构件，公司已开展样品送样认证工作，订单尚未落地。",
+          "pubDate": "2026-06-25 12:11:16  +0800"
         },
         {
-          "title": "SpaceX发射“星落”返回舱，演示再入返回技术",
-          "link": "https://36kr.com/newsflashes/3866669454382345?f=rss",
-          "description": "美国太空探索技术公司23日利用“猎鹰9”号火箭首次发射“星落”返回舱，旨在对这种新型无人再入返回飞行器进行演示与验证。太空探索技术公司表示，完成受控飞行演示后，飞行器将在太平洋海域溅落。（新华社）",
-          "pubDate": "2026-06-24 12:19:34  +0800"
+          "title": "恒指午间休盘跌1.38%，恒生科技指数跌1.67%",
+          "link": "https://36kr.com/newsflashes/3868067722761217?f=rss",
+          "description": "36氪获悉，恒指午间休盘跌1.38%，恒生科技指数跌1.67%；有色金属、软件服务、传媒板块领跌，招金矿业跌超8%，阿里巴巴、同程旅行跌超4%，快手跌超1%；半导体、地产、硬件设备板块走强，天数智芯涨超8%，青岛控股涨超3%，华勤技术涨超2%；南向资金净买入15.53亿港元。",
+          "pubDate": "2026-06-25 12:01:57  +0800"
         },
         {
-          "title": "阿里QoderWork推“峰谷Token”",
-          "link": "https://36kr.com/newsflashes/3866661531800835?f=rss",
-          "description": "36氪获悉，6月23日晚，阿里QoderWork推出“峰谷Token”，Agent在每晚 22:00到次日08:00运行可自动享受优惠，其中Qwen3.7-Max模型低至2折。这是国内首个上线“峰谷Token”的Agent产品。据介绍，夜间折扣产品涵盖QoderWork、Qoder Desktop等产品。",
-          "pubDate": "2026-06-24 12:11:30  +0800"
+          "title": "天邑股份：公司在CPO领域目前没有应用技术",
+          "link": "https://36kr.com/newsflashes/3868038743053576?f=rss",
+          "description": "36氪获悉，天邑股份在互动平台表示，公司在CPO领域目前没有应用技术。",
+          "pubDate": "2026-06-25 11:55:24  +0800"
         },
         {
-          "title": "顺丰控股旗下丰翼科技等成立无人机公司，注册资本1000万",
-          "link": "https://36kr.com/newsflashes/3866659032306949?f=rss",
-          "description": "36氪获悉，天眼查App显示，近日，云翼无人机（云南）有限责任公司成立，法定代表人为赵之光，注册资本1000万人民币，经营范围包括智能无人飞行器制造、智能无人飞行器销售、智能输配电及控制设备销售、软件开发等。股东信息显示，该公司由云南精诚健康管理有限公司、顺丰控股旗下丰翼科技（深圳）有限公司共同持股。",
-          "pubDate": "2026-06-24 12:08:58  +0800"
+          "title": "企业微信5.0.9版本推出服务总结等AI功能",
+          "link": "https://36kr.com/newsflashes/3868060552909827?f=rss",
+          "description": "36氪获悉，企业微信5.0.9版本推出服务总结等AI功能。据了解，该能力可根据成员与客户的服务记录，每天自动总结客户需求、意向和成交卡点等关键信息。",
+          "pubDate": "2026-06-25 11:54:40  +0800"
         }
       ]
     },
