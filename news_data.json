@@ -1,5 +1,5 @@
 {
-  "fetchTime": "2026-09-11T05:42:55.506742",
+  "fetchTime": "2026-09-12T05:30:03.855583",
   "sources": [
     {
       "name": "Reuters Business",
@@ -18,40 +18,52 @@
       "itemCount": 20,
       "items": [
         {
+          "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+          "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+          "description": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+          "pubDate": "Fri, 11 Sep 2026 15:37:25 GMT"
+        },
+        {
+          "title": "US prices remain high as fuel costs squeeze household budgets",
+          "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+          "description": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation.",
+          "pubDate": "Fri, 11 Sep 2026 14:22:42 GMT"
+        },
+        {
+          "title": "Interest rates could rise again across the world – here's why",
+          "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+          "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+          "pubDate": "Fri, 11 Sep 2026 13:35:29 GMT"
+        },
+        {
+          "title": "AI boom helps drive surprise UK growth in July",
+          "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+          "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+          "pubDate": "Fri, 11 Sep 2026 10:17:28 GMT"
+        },
+        {
           "title": "I asked my husband to pay into my pension when we had a child - here's why",
           "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
           "description": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
           "pubDate": "Thu, 10 Sep 2026 23:04:30 GMT"
         },
         {
-          "title": "Are interest rates on the way up again?",
-          "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-          "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-          "pubDate": "Thu, 10 Sep 2026 23:03:09 GMT"
-        },
-        {
-          "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-          "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-          "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-          "pubDate": "Thu, 10 Sep 2026 17:38:31 GMT"
+          "title": "Can Europe recharge its battery industry?",
+          "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+          "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+          "pubDate": "Thu, 10 Sep 2026 23:05:47 GMT"
         },
         {
           "title": "Alstom to build new battery-electric train fleet",
           "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
           "description": "The government says the work will support thousands of jobs across the UK.",
-          "pubDate": "Thu, 10 Sep 2026 21:00:33 GMT"
+          "pubDate": "Fri, 11 Sep 2026 14:43:33 GMT"
         },
         {
           "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
           "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
           "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
           "pubDate": "Thu, 10 Sep 2026 13:34:17 GMT"
-        },
-        {
-          "title": "Can Europe recharge its battery industry?",
-          "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-          "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
-          "pubDate": "Thu, 10 Sep 2026 23:05:47 GMT"
         },
         {
           "title": "Primark finally set to launch home deliveries",
@@ -64,6 +76,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
           "description": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
           "pubDate": "Wed, 09 Sep 2026 23:02:20 GMT"
+        },
+        {
+          "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+          "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+          "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+          "pubDate": "Thu, 10 Sep 2026 17:38:31 GMT"
         },
         {
           "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
@@ -118,24 +136,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
           "description": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
           "pubDate": "Tue, 08 Sep 2026 23:04:17 GMT"
-        },
-        {
-          "title": "Cowboy builder tore my home apart and disappeared off the face of the Earth with £14k",
-          "link": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
-          "description": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
-          "pubDate": "Wed, 09 Sep 2026 05:00:30 GMT"
-        },
-        {
-          "title": "Singaporean man pleads guilty in US to massive crypto heist",
-          "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-          "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-          "pubDate": "Wed, 09 Sep 2026 05:49:30 GMT"
-        },
-        {
-          "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-          "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-          "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
-          "pubDate": "Tue, 08 Sep 2026 20:57:09 GMT"
         }
       ]
     },
@@ -147,124 +147,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
-          "link": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
-          "description": "Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections.",
-          "pubDate": "Fri, 11 Sep 2026 01:43:57 GMT"
+          "title": "Here’s the inflation breakdown for August 2026 — in one chart",
+          "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
+          "description": "Inflation remained stubbornly high in August, largely on the back of higher energy prices amid the Iran war, economists said.",
+          "pubDate": "Fri, 11 Sep 2026 17:14:27 GMT"
         },
         {
-          "title": "Bessent says &apos;a large bank&apos; will be sanctioned on Monday as part of Iran strategy",
-          "link": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
-          "description": "U.S. Treasury Secretary Scott Bessent said that a large bank would be sanctioned next week.",
-          "pubDate": "Fri, 11 Sep 2026 04:29:39 GMT"
+          "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
+          "link": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
+          "description": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.",
+          "pubDate": "Fri, 11 Sep 2026 21:35:14 GMT"
         },
         {
-          "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
-          "link": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html",
-          "description": "Anthropic said it detected unauthorized efforts by China-based AI labs including Alibaba and Moonshot AI to use its Claude models to help improve their own AI systems.",
-          "pubDate": "Fri, 11 Sep 2026 00:59:45 GMT"
+          "title": "I went to Caracas for Venezuela’s new oil deals. Here’s what stood out",
+          "link": "https://www.cnbc.com/2026/09/11/the-inside-story-on-the-historic-us-venezuela-oil-deal-and-how-it-will-work.html",
+          "description": "CNBC was one of just a handful of news organizations allowed to travel to Caracas with the U.S. secretary of energy.",
+          "pubDate": "Fri, 11 Sep 2026 16:59:05 GMT"
         },
         {
-          "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
-          "link": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html",
-          "description": "A meeting with Prime Minister Narendra Modi would be the clearest test yet of the tentative post-2020 reset between Asia’s two largest economies.",
-          "pubDate": "Fri, 11 Sep 2026 04:29:20 GMT"
+          "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
+          "link": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
+          "description": "Dell sold about $16.4 billion of AI servers in its second quarter, RBC said.",
+          "pubDate": "Fri, 11 Sep 2026 20:48:19 GMT"
         },
         {
-          "title": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
-          "link": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
-          "description": "Chinese AI chipmaker Enflame, an Nvidia rival and one of China's \"four little dragons,\" made its Shanghai market debut.",
-          "pubDate": "Fri, 11 Sep 2026 01:53:08 GMT"
+          "title": "Dan Chung rebuilt a decimated Alger Management after 9/11. He&apos;s still finding the market&apos;s winners",
+          "link": "https://www.cnbc.com/2026/09/11/dan-chung-rebuilt-a-decimated-alger-management-after-9/11-hes-still-finding-the-markets-winners.html",
+          "description": "The CEO and chief investment officer at Fred Alger Management survived the attack by chance. He was tasked with reconstruction after 35 staffers died.",
+          "pubDate": "Fri, 11 Sep 2026 20:21:01 GMT"
         },
         {
-          "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
-          "link": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
-          "description": "Oil prices remain elevated amid worries that escalating tensions in the Middle East could further exacerbate supply disruptions",
-          "pubDate": "Thu, 10 Sep 2026 19:23:21 GMT"
+          "title": "Election officials ban certain public workers from trading on prediction markets ahead of midterms",
+          "link": "https://www.cnbc.com/2026/09/11/election-officials-ban-employees-from-prediction-markets.html",
+          "description": "Ahead of the midterms, election officials ban certain workers from using prediction markets to reassure the public they are committed to election integrity.",
+          "pubDate": "Fri, 11 Sep 2026 17:00:48 GMT"
         },
         {
-          "title": "Hassett kept up to $5 million Coinbase stake as Trump reshaped crypto policy",
-          "link": "https://www.cnbc.com/2026/09/10/kevin-hassett-coinbase-stock-trump-crypto-recusal.html",
-          "description": "Trump economic advisor Kevin Hassett owned as much as $5 million in Coinbase while serving as the White House's top economic advisor, his disclosure shows.",
-          "pubDate": "Fri, 11 Sep 2026 01:55:53 GMT"
+          "title": "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
+          "link": "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html",
+          "description": "Years after 9/11, the U.S. government is walking back some security screenings as threats and technology evolve.",
+          "pubDate": "Fri, 11 Sep 2026 11:00:01 GMT"
         },
         {
-          "title": "&apos;Extinction&apos; warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
-          "link": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
-          "description": "There is growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models",
-          "pubDate": "Thu, 10 Sep 2026 10:49:29 GMT"
+          "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
+          "link": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
+          "description": "On Sept. 11, 2001, hijackers flew planes into the World Trade Center and the Pentagon, killing thousands. Photos capture those marking the 25th anniversary.",
+          "pubDate": "Fri, 11 Sep 2026 22:42:14 GMT"
         },
         {
-          "title": "Bond sell-off, stock boom: Why rebalancing is a good strategy right now",
-          "link": "https://www.cnbc.com/2026/09/09/bond-selloff-stock-boom-rebalancing.html",
-          "description": "With stocks near all-time highs and bonds selling off, it's likely a good time for investors to consider rebalancing to their target risk, advisors said.",
-          "pubDate": "Wed, 09 Sep 2026 21:14:49 GMT"
+          "title": "Cramer’s week ahead: Falling oil could help stocks but Fed is the next big test",
+          "link": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
+          "description": "CNBC’s Jim Cramer said falling oil prices helped fuel Friday’s rebound, but warned next week’s Federal Reserve meeting will be the next test for stocks.",
+          "pubDate": "Fri, 11 Sep 2026 22:35:09 GMT"
         },
         {
-          "title": "China-Philippines tensions simmer after Beijing rebukes Manila over Seoul clash",
-          "link": "https://www.cnbc.com/2026/09/11/china-philippine-south-china-sea-disputes-tensions-.html",
-          "description": "China and the Philippines have been locked in years of tension over their competing claims in the South China Sea, with friction intensifying in recent months.",
-          "pubDate": "Fri, 11 Sep 2026 03:44:43 GMT"
+          "title": "Bonds are going on tilt. How to play them, says Mike Khouw",
+          "link": "https://www.cnbc.com/2026/09/11/bonds-are-going-on-tilt-how-to-play-them-says-mike-khouw.html",
+          "description": "Warren Buffett once said interest rates are to asset prices what gravity is to matter. If the options market is correct, things could get heavy, says Mike Khouw.",
+          "pubDate": "Fri, 11 Sep 2026 16:26:14 GMT"
         },
         {
-          "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
-          "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
-          "description": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
-          "pubDate": "Fri, 11 Sep 2026 02:05:24 GMT"
+          "title": "Social Security COLA for 2027 may be 3.5% to 3.6%, new estimates show — the highest in 3 years",
+          "link": "https://www.cnbc.com/2026/09/11/social-security-cola-2027-estimate.html",
+          "description": "New government inflation data points to a higher Social Security cost-of-living adjustment for 2027. Here's what experts estimate the change may be.",
+          "pubDate": "Fri, 11 Sep 2026 18:07:21 GMT"
         },
         {
-          "title": "Oracle&apos;s stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
-          "link": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
-          "description": "Oracle's results for the quarter came in stronger than expected, as did its revenue backlog.",
-          "pubDate": "Thu, 10 Sep 2026 21:42:47 GMT"
+          "title": "Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties",
+          "link": "https://www.cnbc.com/2026/09/11/iran-russia-brics-sanctions-energy.html",
+          "description": "Iranian President Masoud Pezeshkian and Russian President Vladimir Putin criticized Western sanctions and asked the BRICS bloc to deepen trade ties.",
+          "pubDate": "Fri, 11 Sep 2026 15:10:45 GMT"
         },
         {
-          "title": "China&apos;s global hunt for tax revenue may be just getting started",
-          "link": "https://www.cnbc.com/2026/09/11/china-rich-wealth-overseas-trust-tax-income-estate-inheritances-.html",
-          "description": "Beijing's recent push to tax offshore wealth may be only the opening phase of a broader campaign that could eventually reach overseas properties, inheritances.",
-          "pubDate": "Fri, 11 Sep 2026 04:47:10 GMT"
+          "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
+          "link": "https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html",
+          "description": "The largest outbreak, linked to shredded iceberg lettuce from Taylor Farms, sickened more than 12,000 people.",
+          "pubDate": "Fri, 11 Sep 2026 15:36:45 GMT"
         },
         {
-          "title": "Y Combinator’s Garry Tan says &apos;do nothing&apos; about distillation as AI giants accuse China of copying their tech",
-          "link": "https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html",
-          "description": "At Y Combinator’s annual Demo Day, CEO Garry Tan explained why he's less concerned about frontier AI model distillation and the existential risk of AI.",
-          "pubDate": "Fri, 11 Sep 2026 03:39:17 GMT"
+          "title": "Wealthy investors are pouring billions into this new tax strategy despite risks",
+          "link": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
+          "description": "Total assets invested in so-called tax-aware long-short strategies — or TALS — have surged to more than $170 billion, according to Tax Alpha Insider.",
+          "pubDate": "Fri, 11 Sep 2026 15:54:22 GMT"
         },
         {
-          "title": "Trump&apos;s $1 trillion-plus &apos;dividend&apos; plan meets immediate bipartisan pushback",
-          "link": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
-          "description": "Such a payout could cost more than $1 trillion and is likely to face legal obstacles.",
-          "pubDate": "Thu, 10 Sep 2026 18:52:34 GMT"
+          "title": "Sub-$100 smartphones becoming a rarity as AI memory prices soar",
+          "link": "https://www.cnbc.com/2026/09/11/cheap-china-smartphones-rare-memory-ai-costs.html",
+          "description": "The days of the sub-$100 smartphone may be numbered, including in China.",
+          "pubDate": "Fri, 11 Sep 2026 11:59:39 GMT"
         },
         {
-          "title": "Investors seek hedges as midterms and geopolitical risks threaten market calm",
-          "link": "https://www.cnbc.com/2026/09/10/fear-gauge-vix-hedges-volatility-stocks.html",
-          "description": "Investors are starting to seek more protection against stock market swings as a historically volatile period for markets approaches.",
-          "pubDate": "Thu, 10 Sep 2026 11:10:20 GMT"
+          "title": "Why this industrial gas giant deserves its premium valuation (and should be owned)",
+          "link": "https://www.cnbc.com/2026/09/11/why-this-stock-deserves-its-premium-valuation-and-should-be-owned.html",
+          "description": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
+          "pubDate": "Fri, 11 Sep 2026 18:26:28 GMT"
         },
         {
-          "title": "Jim Cramer&apos;s least-favorite tech stock gets a new analyst endorsement — our take",
-          "link": "https://www.cnbc.com/2026/09/10/cramers-least-favorite-tech-stock-gets-a-new-bullish-analyst-endorsement.html",
-          "description": "Analysts at Piper called Broadcom the \"ASIC compute king\" in a new note to clients.",
-          "pubDate": "Thu, 10 Sep 2026 19:33:25 GMT"
+          "title": "Leopold Aschenbrenner&apos;s Situational Awareness is active in options market, sources say",
+          "link": "https://www.cnbc.com/2026/09/11/leopold-aschenbrenners-situational-awareness-is-active-in-options-market-sources-say.html",
+          "description": "Situational Awareness has been buying options positions in stocks including Advanced Micro Devices, Bloom Energy and Coreweave, sources told CNBC's David Faber.",
+          "pubDate": "Fri, 11 Sep 2026 14:02:38 GMT"
         },
         {
-          "title": "Jim Cramer says this is the key force driving stocks right now",
-          "link": "https://www.cnbc.com/2026/09/10/jim-cramer-key-force-driving-stocks-right-now.html",
-          "description": "CNBC's Jim Cramer said the 30-year Treasury yield is a key force driving stocks as it climbs to roughly 5.3%.",
-          "pubDate": "Thu, 10 Sep 2026 22:46:54 GMT"
+          "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
+          "link": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+          "description": "The advance raises the threat to shipping near the Bab el-Mandeb Strait, a waterway that connects the Red Sea to the Gulf of Aden to global markets.",
+          "pubDate": "Fri, 11 Sep 2026 17:40:46 GMT"
         },
         {
-          "title": "Friday&apos;s CPI inflation report is even more important than usual. Here&apos;s what to expect",
-          "link": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
-          "description": "The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.",
-          "pubDate": "Thu, 10 Sep 2026 19:18:05 GMT"
+          "title": "UAE plans $46 billion investment in Germany, with data centers a key focus",
+          "link": "https://www.cnbc.com/2026/09/11/uae-germany-investment-data-centers.html",
+          "description": "The UAE plans to invest 40 billion euros ($46.4 billion) in Germany, with data center infrastructure a key part of the package.",
+          "pubDate": "Fri, 11 Sep 2026 13:56:12 GMT"
         },
         {
-          "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
-          "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
-          "description": "Traders pushed chances for a rate increase to 70% in morning action.",
-          "pubDate": "Thu, 10 Sep 2026 16:55:17 GMT"
+          "title": "Treasury yields remain near multiyear highs as August CPI shows sticky inflation",
+          "link": "https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html",
+          "description": "Treasury yields remained near multiyear highs as investors weighed the impact of the latest consumer price report for August.",
+          "pubDate": "Fri, 11 Sep 2026 20:37:09 GMT"
         }
       ]
     },
@@ -276,58 +276,58 @@
       "itemCount": 9,
       "items": [
         {
-          "title": "Scott Bessent fails to break ‘fever’ in US bond market",
-          "link": "https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25a6b1a6=1",
-          "description": "Treasury secretary’s $6bn bond operation is insufficient to stem the recent surge in borrowing costs, investors warn",
-          "pubDate": "Fri, 11 Sep 2026 04:00:28 GMT"
+          "title": "Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks",
+          "link": "https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1",
+          "description": "Move is likely to put further momentum behind fast-rising oil prices",
+          "pubDate": "Fri, 11 Sep 2026 20:21:13 GMT"
         },
         {
-          "title": "US rate rise fears ripple through global bond markets",
-          "link": "https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41?syn-25a6b1a6=1",
-          "description": "Houthi advances push oil prices higher while markets await inflation data on Friday",
-          "pubDate": "Fri, 11 Sep 2026 04:06:44 GMT"
+          "title": "US limits air defence time slots for tankers sailing through Hormuz",
+          "link": "https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1",
+          "description": "Shift to two specified times daily follows increase in Iranian attacks",
+          "pubDate": "Sat, 12 Sep 2026 04:00:22 GMT"
         },
         {
-          "title": "America remembers: twenty-five years after 9/11",
-          "link": "https://www.ft.com/content/bbdad57e-bd57-4c75-98b8-12fca7cbd268?syn-25a6b1a6=1",
-          "description": "The shock that briefly brought a shared sense of purpose has left a complicated legacy",
-          "pubDate": "Fri, 11 Sep 2026 04:00:10 GMT"
+          "title": "Why the AI race has its creators fearing human extinction",
+          "link": "https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66?syn-25a6b1a6=1",
+          "description": "Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears into the mainstream",
+          "pubDate": "Fri, 11 Sep 2026 16:11:14 GMT"
         },
         {
-          "title": "Europe’s difficult choices on AI",
-          "link": "https://www.ft.com/content/f054f927-b512-452a-b494-ea53f5ac1079",
-          "description": "Data is the one area where it can still be sovereign and it has the greatest potential to generate growth",
-          "pubDate": "Fri, 11 Sep 2026 04:00:10 GMT"
+          "title": "How both sides lost after 9/11",
+          "link": "https://www.ft.com/content/d7f197dd-a39a-43dc-a2f9-6204c5876e76?syn-25a6b1a6=1",
+          "description": "America lost wars and Osama bin Laden lost Saudi Arabia",
+          "pubDate": "Fri, 11 Sep 2026 15:34:39 GMT"
         },
         {
-          "title": "Why Warsh is starting to bite back",
-          "link": "https://www.ft.com/content/98bfd632-8778-4c48-97a0-ef78b11299cc?syn-25a6b1a6=1",
-          "description": "The Fed chair may defy the president’s desire for a rate cut at Wednesday’s meeting",
-          "pubDate": "Fri, 11 Sep 2026 04:00:18 GMT"
+          "title": "We are setting up a generation to fail at school",
+          "link": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1",
+          "description": "The disturbing global decline in test results rests on wrong-headed curriculum changes",
+          "pubDate": "Sat, 12 Sep 2026 04:00:42 GMT"
         },
         {
-          "title": "Iran and Gulf states to meet in push for Hormuz deal",
-          "link": "https://www.ft.com/content/df2d9bcc-59f9-4122-aa4d-2020bef77e0e?syn-25a6b1a6=1",
-          "description": "Regional states hope temporary shipping agreement between Iran and Oman can offer a pathway to ease hostilities and reopen the strait",
-          "pubDate": "Fri, 11 Sep 2026 04:00:29 GMT"
+          "title": "EU races to Le Pen-proof its agenda",
+          "link": "https://www.ft.com/content/94c2830e-cbec-43ed-b329-23a79060469a?syn-25a6b1a6=1",
+          "description": "Diplomats say Paris has urged bloc to agree budget and climate measures before French presidential election in April",
+          "pubDate": "Sat, 12 Sep 2026 04:00:13 GMT"
         },
         {
-          "title": "Anthropic says it stopped scientists potentially developing bioweapons with AI",
-          "link": "https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d?syn-25a6b1a6=1",
-          "description": "Start-up discloses five examples of when users ‘circumvented controls’ and made efforts to ‘obfuscate’ the purpose of their research",
-          "pubDate": "Thu, 10 Sep 2026 22:27:10 GMT"
+          "title": "Larry Ellison to sell up to $7.5bn worth of Oracle stock",
+          "link": "https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1",
+          "description": "Founder to offload as many as 50mn shares as company posts higher revenue from data centres but faces investor fears it is overcommitted to AI",
+          "pubDate": "Sat, 12 Sep 2026 01:06:54 GMT"
         },
         {
-          "title": "Dubai airport group plans underground fuel tanks to protect against strikes",
-          "link": "https://www.ft.com/content/918858ee-e771-4448-8fad-cfaf808c7011?syn-25a6b1a6=1",
-          "description": "UAE pressing ahead with expansion plans for flight hub despite the Iran war",
-          "pubDate": "Fri, 11 Sep 2026 04:00:19 GMT"
+          "title": "Booming Brics payments systems seek more cross-border links",
+          "link": "https://www.ft.com/content/294b1de0-b055-4703-b3f6-975f179aad54?syn-25a6b1a6=1",
+          "description": "Government-backed networks such as UPI and Pix explore link-ups with central banks overseas",
+          "pubDate": "Sat, 12 Sep 2026 04:00:23 GMT"
         },
         {
-          "title": "Trump-Vance’s midterm pitch: vote Republican or live with the ‘lunatics’",
-          "link": "https://www.ft.com/content/b1b44515-1825-4164-ac83-659a74c9f553?syn-25a6b1a6=1",
-          "description": "Party far more comfortable raising fear of Democratic alternative than discussing own policies, including Iran war",
-          "pubDate": "Fri, 11 Sep 2026 04:27:35 GMT"
+          "title": "JPMorgan cut off Situational Awareness lending after AI losses",
+          "link": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1",
+          "description": "Leopold Aschenbrenner’s hedge fund previously shed billions of dollars during sell-off",
+          "pubDate": "Fri, 11 Sep 2026 20:51:36 GMT"
         }
       ]
     },
@@ -339,124 +339,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Global Bond Selloff Sends 10-Year Treasury Yields to Cusp of 5%",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-11/global-bond-selloff-sends-10-year-treasury-yields-to-cusp-of-5",
-          "description": "Bond bears are pushing benchmark Treasury yields toward the closely-watched 5% level ahead of US inflation data that stands to determine expectations for a Federal Reserve interest-rate hike next week.",
-          "pubDate": "Fri, 11 Sep 2026 00:13:24 GMT"
+          "title": "VinFast’s Founder Hands CEO Role to Son Amid Expansion Push",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-12/vinfast-s-founder-hands-ceo-role-to-son-amid-expansion-push",
+          "description": "Pham Nhat Quan Anh, chairman of VinFast Auto Ltd., will take over as global chief executive officer of the Vietnamese electric-vehicle maker, replacing his father and billionaire founder Pham Nhat Vuong amid an aggressive international push and growing losses.",
+          "pubDate": "Sat, 12 Sep 2026 01:38:27 GMT"
         },
         {
-          "title": "Bonds Selloff Pushes 10-Year Treasury Yield Closer to 5% (Video)",
-          "link": "https://www.bloomberg.com/news/videos/2026-09-11/bonds-selloff-pushes-10-year-treasury-yield-closer-to-5-video",
-          "description": "",
-          "pubDate": "Fri, 11 Sep 2026 05:39:40 GMT"
+          "title": "Chief Future Officer: Mandy Fields, e.l.f. Beauty",
+          "link": "https://www.bloomberg.com/news/videos/2026-09-10/chief-future-officer-mandy-fields-e-l-f-beauty",
+          "description": "Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organizations to meet future challenges. This episode profiles e.l.f. Beauty CFO Mandy Fields, who has helped lead the cosmetics company to 30 consecutive quarters of net sales growth. Bolstered by the purchase of Hailey Bieber's Rhode brand, e.l.f. now sees skincare as a path to even stronger long-term success. (Source: Bloomberg)",
+          "pubDate": "Thu, 10 Sep 2026 01:30:07 GMT"
         },
         {
-          "title": "SBI-Led Group Is Said to Lend $3.5 Billion to Vodafone Idea",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-10/sbi-led-group-said-to-provide-3-5-billion-debt-to-vodafone-idea",
-          "description": "A group of lenders led by State Bank of India agreed to provide about $3.5 billion of debt financing to Vodafone Idea Ltd. to help the mobile telephone operator rebuild its business, people familiar with the matter said.",
-          "pubDate": "Thu, 10 Sep 2026 15:07:21 GMT"
+          "title": "Jon Ledecky Reflects on Sept. 11 and NYC Sports Scene",
+          "link": "https://www.bloomberg.com/news/videos/2026-09-11/jon-ledecky-reflects-on-sept-11-and-nyc-sports-scene-video",
+          "description": "Jon Ledecky, NHL team New York Islanders co-owner, sat down with Bloomberg's Romaine Bostick to remember the events on Sept. 11, the power of sports and more. (Source: Bloomberg)",
+          "pubDate": "Fri, 11 Sep 2026 21:18:32 GMT"
         },
         {
-          "title": "Oil Trades Near $107 as Houthi-Saudi Fighting Escalates",
-          "link": "https://www.bloomberg.com/news/videos/2026-09-11/oil-trades-near-107-as-houthi-saudi-fighting-escalates-video",
-          "description": "Brent oil traded near $107 barrel as fighting between Yemen-based Houthi militants and Saudi-backed forces intensified. The global benchmark surged more than 6% in the previous session and is on track for its biggest weekly gain since July. Bloomberg's Ben Sharples reports. (Source: Bloomberg)",
-          "pubDate": "Fri, 11 Sep 2026 05:33:23 GMT"
+          "title": "JB Smoove Remembers Sept. 11, Rebuilding and More",
+          "link": "https://www.bloomberg.com/news/videos/2026-09-12/jb-smoove-remembers-sept-11-rebuilding-and-more-video",
+          "description": "Comedian and actor JB Smoove sits down with Bloomberg's Romaine Bostick to remember the September 11 events and rebuilding efforts after wildfires. (Source: Bloomberg)",
+          "pubDate": "Sat, 12 Sep 2026 00:43:30 GMT"
         },
         {
-          "title": "UK Big Business Urges Chancellor to Cut Levies on Energy Bills",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-11/uk-big-business-urges-chancellor-to-cut-levies-on-energy-bills",
-          "description": "A raft of British businesses urged Chancellor John Healey to move levies off electricity bills as rising energy costs squeeze industries from chemicals to steel.",
-          "pubDate": "Fri, 11 Sep 2026 05:30:00 GMT"
+          "title": "Former NY Fed President on Remembering 9/11",
+          "link": "https://www.bloomberg.com/news/videos/2026-09-11/former-ny-fed-president-on-remembering-9-11-video",
+          "description": "William Dudley discussed his experience on a diverted flight during the FAA ground stop after the 9/11 attacks. Dudley said the plane was unable to land in the U.S. and was sent to Saint John’s, Newfoundland, where passengers were kept for six days. He speaks with Romaine Bostick and Tyler Kendall on \"The Close.\" (Source: Bloomberg)",
+          "pubDate": "Fri, 11 Sep 2026 23:03:26 GMT"
         },
         {
-          "title": "Australia Bond Yields Jump to Highest Since 2011 on Oil Concerns",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-10/australia-bond-yields-jump-to-highest-since-2011-on-oil-concerns",
-          "description": "Australian bond yields climbed to the highest in over a decade on Friday, tracking overnight moves in Treasuries as a spike in crude prices deepened concerns about inflation.",
-          "pubDate": "Thu, 10 Sep 2026 23:05:12 GMT"
+          "title": "KBW CEO on Re-Building Manhattan After 9/11",
+          "link": "https://www.bloomberg.com/news/videos/2026-09-11/kbw-ceo-on-re-building-manhattan-after-9-11-video",
+          "description": "Tom Michaud describes how KBW responded in the aftermath of Sept. 11 by focusing first on helping the families of victims and then on rebuilding the firm. He speaks with Tyler Kendall Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+          "pubDate": "Fri, 11 Sep 2026 22:59:50 GMT"
         },
         {
-          "title": "Stocks, Bonds Fall in Asia on Oil, Inflation Woes: Markets Wrap",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-10/stock-market-today-dow-s-p-live-updates",
-          "description": "Asian stocks and bonds dropped following a surge in oil prices, as investors awaited key US inflation data on Friday that may determine whether the Federal Reserve raises interest rates this month.",
-          "pubDate": "Thu, 10 Sep 2026 22:15:53 GMT"
+          "title": "Former NYC Deputy Mayor on Remembering 9/11",
+          "link": "https://www.bloomberg.com/news/videos/2026-09-11/former-nyc-deputy-mayor-on-remembering-9-11-video",
+          "description": "Former NYC Deputy Mayor Edward Skyler reflects on the aftermath of 9/11, saying it was extremely difficult to make decisions in the wake of the tragedy. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+          "pubDate": "Fri, 11 Sep 2026 22:55:11 GMT"
         },
         {
-          "title": "Latest Oil Market News and Analysis for Sept. 11",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-10/latest-oil-market-news-and-analysis-for-sept-11",
-          "description": "Brent oil traded near $107 barrel as fighting between Yemen-based Houthi militants and Saudi-backed forces intensified, stoking fears of deeper supply disruptions after hostilities escalated across the Middle East.",
-          "pubDate": "Thu, 10 Sep 2026 22:06:51 GMT"
+          "title": "SL Green CFO on Lower Manhattan's Rebound After 9/11",
+          "link": "https://www.bloomberg.com/news/videos/2026-09-11/sl-green-cfo-on-lower-manhattan-s-rebound-after-9-11-video",
+          "description": "Matt DiLiberto discussed the 25-year transformation of Lower Manhattan after Sept. 11, saying the area has been “reimagined” from a largely nine-to-five financial district into a vibrant neighborhood where people live, work, study, and visit. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+          "pubDate": "Fri, 11 Sep 2026 22:51:46 GMT"
         },
         {
-          "title": "How LV Lost Millions by Winning a Trademark Dispute in China",
-          "link": "https://www.bloomberg.com/news/videos/2026-09-11/how-lv-lost-millions-winning-a-china-trademark-dispute-video",
-          "description": "A trademark fight with a local tea maker sparked a patriotic backlash that exacerbated a demand slump for LVMH’s most profitable label. While the broader downturn in the Asian powerhouse has slammed all luxury brands, LVMH Moët Hennessy Louis Vuitton SE’s flagship label was the worst hit in July and August, people familiar with the matter said. (Source: Bloomberg)",
-          "pubDate": "Fri, 11 Sep 2026 05:18:35 GMT"
+          "title": "Wall Street Week | Venezuela’s Oil Test, Overcapacity in Renewables, Defense Tech Boom",
+          "link": "https://www.bloomberg.com/news/videos/2026-09-11/wall-street-week-eu-s-solar-problem-defense-tech-boom-video",
+          "description": "This week, while Venezuela has the oil reserves to impact global energy markets, rebuilding production will take years, billions of dollars and investor trust. And, Europe’s solar success is creating growing pains for investors, generators and power markets. Plus, can data centers turn Scotland’s wasted wind into an AI advantage? Later, a more dangerous world is pushing the Pentagon and Silicon Valley closer together, creating a new boom in defense and space technologies. (Source: Bloomberg)",
+          "pubDate": "Fri, 11 Sep 2026 23:13:11 GMT"
         },
         {
-          "title": "Gold Wavers as High Oil Prices, Inflation Bolster Rate-Hike Bets",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-10/gold-holds-drop-as-rising-oil-inflation-bolster-rate-hike-bets",
-          "description": "Gold wavered, as surging oil prices and the latest US inflation report bolstered the case for the Federal Reserve to hike interest rates next week.",
-          "pubDate": "Thu, 10 Sep 2026 23:34:43 GMT"
+          "title": "Rebuilding After 9/11, Cantor Fitzgerald's Annual Charity, Eye on Energy Markets",
+          "link": "https://www.bloomberg.com/news/videos/2026-09-11/the-close-9-11-2026-video",
+          "description": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Former NY Fed President, Bill Dudley. Tom Michaud KBW CEO. Ed Skyler Former NYC Deputy Mayor. Matt DiLiberto, SL Green CFO. Ed Morse Hartree Partners Senior Advisor And Commodities analyst, Brandon Lutnick, Cantor Fitzgerald Chariman and Kyle Lutnick Cantor Fitzgerald Vice Chariman. (Source: Bloomberg)",
+          "pubDate": "Fri, 11 Sep 2026 22:54:21 GMT"
         },
         {
-          "title": "Copper Heads for Weekly Loss as Doubts on US Tariffs Intensify",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-11/copper-heads-for-weekly-loss-as-doubts-on-us-tariffs-intensify",
-          "description": "Copper headed for its first weekly loss since June on concern the US is pushing back a decision on whether to impose import tariffs.",
-          "pubDate": "Fri, 11 Sep 2026 01:42:30 GMT"
+          "title": "JD.com Unit Agrees to Pay SEC $500,000 Over ‘Sham Transactions’",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-11/jd-com-unit-agrees-to-pay-sec-500-000-over-sham-transactions",
+          "description": "A unit of China’s online retailer JD.com Inc. agreed to pay $500,000 to settle US Securities and Exchange Commission claims it made a series of “sham transactions” to meet revenue targets for several quarters starting in October 2022.",
+          "pubDate": "Fri, 11 Sep 2026 22:37:09 GMT"
         },
         {
-          "title": "Few Places to Hide as Bond Selloffs Continue",
-          "link": "https://www.bloomberg.com/news/videos/2026-09-11/few-places-to-hide-as-bond-selloffs-continue-video",
-          "description": "AMP economist My Bui projects US 10-year Treasury yields could reach 5% as structural inflation drivers remain intact. She notes that sustained market pressures may keep Federal Reserve interest rates elevated as equities come under pressure, creating a situation where investors lack safe havens amidst market turmoil. (Source: Bloomberg)",
-          "pubDate": "Fri, 11 Sep 2026 04:01:20 GMT"
+          "title": "Bond Trader Whose Wrong-Way Bets Collapsed Firm Gets 16 Years",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-11/bond-trader-whose-wrong-way-bets-collapsed-firm-gets-16-years",
+          "description": "A former trader at IFS Securities Inc. was ordered to serve more than 16 years in prison for unauthorized bond trades in 2019 that led to $30 million in losses and bankrupted the Chicago broker-dealer.",
+          "pubDate": "Fri, 11 Sep 2026 22:33:53 GMT"
         },
         {
-          "title": "The Dutch Village in the Path of Europe’s Energy Transition",
-          "link": "https://www.bloomberg.com/news/videos/2026-09-11/the-dutch-village-in-the-path-of-europe-s-energy-transition",
-          "description": "Demand on the Netherlands’ power grid is outpacing its expansion. Charlotte Hughes-Morgan reports from Moerdijk, the village at risk of being razed for new infrastructure. (Source: Bloomberg)",
-          "pubDate": "Fri, 11 Sep 2026 04:00:51 GMT"
+          "title": "KKR Wraps Up $2.1 Billion Leveraged Loan for Integer Acquisition",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-11/kkr-wraps-up-2-1-billion-leveraged-loan-for-integer-acquisition",
+          "description": "KKR &amp; Co. Inc. finalized a $2.1 billion loan to help fund its pending acquisition of medical-device maker Integer Holdings Corp. after securing more-favorable terms, seizing on investor demand for leveraged-buyout financings.",
+          "pubDate": "Fri, 11 Sep 2026 21:33:50 GMT"
         },
         {
-          "title": "China Halts New Battery Factories on Capacity Concerns",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-11/china-halts-new-battery-factories-on-capacity-concerns-caixin",
-          "description": "China has temporarily suspended construction of new projects to manufacture power and energy-storage batteries, pending a year-end review of industry capacity, Caixin reported.",
-          "pubDate": "Fri, 11 Sep 2026 00:22:47 GMT"
+          "title": "Oraclum Hedge Fund Founder Charged With Lying About Returns",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-11/oraclum-hedge-fund-founder-is-charged-with-lying-about-returns",
+          "description": "Vuk Vukovic, a founder of New York hedge fund Oraclum Capital LLC, was charged by federal prosecutors with lying to investors about his fund’s performance.",
+          "pubDate": "Fri, 11 Sep 2026 13:55:46 GMT"
         },
         {
-          "title": "Iron Ore Heads For Weekly Loss With Margins Under Pressure",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-11/iron-ore-heads-for-weekly-loss-with-margins-under-pressure",
-          "description": "Iron ore was headed for its steepest weekly loss since June as steel mill margins deteriorated and hot metal output remained seasonally weak.",
-          "pubDate": "Fri, 11 Sep 2026 03:18:40 GMT"
+          "title": "Finding Stability in Investing: Masters in Business with Seth Bernstein",
+          "link": "https://www.bloomberg.com/news/videos/2026-09-11/finding-stability-in-investing-masters-in-business-video",
+          "description": "Barry speaks with Seth Bernstein, Chief Executive Officer of AllianceBernstein. They discuss his tenure at JPMorgan Chase where he was managing director and global head of Managed Solutions & Strategy at J.P. Morgan Asset Management. They discuss understanding the Private Credit industry and the future of Mutual Funds as ETFs become the future of investing. Seth also discusses the importance of in-person collaboration as well as how to invest for retirement.  (Source: Bloomberg)",
+          "pubDate": "Fri, 11 Sep 2026 21:13:15 GMT"
         },
         {
-          "title": "DeepSeek Hands Memory Stock Investors Fresh Reason for Caution",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-11/deepseek-hands-memory-stock-investors-fresh-reason-for-caution",
-          "description": "Fund managers wading back into South Korean memory makers’ stocks got a fresh gut check after DeepSeek’s latest artificial intelligence model raised doubts on the strength of demand.",
-          "pubDate": "Fri, 11 Sep 2026 02:55:22 GMT"
+          "title": "Bill Dudley Expects Fed to Raise Rate by 25 Bps",
+          "link": "https://www.bloomberg.com/news/videos/2026-09-11/dudley-expects-fed-to-raise-rate-by-25-bps-video",
+          "description": "Bill Dudley, a Bloomberg Opinion columnist and former president of the Federal Reserve Bank of New York, says he would be shocked if the Federal Reserve did not raise interest rates by 25 basis points at their next meeting. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+          "pubDate": "Fri, 11 Sep 2026 21:12:16 GMT"
         },
         {
-          "title": "Japan’s Bond Yields Rise as Oil Concerns Fuel Global Selloff",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-11/japan-s-bond-yields-rise-as-oil-concerns-fuel-global-selloff",
-          "description": "Japan’s government bonds slumped on Friday, tracking a selloff in the US bond market after escalating Middle East tensions drove up oil prices.",
-          "pubDate": "Fri, 11 Sep 2026 02:41:36 GMT"
+          "title": "Japan’s GPIF May Sell $62 Billion of Treasuries, Santander Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-11/japan-s-gpif-may-sell-62-billion-of-treasuries-santander-says",
+          "description": "Japan’s Government Pension Investment Fund could sell as much as $62 billion of US Treasuries without a formal revamp of its asset-allocation policy, according to analysts at Banco Santander SA.",
+          "pubDate": "Fri, 11 Sep 2026 21:08:09 GMT"
         },
         {
-          "title": "India Small-Cap Rally Draws Record Fund Inflows",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/india-small-cap-rally-draws-record-fund-inflows",
-          "description": "Record fund inflows are fueling gains in smaller companies even as India’s broader stock market struggles.",
-          "pubDate": "Fri, 11 Sep 2026 02:36:19 GMT"
+          "title": "Lululemon’s Newest Bear Sees More Pain Ahead After 81% Rout",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-11/lululemon-s-newest-bear-sees-more-pain-for-stock-after-81-rout",
+          "description": "Lululemon Athletica Inc.’s turnaround won’t be a quick or easy fix as the athletic wear company cedes market share to rivals and suffers deepening sales declines, according to BMO Capital Markets, which initiated coverage of the stock this week with an underperform rating.",
+          "pubDate": "Fri, 11 Sep 2026 11:30:01 GMT"
         },
         {
-          "title": "Hitachi, Platinum Are Said to Be Among Bidders for Swarco Unit",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-11/hitachi-platinum-are-said-to-be-among-bidders-for-swarco-unit",
-          "description": "An arm of Hitachi Ltd. is among suitors bidding for part of Swarco, the traffic solutions provider owned by members of Austria’s Swarovski family, people familiar with the matter said.",
-          "pubDate": "Fri, 11 Sep 2026 02:29:24 GMT"
+          "title": "Treasuries End Bruising Week With Fed Hike Bets Firmed After CPI",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-11/treasuries-fall-as-higher-than-expected-cpi-boosts-fed-hike-odds",
+          "description": "The $32 trillion US bond market ended a bruising week that pushed yields to multiyear highs, with investors more convinced the Federal Reserve will raise interest rates next week to address sticky inflation.",
+          "pubDate": "Fri, 11 Sep 2026 12:38:05 GMT"
         },
         {
-          "title": "Hong Kong Court Sentences Three Tiananmen Vigil Activists",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-11/hong-kong-court-sentences-three-tiananmen-vigil-activists",
-          "description": "A Hong Kong court sentenced three former organizers of annual vigils marking China’s 1989 Tiananmen Square crackdown.",
-          "pubDate": "Fri, 11 Sep 2026 02:26:21 GMT"
+          "title": "Dollar Wavers as CPI Adds to Fed Hike Bets While Oil Falls",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-11/dollar-wavers-as-inflation-aids-fed-hike-bets-while-oil-falls",
+          "description": "The dollar oscillated Friday after a key gauge of US consumer prices rose by more than expected, pushing traders to add to bets that the Federal Reserve will raise interest rates next week.",
+          "pubDate": "Fri, 11 Sep 2026 13:21:27 GMT"
         }
       ]
     },
@@ -468,124 +468,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "The Credo Selloff Could Be a Huge Buying Opportunity: Analysts Still See $300+.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/credo-selloff-could-huge-buying-180005171.html",
+          "title": "Popular women's clothing chain closes 177 stores",
+          "link": "https://finance.yahoo.com/small-business/articles/popular-womens-clothing-chain-closes-231700943.html",
           "description": "",
-          "pubDate": "2026-09-09T18:00:05Z"
+          "pubDate": "2026-09-10T23:17:00Z"
         },
         {
-          "title": "Amphenol Tests Key Level, Nears Pivot Amid Strong AI Datacom Sales",
-          "link": "https://www.investors.com/research/ai-data-center-amphenol-aph-stock/?src=A00220&yptr=yahoo",
+          "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
+          "link": "https://finance.yahoo.com/technology/ai/articles/hive-brings-enterprise-veteran-scale-233612805.html",
           "description": "",
-          "pubDate": "2026-09-09T18:03:47Z"
+          "pubDate": "2026-09-10T23:36:12Z"
         },
         {
-          "title": "CVS Still Sees 'High-Trend' Cost Growth; Oscar, UNH Stock Fall",
-          "link": "https://www.investors.com/news/cvs-health-medical-costs-oscar-unh-hum-hca/?src=A00220&yptr=yahoo",
+          "title": "Man declares bankruptcy with 34 cents while hiding millions",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/man-declares-bankruptcy-34-cents-234136167.html",
           "description": "",
-          "pubDate": "2026-09-09T18:05:42Z"
+          "pubDate": "2026-09-10T23:41:36Z"
         },
         {
-          "title": "VOO vs. QQQ: Which Popular ETF Is Right for Your Portfolio in 2026?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/voo-vs-qqq-popular-etf-181139875.html",
+          "title": "Soybeans Break to New Highs on Thursday’s Rally",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-break-highs-thursday-rally-222044883.html",
           "description": "",
-          "pubDate": "2026-09-09T18:11:39Z"
+          "pubDate": "2026-09-10T22:20:44Z"
         },
         {
-          "title": "AI Boom Could Worsen Stock Sell-Off, Analysts Warn. These Are The Risks They See.",
-          "link": "https://www.investors.com/news/bear-market-ai-stocks-artificial-intelligence-fitch/?src=A00220&yptr=yahoo",
+          "title": "Corn Squares Up Ahead of USDA Report Day",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/corn-squares-ahead-usda-report-222044111.html",
           "description": "",
-          "pubDate": "2026-09-09T17:59:18Z"
+          "pubDate": "2026-09-10T22:20:44Z"
         },
         {
-          "title": "He Built Locomotives for 30 Years. The Railroad Retirement Board Said He Never Worked for a Railroad.",
-          "link": "https://finance.yahoo.com/healthcare/articles/built-locomotives-30-years-railroad-180310048.html",
+          "title": "Higher Oil Prices Let Mexico Pull Back Billions in Pemex Support",
+          "link": "https://finance.yahoo.com/energy/articles/higher-oil-prices-let-mexico-220000091.html",
           "description": "",
-          "pubDate": "2026-09-09T18:03:10Z"
+          "pubDate": "2026-09-10T22:00:00Z"
         },
         {
-          "title": "Crypto ETFs in 2026: Bitcoin, Ethereum and the Altcoin Wave Explained",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-etfs-2026-bitcoin-ethereum-181003287.html",
+          "title": "Why The United States’ Belated Critical Minerals Gambit Won’t Stop China",
+          "link": "https://finance.yahoo.com/energy/articles/why-united-states-belated-critical-230000986.html",
           "description": "",
-          "pubDate": "2026-09-09T18:10:03Z"
+          "pubDate": "2026-09-10T23:00:00Z"
         },
         {
-          "title": "This Stock Just Hit Its 29th New 52-Week High. Here’s What Claude Says the Pros and Cons Are of Buying Now.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/stock-just-hit-29th-52-175727657.html",
+          "title": "172-year-old bank sees 400% upside for 'federal bank' token",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/172-old-bank-sees-400-173349444.html",
           "description": "",
-          "pubDate": "2026-09-09T17:57:27Z"
+          "pubDate": "2026-09-11T17:33:49Z"
         },
         {
-          "title": "Northrop Grumman (NOC) Just Won Another Missile-Defense Contract. Why Does the Stock Still Trade at a Discount?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-just-won-180508490.html",
+          "title": "Northern Trust (NTRS) Won a £3.6B Pension Mandate. Can it Move Fee Growth?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/northern-trust-ntrs-won-3-213701812.html",
           "description": "",
-          "pubDate": "2026-09-09T18:05:08Z"
+          "pubDate": "2026-09-10T21:37:01Z"
         },
         {
-          "title": "Hyperliquid Price Prediction: HYPE Eyes $100 as Risks Rise",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-price-prediction-hype-eyes-174644331.html",
+          "title": "Patterson-UTI (PTEN) Averaged 101 August Rigs. Can Activity Deliver Better Margins?",
+          "link": "https://finance.yahoo.com/energy/articles/patterson-uti-pten-averaged-101-213510010.html",
           "description": "",
-          "pubDate": "2026-09-09T17:46:44Z"
+          "pubDate": "2026-09-10T21:35:10Z"
         },
         {
-          "title": "Big Tech Looks To Argentina As US Data Center Projects Face Resistance",
-          "link": "https://finance.yahoo.com/technology/articles/big-tech-looks-argentina-us-180008484.html",
+          "title": "Descartes reports another record-breaking quarter",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/descartes-reports-another-record-breaking-230516971.html",
           "description": "",
-          "pubDate": "2026-09-09T18:00:08Z"
+          "pubDate": "2026-09-10T23:05:16Z"
         },
         {
-          "title": "How to Research Any ETF in Five Minutes",
-          "link": "https://finance.yahoo.com/markets/options/articles/research-etf-five-minutes-181253053.html",
+          "title": "Private credit loses its edge in the battle for PE borrowers",
+          "link": "https://finance.yahoo.com/markets/options/articles/private-credit-loses-edge-battle-213250231.html",
           "description": "",
-          "pubDate": "2026-09-09T18:12:53Z"
+          "pubDate": "2026-09-10T21:32:50Z"
         },
         {
-          "title": "Robinhood (HOOD) Chain’s Early Revenue Is Explosive. But Can It Last?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-hood-chain-early-revenue-181532415.html",
+          "title": "Adobe Hits 1 Billion Monthly Active Users, Raises Full-Year Outlook",
+          "link": "https://www.wsj.com/business/earnings/adobe-hits-1-billion-monthly-active-users-raises-full-year-outlook-b4e45b83?siteid=yhoof2&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-09-09T18:15:32Z"
+          "pubDate": "2026-09-10T22:31:00Z"
         },
         {
-          "title": "Etsy Stock Pullback Could Be a Buying Opportunity",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/etsy-stock-pullback-could-buying-181941712.html",
+          "title": "Apple, IBD Stock Of The Day, Rebounds Bullishly After iPhone Duo Debut",
+          "link": "https://www.investors.com/research/ibd-stock-of-the-day/apple-stock-rises-after-iphone-duo-debut/?src=A00220&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-09-09T18:19:41Z"
+          "pubDate": "2026-09-10T21:32:28Z"
         },
         {
-          "title": "United Microelectronics Sales Jump 30% in August. UMC Stock Has More Room to Run.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/united-microelectronics-sales-jump-30-182116964.html",
+          "title": "What drives the price of gold?",
+          "link": "https://finance.yahoo.com/personal-finance/investing/article/what-drives-gold-price-171825145.html",
           "description": "",
-          "pubDate": "2026-09-09T18:21:16Z"
+          "pubDate": "2026-07-08T17:18:25Z"
         },
         {
-          "title": "CleanSpark receives conditional ERCOT classifications for 885 MW in Texas",
-          "link": "https://finance.yahoo.com/energy/articles/cleanspark-receives-conditional-ercot-classifications-180144169.html",
+          "title": "Oracle Stock Jumps As Earnings Beat Estimates, Cloud Infrastructure Growth Accelerates",
+          "link": "https://www.investors.com/news/technology/oracle-stock-orcl-q1-earnings-aug-2026-ai/?src=A00220&yptr=yahoo",
           "description": "",
-          "pubDate": "2026-09-09T18:01:44Z"
+          "pubDate": "2026-09-10T21:30:56Z"
         },
         {
-          "title": "Ahead of Aerovironment Earnings, Here's What Barchart Data Says Comes Next for AVAV Stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-aerovironment-earnings-heres-barchart-182539431.html",
+          "title": "Citigroup (C) Completed a Weekend Tokenized-Dollar Transfer. Can the Network Scale?",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/citigroup-c-completed-weekend-tokenized-231303058.html",
           "description": "",
-          "pubDate": "2026-09-09T18:25:39Z"
+          "pubDate": "2026-09-10T23:11:19Z"
         },
         {
-          "title": "TRM Labs Hits $2 Billion Valuation With AI Crime Bet",
-          "link": "https://finance.yahoo.com/technology/ai/articles/trm-labs-hits-2-billion-183000122.html",
+          "title": "GameStop store closures could benefit Target",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-store-closures-could-benefit-223300790.html",
           "description": "",
-          "pubDate": "2026-09-09T18:30:00Z"
+          "pubDate": "2026-09-10T22:33:00Z"
         },
         {
-          "title": "Caterpillar (CAT)’s FieldAI Partnership Strengthens Its AI Autonomy Opportunity",
-          "link": "https://finance.yahoo.com/technology/ai/articles/caterpillar-cat-fieldai-partnership-strengthens-183455992.html",
+          "title": "Cognizant (CTSH): Can 17 AI Agents Turn Productivity Into Revenue?",
+          "link": "https://finance.yahoo.com/technology/ai/articles/cognizant-ctsh-17-ai-agents-231307532.html",
           "description": "",
-          "pubDate": "2026-09-09T18:34:55Z"
+          "pubDate": "2026-09-10T23:13:07Z"
         },
         {
-          "title": "Broadcom (AVGO) Faces Google Chip Risks, But Macquarie Sees a $40 Billion Anthropic Opportunity",
-          "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-faces-google-chip-184606814.html",
+          "title": "Mastercard (MA) Partners With Flowcart. Can In-Chat Payments Deliver Profitable Growth?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-partners-flowcart-chat-231841366.html",
           "description": "",
-          "pubDate": "2026-09-09T18:46:06Z"
+          "pubDate": "2026-09-10T23:18:41Z"
         }
       ]
     },
@@ -597,64 +597,64 @@
       "itemCount": 10,
       "items": [
         {
-          "title": "Oracle&#x2019;s AI bet pays off as cloud momentum helps drive a rosier forecast",
-          "link": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
-          "description": "The company saw its backlog grow even more in the latest quarter.",
-          "pubDate": "Fri, 11 Sep 2026 00:19:00 GMT"
+          "title": "The Fed could raise interest rates three times. Here&#x2019;s where the market could face the stiffest test.",
+          "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+          "description": "Economists note that the Fed historically has not been content to raise rates only once.",
+          "pubDate": "Fri, 11 Sep 2026 23:54:00 GMT"
         },
         {
-          "title": "Adobe&#x2019;s latest earnings leave Wall Street wanting more",
-          "link": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
-          "description": "&#x201c;In this environment you can&#x2019;t just meet&#x201d; expectations, an analyst says",
-          "pubDate": "Fri, 11 Sep 2026 00:17:00 GMT"
+          "title": "This investment is safe from both Trump and the Democrats &#x2014; and it pays 4.7%",
+          "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
+          "description": "There&#x2019;s a safe haven hiding in plain sight.",
+          "pubDate": "Fri, 11 Sep 2026 22:06:00 GMT"
         },
         {
-          "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive &#x2014; from commuting to grocery shopping",
-          "link": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
-          "description": "&#x201c;Diesel touches everything in the economy,&#x201d; one analyst says.",
-          "pubDate": "Thu, 10 Sep 2026 22:54:00 GMT"
+          "title": "Marvell is sitting on an incredibly &#x2018;sticky&#x2019; business that could help it unlock a $30 billion opportunity",
+          "link": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
+          "description": "Marvell is best known for making custom chips &#x2014; but an analyst notes there&#x2019;s arguably more potential in supporting components and optical networking.",
+          "pubDate": "Fri, 11 Sep 2026 21:16:00 GMT"
         },
         {
-          "title": "Want Apple&#x2019;s $1,999 foldable iPhone Duo? Here&#x2019;s what T-Mobile, AT&amp;T and Verizon are doing to lower the cost.",
-          "link": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
-          "description": "Wireless carriers are rolling out their initial iPhone promotions, but analysts say there&#x2019;s no price war just yet.",
-          "pubDate": "Thu, 10 Sep 2026 22:25:00 GMT"
+          "title": "&#x2018;I&#x2019;m the executor&#x2019;: My two siblings and I inherited an IRA. Can we just cash it out?",
+          "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+          "description": "&#x201c;Am I required to create three new inherited IRAs so that the firm can divide it equally?&#x201d;",
+          "pubDate": "Fri, 11 Sep 2026 21:00:00 GMT"
         },
         {
-          "title": "SpaceX is inching closer to this lofty $100 billion milestone",
-          "link": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories",
-          "description": "SpaceX has set an ambitious revenue target and a newly disclosed computing-power deal could get the company a bit nearer to its goal.",
-          "pubDate": "Thu, 10 Sep 2026 22:19:00 GMT"
+          "title": "Tesla could transform the trucking business &#x2014; and capitalize on high diesel prices",
+          "link": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
+          "description": "The EV maker aims to finally kick its long-awaited Semi truck into high gear &#x2014; unlocking a potentially huge opportunity, according to Morgan Stanley.",
+          "pubDate": "Fri, 11 Sep 2026 20:49:00 GMT"
         },
         {
-          "title": "Here are the stocks to favor in the fourth quarter &#x2014; and those you should avoid",
-          "link": "https://www.marketwatch.com/story/here-are-the-stocks-to-favor-in-the-fourth-quarter-and-those-you-should-avoid-cf2dd10b?mod=mw_rss_topstories",
-          "description": "Large caps tend to outperform small caps as year&#x2019;s end approaches.",
-          "pubDate": "Thu, 10 Sep 2026 22:02:00 GMT"
+          "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
+          "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+          "description": "&#x201c;Several of Oracle&#x2019;s bear cases were addressed head on&#x201d; in the latest earnings report, according to an analyst.",
+          "pubDate": "Fri, 11 Sep 2026 20:45:00 GMT"
         },
         {
-          "title": "Apple is walking a &#x2018;tightrope&#x2019; when it comes to the prices of its new iPhones",
-          "link": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
-          "description": "The company raised prices on its phone but might still have to eat costs itself, analysts say.",
-          "pubDate": "Thu, 10 Sep 2026 20:40:00 GMT"
+          "title": "Salesforce&#x2019;s stock has been riding a wave of AI optimism. Here&#x2019;s what Wall Street wants to see next.",
+          "link": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
+          "description": "Salesforce&#x2019;s Dreamforce conference next week could offer a glimpse of how its recently announced Claudeforce partnership with Anthropic will play out.",
+          "pubDate": "Fri, 11 Sep 2026 20:44:00 GMT"
         },
         {
-          "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here&#x2019;s what happened.",
-          "link": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
-          "description": "Generation Z and young millennials are navigating major shifts in the economy that have made it harder to build wealth the way Americans did in the past.",
-          "pubDate": "Thu, 10 Sep 2026 20:39:00 GMT"
+          "title": "I&#x2019;m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+          "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+          "description": "&#x201c;I expect to receive at least $9,000 per month before federal and California state taxes.&#x201d;",
+          "pubDate": "Fri, 11 Sep 2026 20:30:00 GMT"
         },
         {
-          "title": "Why $500 checks won&#x2019;t help Americans facing 15% increases in Obamacare premiums next year",
-          "link": "https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories",
-          "description": "Rising healthcare costs have been a major issue for lawmakers and patients in recent years.",
-          "pubDate": "Thu, 10 Sep 2026 20:26:00 GMT"
+          "title": "Why Dell and HPE were the S&amp;P 500&#x2019;s top-performing stocks today",
+          "link": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
+          "description": "Oracle&#x2019;s earnings provided an upbeat read for hardware suppliers &#x2014; but the Fed&#x2019;s interest-rate moves could dictate just how much they continue benefitting.",
+          "pubDate": "Fri, 11 Sep 2026 20:30:00 GMT"
         },
         {
-          "title": "Treasury yields surge after Bessent&#x2019;s beefed-up buyback operation fails to calm market",
-          "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
-          "description": "The Treasury market&#x2019;s painful rout intensified Thursday, after an underwhelming auction of 30-year U.S. government debt and Treasury Secretary Scott Bessent&#x2019;s first beefed-up buyback operation.",
-          "pubDate": "Thu, 10 Sep 2026 20:24:00 GMT"
+          "title": "Your Social Security COLA could go up another $71 a month in 2027. That&#x2019;s not necessarily good news.",
+          "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+          "description": "A higher COLA is a sign that persistent inflation isn&#x2019;t going anywhere.",
+          "pubDate": "Fri, 11 Sep 2026 20:08:00 GMT"
         }
       ]
     },
@@ -795,124 +795,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "快讯：午后化工期货主力合约集体下跌 甲醇、乙二醇跌超3%",
-          "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmrtz5399195.shtml",
-          "description": " 2026年9月11日，午后化工期货主力合约集体下跌，玻璃涨超1%，甲醇、乙二醇跌超3%，20号胶、丁二烯胶跌超2%，烧碱跌近2%。",
-          "pubDate": "1789105174"
+          "title": "预算日临近 英国首相伯纳姆“事在人为”执政理念迎来考验",
+          "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirputk6734572.shtml",
+          "description": " 入主唐宁街10号时，英国首相安迪·伯纳姆向所有遭遇政策难题的内阁大臣、公务员传递了这样一条信息：一句“办不到”远远不够。",
+          "pubDate": "1789189444"
         },
         {
-          "title": "厦门航空换帅：谢兵任董事长，倪良胜任总经理",
-          "link": "https://finance.sina.com.cn/china/2026-09-11/doc-inirmruc2170501.shtml",
-          "description": "9月11日消息，据消息人士透露，厦门航空今天召开干部大会，宣布了新的董事长和总经理任命，原厦门航空总经理谢兵担任厦门航空董事长...",
-          "pubDate": "1789105079"
+          "title": "欧洲央行官员科赫尔：高油价可能迫使欧央行进一步加息",
+          "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpute8522963.shtml",
+          "description": "欧洲央行一名高级政策官员警告称，如果油价在年底前持续维持在每桶100美元附近，欧洲央行将不得不进一步加息。 欧洲央行于周四完成本年度第二次加息后...",
+          "pubDate": "1789186281"
         },
         {
-          "title": "75岁王石现身HYROX北京站参赛，田朴珺到场支持",
-          "link": "https://finance.sina.com.cn/china/2026-09-11/doc-inirmrtw6936388.shtml",
-          "description": " 9月11日午间消息，9月10日，室内综合体能赛事HYROX北京站开赛。今年10月即将75岁的万科创始人王石现身参赛，其妻子田朴珺到场支持。",
-          "pubDate": "1789104918"
+          "title": "美国限制油轮通过霍尔木兹海峡的防空时段",
+          "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirputk6716997.shtml",
+          "description": "在美国加大对夜间航行船只袭击力度后，美国要求穿越霍尔木兹海峡的油轮仅可在特定时段航行，以获得军事保护。 自5月起，华盛顿方面为选择沿海峡南侧阿曼海岸航线航行的船只...",
+          "pubDate": "1789186028"
         },
         {
-          "title": "*ST数源涉信批违法面临证监会的处罚，适格股民可索赔损失！",
-          "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-11/doc-inirmrtz5391959.shtml",
-          "description": "受损股民可至新浪股民维权平台登记该公司维权：http://wq.finance.sina.com.cn/ 关注@新浪证券、微信关注新浪券商基金、百度搜索新浪股民维权、访问新浪财经客户端...",
-          "pubDate": "1789104547"
+          "title": "特朗普提名的“美国首席医生”，持仓烟草、快餐及碳酸饮料股",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirpqmk5352497.shtml",
+          "description": "周四公布的财务披露文件显示，美国总统唐纳德·特朗普提名的医务总监（Surgeon General）候选人妮可·萨菲尔持有烟草企业菲利普莫里斯国际，以及怪物饮料、可口可乐...",
+          "pubDate": "1789179691"
         },
         {
-          "title": "Y Combinator首席执行官：AI灭绝人类是科幻小说，网络安全才是迫在眉睫的风险",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmruc2160960.shtml",
-          "description": " 硅谷创业孵化器Y Combinator的首席执行官加里·谭接受采访时对Anthropic研究员发出的人工智能可能在十年内灭绝人类的警告表示不以为然。",
-          "pubDate": "1789104241"
+          "title": "VinFast创始人交棒其子 推进业务扩张",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirpqmk5330886.shtml",
+          "description": "在大举开拓海外市场、亏损持续扩大的背景下，VinFast汽车有限公司董事长范日全安（Pham Nhat Quan Anh）将出任这家越南电动汽车厂商的全球首席执行官...",
+          "pubDate": "1789177543"
         },
         {
-          "title": "大韩航空计划下周开始在部分航班提供星链支持的免费WiFI服务，2027年底全面开通",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmruc2432139.shtml",
-          "description": "韩国最大航空公司大韩航空周五宣布，从下周起，将在部分航班上开通由星链（Starlink）支持的免费机上无线网络服务。 这项免费服务将于下周二率先在 4...",
-          "pubDate": "1789104129"
+          "title": "波音向工程师工会提交最终提案 包含10%加薪",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirpqmn6795677.shtml",
+          "description": " 波音官网发布的最新信息显示，波音已向工程师工会SPEEA提交最终合同提案。提案一旦获批，将落实10%的保底加薪，并将于2027年3月再实施4%加薪。",
+          "pubDate": "1789176406"
         },
         {
-          "title": "花旗：预计欧洲央行将在2026年12月和2027年3月各加息25个基点",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmruc2152373.shtml",
-          "description": "花旗集团预计欧洲央行将在2026年12月和2027年3月各加息25个基点。",
-          "pubDate": "1789103486"
+          "title": "玻利维亚央行回笼74亿玻利维亚诺 货币投放规模激增",
+          "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpkck8634282.shtml",
+          "description": " 玻利维亚央行公告称，8月该行从金融体系回笼74.3亿玻利维亚诺（折合6.44亿美元），资金来源于黄金采购以及通过买入美元积累国际储备所产生的流动性。",
+          "pubDate": "1789172486"
         },
         {
-          "title": "卓悦控股于9月11日上午起停牌 以待刊发有关内幕消息的公告",
-          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirmrtz5374982.shtml",
-          "description": "卓悦控股（00653）发布公告，本公司股份（股份代号：653，临时柜位：2920）已于2026年9月11日（星期五）上午9时55分起于香港联合交易所有限公司暂停买卖...",
-          "pubDate": "1789103112"
+          "title": "视频|星宇股份又出错，近期已道歉4次 股价下跌！上交所发函！网友:真是一个神奇的草台班子",
+          "link": "https://finance.sina.com.cn/stock/s/2026-09-12/doc-inirpkcn5403726.shtml",
+          "description": "",
+          "pubDate": "1789172207"
         },
         {
-          "title": "贝森特驳斥国债回购未满上限引发的疑虑 澄清“我是庄家”一语",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmrtw6924815.shtml",
-          "description": "  美国财政部长斯科特·贝森特对外界担心美国债券市场一事不以为然；财政部周四债务回购操作规模小于预期，导致收益率升至多年高点。",
-          "pubDate": "1789102964"
+          "title": "视频|IPO前夕受试者死亡、高管爆粗口，易慕峰港股18A再递表，8月招股书悄悄删掉“安全性良好”",
+          "link": "https://finance.sina.com.cn/stock/s/2026-09-12/doc-inirpkci1738985.shtml",
+          "description": "",
+          "pubDate": "1789172035"
         },
         {
-          "title": "大摩：美团-W维持“增持”评级 目标价110港元",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-11/doc-inirmruc2424831.shtml",
-          "description": "摩根士丹利发布研报称，维持美团-W（03690）“增持”评级，目标价110港元。该行认为，美团股价回调提供吸引的入场点，近期股价回调已反映更为合理的外卖单位经济效益复苏轨迹...",
-          "pubDate": "1789102959"
+          "title": "视频|舍得酒业换届在即 董事长落选 现任董事长未入董事候选人名单 谁将执掌新一届董事会？",
+          "link": "https://finance.sina.com.cn/stock/s/2026-09-12/doc-inirpkck8624522.shtml",
+          "description": "",
+          "pubDate": "1789171783"
         },
         {
-          "title": "里昂：小米集团-W维持“跑赢大市”评级 目标价35港元",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-11/doc-inirmrtz5371941.shtml",
-          "description": "里昂发布研报称，维持小米集团-W（01810）“跑赢大市”评级，目标价35港元。小米本周一（7日）正式推出SkyNomad系列，共四款车型，锁定商务及家庭买家，提供宽敞...",
-          "pubDate": "1789102900"
+          "title": "全球基金看淡印度股市 部分机构将持仓降至零",
+          "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpkcn5393851.shtml",
+          "description": "多家族办公室里德资本合伙公司约一个月前计划削减股票敞口时，选择彻底退出印度投资组合。 这家新加坡资管机构的首席投资官杰拉尔德·甘表示，这是个不难做出的决定。",
+          "pubDate": "1789171557"
         },
         {
-          "title": "大和：小米集团-W为国产半导体技术广泛应用重要一步 给予“买入”评级",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-11/doc-inirmrtz5371065.shtml",
-          "description": "大和发布研报称，小米集团-W（01810）日前举行2026年秋季产品发布会，推出澎程（SkyNomad）系列四款新车型。该系列定位为“智能、可变空间SUV”增程式电动车系列，针对家庭...",
-          "pubDate": "1789102836"
+          "title": "核查完成！7天6板大牛股，下周一复牌",
+          "link": "https://finance.sina.com.cn/stock/zqgd/2026-09-12/doc-inirpkck8610347.shtml",
+          "description": "龙版传媒（605577）停牌核查工作已经完成。 9月11日晚间，龙版传媒发布公告称，公司股票于9月9日起停牌，停牌期间公司就股票交易风险的相关事项进行了核查...",
+          "pubDate": "1789170368"
         },
         {
-          "title": "花旗：万洲国际维持“买入”评级 目标价下调至8.20港元",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-11/doc-inirmrtz5370170.shtml",
-          "description": "花旗发布研报称，万洲国际（00288）旗下Smithfield因需求疲软及猪肉/生猪价格下跌趋势，进一步下调指引，该行下调万洲2026至2028年净利润预测10%至11%...",
-          "pubDate": "1789102768"
+          "title": "涉足控制器芯片！605303，筹划重大资产重组",
+          "link": "https://finance.sina.com.cn/stock/zqgd/2026-09-12/doc-inirpkci1730343.shtml",
+          "description": "园林股份（605303）拟并购华澜微控制权，预计构成重大资产重组。 9月11日晚间，园林股份发布公告称，公司正筹划以发行股份及支付现金的方式购买杭州华澜微电子股份有限公司...",
+          "pubDate": "1789170368"
         },
         {
-          "title": "花旗：五矿资源维持“买入”评级 目标价上调至12港元",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-11/doc-inirmrtz5370095.shtml",
-          "description": "花旗发布研报称，更新五矿资源（01208）模型以反映2026年上半年业绩及最新管理层指引，将2026至2028年盈利预测分别上调3.7%、36.3%及14.6%，至17.69亿、21.54亿及18...",
-          "pubDate": "1789102763"
+          "title": "美国官员：以色列与黎巴嫩下一轮谈判推迟至10月",
+          "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpkcn5375800.shtml",
+          "description": "美国国务院一名官员称，由美国斡旋的以色列和黎巴嫩下一轮谈判推迟至下月举行。 该官员表示，原定于下周在罗马举行的下一轮谈判改至10月，两国大使仍将在美国国务院会面...",
+          "pubDate": "1789169629"
         },
         {
-          "title": "花旗：对京东集团-SW物理AI策略持乐观态度 维持“买入”评级",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-11/doc-inirmrtz5370045.shtml",
-          "description": "花旗发布研报称，维持京东集团-SW（09618，JD.US）“买入”评级，美股目标价39美元。 花旗在研报中指出，对于京东全球科技探索者大会来说...",
-          "pubDate": "1789102760"
+          "title": "高盛调整预期：美联储9月加息，此前预计维持利率不变",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirpkck8602482.shtml",
+          "description": "高盛经济学家现已预计，美联储将在9月加息25个基点，此前该行的判断为维持利率不变。 该团队利率预期发生转变，源于周五上午纽约公布的美国8月核心CPI高于市场预期；这份数...",
+          "pubDate": "1789169520"
         },
         {
-          "title": "美银证券：领展房产基金维持“买入”评级 目标价46港元",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-11/doc-inirmrtz5370017.shtml",
-          "description": "美银证券发布研报称，领展房产基金（00823）公布6月底止首财季更新后，该行认为其逐步稳定化的论点仍然成立，但快速扭转局面的机会不大。",
-          "pubDate": "1789102757"
+          "title": "中东局势，突传大消息",
+          "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpkcq6890003.shtml",
+          "description": "美军称对伊海上封锁已使99艘商船改变航向 据央视新闻，当地时间9月11日，美军中央司令部称，美军持续执行针对伊朗的海上封锁行动。",
+          "pubDate": "1789168740"
         },
         {
-          "title": "亚洲炼油商加紧采购10月船期美国原油",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmruc2123037.shtml",
-          "description": "据熟悉交易的贸易商透露，亚洲炼油商已大量购入10月装船的美国原油，本月过半时，已有18至20艘超大型油轮舱位被预定。 本次采购总量约3600万至4000万桶。",
-          "pubDate": "1789101161"
+          "title": "沙特关键输油管线遭袭 霍尔木兹海峡重要替代通道再受打击",
+          "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpkci1720473.shtml",
+          "description": "沙特阿拉伯在周四遭到多次袭击后关闭了一条东西输油管道，该管线是沙特石油出口绕开霍尔木兹海峡的一条重要替代通道。 沙特能源部周五在X平台发帖称，出于预防性考虑...",
+          "pubDate": "1789167728"
         },
         {
-          "title": "伊朗与海湾国家将于周一举行会谈 推动霍尔木兹相关协议落地",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmruc2115095.shtml",
-          "description": "据媒体援引两名知情人士报道，海湾阿拉伯国家合作委员会六个成员国的外交官以及伊朗外交官定于周一在阿曼塞拉莱举行会晤。相关细节尚未敲定，但已有多个国家确认...",
-          "pubDate": "1789100390"
+          "title": "9月12日隔夜要闻：美股三大指数集体上涨 油价回落 铜价企稳 戴尔大涨近12%",
+          "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpkcn5360791.shtml",
+          "description": "市场 9月12日美股收盘：三大指数集体上涨，油价回落，美联储下周加息押注升至87% 9月12日美股成交前20：甲骨文涨超8%后转跌 AI数据中心建设支出利好 戴尔大涨近12%...",
+          "pubDate": "1789167421"
         },
         {
-          "title": "中广核新能源8月完成发电量1776.3吉瓦时 同比增加15.1%",
-          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirmrtz5340346.shtml",
-          "description": "中广核新能源（01811）发布公告，根据本公司初步统计，2026年8月本公司及其附属公司（本集团）按合并报表口径完成发电量1776.3吉瓦时，较2025年同比增加15.1%。",
-          "pubDate": "1789100266"
+          "title": "Anthropic上市料造就大批百万富翁 华尔街大行争抢财富管理生意",
+          "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpkci1716138.shtml",
+          "description": " 除了争夺Anthropic PBC备受期待的首次公开募股，华尔街各大银行还在竞相争取管理这家人工智能公司的员工在其重磅上市后预计将获得的财富。",
+          "pubDate": "1789166668"
         },
         {
-          "title": "中通快递-W于9月10日斥资948.7万美元回购45.51万股",
-          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirmrtw6909229.shtml",
-          "description": " 中通快递-W（02057）发布公告，于2026年9月10日，该公司斥资948.7万美元回购45.51万股股份，每股回购价20.71-21.1美元。",
-          "pubDate": "1789100188"
+          "title": "Datafolha民调：若巴西总统选举进入决选 卢拉支持率46% 博索纳罗44%",
+          "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpkci1715900.shtml",
+          "description": "Folha de S.Paulo公布的Datafolha民调结果显示，如果巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦与参议员弗拉维奥·博索纳罗进入总统选举第二轮决选，卢拉支持率为46%...",
+          "pubDate": "1789166592"
         }
       ]
     },
@@ -932,124 +932,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "CPI再临关键窗口：美联储加息之后，警惕滞胀定价接管市场",
-          "link": "https://wallstreetcn.com/articles/3781490",
+          "title": "交易员警惕线上移：10年期美债收益率破6%，才是个人投资组合的真正红线",
+          "link": "https://wallstreetcn.com/articles/3781625",
           "description": "",
-          "pubDate": "2026-09-11T05:31:49"
+          "pubDate": "2026-09-12T04:50:24"
         },
         {
-          "title": "美CPI数据即将出炉，亚洲股债双杀、日股重挫近3%，美债十年期收益率逼近5%",
-          "link": "https://wallstreetcn.com/articles/3781549",
+          "title": "10年美债冲向5%！贝森特回购是否被低估？",
+          "link": "https://wallstreetcn.com/articles/3781573",
           "description": "",
-          "pubDate": "2026-09-11T05:27:09"
+          "pubDate": "2026-09-12T04:33:52"
         },
         {
-          "title": "创业板跌2%，科创50跌近3%，存储芯片、有色金属全线下挫，中际旭创AH股齐涨，恒指、恒科指齐跌，小米、腾讯逆势翻红",
-          "link": "https://wallstreetcn.com/articles/3781553",
+          "title": "又见存储巨头“天量奖金”：美光最高发68个月奖金",
+          "link": "https://wallstreetcn.com/articles/3781624",
           "description": "",
-          "pubDate": "2026-09-11T04:09:55"
+          "pubDate": "2026-09-12T04:33:12"
         },
         {
-          "title": "OpenAI CFO：当AI让一切“经验”贬值，什么才是企业的稀缺品？",
-          "link": "https://wallstreetcn.com/articles/3781562",
+          "title": "柴油价格历史性突破6美元！美国会放“出口管制”大招吗？",
+          "link": "https://wallstreetcn.com/articles/3781623",
           "description": "",
-          "pubDate": "2026-09-11T04:04:56"
+          "pubDate": "2026-09-12T04:02:17"
         },
         {
-          "title": "开个会就能印4万亿美元，央行的钱是怎么\"凭空\"造出来的？【胡捷大师课1.2】",
-          "link": "https://wallstreetcn.com/articles/3781547",
+          "title": "京东健康，可能是最难复制的医疗AI公司",
+          "link": "https://wallstreetcn.com/articles/3781626",
           "description": "",
-          "pubDate": "2026-09-11T04:00:50"
+          "pubDate": "2026-09-12T03:46:19"
         },
         {
-          "title": "新债王Gundlach警示：若美联储按兵不动，长端利率将大幅攀升",
-          "link": "https://wallstreetcn.com/articles/3781563",
+          "title": "一支拖鞋军，正在改写中东格局",
+          "link": "https://wallstreetcn.com/articles/3781622",
           "description": "",
-          "pubDate": "2026-09-11T03:56:56"
-        },
-        {
-          "title": "苹果“新掌门”的产品哲学：技术审美重于概念营销，不追求首发追求“终局定义”",
-          "link": "https://wallstreetcn.com/articles/3781556",
-          "description": "",
-          "pubDate": "2026-09-11T03:08:42"
-        },
-        {
-          "title": "网络安全崛起：AI隐患叙事下，网安何以成为软件板块最强反转？",
-          "link": "https://wallstreetcn.com/articles/3780982",
-          "description": "",
-          "pubDate": "2026-09-11T03:00:04"
-        },
-        {
-          "title": "美债收益率5%、油价120 美元、VIX 指数25？市场的噩梦场景正在成为现实",
-          "link": "https://wallstreetcn.com/articles/3781557",
-          "description": "",
-          "pubDate": "2026-09-11T02:52:58"
+          "pubDate": "2026-09-12T03:36:37"
         },
         {
           "title": "付鹏：能源市场成品油的紧张终于传导到了上游，警惕上下游左脚踩右脚【付鹏说4】",
           "link": "https://wallstreetcn.com/articles/3781555",
           "description": "",
-          "pubDate": "2026-09-11T02:34:40"
+          "pubDate": "2026-09-12T02:56:10"
         },
         {
-          "title": "花旗：拉美处于“腾飞前夜”，弱美元、商品牛市、供应链重构三重利好共振！",
-          "link": "https://wallstreetcn.com/articles/3781551",
+          "title": "OpenAI推出Agents API公测版，将Codex背后的harness与基础设施向开发者开放",
+          "link": "https://wallstreetcn.com/articles/3781521",
           "description": "",
-          "pubDate": "2026-09-11T02:05:41"
+          "pubDate": "2026-09-12T02:53:56"
         },
         {
-          "title": "Kalshi获准推出黄金白银永续期货，与传统交易所抢生意",
-          "link": "https://wallstreetcn.com/articles/3781548",
+          "title": "戴尔单日暴涨12%创新高！被甲骨文点名为千亿资本支出“核心供货商”",
+          "link": "https://wallstreetcn.com/articles/3781615",
           "description": "",
-          "pubDate": "2026-09-11T02:00:16"
+          "pubDate": "2026-09-12T02:53:05"
         },
         {
-          "title": "研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成",
-          "link": "https://wallstreetcn.com/articles/3781534",
+          "title": "油价是特朗普的“大麻烦”，而日元是所有人的",
+          "link": "https://wallstreetcn.com/articles/3781620",
           "description": "",
-          "pubDate": "2026-09-11T01:57:30"
+          "pubDate": "2026-09-12T02:32:06"
         },
         {
-          "title": "外媒：巴基斯坦已向伊朗“转达”沙特警告，要求伊朗约束也门胡塞武装",
-          "link": "https://wallstreetcn.com/articles/3781539",
+          "title": "本轮AI牛市两大“网红”合并！SemiAnalysis收购Citrini",
+          "link": "https://wallstreetcn.com/articles/3781619",
           "description": "",
-          "pubDate": "2026-09-11T01:19:45"
+          "pubDate": "2026-09-12T01:46:24"
         },
         {
-          "title": "瑞银CEO警告市场自满情绪：地缘与通胀风险叠加，利率或“更高更久”",
-          "link": "https://wallstreetcn.com/articles/3781546",
+          "title": "“AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆",
+          "link": "https://wallstreetcn.com/articles/3781600",
           "description": "",
-          "pubDate": "2026-09-11T01:19:39"
+          "pubDate": "2026-09-12T01:42:55"
         },
         {
-          "title": "甲骨文电话会：单季交付850兆瓦算力，GPU续约溢价20%，RPO将大规模转化为真实收入",
-          "link": "https://wallstreetcn.com/articles/3781541",
+          "title": "美联储一旦开启加息周期，“连加3次”是合理预期？",
+          "link": "https://wallstreetcn.com/articles/3781618",
           "description": "",
-          "pubDate": "2026-09-11T00:37:14"
+          "pubDate": "2026-09-12T01:16:30"
         },
         {
-          "title": "硅谷都在聊些什么？AI下半场开始！高盛Communacopia + TMT大会现场解码巨头框架",
-          "link": "https://wallstreetcn.com/articles/3781467",
+          "title": "高盛也“改口”了：下周美联储会加息！",
+          "link": "https://wallstreetcn.com/articles/3781616",
           "description": "",
-          "pubDate": "2026-09-11T00:36:17"
+          "pubDate": "2026-09-12T00:59:29"
         },
         {
-          "title": "需求过大，OpenAI宣布暂停200美元Pro 20X新增订阅，已订用户不受影响",
-          "link": "https://wallstreetcn.com/articles/3781543",
+          "title": "美国赤字逼近2万亿，利息账单首破1万亿，长端美债为债务螺旋定价",
+          "link": "https://wallstreetcn.com/articles/3781614",
           "description": "",
-          "pubDate": "2026-09-11T00:31:24"
+          "pubDate": "2026-09-12T00:43:43"
         },
         {
-          "title": "华为、寒武纪等被曝对AI芯片涨价，部分产品两个月内涨幅达到20%至50%",
-          "link": "https://wallstreetcn.com/articles/3781542",
+          "title": "报道：英伟达洽谈在Anthropic IPO中投资高达100亿美元",
+          "link": "https://wallstreetcn.com/articles/3781613",
           "description": "",
-          "pubDate": "2026-09-11T00:22:18"
+          "pubDate": "2026-09-12T00:36:56"
         },
         {
-          "title": "油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=“股债双杀”！",
-          "link": "https://wallstreetcn.com/articles/3781540",
+          "title": "伦巴德：GPIF超配日债或引发全球套息平仓，西班牙国际银行：GPIF或抛售620亿美元美债！",
+          "link": "https://wallstreetcn.com/articles/3781612",
           "description": "",
-          "pubDate": "2026-09-11T00:10:34"
+          "pubDate": "2026-09-11T23:15:05"
+        },
+        {
+          "title": "市场不惧CPI和加息？因为伊朗抢了美联储的“风头”",
+          "link": "https://wallstreetcn.com/articles/3781609",
+          "description": "",
+          "pubDate": "2026-09-11T23:14:43"
+        },
+        {
+          "title": "胡塞武装被曝用Claude Code替代工程师开发导弹，Anthropic：已封相关账户",
+          "link": "https://wallstreetcn.com/articles/3781607",
+          "description": "",
+          "pubDate": "2026-09-11T23:14:29"
+        },
+        {
+          "title": "油价下挫提振风险偏好，道指涨逾500点终结四连跌，戴尔飙12%创新高",
+          "link": "https://wallstreetcn.com/articles/3781549",
+          "description": "",
+          "pubDate": "2026-09-11T23:13:47"
         }
       ]
     },
