@@ -1,5 +1,5 @@
 {
-  "fetchTime": "2026-10-03T06:14:06.275305",
+  "fetchTime": "2026-10-04T06:41:09.477197",
   "sources": [
     {
       "name": "Reuters Business",
@@ -24,6 +24,12 @@
           "pubDate": "Sat, 03 Oct 2026 04:38:31 GMT"
         },
         {
+          "title": "Suppliers pile pressure on government over energy bills",
+          "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+          "description": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
+          "pubDate": "Sat, 03 Oct 2026 08:58:44 GMT"
+        },
+        {
           "title": "UK diesel prices top £2 a litre for first time, RAC says",
           "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
           "description": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
@@ -42,16 +48,16 @@
           "pubDate": "Thu, 01 Oct 2026 23:00:06 GMT"
         },
         {
-          "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-          "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-          "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-          "pubDate": "Thu, 01 Oct 2026 23:32:59 GMT"
-        },
-        {
           "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
           "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
           "description": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
           "pubDate": "Thu, 01 Oct 2026 23:00:05 GMT"
+        },
+        {
+          "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+          "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+          "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+          "pubDate": "Thu, 01 Oct 2026 23:32:59 GMT"
         },
         {
           "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
@@ -130,12 +136,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
           "description": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
           "pubDate": "Thu, 01 Oct 2026 07:07:08 GMT"
-        },
-        {
-          "title": "Energy bills are rising by £60 a year - here's how you can bring that down",
-          "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-          "description": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
-          "pubDate": "Thu, 01 Oct 2026 07:08:22 GMT"
         }
       ]
     },
@@ -147,10 +147,76 @@
       "itemCount": 20,
       "items": [
         {
+          "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+          "link": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+          "description": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
+          "pubDate": "Sat, 03 Oct 2026 20:29:07 GMT"
+        },
+        {
+          "title": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
+          "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+          "description": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine’s expanding use of robotic systems is reshaping frontline warfare.",
+          "pubDate": "Sun, 04 Oct 2026 05:00:01 GMT"
+        },
+        {
+          "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+          "link": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+          "description": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.",
+          "pubDate": "Sat, 03 Oct 2026 23:37:23 GMT"
+        },
+        {
+          "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
+          "link": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+          "description": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
+          "pubDate": "Sat, 03 Oct 2026 11:00:01 GMT"
+        },
+        {
+          "title": "FlyDubai plane attack by co-pilot was an attempted &apos;terrorist&apos; act, UAE says",
+          "link": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
+          "description": "The FlyDubai co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.",
+          "pubDate": "Sat, 03 Oct 2026 12:34:59 GMT"
+        },
+        {
+          "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
+          "link": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
+          "description": "Berkshire Hathaway added to its bet on Lennar this week, raising its stake in the homebuilder to 11.2%, although the pace of its buying appears to be slowing.",
+          "pubDate": "Sat, 03 Oct 2026 12:55:31 GMT"
+        },
+        {
+          "title": "Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth",
+          "link": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
+          "description": "Novig's \"Just Sports\" campaign drew backlash from some female athletes but also brought in a rush of trading volume.",
+          "pubDate": "Sat, 03 Oct 2026 13:30:48 GMT"
+        },
+        {
           "title": "America’s data center fight is a preview of what&apos;s to come for the rest of the world",
           "link": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
           "description": "America’s fight over data centers is going global. Communities across Europe and Asia  are pushing back over the rising costs of the AI infrastructure boom.",
-          "pubDate": "Sat, 03 Oct 2026 05:00:01 GMT"
+          "pubDate": "Sat, 03 Oct 2026 12:39:29 GMT"
+        },
+        {
+          "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+          "link": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+          "description": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.",
+          "pubDate": "Sat, 03 Oct 2026 13:12:27 GMT"
+        },
+        {
+          "title": "High-tech vehicles are driving up auto repair costs for shops and consumers",
+          "link": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
+          "description": "Investments in ADAS calibration equipment, computers and software subscriptions can drive up the cost of even a windshield replacement or an oil change.",
+          "pubDate": "Sat, 03 Oct 2026 12:00:01 GMT"
+        },
+        {
+          "title": "High mortgage rates are trapping homeowners in place, and making renovations harder to afford",
+          "link": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
+          "description": "Homeowners are stuck in houses they might have left by now due to the low mortgage rates of the past, and can't even remodel with HELOCs too expensive to tap.",
+          "pubDate": "Sat, 03 Oct 2026 17:57:40 GMT"
+        },
+        {
+          "title": "Private capital is reshaping Hollywood moviemaking",
+          "link": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
+          "description": "As Hollywood's financing structures diversify, private capital is increasingly funding the big screen and changing the types of movies that are being made.",
+          "pubDate": "Sat, 03 Oct 2026 12:00:01 GMT"
         },
         {
           "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
@@ -159,46 +225,28 @@
           "pubDate": "Fri, 02 Oct 2026 17:20:33 GMT"
         },
         {
+          "title": "Top McKinsey executive reveals Asian owner-CEOs&apos; secrets to success",
+          "link": "https://www.cnbc.com/2026/10/03/mckinsey-asian-leaders-success-ambani-mahindra.html",
+          "description": "Gautam Kumra, Asia chairman at consultancy McKinsey & Co., researched the qualities of Asia's best owner-CEOs.",
+          "pubDate": "Sat, 03 Oct 2026 06:00:01 GMT"
+        },
+        {
           "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
           "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
           "description": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.",
           "pubDate": "Fri, 02 Oct 2026 19:25:36 GMT"
         },
         {
-          "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
-          "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-          "description": "The G7 will deploy 100 million barrels of reserves over the next four months, the group's leaders said in a joint statement.",
-          "pubDate": "Fri, 02 Oct 2026 20:04:42 GMT"
+          "title": "Gen Alpha kids are earning money. Here&apos;s how parents can help them save and invest",
+          "link": "https://www.cnbc.com/2026/10/03/investing-for-kids-accounts.html",
+          "description": "Gen Alpha kids are earning and spending their own money. Parents can use savings, investing and education tools to build healthy habits.",
+          "pubDate": "Sat, 03 Oct 2026 14:00:01 GMT"
         },
         {
-          "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
-          "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
-          "description": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.",
-          "pubDate": "Fri, 02 Oct 2026 19:19:15 GMT"
-        },
-        {
-          "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
-          "link": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
-          "description": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
-          "pubDate": "Fri, 02 Oct 2026 22:38:49 GMT"
-        },
-        {
-          "title": "Men are losing ground in the labor market. Here&apos;s why",
-          "link": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
-          "description": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
-          "pubDate": "Fri, 02 Oct 2026 17:38:59 GMT"
-        },
-        {
-          "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
-          "link": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
-          "description": "The confirmation comes after the Fed's inspector general report that said there were no grounds for a criminal referral over the mismanaged headquarters renovation.",
-          "pubDate": "Fri, 02 Oct 2026 22:01:17 GMT"
-        },
-        {
-          "title": "Anthropic to invest $100 million to train AI engineer talent",
-          "link": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
-          "description": "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.",
-          "pubDate": "Fri, 02 Oct 2026 21:03:06 GMT"
+          "title": "How Nvidia, Micron and a surprising jobs report drove last week&apos;s stock action",
+          "link": "https://www.cnbc.com/2026/10/03/how-nvidia-micron-and-a-surprising-jobs-report-drove-last-weeks-stock-action.html",
+          "description": "Here's a closer look at the three developments that drove the action in our portfolio last week.",
+          "pubDate": "Sat, 03 Oct 2026 15:06:10 GMT"
         },
         {
           "title": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
@@ -213,58 +261,10 @@
           "pubDate": "Fri, 02 Oct 2026 16:26:57 GMT"
         },
         {
-          "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-          "link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
-          "description": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
-          "pubDate": "Fri, 02 Oct 2026 13:45:58 GMT"
-        },
-        {
-          "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
-          "link": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
-          "description": "Eli Lilly and Novo are developing new amylin drugs that serve as another biological lever to pull in treating obesity and diabetes.",
-          "pubDate": "Fri, 02 Oct 2026 17:55:26 GMT"
-        },
-        {
-          "title": "American starts letting customers mix cash and miles for tickets",
-          "link": "https://www.cnbc.com/2026/10/02/american-airlines-tickets-cash-miles.html",
-          "description": "American is joining other carriers that allow customers to book with a combination of points and miles.",
-          "pubDate": "Fri, 02 Oct 2026 16:49:55 GMT"
-        },
-        {
-          "title": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
-          "link": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
-          "description": "It's a full-circle moment for a company that has undergone two major acquisitions within the last 18 months.",
-          "pubDate": "Fri, 02 Oct 2026 18:31:49 GMT"
-        },
-        {
-          "title": "10-year Treasury yield ticks higher despite weaker-than-expected jobs report",
-          "link": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
-          "description": "U.S. Treasury yields rose despite a September jobs report came in much weaker than expected.",
-          "pubDate": "Fri, 02 Oct 2026 20:03:56 GMT"
-        },
-        {
-          "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
-          "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
-          "description": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
-          "pubDate": "Fri, 02 Oct 2026 13:29:27 GMT"
-        },
-        {
-          "title": "The sector in the cross hairs of the bond sell-off looks poised for a bounce, says Mike Khouw",
-          "link": "https://www.cnbc.com/2026/10/02/the-sector-in-the-cross-hairs-of-the-bond-sell-off-looks-poised-for-a-bounce-says-mike-khouw.html",
-          "description": "An interesting tug of war is happening in one of the market's hottest sectors: utilities.",
-          "pubDate": "Fri, 02 Oct 2026 15:34:28 GMT"
-        },
-        {
-          "title": "Nike shares tumble after weak revenue outlook and layoff plans underway",
-          "link": "https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
-          "description": "Nike's shares dropped for a second straight day of declines after it reported falling revenue and plans to lay off staff.",
-          "pubDate": "Fri, 02 Oct 2026 13:43:56 GMT"
-        },
-        {
-          "title": "How AI is redefining Wall Street jobs — and boosting demand for this new &apos;hottest skill&apos; by 1,721%",
-          "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-          "description": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-          "pubDate": "Fri, 02 Oct 2026 18:49:03 GMT"
+          "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
+          "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+          "description": "The G7 will deploy 100 million barrels of reserves over the next four months, the group's leaders said in a joint statement.",
+          "pubDate": "Fri, 02 Oct 2026 20:04:42 GMT"
         }
       ]
     },
@@ -273,61 +273,55 @@
       "category": "Finance",
       "region": "international",
       "url": "https://www.ft.com/rss/home",
-      "itemCount": 9,
+      "itemCount": 8,
       "items": [
         {
-          "title": "US backs down from fuel export ban threat as G7 agrees to release 100mn barrels",
-          "link": "https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1",
-          "description": "Donald Trump calls decision by European nations to release diesel from strategic reserves a ‘great thing’",
-          "pubDate": "Fri, 02 Oct 2026 20:31:49 GMT"
+          "title": "Wall Street’s IPO fervour cools on tepid demand and valuation worries",
+          "link": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1",
+          "description": "Several listings have been paused in recent weeks as delay in Anthropic’s public debut sends a chill through markets",
+          "pubDate": "Sun, 04 Oct 2026 04:01:05 GMT"
         },
         {
-          "title": "China, America and the new Great Game",
-          "link": "https://www.ft.com/content/8869caf9-3cd1-4300-aeb3-828a4d9da4f9?syn-25a6b1a6=1",
-          "description": "Which power will prevail? As in the 19th-century struggle between the UK and Russia, the answer may depend on forces beyond either’s control",
-          "pubDate": "Sat, 03 Oct 2026 04:00:30 GMT"
+          "title": "Dear all: how bosses should talk to the troops",
+          "link": "https://www.ft.com/content/de27e183-c8ab-4098-946b-7c1faf5a3d8a?syn-25a6b1a6=1",
+          "description": "And what they should always try to avoid",
+          "pubDate": "Sun, 04 Oct 2026 04:00:07 GMT"
         },
         {
-          "title": "A Londoner’s guide to hating London",
-          "link": "https://www.ft.com/content/c8407fb6-6134-4b2c-a428-d3a998873383",
-          "description": "Complaining about the capital is a national pastime — for good reason",
-          "pubDate": "Sat, 03 Oct 2026 04:00:10 GMT"
+          "title": "Today’s youth would like to give back modernity, thank you very much",
+          "link": "https://www.ft.com/content/471ee22e-af95-4ada-a272-a6a876bc5234?syn-25a6b1a6=1",
+          "description": "Has any previous generation been so down on the present?",
+          "pubDate": "Sun, 04 Oct 2026 04:00:15 GMT"
         },
         {
-          "title": "John Maynard Keynes and the search for the good life",
-          "link": "https://www.ft.com/content/c13f9f08-2cb6-4605-893a-fd2199e4bc44",
-          "description": "Playwright James Graham on an economist who asked the right questions in bad times — and why he matters so much today",
-          "pubDate": "Sat, 03 Oct 2026 04:00:39 GMT"
+          "title": "Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight",
+          "link": "https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1",
+          "description": "Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit",
+          "pubDate": "Sat, 03 Oct 2026 17:21:11 GMT"
         },
         {
-          "title": "US economy adds just 29,000 jobs in September as hiring slows sharply",
-          "link": "https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1",
-          "description": "Figure renews market debate about outlook for further Fed rate rises",
-          "pubDate": "Fri, 02 Oct 2026 20:05:51 GMT"
+          "title": "China closes hundreds of banks to bolster financial system",
+          "link": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
+          "description": "More than 670 lenders, a record, shut down last year as Fitch says smaller players remain sector’s weakest part",
+          "pubDate": "Sun, 04 Oct 2026 02:00:04 GMT"
         },
         {
-          "title": "Eurozone inflation hits three-year high of 3.8%",
-          "link": "https://www.ft.com/content/6394fdc7-5fa5-4ec3-8bde-52633acd2b57?syn-25a6b1a6=1",
-          "description": "Consumer prices rose at higher rate than expected in September",
-          "pubDate": "Fri, 02 Oct 2026 15:45:53 GMT"
+          "title": "Germany’s Merz arrives in Kyiv to show support for Ukraine",
+          "link": "https://www.ft.com/content/b7bd5c45-1c32-4984-af37-21746a02c4ef?syn-25a6b1a6=1",
+          "description": "Trip comes as Russia expands its air war against Ukraine ahead of winter and escalates ‘hybrid’ attacks on Europe",
+          "pubDate": "Sun, 04 Oct 2026 06:12:15 GMT"
         },
         {
-          "title": "Low-profile hedge fund smashes record for New York office rent",
-          "link": "https://www.ft.com/content/17762862-bdb7-44d0-a0d0-d2285bedbd2d?syn-25a6b1a6=1",
-          "description": "Castle Hook will pay up to $21.2mn a year for 53,000 sq ft of penthouse space at developer Related’s new Madison Avenue tower",
-          "pubDate": "Fri, 02 Oct 2026 18:31:10 GMT"
+          "title": "Bosnia elections pit EU hopes against Russian influence",
+          "link": "https://www.ft.com/content/3401e229-1728-4a33-82d5-e52a4cd993c1?syn-25a6b1a6=1",
+          "description": "Serbian nationalists find ready support from Moscow and a US eager for deals",
+          "pubDate": "Sun, 04 Oct 2026 04:00:15 GMT"
         },
         {
-          "title": "Arctic sea routes boom as Gulf war and global warming divert shipping",
-          "link": "https://www.ft.com/content/2e0eb698-d4d3-4bcc-927a-2997df7709be?syn-25a6b1a6=1",
-          "description": "Transits via Northern Sea Route quadruple as melting ice makes journey more passable and vessels avoid the Middle East",
-          "pubDate": "Fri, 02 Oct 2026 20:00:05 GMT"
-        },
-        {
-          "title": "US justice department will not reopen criminal probe of Fed’s Jay Powell",
-          "link": "https://www.ft.com/content/887e90a5-8456-4eba-9ed0-205c873d4846?syn-25a6b1a6=1",
-          "description": "US attorney-general Todd Blanche says not having ‘any oversight’ of the central bank’s $2.5bn renovation project ‘isn’t necessarily a crime’",
-          "pubDate": "Fri, 02 Oct 2026 21:03:19 GMT"
+          "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
+          "link": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
+          "description": "DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank’s ‘third-party infrastructure arm’ after $4bn takeover",
+          "pubDate": "Sun, 04 Oct 2026 04:00:07 GMT"
         }
       ]
     },
@@ -339,124 +333,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "IMF Approves Bolivia Loan Deal to Support Paz’s Economic Reforms",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-03/imf-approves-bolivia-loan-deal-to-support-paz-s-economic-reforms",
-          "description": "The International Monetary Fund approved a $1.9 billion financing program for Bolivia, including an immediate $214 million disbursement, in a package designed to help President Rodrigo Paz reverse a sharp economic slump.",
-          "pubDate": "Sat, 03 Oct 2026 00:55:49 GMT"
+          "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
+          "description": "Bankers in Hong Kong skipped the summer break as an artificial intelligence-fueled rush for capital sent share sales to a record, defying a bruising selloff in the city’s stocks.",
+          "pubDate": "Sun, 04 Oct 2026 00:00:00 GMT"
         },
         {
-          "title": "Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video",
-          "description": "This week, National Economic Council Director Kevin Hassett says AI’s productivity boost may be much larger than official economic data currently indicate. And, AI companies are largely in agreement that the technology needs guardrails, but the ethical implications of AI could also create new opportunities for liberal arts education. Plus, America is rebuilding a critical minerals supply chain after decades of Chinese dominance. Later, America’s shrinking college-age population is forcing univer",
-          "pubDate": "Fri, 02 Oct 2026 23:12:45 GMT"
+          "title": "Lula, Bolsonaro in Tight Race as Brazil Prepares to Vote",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-03/lula-bolsonaro-in-dead-heat-as-brazil-prepares-to-vote",
+          "description": "President Luiz Inácio Lula da Silva and right-wing challenger Flávio Bolsonaro remain locked in a tight race as Brazil prepares to vote in Sunday’s election, according to three new polls.",
+          "pubDate": "Sat, 03 Oct 2026 22:35:24 GMT"
         },
         {
-          "title": "Stocks Rise As Jobs Report Eases Fed-Hike Worries",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-02/the-close-10-2-2026-video",
-          "description": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Chris Phelan CEA Chairman, Robert Reich, Former US Labor Secretary, Alex Straton, Morgan Stanley Equity Research Managing Director,  Gary Marcus, Robust AI Inc. CEO&Founder, Veronica Willis is an Investment Strategy Analyst, Dr Cecilia Elena Rouse, The President of Brookings Institution, Atsi Sheth, Moody’s Chief Credit Offi",
-          "pubDate": "Fri, 02 Oct 2026 23:45:17 GMT"
+          "title": "Mexico Says Its Troops Sent to Border in Conjunction With US",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-03/mexico-says-its-troops-sent-to-border-in-conjunction-with-us",
+          "description": "The US and Mexico have jointly deployed military personnel in a border area in Texas as part of “mirror operations,” the Mexican government said Saturday.",
+          "pubDate": "Sat, 03 Oct 2026 23:24:07 GMT"
         },
         {
-          "title": "Former CEA Chair on Jobs Report, GDP Growth",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-02/former-cea-chair-on-jobs-report-gdp-growth-video",
-          "description": "Former CEA Chair Cecilia Rouse believes that we may be 'entering a new normal' of the jobs report, with the break even potentially settling in around 50,000. She speaks with Romaine Bostick on Bloomberg's \"The Close.\" (Source: Bloomberg)",
-          "pubDate": "Fri, 02 Oct 2026 22:17:57 GMT"
+          "title": "Paramount Debt Drop Spells Trouble for Borrowers: Credit Weekly",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-03/paramount-debt-drop-spells-trouble-for-borrowers-credit-weekly",
+          "description": "Borrowing is getting harder for companies.",
+          "pubDate": "Sat, 03 Oct 2026 19:00:00 GMT"
         },
         {
-          "title": "Morgan Stanley's Nike Analyst on quarterly earnings",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-02/morgan-stanley-s-nike-analyst-on-quarterly-earnings-video",
-          "description": "Morgan Stanley's Alex Straton sees Nike sales and earnings softening as the company deals with inventory gluts in North America and China. She speaks with Romaine Bostick on Bloomberg's \"The Close.\" (Source: Bloomberg)",
-          "pubDate": "Fri, 02 Oct 2026 21:55:08 GMT"
+          "title": "Bloomberg This Weekend 10/3/2026",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-03/bloomberg-this-weekend-10-3-2026-video",
+          "description": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by The Atlantic Staff Writer Vivian Salama, “The Profiler” Online Job Scam Hunter Jay Jones, UMich Professor of Public Policy and Economics Justin Wolfers and Fmr. Deputy Assistant Secretary of Defense for the Middle East and The Washington Institute Research Director for Near East Policy Dana Stroul.",
+          "pubDate": "Sat, 03 Oct 2026 18:34:11 GMT"
         },
         {
-          "title": "Pam Bondi’s Secret DOJ Email Address Revealed",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-02/pam-bondi-s-secret-doj-email-address-revealed-video",
-          "description": "A FOIA request has uncovered another little-known feature of life at the top of the Justice Department: attorneys general have used alternate email addresses to conduct government business for over a decade. This time around, Bloomberg News Senior Investigative Reporter Jason Leopold obtained the alias used by former Attorney General Pam Bondi.\n\nThe discovery raises broader questions about government transparency and access to public records. Leopold explains how alternate email addresses can ma",
-          "pubDate": "Fri, 02 Oct 2026 21:47:42 GMT"
+          "title": "UAE Probe Labels FlyDubai Cockpit Ax Attack a Terrorist Act",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-03/uae-says-flydubai-co-pilot-planned-terrorist-operation",
+          "description": "A United Arab Emirates investigation of the near-catastrophic FlyDubai flight said the co-pilot attempted “to carry out a terrorist act” as more details emerged about what happened in the cockpit.",
+          "pubDate": "Sat, 03 Oct 2026 07:06:28 GMT"
         },
         {
-          "title": "EM Assets Find Relief as US Jobs Data Eases Rate Fears",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-02/em-assets-find-relief-as-us-jobs-data-eases-rate-fears-video",
-          "description": "An index tracking emerging-market currencies climbed to a session high after weaker-than-expected US jobs data prompted traders to scale back bets on another Federal Reserve interest-rate hike this month. Nonfarm payrolls increased by 29,000 in September after downward revisions to the prior two months, according to Bureau of Labor Statistics data released Friday. The figure missed all estimates in a Bloomberg survey of economists. For more, we speak with Anisha Goodly, Fixed Income Managing Dir",
-          "pubDate": "Fri, 02 Oct 2026 21:42:53 GMT"
+          "title": "Pakistan, India Trade Accusations Over Deaths at Border",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-03/pakistan-summons-indian-diplomat-over-civilian-deaths-at-border",
+          "description": "Pakistan said it summoned India’s chargé d’affaires on Saturday to protest against the killing of two Pakistani civilians by India’s Border Security Force.",
+          "pubDate": "Sat, 03 Oct 2026 11:50:43 GMT"
         },
         {
-          "title": "CEA Chairman: Inflation coming down sufficiently fast",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-02/cea-chairman-inflation-coming-down-sufficiently-fast-video",
-          "description": "Chris Phelan CEA Chairman, sees inflation clearly easing and thinks it's doing so quickly enough. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-          "pubDate": "Fri, 02 Oct 2026 21:40:32 GMT"
+          "title": "Tiny Hotels Are Luxury Travel’s Next Big Thing",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-03/tiny-hotels-are-luxury-travel-s-next-big-thing-video",
+          "description": "Bloomberg Pursuits reporter Sarah Rappaport tells Bloomberg This Weekend that luxury travelers are increasingly seeking tiny hotels with as few as one to six rooms, combining the privacy of a villa with personalized high-end hotel service. Speaking with hosts David Gura and Christina Ruffini, Rappaport says the trend is spreading across Europe and the US as travelers seek exclusivity, fewer crowds and unusual experiences in restaurants, museums and historic properties. (Source: Bloomberg)",
+          "pubDate": "Sat, 03 Oct 2026 16:35:28 GMT"
         },
         {
-          "title": "Lukoil Loses Bid to Dismiss Suit Over Franchisee Fuel Pricing",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-02/lukoil-loses-bid-to-dismiss-suit-over-franchisee-fuel-pricing",
-          "description": "The owners of almost 30 Lukoil PJSC filling stations in Pennsylvania and New Jersey can proceed with a lawsuit accusing the Russian oil giant of overcharging franchisees.",
-          "pubDate": "Fri, 02 Oct 2026 21:36:47 GMT"
+          "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-03/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+          "description": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
+          "pubDate": "Sat, 03 Oct 2026 16:28:40 GMT"
         },
         {
-          "title": "Former Labor Secretary Rob Reich on Sept. Jobs Report",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-02/former-labor-secretary-rob-reich-on-sept-jobs-report-video",
-          "description": "Robert Reich, former US Labor Secretary, discusses persistent inflation, very slow hiring, and wages that trail prices. He speaks with Romaine Bostick on Bloomberg's \"The Close.\" (Source: Bloomberg)",
-          "pubDate": "Fri, 02 Oct 2026 21:32:22 GMT"
+          "title": "By The Way: Headlines You May Have Missed",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-03/by-the-way-headlines-you-may-have-missed",
+          "description": "People starting to speak like AI chatbots, AI anxiety spilling into therapists' offices, NYC's AI office boom a bust for young job hunters and Tinder rolls out group dating for younger users. Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
+          "pubDate": "Sat, 03 Oct 2026 16:27:47 GMT"
         },
         {
-          "title": "CME Shelves Plans for 24/7 Oil Contract Amid Industry Qualms",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-02/cme-shelves-plans-for-24-7-oil-contract-after-industry-pushback",
-          "description": "CME Group Inc. is shelving plans to launch a round-the-clock oil contract following industry pushback.",
-          "pubDate": "Fri, 02 Oct 2026 20:34:44 GMT"
+          "title": "US Military Buildup Raises Iran Escalation Risk",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-03/us-military-buildup-raises-iran-escalation-risk-video",
+          "description": "Washington Institute research director Dana Stroul tells Bloomberg This Weekend that the US military buildup in the Middle East, including a third aircraft carrier, is expanding President Donald Trump’s options as diplomacy with Iran remains stalled and Washington weighs its approach to the Houthis in Yemen. Speaking with hosts David Gura and Christina Ruffini, Stroul says US economic sanctions and the naval blockade are putting significant pressure on Iran but have not yet produced major conces",
+          "pubDate": "Sat, 03 Oct 2026 15:25:03 GMT"
         },
         {
-          "title": "Using Decision Science in Investing | Masters in Business with Omar Aguilar",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-02/using-decision-science-in-investing-video",
-          "description": "Barry speaks with Omar Aguilar, CEO and CIO of Schwab Asset Management. They discuss his time at Financial Engines, where he worked under Nobel laureate William Sharpe before joining Schwab Asset Management in 2011. They discuss how his doctorate in decision sciences helps him build trust with clients and push them toward their goals. They also discuss how he built Schwab Asset Management to over a trillion dollars and how he is using his background to help navigate his clients through the curre",
-          "pubDate": "Fri, 02 Oct 2026 21:00:15 GMT"
+          "title": "Fake Jobs Put Job Seekers at Risk of Identity Theft",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-03/fake-jobs-put-job-seekers-at-risk-of-identity-theft-video",
+          "description": "Fraud investigator Jay Jones, known online as “The Profiler,” tells Bloomberg This Weekend that AI is helping scammers create increasingly convincing fake recruiters and job listings that can lead victims to surrender money and sensitive personal information. Speaking with hosts David Gura and Christina Ruffini, Jones says he has helped remove more than 58,000 fraudulent job listings and advises applicants to verify company websites, domain histories and where application links lead before shari",
+          "pubDate": "Sat, 03 Oct 2026 15:15:35 GMT"
         },
         {
-          "title": "Dollar Falls as Soft Job Data Roils Timing of Fed Rate-Hike Bets",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-02/dollar-falls-as-traders-pare-fed-hike-bets-after-soft-jobs-data",
-          "description": "The dollar posted its worst day in a month on Friday after a report showed the US added fewer jobs than expected in September, briefly leading traders to waver on bets the Federal Reserve will raise interest rates again this year.",
-          "pubDate": "Fri, 02 Oct 2026 13:00:28 GMT"
+          "title": "Egypt Flagged Hamas Threat Before Oct. 7",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-03/egypt-flagged-hamas-threat-before-oct-7-video",
+          "description": "Atlantic Staff Writer Vivian Salama tells Bloomberg This Weekend that Egypt’s then-intelligence chief Abbas Kamel made an unusual 67-minute trip to Israel less than two weeks before the Oct. 7, 2023, attack to warn Israeli officials that intelligence indicated Hamas was mobilizing for a major assault. Speaking with hosts David Gura and Christina Ruffini, Salama says Egypt was among several regional governments that raised concerns before the attack, while questions remain about who received the ",
+          "pubDate": "Sat, 03 Oct 2026 15:09:17 GMT"
         },
         {
-          "title": "Wall Street Tries to Live With 5% Yields as Market Cracks Grow",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-02/wall-street-tries-to-live-with-5-yields-as-market-cracks-grow",
-          "description": "Wall Street has spent weeks trying to make peace with the great bond selloff. Friday offered some short-lived relief — along with a warning about the damage from stubbornly high yields across investment strategies of all stripes.",
-          "pubDate": "Fri, 02 Oct 2026 20:40:38 GMT"
+          "title": "Why Philosophers Are Worried About AI",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-03/why-philosophers-are-worried-about-ai-video",
+          "description": "Debate over artificial intelligence has largely focused on whether machines could become too powerful. Harvard philosopher Michael Sandel argues that a more immediate question is whether AI changes humans themselves: weakening authentic connection, independent thought and the ways people understand meaning and purpose. Universities are already confronting that challenge as students increasingly use AI to learn and communicate, while Vanderbilt University Chairman Daniel Diermeier argues that tec",
+          "pubDate": "Sat, 03 Oct 2026 14:03:58 GMT"
         },
         {
-          "title": "Treasury Yields Climb, Adding to Weekly Gains | Closing Bell",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-02/treasury-yields-climb-add-to-weekly-gains-closing-bell-video",
-          "description": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-          "pubDate": "Fri, 02 Oct 2026 20:37:40 GMT"
+          "title": "Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-03/larry-ellison-risk-exposed-by-paramount-and-oracle-debt-binges",
+          "description": "As Paramount Skydance Corp. and Oracle Corp. vault into the ranks of corporate America’s biggest borrowers, their links to the same man — billionaire Larry Ellison — are starting to stir angst on Wall Street.",
+          "pubDate": "Sat, 03 Oct 2026 13:00:00 GMT"
         },
         {
-          "title": "FAA Says Boeing 737 Max Computer Glitch Is Not Safety Issue",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-02/faa-says-737-max-computer-glitch-is-not-safety-issue-video",
-          "description": "A Federal Aviation Administration review board says a software issue in certain Boeing 737 Max flight computers “is not a safety concern.\" Boeing shares rose on the news. George Ferguson of Bloomberg Intelligence has more. (Source: Bloomberg)",
-          "pubDate": "Fri, 02 Oct 2026 20:36:17 GMT"
+          "title": "Can AI Outrun America’s Deficit Problem?",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-03/can-ai-outrun-america-s-deficit-problem",
+          "description": "National Economic Council Director Kevin Hassett argues that the economic benefits of AI may be greater than current data show, comparing today’s dynamics with the early internet era, when improvements in computing were difficult to capture in official statistics.  At the same time, Hassett says reducing the federal workforce can generate budget savings, and he remains optimistic about economic growth in the face of a growing debt burden. He acknowledges that bringing the federal deficit to 3% o",
+          "pubDate": "Sat, 03 Oct 2026 12:03:55 GMT"
         },
         {
-          "title": "Why Robert Reich Is So Worried About Stagflation",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-02/why-robert-reich-is-so-worried-about-stagflation-video",
-          "description": "Robert Reich, former US secretary of labor and UC Berkeley public policy emeritus professor, says what worries him most about the US economy is stagflation. He talks about kitchen table economics heading into the election on \"Bloomberg The Close.\" (Source: Bloomberg)",
-          "pubDate": "Fri, 02 Oct 2026 20:16:55 GMT"
+          "title": "London Gold Body’s Legal Fight Exposes Threat to Bullion Market",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-03/london-gold-body-s-legal-fight-exposes-threat-to-bullion-market",
+          "description": "The industry body that sets the rules for the world’s biggest gold market faces an existential legal battle in a London courtroom next week, in a case that could have far-reaching implications for how the industry polices its supply chain.",
+          "pubDate": "Sat, 03 Oct 2026 10:45:00 GMT"
         },
         {
-          "title": "US Stocks Advance After Cooler-Than-Expected Employment Data",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-02/us-stock-futures-advance-ahead-of-september-payrolls-data",
-          "description": "US stocks rose on Friday as key jobs data came in below expectations, taking pressure off the Federal Reserve to raise interest rates later this month.",
-          "pubDate": "Fri, 02 Oct 2026 11:47:39 GMT"
+          "title": "India Mulls Commodity Derivatives Changes to Boost Liquidity",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-03/india-mulls-commodity-derivatives-changes-to-boost-liquidity",
+          "description": "India’s markets regulator is considering easing position limits for non-agricultural commodity derivatives and changing settlement rules for some farm contracts, as it seeks to deepen trading and attract more genuine hedgers.",
+          "pubDate": "Sat, 03 Oct 2026 09:47:10 GMT"
         },
         {
-          "title": "Hedge Funds Are Rebuilding Short Bets Against Japan’s Yen",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-02/hedge-funds-are-rebuilding-short-bets-against-japan-s-yen",
-          "description": "Hedge funds rebuilt a short wager against the Japanese yen as the currency remains under pressure.",
-          "pubDate": "Fri, 02 Oct 2026 20:10:08 GMT"
+          "title": "Israel’s Supreme Court Overturns Election Ban on Arab Parties",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-03/israel-s-supreme-court-overturns-election-ban-on-arab-parties",
+          "description": "Israel’s highest court unanimously reversed a ban on Arab parties from participating in elections slated for the end of October.",
+          "pubDate": "Sat, 03 Oct 2026 09:44:49 GMT"
         },
         {
-          "title": "Nasdaq 100 Climbs to Record as Jobs Curb Fed Bets: Markets Wrap",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-01/asian-stocks-to-fall-on-oil-rally-bonds-in-focus-markets-wrap",
-          "description": "A slowdown in the US jobs market drove stocks higher on speculation the Federal Reserve won’t be forced to lift rates any time soon.",
-          "pubDate": "Thu, 01 Oct 2026 22:15:32 GMT"
+          "title": "Malaysia Eyes $245 Million Naval Missile System, Star Reports",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-03/malaysia-eyes-245-million-naval-missile-system-star-reports",
+          "description": "Malaysia’s defense minister said the government is considering spending more than 1 billion ringgit ($245 million) on a new naval strike missile system after a deal with Norway collapsed earlier this year, the Star reported.",
+          "pubDate": "Sat, 03 Oct 2026 07:32:16 GMT"
         }
       ]
     },
@@ -597,64 +591,64 @@
       "itemCount": 10,
       "items": [
         {
-          "title": "&#x2018;I don&#x2019;t want to die on the sales floor&#x2019;: I&#x2019;m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-          "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-          "description": "&#x201c;I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).&#x201d;",
-          "pubDate": "Sat, 03 Oct 2026 02:16:00 GMT"
-        },
-        {
-          "title": "Why Western Digital and Seagate are seeing big stock drops today",
-          "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
-          "description": "Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.",
-          "pubDate": "Fri, 02 Oct 2026 22:42:00 GMT"
-        },
-        {
-          "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
-          "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
-          "description": "EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.",
-          "pubDate": "Fri, 02 Oct 2026 22:29:00 GMT"
-        },
-        {
-          "title": "I&#x2019;m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-          "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-          "description": "&#x201c;I have $152,000 in my IRA and Roth accounts.&#x201d;",
-          "pubDate": "Fri, 02 Oct 2026 22:10:00 GMT"
+          "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
+          "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+          "description": "Debt among older Americans is rising, both in terms of the number of older households carrying debt and the amount borrowed.",
+          "pubDate": "Sun, 04 Oct 2026 00:02:00 GMT"
         },
         {
           "title": "Falling wages, soaring energy prices and inflation: It&#x2019;s beginning to look a lot like the 1970s",
           "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
           "description": "Is it time to dust off the financial playbook from that dismal decade?",
-          "pubDate": "Fri, 02 Oct 2026 21:54:00 GMT"
-        },
-        {
-          "title": "Why mixing politics with your stock portfolio might be costing you money",
-          "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
-          "description": "Data shows that partisan ETFs result in higher fees and lower market returns",
-          "pubDate": "Fri, 02 Oct 2026 20:43:00 GMT"
-        },
-        {
-          "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
-          "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
-          "description": "The Vatican has laid a moral blueprint for the technology, with Pope Leo maintaining that &#x201c;algorithms lack the spark of humanity.&#x201d;",
-          "pubDate": "Fri, 02 Oct 2026 20:40:00 GMT"
+          "pubDate": "Sat, 03 Oct 2026 23:58:00 GMT"
         },
         {
           "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
           "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
           "description": "&#x201c;For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.&#x201d;",
-          "pubDate": "Fri, 02 Oct 2026 20:30:00 GMT"
+          "pubDate": "Sat, 03 Oct 2026 20:00:00 GMT"
         },
         {
-          "title": "Europe&#x2019;s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-          "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-          "description": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by as much as 5%.",
-          "pubDate": "Fri, 02 Oct 2026 20:26:00 GMT"
+          "title": "&#x2018;I don&#x2019;t want to die on the sales floor&#x2019;: I&#x2019;m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+          "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+          "description": "&#x201c;I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).&#x201d;",
+          "pubDate": "Sat, 03 Oct 2026 19:30:00 GMT"
         },
         {
-          "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
-          "link": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
-          "description": "As hesitant buyers drive home prices down, these are the places with the most price cuts and the biggest markdowns.",
-          "pubDate": "Fri, 02 Oct 2026 20:26:00 GMT"
+          "title": "These bond strategies can help you get a safe 5% return on your cash",
+          "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+          "description": "With U.S. Treasury yields on the rise, financial planners say they&#x2019;re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
+          "pubDate": "Sat, 03 Oct 2026 18:49:00 GMT"
+        },
+        {
+          "title": "&#x2018;I want to make her proud&#x2019;: My mother, a divorc&#xe9;e, died and I&#x2019;m her executor. Do I need to file for probate?",
+          "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+          "description": "&#x201c;The only debts were utility and credit-card bills, which we will pay off.&#x201d;",
+          "pubDate": "Sat, 03 Oct 2026 18:30:00 GMT"
+        },
+        {
+          "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
+          "link": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
+          "description": "There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join.",
+          "pubDate": "Sat, 03 Oct 2026 17:24:00 GMT"
+        },
+        {
+          "title": "Switching jobs to get higher pay works best in these industries",
+          "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
+          "description": "Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth.",
+          "pubDate": "Sat, 03 Oct 2026 16:42:00 GMT"
+        },
+        {
+          "title": "&#x2018;I have $400,000 in equity&#x2019;: I&#x2019;m 80. Should I sell my house because of dangerous stairs &#x2014; or spend thousands renovating?",
+          "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+          "description": "&#x201c;Generally, the advice I&#x2019;ve read says not to sell because I have a low-interest-rate mortgage.&#x201d;",
+          "pubDate": "Sat, 03 Oct 2026 16:00:00 GMT"
+        },
+        {
+          "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
+          "link": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
+          "description": "The Points Guy&#x2019;s Brian Kelly gave me a crash course in annual fees and redemptions to offset rising travel costs",
+          "pubDate": "Sat, 03 Oct 2026 15:42:00 GMT"
         }
       ]
     },
@@ -795,124 +789,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "G7打响“油价降温战”!一亿桶石油储备释放叠加特朗普放弃禁运，全球通胀迎来关键减压阀",
-          "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-03/doc-initwzsp5057993.shtml",
-          "description": " 美国总统唐纳德·特朗普表示，在七国集团及其合作伙伴同意释放部分应急燃料储备、以遏制价格飙升之后，他不会宣布单方面禁止美国柴油出口。",
-          "pubDate": "1790987701"
+          "title": "OpenAI安全员工离职批评公司文化：更强AI已不适合“边发布边修补”",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5489757.shtml",
+          "description": "OpenAI安全员工David Robinson宣布离职，并公开批评公司在快速推进前沿模型开发时，没有为安全研究留下足够空间。他认为，随着AI系统能力不断增强，行业过去依赖“先部署...",
+          "pubDate": "1791095731"
         },
         {
-          "title": "苹果确认iPhone 18 Pro Max存在AT&T网络故障 受影响用户需换机",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6761318.shtml",
-          "description": " 苹果公司表示，近期升级至iPhone 18 Pro Max的美国电话电报公司（AT&amp;T）客户中，有“少数”用户遇到故障导致手机失去蜂窝网络服务，从而需要更换设备。",
-          "pubDate": "1790982072"
+          "title": "伊朗央行投放20亿美元仍未止跌，里亚尔再创历史新低",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5488648.shtml",
+          "description": "伊朗里亚尔周六继续大幅贬值，即使央行宣布通过国有银行向市场投放最多20亿美元外汇，也未能阻止汇率进一步创下历史新低。自由市场数据显示，美元兑里亚尔升至约268...",
+          "pubDate": "1791095424"
         },
         {
-          "title": "美债收益率居高不下！高借贷成本持续冲击美国经济 AI投资热潮与实体经济表现分化加剧",
-          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-03/doc-initwvkr5157670.shtml",
-          "description": "持续数周的美国国债抛售潮令华尔街面临新的挑战。尽管周五公布的美国9月就业报告意外疲软，一度推动美债收益率回落、美股反弹，债券市场的涨势未能持续。",
-          "pubDate": "1790982000"
+          "title": "花旗解释家装股为何跑输：高利率压住需求，但长期维修逻辑仍在",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7189236.shtml",
+          "description": "花旗表示，美国2026年家装行业和相关股票持续跑输，主要受到利率、能源成本、住房可负担性以及地缘政治不确定性的共同压制。该机构在参加HIRI Home Improvement Insights...",
+          "pubDate": "1791095241"
         },
         {
-          "title": "日本央行加息仍难提振日元 对冲基金重新建立空头押注 美元多头仓位持续增加",
-          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-03/doc-initwvkt6762636.shtml",
-          "description": "尽管日本央行上个月如期加息，由于其政策立场未能达到市场预期的鹰派程度，加之美日利差仍然显著，日元持续面临贬值压力。美国商品期货交易委员会（CFTC）最新数据显示...",
-          "pubDate": "1790982000"
+          "title": "伊朗表示已准备好“既打又谈”",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7189125.shtml",
+          "description": " 伊朗议会议长兼对美谈判首席代表穆罕默德·巴盖尔·加利巴夫称，伊朗的策略是“既不盲目乐观，也不畏惧恐吓”，坚持“既打又谈”。",
+          "pubDate": "1791095227"
         },
         {
-          "title": "沃什淡化利率前瞻性指引 美联储两位高官讲话仍牵动市场 10月加息预期大幅降温",
-          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-03/doc-initwvkr5157646.shtml",
-          "description": "尽管美联储主席沃什已明确表示，不希望通过前瞻性指引向市场释放明确的利率路径信号，美联储两位高级官员本周的讲话仍然显著影响了投资者预期。",
-          "pubDate": "1790982000"
+          "title": "胡塞武装称袭击利雅得附近沙特阿美设施，也门战事同步升级",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7185053.shtml",
+          "description": "也门胡塞武装称，其使用弹道导弹和无人机袭击了利雅得附近一处沙特阿美石油设施，并称袭击引发火灾。现场目击者当天看到该设施附近出现大火和大量浓烟，但截至目前...",
+          "pubDate": "1791094852"
         },
         {
-          "title": "克利夫兰联储行长：美联储下次会前有时间权衡更多数据",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkm4176517.shtml",
-          "description": "克利夫兰联邦储备银行行长贝丝·哈马克表示，决策层在10月下旬再次召开议息会议之前有大量经济数据要考虑。 “我们在月底的会议召开之前还会有大量的信息...",
-          "pubDate": "1790981997"
+          "title": "默茨访乌带来13.5亿欧元援助，德乌拟敲定无人机和远程武器联合生产协议",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5484485.shtml",
+          "description": "德国总理默茨周日抵达基辅，准备宣布新一轮对乌军事和能源援助，并推动德国与乌克兰敲定无人机、导弹及相关软件的联合生产协议。",
+          "pubDate": "1791094736"
         },
         {
-          "title": "高盛据悉助客户早期布局SpaceX 上市后斩获数亿美元奖励费",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkr5154728.shtml",
-          "description": " 高盛的银行家在6月操办SpaceX轰动市场的首次公开募股（IPO）时赚取了巨额费用，但与此次上市相关的一笔可观收益在数年前就已埋下伏笔。",
-          "pubDate": "1790981593"
+          "title": "BMO上调埃森哲目标价至235美元：AI订单在扩张，但长期是否利好IT服务仍存疑",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5483618.shtml",
+          "description": "BMO Capital将埃森哲目标价从200美元上调至235美元，同时维持“与大盘一致”评级。该机构认为，公司最新季度营收和订单均好于预期，2027财年收入指引也大致符合预期...",
+          "pubDate": "1791094619"
         },
         {
-          "title": "海湾局势叠加全球变暖，北极航运热度飙升",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkp0945772.shtml",
-          "description": "通过北极航运的规模已达到创纪录水平。随着海冰融化，以及全球关键航运咽喉要道面临压力，船东正寻求替代航线。 据劳氏船级社旗下的 Lloyd’s List Intelligence 数据...",
-          "pubDate": "1790981458"
+          "title": "William Blair维持特斯拉“与大盘一致”：交付超预期，但高估值限制上行空间",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5482617.shtml",
+          "description": "William Blair在特斯拉公布强于预期的三季度交付数据后，维持对公司股票的“与大盘一致”评级。该机构认为，汽车交付表现明显好于市场预期...",
+          "pubDate": "1791094477"
         },
         {
-          "title": "10月3日隔夜要闻：美股收涨 燃料价格大跌 金价走低 美国就业增长逊于预期",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkr5147785.shtml",
-          "description": "市场 10月3日收盘：美股周五收涨 就业数据走弱提振市场 10月3日美股成交前20：英伟达股价周五创下四个多月来的首个纪录新高 特斯拉第三季度交付量超预期...",
-          "pubDate": "1790979679"
+          "title": "特斯拉三季度交付超预期，但Oppenheimer仍维持“与大盘一致”评级",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5482154.shtml",
+          "description": " 特斯拉公布强于预期的三季度交付数据后，Oppenheimer仍维持对公司股票的“与大盘一致”评级，没有因销量超预期进一步转向看多。",
+          "pubDate": "1791094425"
         },
         {
-          "title": "10月3日美股成交前20：英伟达股价周五创下四个多月来的首个纪录新高 特斯拉第三季度交付量超预期",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6749330.shtml",
-          "description": "周五美股成交额第2名英伟达收涨1.34%，成交317.84亿美元。 英伟达宣布，DGX SPARK 64GB配置将于本月起通过主要合作伙伴推出。该设备可在本地运行最高1000亿参数的AI模型。",
-          "pubDate": "1790978830"
+          "title": "超强厄尔尼诺刺激 这品种价格创9年新高！",
+          "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-04/doc-initzvpm7152103.shtml",
+          "description": " 9月30日收盘，沪胶主力合约报收于20095元/吨，相比前一交易日，涨幅5.54%。这是2017年3月以来，沪胶主力合约价格首次突破2万元/吨。",
+          "pubDate": "1791090540"
         },
         {
-          "title": "七国集团同意释放紧急储备后 特朗普称美国不会禁止柴油出口",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkp0923128.shtml",
-          "description": " 美国总统唐纳德·特朗普表示，他不会禁止美国柴油出口。此前，七国集团（G7）及其合作伙伴同意释放部分紧急燃料储备，以压低飙升的价格。",
-          "pubDate": "1790977811"
+          "title": "贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧",
+          "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-04/doc-initzrfn0452363.shtml",
+          "description": " 美国财政部长贝森特为近期国债收益率攀升进行辩护，并对人工智能泡沫论予以驳斥，同时暗示美国政府未来或将向更多盟友国家提供金融援助。",
+          "pubDate": "1791084800"
         },
         {
-          "title": "巴西大选在即 美国和澳大利亚突然以安全关切为由暂停当地领事服务",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6743518.shtml",
-          "description": "在周日即将举行大选的巴西，美国和澳大利亚以“安全关切”为由暂停了当地的领事服务。 美国大使馆指示寻求紧急援助的公民切勿前往外交机构...",
-          "pubDate": "1790977408"
+          "title": "贝森特批评AI风险警告是危言耸听",
+          "link": "https://finance.sina.com.cn/world/2026-10-04/doc-initytzr0408702.shtml",
+          "description": "美国财长斯科特·贝森特批评人工智能领域一些知名人士就这项技术带来的人类存亡风险发出警告，称这些言论是在危言耸听，没有助益，并呼吁该行业进行自我监管并拿出解决方案...",
+          "pubDate": "1791056061"
         },
         {
-          "title": "大宗商品综述：燃料价格大跌 铜价微升 金价走低",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6742886.shtml",
-          "description": " 燃料价格大跌，此前七国集团（G7）示意将释放紧急储备。铜价周五微升，但录得单周下跌，中国工业领域表现疲弱可能抑制需求。受债券收益率反弹影响，金价下跌。",
-          "pubDate": "1790977219"
+          "title": "工资涨不过物价 美国人想尽各种办法维持消费",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initytzv5949378.shtml",
+          "description": "过去五个月里，美国物价上涨速度一直快于工资增速，这种现象本该促使消费者削减开支。但实际上，他们仍在继续消费。 8月份美国消费增速达到一年多来最快水平...",
+          "pubDate": "1791055842"
         },
         {
-          "title": "纽约汇市：美元创一个月最大跌幅 就业数据疲软扰乱了利率预期",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrav6870385.shtml",
-          "description": " 纽约汇市周五美元创下一个月来最大单日跌幅，此前一份报告显示，美国9月份新增就业人数低于预期，一度令交易员对美联储今年是否会再次加息的押注出现动摇。",
-          "pubDate": "1790975761"
+          "title": "OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施",
+          "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptx6040261.shtml",
+          "description": "OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做得还不够。 此前负责OpenAI安全团队透明度工作的David...",
+          "pubDate": "1791044995"
         },
         {
-          "title": "美国股市：主要股指普涨 就业数据弱于预期缓解加息担忧",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4270089.shtml",
-          "description": "美国股市周五上涨，关键就业数据弱于预期，减轻了美联储在10月会议上需要加息的压力。 标普500指数在纽约收涨0.7%，连续第二个交易日上涨。",
-          "pubDate": "1790975497"
+          "title": "报道：特朗普指示动用纳税人资金投放颂扬其总统任期的广告",
+          "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4434728.shtml",
+          "description": " 据知情人士透露，美国总统特朗普亲自指示预算局局长动用纳税人资金投放电视广告，宣传他本人及其执政成果，由此敲定一份价值 2000 万美元的合同，资金取自国土安全部。",
+          "pubDate": "1791044834"
         },
         {
-          "title": "10月3日外盘头条：沙特计划对胡塞武装发动攻势 科技公司推出萌系吉祥物 道明证券推迟美联储加息时点预期",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrav6869356.shtml",
-          "description": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、七国集团将释放多达1亿桶柴油和石油储备以遏制价格上涨 2、报道：沙特计划对也门胡塞武装发动攻势 3...",
-          "pubDate": "1790975300"
+          "title": "台积电探讨与马斯克 Terafab 项目开展合作",
+          "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4427769.shtml",
+          "description": "半导体巨头台积电正考虑与埃隆・马斯克的 Terafab 项目开展合作，在美国建立先进的端到端半导体制造产能。据通讯刊物 Culpium 的独家报道...",
+          "pubDate": "1791043804"
         },
         {
-          "title": "原油：燃料价格大跌 七国集团计划释放战略储备",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrav6864565.shtml",
-          "description": "柴油价格大跌，此前七国集团（G7）释放信号称将释放紧急储备，以缓解能源成本飙升给消费者带来的部分压力。 欧洲柴油价格一度暴跌逾8%，随后收窄跌幅...",
-          "pubDate": "1790974085"
+          "title": "苹果将加强Mac隐私控制 警告AI智能体带来的风险上升",
+          "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptr3684201.shtml",
+          "description": " 苹果公司表示，计划为Mac用户推出新的隐私控制措施，并警告称，向包括AI智能体在内的第三方软件授予广泛的数据访问权限所带来的风险正在上升。",
+          "pubDate": "1791043606"
         },
         {
-          "title": "特朗普威胁韩国要求其投资阿拉斯加LNG管道项目",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrar1032951.shtml",
-          "description": "美国总统特朗普表示，如果韩国不签署投资阿拉斯加液化天然气管道项目的协议，他将“向他们收取更多费用”。 特朗普在白宫外对记者发表上述讲话． 在记者问及韩国的投资时...",
-          "pubDate": "1790973965"
+          "title": "贝森特称国债收益率上升符合全球趋势 不必感到惊恐",
+          "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4425599.shtml",
+          "description": " 尽管通胀担忧已推动一些基准收益率升至20多年来最高水平，但美国财长斯科特·贝森特表示，近期美国国债收益率上升符合全球趋势，不必对此感到惊恐。",
+          "pubDate": "1791043435"
         },
         {
-          "title": "10月3日热门中概股多数下跌，网易跌2.82%，京东跌2.24%",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4260169.shtml",
-          "description": "上涨个股（按市值从高到低）：台积电涨2.96%，日月光半导体涨6.08%，联电涨4.20%，中华电信涨1.34%，中通涨0.57%，慧荣科技涨1.91%，WSP控股涨0.42%，中国新城农村涨1...",
-          "pubDate": "1790973927"
+          "title": "OpenAI安全部门员工辞职 呼吁对AI采取核电级别的防护措施",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-inityimx4523185.shtml",
+          "description": "OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做得还不够。 此前负责OpenAI安全团队透明度工作的大卫·罗宾森（David...",
+          "pubDate": "1791035702"
         },
         {
-          "title": "10月3日收盘：美股周五收涨 就业数据走弱提振市场",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4254351.shtml",
-          "description": "美国9月非农就业报告意外疲软，提振市场预期，认为美联储将在10月议息会议上按兵不动。 道琼斯工业平均指数上涨250点，涨幅0.5%；标普500指数涨0...",
-          "pubDate": "1790972850"
+          "title": "韩国一储蓄银行遭黑客攻击，约4万客户数据泄露",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-inityimv0522961.shtml",
+          "description": " 韩国耶加兰储蓄银行（Yegaram Savings Bank）表示，9月30日，一名身份不明的黑客入侵了存放客户数据的服务器，导致约4万名客户的个人信息泄露。",
+          "pubDate": "1791034399"
         }
       ]
     },
