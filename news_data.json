@@ -1,5 +1,5 @@
 {
-  "fetchTime": "2026-11-07T06:55:10.977397",
+  "fetchTime": "2026-11-08T07:01:58.863412",
   "sources": [
     {
       "name": "Reuters Business",
@@ -17,6 +17,12 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "itemCount": 20,
       "items": [
+        {
+          "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+          "description": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+          "pubDate": "Sat, 07 Nov 2026 23:02:35 GMT"
+        },
         {
           "title": "AI stocks climb after trillions wiped from market values",
           "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
@@ -42,16 +48,16 @@
           "pubDate": "Fri, 06 Nov 2026 17:19:38 GMT"
         },
         {
-          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-          "pubDate": "Fri, 06 Nov 2026 21:49:50 GMT"
-        },
-        {
           "title": "The engine parts that 'fight the laws of the universe'",
           "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
           "description": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
           "pubDate": "Fri, 06 Nov 2026 00:06:06 GMT"
+        },
+        {
+          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+          "pubDate": "Fri, 06 Nov 2026 21:49:50 GMT"
         },
         {
           "title": "PM tells firms to publish salaries in job adverts ahead of new law",
@@ -108,34 +114,28 @@
           "pubDate": "Thu, 05 Nov 2026 11:01:06 GMT"
         },
         {
-          "title": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
-          "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
-          "description": "Their message on cost of living resonated with voters. Now they must show they can deliver.",
-          "pubDate": "Thu, 05 Nov 2026 06:01:05 GMT"
+          "title": "Graduates are managing AI - but are they learning much else?",
+          "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+          "description": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+          "pubDate": "Wed, 04 Nov 2026 00:04:35 GMT"
         },
         {
-          "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-          "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-          "description": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-          "pubDate": "Wed, 04 Nov 2026 21:41:15 GMT"
+          "title": "How video game remakes tap the power of nostalgia",
+          "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+          "description": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+          "pubDate": "Fri, 30 Oct 2026 07:45:00 GMT"
         },
         {
-          "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-          "description": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
-          "pubDate": "Wed, 04 Nov 2026 19:38:53 GMT"
+          "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+          "description": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+          "pubDate": "Thu, 29 Oct 2026 09:30:03 GMT"
         },
         {
-          "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-          "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-          "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-          "pubDate": "Tue, 03 Nov 2026 20:53:03 GMT"
-        },
-        {
-          "title": "Australia's oldest department store David Jones folds after 188 years",
-          "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-          "description": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
-          "pubDate": "Thu, 05 Nov 2026 00:59:22 GMT"
+          "title": "'An annoying buzz': The search for stealthier drones",
+          "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+          "description": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+          "pubDate": "Wed, 28 Oct 2026 00:01:10 GMT"
         }
       ]
     },
@@ -147,82 +147,82 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-          "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
-          "description": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
-          "pubDate": "Fri, 06 Nov 2026 20:11:17 GMT"
+          "title": "Cathie Wood &apos;always feels better when the market is worried&apos; — here&apos;s why",
+          "link": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+          "description": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now.",
+          "pubDate": "Sun, 08 Nov 2026 06:00:01 GMT"
         },
         {
-          "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a &apos;stretch&apos;",
-          "link": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
-          "description": "Anthropic could list below a $1.5 trillion valuation, trailing previous expectations, as the AI trade sours on Wall Street.",
-          "pubDate": "Fri, 06 Nov 2026 21:07:07 GMT"
+          "title": "Trump offers UFC chief Dana White press secretary job",
+          "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+          "description": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
+          "pubDate": "Sat, 07 Nov 2026 23:13:38 GMT"
         },
         {
-          "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-          "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-          "description": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
-          "pubDate": "Fri, 06 Nov 2026 22:22:53 GMT"
+          "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+          "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+          "description": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
+          "pubDate": "Sat, 07 Nov 2026 13:00:01 GMT"
         },
         {
-          "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-          "link": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
-          "description": "Ty Pinkins said he avoided campaigning in heavily Black areas of Mississippi to avoid harming chances for Democrat Scott Colom, who, like him, is Black.",
-          "pubDate": "Fri, 06 Nov 2026 19:44:33 GMT"
+          "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+          "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+          "description": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+          "pubDate": "Sat, 07 Nov 2026 15:23:46 GMT"
         },
         {
-          "title": "OpenAI bugging suspect Alfozan pleads not guilty",
-          "link": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-          "description": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
-          "pubDate": "Fri, 06 Nov 2026 21:15:47 GMT"
+          "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+          "link": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+          "description": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
+          "pubDate": "Sat, 07 Nov 2026 22:01:17 GMT"
         },
         {
-          "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for &apos;several weeks&apos; as he rehabs",
-          "link": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
-          "description": "The Connecticut Democrat Murphy has been discussed as a possible candidate for the White House in 2028.",
-          "pubDate": "Fri, 06 Nov 2026 21:40:09 GMT"
+          "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+          "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+          "description": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer.",
+          "pubDate": "Sat, 07 Nov 2026 22:17:52 GMT"
         },
         {
-          "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-          "link": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-          "description": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
-          "pubDate": "Fri, 06 Nov 2026 22:25:58 GMT"
+          "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+          "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+          "description": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin.",
+          "pubDate": "Sat, 07 Nov 2026 21:59:10 GMT"
         },
         {
-          "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
-          "link": "https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
-          "description": "Executives of major tech companies are largely projecting optimism about continued growth in the artificial intelligence sector despite a post-midterm sell-off.",
-          "pubDate": "Fri, 06 Nov 2026 18:35:08 GMT"
+          "title": "America doesn&apos;t like socialism. So why are socialists winning?",
+          "link": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
+          "description": "Democratic socialists had their best showing yet at the polls. The problem: Most U.S. voters don't actually like socialism.",
+          "pubDate": "Sat, 07 Nov 2026 13:01:01 GMT"
         },
         {
-          "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
-          "link": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
-          "description": "Microsoft is winding down the number of neoclouds it counts as partners, picking key suppliers and focusing on its own data centers.",
-          "pubDate": "Fri, 06 Nov 2026 18:40:58 GMT"
+          "title": "Mark Cuban says he doesn’t ‘give a f---&apos; about growing his net worth—a healthy mindset for non-billionaires too, a financial therapist says",
+          "link": "https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html",
+          "description": "The billionaire serial entrepreneur says he cares more about the impact he can have by spending and investing, rather than worrying about amassing more wealth.",
+          "pubDate": "Sat, 07 Nov 2026 14:05:01 GMT"
         },
         {
-          "title": "Data center double-down: Hassett says blue wave won&apos;t stop AI build-out",
-          "link": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-          "description": "Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which he continues despite the midterm results.",
-          "pubDate": "Fri, 06 Nov 2026 18:54:22 GMT"
+          "title": "31-year-old dumpster diver brought in $140,000 in 12 months: I &apos;did much more than I thought was possible&apos;",
+          "link": "https://www.cnbc.com/make-it/2026/11/07/dumpster-diver-resale-business.html",
+          "description": "Carter Stevens started reselling discarded items from dumpsters around Nashville, Tennessee, in March 2024. Months earlier, he'd been living in his car.",
+          "pubDate": "Sat, 07 Nov 2026 14:15:01 GMT"
         },
         {
-          "title": "Top House Oversight Democrat warns Trump family to &apos;lawyer up&apos;",
-          "link": "https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html",
-          "description": "With Democrats set to take control of the House in January, Rep. Robert Garcia is promising sweeping probes into Trump, his family and his administration.",
-          "pubDate": "Fri, 06 Nov 2026 19:42:36 GMT"
+          "title": "Berkshire shares surge as Wall Street swoons amid AI fears",
+          "link": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
+          "description": "Berkshire Hathaway shares roared past the S&P 500 index this week and are outperforming the benchmark for the year-to-date.",
+          "pubDate": "Sat, 07 Nov 2026 14:06:20 GMT"
         },
         {
-          "title": "AI crush is powering one stock to sky-high valuations",
-          "link": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html",
-          "description": "Despite sky-high valuations, Mike Khouw argues Costco shares could present a compelling buy.",
-          "pubDate": "Fri, 06 Nov 2026 18:15:44 GMT"
+          "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+          "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+          "description": "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz.",
+          "pubDate": "Sat, 07 Nov 2026 07:37:36 GMT"
         },
         {
-          "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-          "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-          "description": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
-          "pubDate": "Fri, 06 Nov 2026 17:09:53 GMT"
+          "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+          "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+          "description": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+          "pubDate": "Sat, 07 Nov 2026 16:02:33 GMT"
         },
         {
           "title": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
@@ -231,40 +231,40 @@
           "pubDate": "Fri, 06 Nov 2026 19:36:12 GMT"
         },
         {
-          "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-          "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
-          "description": "The Cybertruck and its polarizing design gained a niche following, but it did not achieve mass-market sales and Tesla has issued several voluntary recalls.",
-          "pubDate": "Fri, 06 Nov 2026 15:06:11 GMT"
+          "title": "Will this week&apos;s blue wave election usher in a Democratic president in 2028?",
+          "link": "https://www.cnbc.com/2026/11/07/2026-midterm-election-blue-wave-2028-president.html",
+          "description": "A CNBC analysis of historical election data finds wave elections don't necessarily spell trouble for the party in power during the next presidential year.",
+          "pubDate": "Sat, 07 Nov 2026 14:00:01 GMT"
         },
         {
-          "title": "Democratic sweep gives markets a reason to rethink path of interest rates",
-          "link": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
-          "description": "Rate hikes could be curbed by an Iran war resolution, slower U.S. growth and fresh fiscal policy — but none are set in stone.",
-          "pubDate": "Fri, 06 Nov 2026 12:30:40 GMT"
+          "title": "Decisive election. Dramatic stock swings. How we handled the market last week",
+          "link": "https://www.cnbc.com/investingclub/2026/11/07/decisive-election-dramatic-stock-swings-how-we-handled-the-market-last-week.html",
+          "description": "On Friday, Jim Cramer revealed his strategy for navigating this new era at the Investing Club's 4th Annual Meeting.",
+          "pubDate": "Sat, 07 Nov 2026 16:31:00 GMT"
         },
         {
-          "title": "Here&apos;s a rapid-fire update on all 31 of our stocks, including 2 to buy now",
-          "link": "https://www.cnbc.com/investingclub/2026/11/06/heres-a-rapid-fire-update-on-our-31-stocks-including-2-to-buy-now.html",
-          "description": "We closed out a wild market week on Friday at the Investing Club's fourth Annual Meeting at the New York Stock Exchange.",
-          "pubDate": "Fri, 06 Nov 2026 20:36:03 GMT"
+          "title": "What midterm election blue wave rebuke of Trump means for renewable energy",
+          "link": "https://www.cnbc.com/2026/11/07/midterm-election-blue-wave-trump-renewable-energy.html",
+          "description": "The conservative war on renewable energy suffered a big loss in the rout of President Trump and the GOP in midterm elections. Investors should pay attention.",
+          "pubDate": "Sat, 07 Nov 2026 14:33:32 GMT"
         },
         {
-          "title": "Wall Street&apos;s fear gauge may be flashing a buy sign",
-          "link": "https://www.cnbc.com/2026/11/06/wall-streets-fear-gauge-may-be-flashing-a-buy-sign.html",
-          "description": "History shows that similar spikes in the VIX have been good entry points for stocks",
-          "pubDate": "Fri, 06 Nov 2026 16:29:01 GMT"
+          "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+          "link": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+          "description": "Lawsuits against Snap, Meta and Google are creating headwinds for tech companies just as artificial intelligence tools expand into classrooms.",
+          "pubDate": "Sat, 07 Nov 2026 12:00:01 GMT"
         },
         {
-          "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-          "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-          "description": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
-          "pubDate": "Fri, 06 Nov 2026 20:42:28 GMT"
+          "title": "Mississippi Senate: Colom increases lead over Hyde-Smith to nearly 2,500 votes",
+          "link": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+          "description": "The Mississippi Senate election could be determined by the mail-in ballots received after Election Day, whose legality was upheld by the Supreme Court.",
+          "pubDate": "Fri, 06 Nov 2026 23:12:56 GMT"
         },
         {
-          "title": "Fake job interview scams like the one that hit Binance are getting more sophisticated. Here are the new signs to watch for",
-          "link": "https://www.cnbc.com/make-it/2026/11/06/binance-hack-fake-job-interview-scams.html",
-          "description": "Binance lost more than $6 billion in a hack partly caused by fake job interviews. Here's what job seekers can learn from it, and tips to avoid job search scams.",
-          "pubDate": "Fri, 06 Nov 2026 19:09:56 GMT"
+          "title": "Many workers lose unused FSA money — but could still come out ahead. Here&apos;s how",
+          "link": "https://www.cnbc.com/2026/11/07/fsa-forfeit.html",
+          "description": "While experts say it's best to use up your FSA money, the tax savings on your contributions could outweigh any amount you forfeit. Here's how to tell.",
+          "pubDate": "Sat, 07 Nov 2026 14:30:01 GMT"
         }
       ]
     },
@@ -273,67 +273,55 @@
       "category": "Finance",
       "region": "international",
       "url": "https://www.ft.com/rss/home",
-      "itemCount": 10,
+      "itemCount": 8,
       "items": [
         {
-          "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
-          "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
-          "description": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
-          "pubDate": "Sat, 07 Nov 2026 02:33:26 GMT"
+          "title": "Crypto industry braces for reckoning over Trump ties",
+          "link": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
+          "description": "Democrats have vowed to start investigation into president’s family after sweeping victory in midterms",
+          "pubDate": "Sun, 08 Nov 2026 05:00:19 GMT"
         },
         {
-          "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
-          "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
-          "description": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products",
-          "pubDate": "Fri, 06 Nov 2026 22:53:51 GMT"
+          "title": "‘Radical left’ get the headlines but centrists dominate new US Congress",
+          "link": "https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1",
+          "description": "Most of the Democrats who swept to power in the midterms blue wave are moderates",
+          "pubDate": "Sun, 08 Nov 2026 05:00:19 GMT"
         },
         {
-          "title": "Trump’s defeat heralds a US retreat",
-          "link": "https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1",
-          "description": "American retrenchment could change Middle East balance of power and signify opportunities for China",
-          "pubDate": "Sat, 07 Nov 2026 05:00:34 GMT"
+          "title": "Is Europe getting serious about ending tech dependence?",
+          "link": "https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1",
+          "description": "Brussels is moving in the right direction but could push national governments further",
+          "pubDate": "Sun, 08 Nov 2026 05:00:19 GMT"
         },
         {
-          "title": "The mother of all American course corrections",
-          "link": "https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce?syn-25a6b1a6=1",
-          "description": "US midterms are the latest confirmation that reports of the death of liberal democracy have been much exaggerated",
-          "pubDate": "Sat, 07 Nov 2026 05:00:33 GMT"
+          "title": "America is craving a return to community",
+          "link": "https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1",
+          "description": "The midterms are only the latest sign of hope",
+          "pubDate": "Sun, 08 Nov 2026 05:00:19 GMT"
         },
         {
-          "title": "A bittersweet year for liberals",
-          "link": "https://www.ft.com/content/3370e949-4a32-4a2d-8738-2f1cde6a35ea?syn-25a6b1a6=1",
-          "description": "The lesson of 2026 is that people can forgive election subversion, Kremlin support — but not high prices",
-          "pubDate": "Sat, 07 Nov 2026 05:00:22 GMT"
+          "title": "Apple saves $2.7bn in taxes by booking profits in Singapore",
+          "link": "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1",
+          "description": "City-state overtakes Ireland as iPhone maker’s biggest tax shelter according to new disclosures",
+          "pubDate": "Sun, 08 Nov 2026 05:00:11 GMT"
         },
         {
-          "title": "How Wall Street’s all-in bet on AI blew up",
-          "link": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
-          "description": "US midterm elections sparked a hedge fund and retail investor exodus from a trade that had taken over equity markets",
-          "pubDate": "Sat, 07 Nov 2026 05:00:31 GMT"
+          "title": "Israel’s president gives Gadi Eisenkot first chance at forming a government",
+          "link": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
+          "description": "Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition",
+          "pubDate": "Sat, 07 Nov 2026 21:03:47 GMT"
         },
         {
-          "title": "Why does America hate AI?",
-          "link": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1",
-          "description": "Voter hostility to Big Tech helped shape the US midterms, and similar fears are spreading through the west. But look east and attitudes are dramatically more optimistic",
-          "pubDate": "Sat, 07 Nov 2026 05:00:13 GMT"
+          "title": "Russia races to build rival to Elon Musk’s Starlink",
+          "link": "https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0?syn-25a6b1a6=1",
+          "description": "Moscow’s flagship space project would enable more deadly drone strikes deep inside Ukraine",
+          "pubDate": "Sun, 08 Nov 2026 05:00:11 GMT"
         },
         {
-          "title": "Trump taps immigration hardliner Stephen Miller as chief of staff",
-          "link": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1",
-          "description": "Decision to replace Susie Wiles comes days after Republican Party’s resounding midterm election defeat",
-          "pubDate": "Fri, 06 Nov 2026 22:09:58 GMT"
-        },
-        {
-          "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
-          "link": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
-          "description": "Claude maker intends to list before Thanksgiving despite brutal tech rout",
-          "pubDate": "Fri, 06 Nov 2026 21:00:09 GMT"
-        },
-        {
-          "title": "European security agencies probe whether bomb hoaxes started in Russia",
-          "link": "https://www.ft.com/content/0845687f-1f74-4bbf-88c9-5c6b031c7f20?syn-25a6b1a6=1",
-          "description": "A working hypothesis is that the co-ordinated threats were produced by pro-Kremlin activists or hacking groups",
-          "pubDate": "Sat, 07 Nov 2026 05:00:33 GMT"
+          "title": "Gunman kills six in Kraków shooting",
+          "link": "https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1",
+          "description": "Poland’s Prime Minister Donald Tusk called on politicians not to exploit the incident",
+          "pubDate": "Sat, 07 Nov 2026 22:00:14 GMT"
         }
       ]
     },
@@ -345,124 +333,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Why India’s Stock Markets Hold a Session on Diwali: Explainer",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-07/why-india-s-stock-markets-hold-a-session-on-diwali-explainer",
-          "description": "India’s stock markets will open for a special shortened session on Sunday as the country celebrates Diwali, its biggest festival, keeping alive a tradition that has survived the shift from handwritten ledgers and bustling trading floors to smartphones and algorithms.",
-          "pubDate": "Sat, 07 Nov 2026 04:30:00 GMT"
+          "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says",
+          "description": "China is expected to invest $940 billion in energy in 2026, the most by any country, according to the Global Energy Transition Report 2026 released by the China Enterprise Reform and Development Society, China Central Television reported Sunday.",
+          "pubDate": "Sun, 08 Nov 2026 04:02:33 GMT"
         },
         {
-          "title": "China Extends Gold-Buying Streak to Two Years as Prices Drop",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop",
-          "description": "China’s central bank added to its gold reserves in October — extending a buying streak to two years — as the precious metal fell almost 7% to end the month below the $4,000-an-ounce support threshold.",
-          "pubDate": "Sat, 07 Nov 2026 02:26:22 GMT"
+          "title": "China Raises Delegate Count to 2,360 for 2027 Party Congress",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress",
+          "description": "China set a quota of 2,360 delegates for the Communist Party’s 21st national congress in 2027, 60 more than for the previous gathering, Xinhua News Agency reported Sunday, citing the party’s Organization Department.",
+          "pubDate": "Sun, 08 Nov 2026 03:29:25 GMT"
         },
         {
-          "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies",
-          "description": "China strongly opposes US sanctions on two Chinese companies over their dealings with a third party and reserves the right to take “necessary measures” to protect its interests, China’s Ministry of Commerce said on Saturday.",
-          "pubDate": "Sat, 07 Nov 2026 01:54:36 GMT"
+          "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+          "description": "The unraveling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese and Indian stocks as well as companies poised to benefit from easing inflation and trade tensions.",
+          "pubDate": "Sun, 08 Nov 2026 00:00:00 GMT"
         },
         {
-          "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
-          "description": "Officials at the Inter-American Development Bank’s investment arm suspected something was off almost as soon as they walked through the doors of Paraguay’s Ueno Bank SA.",
-          "pubDate": "Fri, 06 Nov 2026 00:24:58 GMT"
+          "title": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
+          "description": "Australian home sales and auction clearance rates climbed, offering hopes of a recovery for a property market that has slumped as interest rates rose this year.",
+          "pubDate": "Sat, 07 Nov 2026 23:54:25 GMT"
         },
         {
-          "title": "The Corner Store Brings Its New York Experience to the Las Vegas Strip",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-06/the-corner-store-brings-nyc-experience-to-vegas-strip-video",
-          "description": "Catch Hospitality Group is opening a Las Vegas location of The Corner Store at the Cosmopolitan. Co-Founder and Partner Eugene Remm says the 150-seat restaurant will preserve the intimacy and authentic SoHo experience of its 75-seat New York original, rather than offer a Vegas-specific or watered-down version. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-          "pubDate": "Fri, 06 Nov 2026 23:49:39 GMT"
+          "title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
+          "description": "Selling billions of dollars of corporate bonds on Election Day seemed like a real gamble.",
+          "pubDate": "Sat, 07 Nov 2026 20:00:00 GMT"
         },
         {
-          "title": "Elanco Shares Jump After Q3 Beat and Outlook Raise",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-06/elanco-shares-jump-after-q3-beat-and-outlook-raise-video",
-          "description": "Elanco Animal Health shares rose nearly 8% after the company reported third-quarter earnings above expectations and raised its full-year outlook. Jeff Simmons, Elanco’s President and CEO, called it a high-quality quarter, citing 11% reported growth and broad strength across markets and product lines. He speaks with Romaine Bostick & Kailey Leinz on \"The Close.\" (Source: Bloomberg)",
-          "pubDate": "Fri, 06 Nov 2026 23:30:58 GMT"
+          "title": "Top Turkish Regulators Taken Into Custody in Fund Probe",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
+          "description": "Turkish authorities detained top officials from the country’s regulators on Saturday, local media reported, the latest executives to be caught up in a widening fund scandal.",
+          "pubDate": "Sat, 07 Nov 2026 13:56:55 GMT"
         },
         {
-          "title": "Sweetgreen CEO Says Sales Rebound After Cyclospora-Related Traffic Drop",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-06/sweetgreen-ceo-on-earnings-sales-rebound-video",
-          "description": "Sweetgreen CEO and Co-Founder Jonathan Neman says that sales momentum has improved after a summer Cyclospora outbreak—unrelated to Sweetgreen’s stores but damaging to traffic across the sector. The company reported October comparable sales growth of about 5%, following a return to flat comps in September, and saw further improvement in early November. He speaks with Romaine Bostick & Kailey Leinz on \"The Close.\" (Source: Bloomberg)",
-          "pubDate": "Fri, 06 Nov 2026 23:26:21 GMT"
+          "title": "New Chief of Staff, Chain Reaction Tech Selloff",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-07/bloomberg-this-weekend-11-7-2026-video",
+          "description": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Yorkville Ives & Co. Partner & Senior Managing Director Dan Ives, Rutgers-Eagleton Center for Public Interest Polling Director Ashley Koning, PNC Asset Management Group Chief Investment Officer Amanda Agati, Travel Journalist Brittany Chang, Atlanta Journal-Constitution Washington Bureau Chief Tia ",
+          "pubDate": "Sat, 07 Nov 2026 17:14:41 GMT"
         },
         {
-          "title": "FIGS Beats Earnings as Demand Outstrips Supply, CEO Trina Spear Says",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-06/figs-ceo-trina-spears-on-earnings-beat-video",
-          "description": "FIGS reported third-quarter top- and bottom-line results above expectations, with revenue of $190.7 million versus an estimate of $182.8 million. The company logged a fourth consecutive quarter of at least 25% revenue growth; non-scrubwear revenue rose 35%, and international revenue also increased. CEO and co-founder Trina Spear said health care professionals are expanding their FIGS purchases beyond scrubs to items such as underscrubs, compression socks and outerwear, for work and off-duty wear",
-          "pubDate": "Fri, 06 Nov 2026 23:21:26 GMT"
+          "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+          "description": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Nov 2026 15:59:54 GMT"
         },
         {
-          "title": "Braskem Owners Pull Funding Offer as Debt Talks Hit Snag",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/braskem-shareholders-pull-funding-offer-as-debt-talks-hit-snags",
-          "description": "Talks between Brazil’s Braskem SA and its creditors regarding an out-of-court debt rework have soured, with shareholders taking a proposed capital injection key to a deal off the table if talks stand as they are, according to people familiar with the matter.",
-          "pubDate": "Fri, 06 Nov 2026 19:38:53 GMT"
+          "title": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
+          "description": "Berkshire Hathaway Inc. spent about $9.6 billion to buy back its own shares in the third quarter, a sign the company’s executives viewed the stock as undervalued. But declining insurance underwriting weighed on its operating earnings in a mixed quarter for the company.",
+          "pubDate": "Sat, 07 Nov 2026 13:01:21 GMT"
         },
         {
-          "title": "AI-Generated Movie Heading Theaters",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-06/ai-generated-movie-heading-theaters-video",
-          "description": "Artificial intelligence is moving from experimental videos to the big screen. Fable Studio CEO Edward Saatchi says a team of just 30 people spent nine months creating Gods Don’t Give Gifts, an AI-generated animated feature that still relies on human directors, writers, voice actors and artists. He joins Bloomberg Businessweek Daily to discuss how AI changes the filmmaking process and what it means for Hollywood's traditional production model. (Source: Bloomberg)",
-          "pubDate": "Fri, 06 Nov 2026 22:29:48 GMT"
+          "title": "Ken Chenault on Leadership in an Age of AI",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video",
+          "description": "On Bloomberg This Weekend, General Catalyst Chairman and Managing Director and former American Express CEO Ken Chenault discusses leadership, diversity and responsible AI, arguing that executives need the courage to stand by their values even as political and technological pressures intensify. Chenault tells host David Gura that companies should pursue innovation while protecting safety, broadening opportunity and ensuring AI ultimately improves people's lives. (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Nov 2026 15:32:55 GMT"
         },
         {
-          "title": "Providing Capital to Tech Companies: Masters In Business with Ann Berry",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-06/masters-in-business-with-ann-berry-video",
-          "description": "Barry speaks with Ann Berry, founder and managing partner of Threadneedle. They discuss her path from Goldman Sachs M&A and private equity to running a hospitality services company through the pandemic. They also discuss Ann's early-stage bets on AI and deepfake detection, and surveying the expanding IPO landscape. (Source: Bloomberg)",
-          "pubDate": "Fri, 06 Nov 2026 22:15:53 GMT"
+          "title": "A Historic First for Women at the Metropolitan Opera",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-07/a-historic-first-for-women-at-the-metropolitan-opera-video",
+          "description": "On Bloomberg This Weekend, composer Missy Mazzoli discusses adapting George Saunders's Lincoln in the Bardo and becoming the first woman composer to have a world premiere at the Metropolitan Opera. Mazzoli tells hosts David Gura and Christina Ruffini how punk helped shape her musical sensibility and why her long collaboration with librettist Royce Vavrek was essential to transforming Saunders's sprawling ghost story into an opera. (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Nov 2026 15:23:13 GMT"
         },
         {
-          "title": "Canadian Dollar Notches Worst Week Since September on Weak Jobs",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/canadian-dollar-set-for-worst-week-since-september-on-weak-jobs",
-          "description": "The Canadian dollar posted its biggest weekly loss since late September after weaker-than-expected domestic employment data reinforced concerns about the outlook for the country’s economy.",
-          "pubDate": "Fri, 06 Nov 2026 18:48:22 GMT"
+          "title": "How the Iran War Is Making Alaskans Both Richer and Poorer",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-07/inside-alaska-s-oil-paradox-video",
+          "description": "Oil prices have surged across the United States as a result of the ongoing war in Iran. This means higher costs for households in most states, but in Alaska, the state government is bringing in new revenue from its high oil production to offset those higher costs. Some of the revenue is then redistributed to Alaskans through the state’s unique sovereign wealth fund. While most Americans disapprove of the war in Iran, Alaska may emerge as a quiet winner from one of the conflict’s most painful eco",
+          "pubDate": "Sat, 07 Nov 2026 15:04:03 GMT"
         },
         {
-          "title": "Ann Berry on the Importance of Learning AI",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-06/ann-berry-on-the-importance-of-learning-ai-video",
-          "description": "Barry speaks with Ann Berry, founder and managing partner of Threadneedle. They discuss her path from Goldman Sachs M&A and private equity to running a hospitality services company through the pandemic. They also discuss Ann's early-stage bets on AI and deepfake detection, and surveying the expanding IPO landscape. (Source: Bloomberg)",
-          "pubDate": "Fri, 06 Nov 2026 22:01:25 GMT"
+          "title": "Protein Craze Fuels an Investment Boom in Livestock Health",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-07/protein-craze-fuels-an-investment-boom-in-livestock-health",
+          "description": "Animal health companies are tapping into the protein craze, investing billions of dollars to build up businesses focused on making cattle, pigs and poultry healthier for human consumption.",
+          "pubDate": "Sat, 07 Nov 2026 15:00:00 GMT"
         },
         {
-          "title": "Airbnb Surges 12% as Growth Accelerates and Outlook Rises | Closing Bell",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-06/airbnb-surges-on-growth-outlook-closing-bell-video",
-          "description": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Kailey Leinz, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-          "pubDate": "Fri, 06 Nov 2026 21:32:56 GMT"
+          "title": "Young Travelers Are Warming Up to Cruises",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-07/young-travelers-are-warming-up-to-cruises-video",
+          "description": "On Bloomberg This Weekend, Bloomberg News travel journalist Brittany Chang explains why cruises are attracting more Gen Z and millennial travelers as higher airfare and hotel costs make all-inclusive vacations increasingly appealing. Chang tells hosts David Gura and Christina Ruffini that cruise lines are courting younger passengers with mega ships, entertainment, adult-only spaces and nostalgia, with some sailings costing as little as about $30 a day. (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Nov 2026 14:27:25 GMT"
         },
         {
-          "title": "Hedge Funds Fled Bullish Oil Bets Ahead of Election Day Drop",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/hedge-funds-fled-bullish-oil-bets-ahead-of-election-day-drop",
-          "description": "Hedge funds cut bullish crude bets by the most since June as the US and Iran struck rare de-escalatory notes, positioning them to profit from the selloff after the Democratic sweep of Congress.",
-          "pubDate": "Fri, 06 Nov 2026 21:29:28 GMT"
+          "title": "Economy and Democracy Drove the Blue Wave",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-07/economy-and-democracy-drove-the-blue-wave-video",
+          "description": "On Bloomberg This Weekend, Rutgers University's Ashley Koning says affordability, concerns about democracy and government corruption helped drive voters toward Democrats, with significant shifts among Latino, young and independent voters. Koning tells hosts David Gura and Christina Ruffini that Democrats now face pressure to deliver tangible results on affordability before the 2028 election cycle. (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Nov 2026 14:19:05 GMT"
         },
         {
-          "title": "Gold Extends Drop on Stronger-Than-Expected US Employment Data",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms",
-          "description": "Gold fell after a hot US nonfarm payrolls print added fuel to speculations that the Federal Reserve will seek to raise interest rates to contain inflation.",
-          "pubDate": "Fri, 06 Nov 2026 00:09:55 GMT"
+          "title": "Berkshire Makes Record $9.6 Billion Buyback",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-07/berkshire-makes-record-9-6-billion-buyback-video",
+          "description": "On Bloomberg This Weekend, Bloomberg Intelligence Senior Insurance Analyst Matthew Palazola breaks down Berkshire Hathaway's third-quarter results, including a record $9.6 billion in share buybacks and weaker insurance earnings. Palazola tells hosts David Gura and Christina Ruffini that CEO Greg Abel is putting Berkshire's massive cash reserves to work through buybacks, acquisitions and equity investments while maintaining the measured approach associated with Warren Buffett. (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Nov 2026 14:00:16 GMT"
         },
         {
-          "title": "Wall Street Grapples With $5.7 Trillion Rout as AI Bets Unwind",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes",
-          "description": "Months of unease over Wall Street’s artificial-intelligence boom erupted into a global market convulsion this week, opening a dangerous new chapter for the investment frenzy that has helped power stock prices, corporate spending and economic growth.",
-          "pubDate": "Fri, 06 Nov 2026 21:23:32 GMT"
+          "title": "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-07/wall-street-strategists-call-stock-rout-a-fresh-reason-to-buy",
+          "description": "A slew of Wall Street strategists were banking on a short-term selloff following the US midterm elections to give investors an opportunity to buy stocks at a discount.",
+          "pubDate": "Sat, 07 Nov 2026 13:30:00 GMT"
         },
         {
-          "title": "Chip Stocks Climb After Rout, But AI Doubts Linger: Markets Wrap",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
-          "description": "A rebound in chipmakers propped up the stock market as dip buyers emerged despite economic data that reinforced speculation the Federal Reserve will boost rates in December.",
-          "pubDate": "Thu, 05 Nov 2026 22:17:59 GMT"
+          "title": "By The Way: Headlines You May Have Missed",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-07/by-the-way-headlines-you-may-have-missed-video",
+          "description": "The guide for when to pee during movies, taking PTO to play GTA, ignoring the Foie Gras ban, and kids loving their mom and dad's music: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Nov 2026 13:25:55 GMT"
         },
         {
-          "title": "Retail Traders Cautiously Buy Stocks After Worst Rout Since 2025",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025",
-          "description": "Retail traders, the stock market’s most avid dip buyers since the pandemic, were among the investors buying on Friday after US equities had their worst day since 2025. But their typical enthusiasm was nowhere to be found.",
-          "pubDate": "Fri, 06 Nov 2026 21:05:54 GMT"
+          "title": "US Jobs Surge Raises Odds of December Fed Hike",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-07/us-jobs-surge-raises-odds-of-december-fed-hike-video",
+          "description": "On Bloomberg This Weekend, Bloomberg Economics Chief US Economist Anna Wong says October's surprisingly strong jobs report showed hiring broadening into white collar, manufacturing and transportation jobs, strengthening the case for another Federal Reserve rate hike. Wong tells hosts Christina Ruffini and Lisa Mateo how the Bloomberg Price Project uses millions of alternative data points to provide an independent, more granular measure of US inflation. (Source: Bloomberg)",
+          "pubDate": "Sat, 07 Nov 2026 13:16:33 GMT"
         },
         {
-          "title": "Oil Swings as Traders Parse Iran War De-Escalation Prospects",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
-          "description": "Oil swung in a choppy session, as traders weighed progress on de-escalation in the Iran war.",
-          "pubDate": "Fri, 06 Nov 2026 08:38:49 GMT"
+          "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-07/crypto-s-trump-fueled-washington-boom-reaches-its-endgame",
+          "description": "Crypto’s extraordinary run of political good fortune in Washington has come to an abrupt halt. With Democrats set to control Congress following their midterm sweep, the industry faces the prospect of tougher rules and closer scrutiny of its ties to President Donald Trump.",
+          "pubDate": "Sat, 07 Nov 2026 13:00:00 GMT"
         }
       ]
     },
@@ -483,64 +471,64 @@
       "itemCount": 10,
       "items": [
         {
-          "title": "&#x2018;I have no financial safety net&#x2019;: I&#x2019;m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-          "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-          "description": "&#x201c;Sometimes I wonder whether wealthier Americans should trade places with people like me.&#x201d;",
-          "pubDate": "Fri, 06 Nov 2026 21:45:00 GMT"
+          "title": "This retired professor has reinvented himself &#x2014; as a Taylor Swift scholar",
+          "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+          "description": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he&#x2019;s a successful podcaster at 72.",
+          "pubDate": "Sat, 07 Nov 2026 20:48:00 GMT"
         },
         {
-          "title": "Elon Musk opens the door for a big SpaceX acquisition",
-          "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
-          "description": "The rocket and satellite-internet company is looking to challenge telecom giants.",
-          "pubDate": "Fri, 06 Nov 2026 21:45:00 GMT"
+          "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+          "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+          "description": "&#x201c;I haven&#x2019;t committed to the strategy yet and would appreciate some independent perspectives.&#x201d;",
+          "pubDate": "Sat, 07 Nov 2026 20:36:00 GMT"
         },
         {
-          "title": "Data centers run on debt. That was a problem for bonds this year &#x2014; and it&#x2019;s only going to get worse.",
-          "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
-          "description": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won&#x2019;t get any better with Democrats in control of Congress.",
-          "pubDate": "Fri, 06 Nov 2026 21:37:00 GMT"
+          "title": "Here are the 2027 capital-gains tax rates for each income level",
+          "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+          "description": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial  information.",
+          "pubDate": "Sat, 07 Nov 2026 19:48:00 GMT"
         },
         {
-          "title": "Nvidia, AMD and other chip stocks rebound &#x2014; but is relief from the &#x2018;violent&#x2019; selloff only temporary?",
-          "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-          "description": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade&#x2019;s favor.",
-          "pubDate": "Fri, 06 Nov 2026 21:24:00 GMT"
+          "title": "Medicare prescription drug costs will jump 50% in 2027.&#xa0;Doing nothing could cost you.",
+          "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+          "description": "Don&#x2019;t sit on the sidelines during open enrollment.",
+          "pubDate": "Sat, 07 Nov 2026 19:20:00 GMT"
         },
         {
-          "title": "&#x2018;It seems bizarre&#x2019;: We&#x2019;re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-          "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-          "description": "&#x201c;Our basic living expenses are covered by $110,000 in annual pensions and Social Security.&#x201d;",
-          "pubDate": "Fri, 06 Nov 2026 21:15:00 GMT"
+          "title": "Democrats&#x2019; big election win revives a difficult Social Security question: Who pays?",
+          "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+          "description": "There are many ideas for saving Social Security. All of them will hurt.",
+          "pubDate": "Sat, 07 Nov 2026 17:43:00 GMT"
+        },
+        {
+          "title": "I&#x2019;m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+          "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+          "description": "Math may be cold and unemotional &#x2014; but finances are not.",
+          "pubDate": "Sat, 07 Nov 2026 17:33:00 GMT"
+        },
+        {
+          "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what&#x2019;s making them richer.",
+          "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+          "description": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
+          "pubDate": "Sat, 07 Nov 2026 17:04:00 GMT"
         },
         {
           "title": "&#x2018;It feels like he&#x2019;s quietly building a separate life&#x2019;: My husband inherited $500,000, but he refuses to spend it on our home",
           "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
           "description": "&#x201c;Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.&#x201d;",
-          "pubDate": "Fri, 06 Nov 2026 21:15:00 GMT"
+          "pubDate": "Sat, 07 Nov 2026 17:01:00 GMT"
         },
         {
-          "title": "Micron&#x2019;s stock is dirt cheap &#x2014;&#xa0;and that&#x2019;s igniting a fierce online debate",
-          "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
-          "description": "Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron&#x2019;s earnings power won&#x2019;t hold up.",
-          "pubDate": "Fri, 06 Nov 2026 20:58:00 GMT"
+          "title": "The S&amp;P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+          "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+          "description": "The large-cap index is nowhere near as diversified as you think.",
+          "pubDate": "Sat, 07 Nov 2026 16:40:00 GMT"
         },
         {
-          "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-          "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-          "description": "&#x201c;My brother had no job and needed a place to live.&#x201d;",
-          "pubDate": "Fri, 06 Nov 2026 20:15:00 GMT"
-        },
-        {
-          "title": "Cybertruck&#x2019;s run comes to an end as Musk kills off pricey pet project",
-          "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
-          "description": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
-          "pubDate": "Fri, 06 Nov 2026 18:54:00 GMT"
-        },
-        {
-          "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
-          "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-          "description": "&#x201c;I haven&#x2019;t committed to the strategy yet and would appreciate some independent perspectives.&#x201d;",
-          "pubDate": "Fri, 06 Nov 2026 18:53:00 GMT"
+          "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+          "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+          "description": "The tax brackets at the heart of Americans&#x2019; income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation&#x2019;s rekindled presence.",
+          "pubDate": "Sat, 07 Nov 2026 16:30:00 GMT"
         }
       ]
     },
@@ -681,124 +669,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "英国大臣：尽管美国爆发抵制AI浪潮 英国不会放缓AI发展节奏",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwxqa8196305.shtml",
-          "description": "英国增长大臣丹·汤姆林森明确表态：尽管美国中期选举出现对人工智能的抵制浪潮，英国不会放缓AI发展节奏。 民主党候选人在大选中大胜，其竞选主张包括收紧监管...",
-          "pubDate": "1794032977"
+          "title": "环保组织陷入AI两难：数据中心耗能激增，但AI让九个月的工作缩短至数小时",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzapa7385669.shtml",
+          "description": "随着人工智能数据中心的能源和水资源消耗持续增加，全球环保组织正面临一个矛盾：一方面担忧AI技术带来的环境负担，另一方面又越来越依赖AI保护野生动物...",
+          "pubDate": "1794120651"
         },
         {
-          "title": "时隔30年首次 俄罗斯将从北极港口摩尔曼斯克出口生铁",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwtha4818542.shtml",
-          "description": "俄罗斯将时隔30年首次从北极港口摩尔曼斯克出口生铁，以此避开黑海区域遭乌克兰打击的航运线路，调整货物运输通道。 摩尔曼斯克港口周四发布一段视频...",
-          "pubDate": "1794031612"
+          "title": "英国首相伯纳姆寻求深化英欧经济关系，重新加入单一市场及欧盟均在考虑范围内",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzany3850381.shtml",
+          "description": "11月7日，英国首相安迪·伯纳姆（Andy Burnham）正准备利用11月举行的两场欧洲峰会，推动英国与欧盟建立更紧密的经济关系，以减少脱欧后贸易壁垒对英国经济增长的影响。",
+          "pubDate": "1794120492"
         },
         {
-          "title": "韩股下跌 韩国散户狂买美股 五日净买入规模超8月全月",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwtfy8168859.shtml",
-          "description": " 韩国本土股市下跌之际，韩国散户正在加大美股买入力度。仅五个交易日内，美股净买入额接近3万亿韩元，超过8月全月规模。",
-          "pubDate": "1794031378"
+          "title": "直击进博会｜对话瑞士莲中国区CEO马征：中国已成为瑞士莲全球最重要的增长引擎之一",
+          "link": "https://finance.sina.com.cn/tob/2026-11-08/doc-inixzapa7384207.shtml",
+          "description": "11月8日消息，第九届进博会于11月5-10日在上海举行。展会期间，瑞士莲中国区CEO马征向新浪财经等表示，“瑞士莲上海首店开业以来的反馈非常好...",
+          "pubDate": "1794120471"
         },
         {
-          "title": "澳大利亚总理呼吁美伊在美国中期选举后缓和紧张局势",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwthh5082356.shtml",
-          "description": "澳大利亚总理阿尔巴尼斯呼吁在美国中期选举后缓和美伊之间的紧张局势，他形容此次选举意义重大。  这位澳大利亚领导人称，伊朗战争以及美国对贸易伙伴征关税是此次选举结果...",
-          "pubDate": "1794029718"
+          "title": "“苹果是全球最好的公司”，但也是最值得买的股票吗？伯恩斯坦上调目标价至380美元",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzany3848755.shtml",
+          "description": "11月8日，苹果首席执行官约翰·特努斯（John Ternus）近日将苹果称为“全球最好的公司”，但伯恩斯坦认为，苹果是否同样是最值得投资的股票...",
+          "pubDate": "1794120312"
         },
         {
-          "title": "突然，净空头持仓暴增24.6万手！美联储，加息生变？",
-          "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-07/doc-inixwthh5080386.shtml",
-          "description": "来源：期货日报 大家好，来关注下美债。 美国商品期货交易委员会发布的最新数据显示，截至11月3日当周，投机者将CBOT美国5年期国债期货净空头头寸增加246314手...",
-          "pubDate": "1794028226"
+          "title": "关键血脂指标降低78%，却未能减少心梗和中风：诺华放弃潜在重磅心血管药物研发",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzany3846576.shtml",
+          "description": "11月7日，瑞士制药巨头诺华（Novartis）宣布，基本放弃旗下实验性心血管药物pelacarsen的开发，此前一项历时七年、涉及8322名患者的III期临床试验显示...",
+          "pubDate": "1794120113"
         },
         {
-          "title": "“蓝潮”如何重塑美国能源政策：扭转特朗普政策 淡化气候叙事 新能源与LNG并行",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwtfy8147526.shtml",
-          "description": "美国中期选举以民主党大获全胜、掀起“蓝潮”落幕，各界目光开始聚焦美国能源政策下一步走向。主流观点认为，民主党会延续其传统的支持可再生能源立场。",
-          "pubDate": "1794027235"
+          "title": "比特币跌破7.6万美元，币安拟关闭部分欧洲用户账户，监管及安全风险加剧",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzanw7197982.shtml",
+          "description": "11月8日，比特币维持在7.6万美元下方，欧洲监管压力及加密货币平台安全问题持续打压市场情绪。截至北京时间14：06，比特币下跌0.34%至75776.7美元...",
+          "pubDate": "1794120064"
         },
         {
-          "title": "特朗普称本周末将就俄乌问题举行很多会谈",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwnya8250508.shtml",
-          "description": "“我们在海湖庄园安排了很多会议，与许多与俄罗斯有关的人士会晤，”美国总统特朗普在佛罗里达州对记者表示。 他补充说，他今天就俄乌问题进行了几次电话交谈...",
-          "pubDate": "1794023264"
+          "title": "伯克希尔第三季度营业利润下降5.8%，却创纪录回购96亿美元股票，现金储备升至3774亿美元",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzanw7193713.shtml",
+          "description": "11月7日，伯克希尔·哈撒韦（Berkshire Hathaway）公布第三季度财报，受保险业务盈利下降拖累，季度营业利润同比下降5.8%至127亿美元，去年同期为134.8亿美元。",
+          "pubDate": "1794119419"
         },
         {
-          "title": "马斯克在得州投资2.25亿美元 民主党批评特殊优待拟收紧审查",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwnye4886936.shtml",
-          "description": "埃隆·马斯克已在得州投入2.25亿美元。如今新一届民主党领导层手握权力或叫停他的多个项目。 SpaceX、特斯拉等马斯克旗下企业在得州发展一路顺风顺水...",
-          "pubDate": "1794021997"
+          "title": "欧洲央行拉加德：未来几个季度通胀仍将高企，12月加息方向难有改变",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzany3841555.shtml",
+          "description": "11月7日，欧洲央行行长拉加德在接受采访时表示，欧元区未来几个季度通胀率仍将维持高位，除非经济形势出现重大变化，否则欧洲央行不太可能改变当前的货币政策方向...",
+          "pubDate": "1794119341"
         },
         {
-          "title": "马斯克评估特斯拉与SpaceX合并之际 谷歌高管哈里森离任SpaceX独立董事",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwnyk5147084.shtml",
-          "description": "SpaceX周五提交文件披露，长期担任公司董事的唐纳德·哈里森已经卸任。此时CEO埃隆·马斯克正推动SpaceX与特斯拉合并。 哈里森是谷歌企业发展总裁...",
-          "pubDate": "1794020733"
+          "title": "特朗普邀请UFC总裁出任白宫新闻秘书，还想让六名格斗选手担任助手",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzanw7192728.shtml",
+          "description": "11月8日，美国总统特朗普在社交平台发文，公开邀请终极格斗冠军赛（UFC）首席执行官达纳·怀特（Dana White）出任白宫新闻秘书，并提议让六名知名综合格斗选手担任其助手...",
+          "pubDate": "1794119204"
         },
         {
-          "title": "卡塔尔首相：美国仍愿通过外交途径解决伊朗冲突 不存在完美协议应争取缓和局势",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwnyk5142570.shtml",
-          "description": "卡塔尔首相兼外交大臣穆罕默德・本・阿卜杜勒拉赫曼・阿勒萨尼当地时间周五表示，尽管中期选举结果出炉，美国政府仍愿意以外交方式解决与伊朗的冲突，斡旋工作还在继续。",
-          "pubDate": "1794019982"
+          "title": "直击进博会|采购4.35万吨林业碳票用于进博会碳抵消，中国太保两项康养团体标准同步启动",
+          "link": "https://finance.sina.com.cn/tob/2026-11-08/doc-inixzapa7371485.shtml",
+          "description": "11月8日金融一线消息，第九届进博会于11月5-10日在上海举行。展会期间，中国太保围绕展会碳中和、康养服务标准化发布多项成果，包括采购了约4...",
+          "pubDate": "1794118956"
         },
         {
-          "title": "加州亿万富豪税提案公投或被否决 全美富豪税推进遇挫",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwnyk5134339.shtml",
-          "description": " DDHQ在X平台预测，加州选民预计否决这项全美首个针对亿万富豪征税的提案，这场加州史上耗资巨大、分歧严重的政治斗争就此落幕。",
-          "pubDate": "1794018869"
+          "title": "以色列总统授权艾森科特优先组阁，内塔尼亚胡面临下台风险",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzapa7371436.shtml",
+          "description": "11月8日，以色列总统赫尔佐格决定将组建新政府的优先授权交给前国防军总参谋长、中间派领导人加迪·艾森科特（Gadi Eisenkot），使其距离取代现任总理内塔尼亚胡更近一步。...",
+          "pubDate": "1794118950"
         },
         {
-          "title": "美军再次“定点”打击伊朗 特朗普称摧毁了一处小型防空设施",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwnyk5130681.shtml",
-          "description": "美国总统唐纳德·特朗普称，美军周五对伊朗发起新一轮有限打击，目标是一处伊朗防空系统。 伊朗国家媒体报道，石油运输要道格什姆岛苏扎区域传出两声爆炸。",
-          "pubDate": "1794018516"
+          "title": "美债实际收益率下降也救不了黄金？高盛：投机资金五周撤出195亿美元，抛售压力尚未结束",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzany3838022.shtml",
+          "description": "11月8日，高盛发布报告指出，投机资金持续撤离是近期国际金价大幅下跌的重要原因。美国商品期货交易委员会（CFTC）持仓数据显示，10月20日至27日期间，管理基金...",
+          "pubDate": "1794118786"
         },
         {
-          "title": "【市场聚焦】黄金：机构预测跟踪",
-          "link": "https://finance.sina.com.cn/money/future/wemedia/2026-11-07/doc-inixwnyk5123750.shtml",
-          "description": "来源：中粮期货研究中心 图表：各大机构金价预期对比（美元/盎司）数据来源：各投行研报、Bloomberg、路透、中粮期货研究院整理 预期偏差...",
-          "pubDate": "1794016800"
+          "title": "伯恩斯坦预计2030年前OpenAI的算力支出可达6140亿美元",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzanw7188431.shtml",
+          "description": "11月8日，伯恩斯坦（Bernstein）分析师Mark Moerdler发布报告称，OpenAI此前公布的大规模算力采购承诺，可能在2030年底前转化为约6140亿美元的基础设施支出...",
+          "pubDate": "1794118537"
         },
         {
-          "title": "Meta首席战略官离职 转投AI推理初创公司Fireworks",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwnye4847610.shtml",
-          "description": "Meta首席战略官戴夫·韦纳周五确认，他将离开公司，出任AI推理初创企业Fireworks的首席财务官。 韦纳2012年加入脸书，担任企业财务与业务规划副总裁...",
-          "pubDate": "1794016401"
+          "title": "美军在阿曼湾击瘫一艘试图突破对伊朗海上封锁的货船",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzape4142828.shtml",
+          "description": "11月7日，美国中央司令部表示，美军当天在阿曼湾对一艘试图突破美国对伊朗海上封锁的商业货船实施打击，导致该船失去航行能力。这艘悬挂圣基茨旗帜的货船此前曾停靠伊朗港...",
+          "pubDate": "1794118291"
         },
         {
-          "title": "苹果：已有超10万款应用适配iPhone Duo",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwhse8313136.shtml",
-          "description": " 苹果表示，软件层面情况正在快速改善。该公司周五宣布，App Store中现已上线超过10万款专为iPhone Duo开发的应用，每天还有数千款新适配应用上架。",
-          "pubDate": "1794014059"
+          "title": "特朗普改造华盛顿高尔夫球场惹上官司，联邦法官下令调查政府律师是否误导法庭",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzapa7366214.shtml",
+          "description": "11月7日，美国联邦地区法官安娜·雷耶斯（Ana Reyes）宣布，拟任命特朗普首个总统任期内的华盛顿特区联邦检察官杰西·刘（Jessie Liu）为特别调查员...",
+          "pubDate": "1794118208"
         },
         {
-          "title": "特朗普企图一扫中期选举阴霾 宣布将举办“全球规模最大的航展”",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwhsh4952969.shtml",
-          "description": " 美国总统唐纳德·特朗普在佛罗里达州访问期间，试图淡化共和党在中期选举中的惨重失利，他主推一项美国新航展计划，以此证明其经济议程正在振兴美国工业。",
-          "pubDate": "1794012812"
+          "title": "沙特东部主要产油区一度拉响警报，联军宣布拦截胡塞武装弹道导弹",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzape4141587.shtml",
+          "description": "11月8日，沙特阿拉伯东部主要产油区一度发布紧急安全警报，随后宣布解除。沙特领导的多国联军表示，已成功拦截一枚由也门胡塞武装向沙特东部地区发射的弹道导弹。",
+          "pubDate": "1794118109"
         },
         {
-          "title": "万斯牵头与伊间接谈判 特朗普给外交尝试留出空间",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwhsn5211399.shtml",
-          "description": "两名知情消息人士称，美国副总统万斯过去两周亲自参与与伊朗的间接谈判，目标是达成新停火协议、重启核谈判。 万斯的深度介入表明，他正主动推动美国从这场冲突抽身...",
-          "pubDate": "1794012097"
+          "title": "阿布扎比王储会见比亚迪执行副总裁李柯，了解仰望U9 Xtreme极速纪录",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixywfe7417878.shtml",
+          "description": " 阿布扎比王储、阿布扎比执行委员会主席穆罕默德·本·扎耶德·阿勒纳哈扬会见了专注于电动汽车制造、新能源技术与可持续出行方案的中国企业比亚迪的执行副总裁李柯。",
+          "pubDate": "1794105785"
         },
         {
-          "title": "花旗搁置汽车零部件供应商Autokiniton 10亿美元贷款交易",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwhse8294971.shtml",
-          "description": " 知情人士透露，Autokiniton美国控股公司已搁置一笔约10.5亿美元杠杆贷款的修订及延期方案。该人士因信息属内部机密要求匿名。",
-          "pubDate": "1794011599"
+          "title": "报道：美国民主党参议员拟推出援乌法案，呼吁更换美方谈判代表、管控星链与星盾系统",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixyrxh7536879.shtml",
+          "description": "美国民主党参议员理查德・布卢门撒尔11月7日表示，他将提出支持乌克兰的法案，呼吁华盛顿指派新的谈判人员参与和平谈判，并敦促国会基于公共利益对星链...",
+          "pubDate": "1794103958"
         },
         {
-          "title": "特朗普称中期选举后会进行人事调整 但信任防长赫格塞思",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwhsn5194025.shtml",
-          "description": " 美国总统特朗普宣布，斯蒂芬·米勒将接替苏茜·怀尔斯担任白宫办公厅主任。就在数小时前，他在《60分钟》节目中表示会对团队进行调整。",
-          "pubDate": "1794010694"
+          "title": "李柯回应收购玛莎拉蒂传闻",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixyrxe4008934.shtml",
+          "description": "500 公里 / 小时的速度大关被打破。比亚迪旗下电动超跑仰望 U9 Xtreme 成为首款达成这一成绩的量产车，在阿联酋达夫拉地区的道路上跑出 503.17 公里 / 小时。",
+          "pubDate": "1794103109"
         },
         {
-          "title": "墨西哥批准六项光伏项目 将新增近650MW装机",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwhsh4917145.shtml",
-          "description": "墨西哥能源部批准了六项与私营合作方合作的新建光伏发电项目。 能源部通过消息发布的声明称，这批项目预计为该国承压的电网新增近650兆瓦装机容量。",
-          "pubDate": "1794008387"
+          "title": "“反对数据中心”浪潮不止在美国，欧洲多国爆发抗议",
+          "link": "https://finance.sina.com.cn/world/2026-11-08/doc-inixyrxa7371882.shtml",
+          "description": "来源：华尔街见闻 除了美国的“蓝色浪潮”外，针对数据中心扩张的抗议浪潮正席卷欧洲多国。 据彭博11月8日报道，周六（11月7日），爱尔兰都柏林约2000人走上街头...",
+          "pubDate": "1794103007"
         }
       ]
     },
