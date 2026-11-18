@@ -1,5 +1,5 @@
 {
-  "fetchTime": "2026-11-17T08:55:26.169895",
+  "fetchTime": "2026-11-18T08:20:02.268271",
   "sources": [
     {
       "name": "Reuters Business",
@@ -18,16 +18,76 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
-          "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-          "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-          "pubDate": "Tue, 17 Nov 2026 07:21:37 GMT"
+          "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+          "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+          "description": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
+          "pubDate": "Wed, 18 Nov 2026 08:19:09 GMT"
         },
         {
-          "title": "OpenAI sued by California over Hugging Face attack",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-          "description": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-          "pubDate": "Mon, 16 Nov 2026 23:12:24 GMT"
+          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+          "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+          "pubDate": "Wed, 18 Nov 2026 01:18:18 GMT"
+        },
+        {
+          "title": "How important are Nvidia and Jensen Huang to the US economy?",
+          "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+          "description": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+          "pubDate": "Wed, 18 Nov 2026 06:04:21 GMT"
+        },
+        {
+          "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+          "description": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+          "pubDate": "Wed, 18 Nov 2026 04:00:54 GMT"
+        },
+        {
+          "title": "Europe plans to catch the next computer chip wave",
+          "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+          "description": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+          "pubDate": "Wed, 18 Nov 2026 00:00:24 GMT"
+        },
+        {
+          "title": "Government backs welfare shake-up to prevent 'lost generation'",
+          "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+          "description": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+          "pubDate": "Tue, 17 Nov 2026 18:43:05 GMT"
+        },
+        {
+          "title": "Security flaw found in Java, world's third-largest programming language",
+          "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+          "description": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+          "pubDate": "Wed, 18 Nov 2026 05:33:13 GMT"
+        },
+        {
+          "title": "Speed camera fault may have allowed drivers to escape fines",
+          "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+          "description": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+          "pubDate": "Tue, 17 Nov 2026 20:04:54 GMT"
+        },
+        {
+          "title": "Waymo pulls driverless taxis from all US freeways",
+          "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+          "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+          "pubDate": "Wed, 18 Nov 2026 03:07:22 GMT"
+        },
+        {
+          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+          "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+          "description": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
+          "pubDate": "Tue, 17 Nov 2026 23:02:12 GMT"
+        },
+        {
+          "title": "Where are the most jobs for 18-24 year-olds?",
+          "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+          "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+          "pubDate": "Tue, 17 Nov 2026 12:35:53 GMT"
+        },
+        {
+          "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+          "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+          "description": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+          "pubDate": "Tue, 17 Nov 2026 15:56:04 GMT"
         },
         {
           "title": "We couldn't afford a house alone, so we bought one with strangers",
@@ -36,106 +96,46 @@
           "pubDate": "Tue, 17 Nov 2026 00:00:02 GMT"
         },
         {
-          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-          "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-          "pubDate": "Tue, 17 Nov 2026 02:37:53 GMT"
+          "title": "How new US chip restrictions on South East Asia will hit China",
+          "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+          "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+          "pubDate": "Tue, 17 Nov 2026 14:25:45 GMT"
         },
         {
-          "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-          "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-          "description": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-          "pubDate": "Mon, 16 Nov 2026 13:19:33 GMT"
+          "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+          "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+          "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+          "pubDate": "Fri, 13 Nov 2026 12:22:30 GMT"
         },
         {
-          "title": "Customers report service outages at major US banks",
-          "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-          "description": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-          "pubDate": "Tue, 17 Nov 2026 00:18:01 GMT"
+          "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+          "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+          "pubDate": "Thu, 12 Nov 2026 17:11:48 GMT"
         },
         {
-          "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-          "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-          "pubDate": "Mon, 16 Nov 2026 15:40:16 GMT"
+          "title": "Robot vessels take on the dangerous work of mine hunting",
+          "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+          "description": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+          "pubDate": "Wed, 11 Nov 2026 00:19:13 GMT"
         },
         {
-          "title": "Gas starts flowing from Jackdaw after government green light",
-          "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-          "description": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-          "pubDate": "Mon, 16 Nov 2026 06:24:08 GMT"
+          "title": "The engine parts that 'fight the laws of the universe'",
+          "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+          "description": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+          "pubDate": "Fri, 06 Nov 2026 00:06:06 GMT"
         },
         {
-          "title": "Intel sued by investors after PC sales slump hits share price",
-          "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-          "description": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-          "pubDate": "Mon, 16 Nov 2026 03:04:01 GMT"
+          "title": "Graduates are managing AI - but are they learning much else?",
+          "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+          "description": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+          "pubDate": "Wed, 04 Nov 2026 00:04:35 GMT"
         },
         {
-          "title": "Avoid this Black Friday scam - how to check it's a real deal",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
-          "description": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
-          "pubDate": "Mon, 16 Nov 2026 09:58:52 GMT"
-        },
-        {
-          "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-          "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-          "description": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-          "pubDate": "Sun, 15 Nov 2026 00:01:07 GMT"
-        },
-        {
-          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-          "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-          "pubDate": "Mon, 16 Nov 2026 01:47:57 GMT"
-        },
-        {
-          "title": "Minister backs legal right to job support for young people",
-          "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-          "description": "The work and pensions secretary said the level of support currently on offer was too vague.",
-          "pubDate": "Sun, 15 Nov 2026 13:06:15 GMT"
-        },
-        {
-          "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-          "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-          "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-          "pubDate": "Fri, 13 Nov 2026 23:00:31 GMT"
-        },
-        {
-          "title": "Microsoft says services fully restored after day-long global outage",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-          "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-          "pubDate": "Sat, 14 Nov 2026 06:42:27 GMT"
-        },
-        {
-          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-          "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-          "pubDate": "Fri, 13 Nov 2026 18:36:57 GMT"
-        },
-        {
-          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-          "description": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-          "pubDate": "Fri, 13 Nov 2026 19:53:57 GMT"
-        },
-        {
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-          "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-          "pubDate": "Fri, 13 Nov 2026 03:57:01 GMT"
-        },
-        {
-          "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
-          "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-          "description": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
-          "pubDate": "Fri, 13 Nov 2026 01:17:58 GMT"
-        },
-        {
-          "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-          "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-          "pubDate": "Fri, 13 Nov 2026 00:13:35 GMT"
+          "title": "How video game remakes tap the power of nostalgia",
+          "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+          "description": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+          "pubDate": "Fri, 30 Oct 2026 07:45:00 GMT"
         }
       ]
     },
@@ -147,40 +147,52 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-          "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-          "description": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
-          "pubDate": "Mon, 16 Nov 2026 22:37:45 GMT"
+          "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+          "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+          "description": "Xi opened the APEC summit in Shenzhen by calling for lower trade and investment barriers, pledging broader access to China’s market and manufacturing sector.",
+          "pubDate": "Wed, 18 Nov 2026 08:00:05 GMT"
         },
         {
-          "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
-          "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
-          "description": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
-          "pubDate": "Tue, 17 Nov 2026 05:51:13 GMT"
+          "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+          "link": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
+          "description": "Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
+          "pubDate": "Wed, 18 Nov 2026 05:24:54 GMT"
         },
         {
-          "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
-          "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
-          "description": "The U.S. Commerce Department is making moves to tighten export controls.",
-          "pubDate": "Tue, 17 Nov 2026 07:07:35 GMT"
+          "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+          "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+          "description": "Major outages showcase the risks of interconnected tech in the age of AI.",
+          "pubDate": "Tue, 17 Nov 2026 22:03:57 GMT"
         },
         {
-          "title": "Analysis: The Fed&apos;s chairman sees an AI revolution coming. Now he has to figure out what it means",
-          "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-          "description": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
-          "pubDate": "Tue, 17 Nov 2026 00:42:33 GMT"
+          "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+          "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+          "description": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+          "pubDate": "Wed, 18 Nov 2026 07:17:11 GMT"
         },
         {
-          "title": "Treasury yields are broadly flat as investors await retail sales data",
-          "link": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
-          "description": "U.S. Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session.",
-          "pubDate": "Tue, 17 Nov 2026 08:23:51 GMT"
+          "title": "Democrat Mary Peltola wins Alaska Senate election",
+          "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
+          "description": "Peltola's defeat of incumbent Republican Dan Sullivan gives Democrats a solid majority of 56 seats in the Senate as of January.",
+          "pubDate": "Wed, 18 Nov 2026 04:18:13 GMT"
         },
         {
-          "title": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
-          "link": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
-          "description": "The Commerce and Justice departments said in a joint statement that U.S. investigations into Megaspeed began in 2024.",
-          "pubDate": "Tue, 17 Nov 2026 06:59:42 GMT"
+          "title": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
+          "link": "https://www.cnbc.com/2026/11/18/us-iran-navy-hormuz-war-cao.html",
+          "description": "Acting Navy Secretary Hung Cao told senators the Navy recoded and used munitions he called expired as the Iran war strains weapons stocks and naval deployments.",
+          "pubDate": "Wed, 18 Nov 2026 07:24:06 GMT"
+        },
+        {
+          "title": "Emergency alerts and $75,000 rewards: South Korea fights high-tech exam cheating",
+          "link": "https://www.cnbc.com/2026/11/18/south-korea-exam-cheating-.html",
+          "description": "South Korea moves to crack down on exam cheating with emergency alerts and $75,000 rewards.",
+          "pubDate": "Wed, 18 Nov 2026 07:00:39 GMT"
+        },
+        {
+          "title": "Zelenskyy says Starshield speed curbs still in place over &apos;occupied territories&apos; of Ukraine",
+          "link": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
+          "description": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
+          "pubDate": "Wed, 18 Nov 2026 02:50:16 GMT"
         },
         {
           "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
@@ -189,82 +201,70 @@
           "pubDate": "Mon, 16 Nov 2026 23:05:12 GMT"
         },
         {
-          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-          "description": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-          "pubDate": "Mon, 16 Nov 2026 22:14:47 GMT"
+          "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+          "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+          "description": "The U.S. Commerce Department is making moves to tighten export controls.",
+          "pubDate": "Wed, 18 Nov 2026 07:16:14 GMT"
         },
         {
-          "title": "Eric Trump-backed robot soldier startup can&apos;t pay staff after founder borrowed $4.6 million from company to buy home",
-          "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-          "description": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
-          "pubDate": "Mon, 16 Nov 2026 17:14:13 GMT"
+          "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+          "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+          "description": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
+          "pubDate": "Tue, 17 Nov 2026 10:08:32 GMT"
         },
         {
-          "title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
-          "link": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
-          "description": "CNBC's Jim Cramer pushed back against fears that Nvidia's leadership shake-up could unravel the AI boom.",
-          "pubDate": "Mon, 16 Nov 2026 23:23:47 GMT"
+          "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+          "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+          "description": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+          "pubDate": "Wed, 18 Nov 2026 06:18:11 GMT"
         },
         {
-          "title": "CNBC&apos;s The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
-          "link": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
-          "description": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
-          "pubDate": "Mon, 16 Nov 2026 23:00:01 GMT"
+          "title": "LeBron James sues startup over viral AI ad allegedly exploiting his likeness",
+          "link": "https://www.cnbc.com/2026/11/18/lebron-james-startup-ai-lawsuit.html",
+          "description": "LeBron James sued an AI-powered sports betting startup over alleged unauthorized use of his likeness.",
+          "pubDate": "Wed, 18 Nov 2026 02:02:02 GMT"
         },
         {
-          "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-          "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-          "description": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-          "pubDate": "Mon, 16 Nov 2026 23:01:19 GMT"
+          "title": "OpenAI bugging case defendant Alfozan set for trial in January",
+          "link": "https://www.cnbc.com/2026/11/17/openai-spy-alfozan-trial-saudi.html",
+          "description": "Abdulrahman Alfozan has been held without bail since his arrest in October, after prosecutors said he planted a listening device in an OpenAI conference room.",
+          "pubDate": "Wed, 18 Nov 2026 01:31:37 GMT"
         },
         {
-          "title": "United Airlines resolves system outage that affected departing flights",
-          "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-          "description": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.",
-          "pubDate": "Tue, 17 Nov 2026 00:00:49 GMT"
+          "title": "Wall Street&apos;s fear gauge is surging again and this time it&apos;s not just about AI jitters",
+          "link": "https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html",
+          "description": "VIX up four days in a row as options traders show fear unseen since April",
+          "pubDate": "Tue, 17 Nov 2026 20:28:07 GMT"
         },
         {
-          "title": "Warren Buffett donates $5.5 billion, says kindness &apos;compounds&apos; in Thanksgiving letter",
-          "link": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
-          "description": "Following the donations, the chairman emeritus of Berkshire still owns 182,140 Class A shares -- roughly $162 billion.",
-          "pubDate": "Mon, 16 Nov 2026 17:39:32 GMT"
+          "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
+          "link": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
+          "description": "Semiconductor shipments spiked almost 50% year on year.",
+          "pubDate": "Wed, 18 Nov 2026 00:35:31 GMT"
         },
         {
-          "title": "Kalshi plans to launch stock trading soon",
-          "link": "https://www.cnbc.com/2026/11/16/kalshi-plans-to-launch-stock-trading-soon.html",
-          "description": "Kalshi's interest in offering stock trading shows the platform's push into traditional financial markets.",
-          "pubDate": "Mon, 16 Nov 2026 21:23:34 GMT"
+          "title": "A generational flight from tech to defensive stocks is underway. How we’re capitalizing",
+          "link": "https://www.cnbc.com/investingclub/2026/11/17/a-generational-flight-from-tech-to-defensive-stocks-is-underway-how-were-capitalizing.html",
+          "description": "Jim Cramer has pushed the message that its important for investors to balance their portfolios.",
+          "pubDate": "Tue, 17 Nov 2026 20:31:27 GMT"
         },
         {
-          "title": "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
-          "link": "https://www.cnbc.com/investingclub/2026/11/16/eli-lilly-makes-a-deal-outside-obesity-plus-another-word-of-caution-on-nvidia.html",
-          "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-          "pubDate": "Mon, 16 Nov 2026 20:07:46 GMT"
-        },
-        {
-          "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-          "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-          "description": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation.",
-          "pubDate": "Mon, 16 Nov 2026 22:11:09 GMT"
-        },
-        {
-          "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-          "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+          "title": "Nvidia takes positive step forward with stronger sales outlook. Here’s our thoughts on the stock",
+          "link": "https://www.cnbc.com/investingclub/2026/11/17/nvidia-takes-positive-step-forward-with-stronger-sales-outlook-heres-our-thoughts-on-the-stock.html",
           "description": "",
-          "pubDate": "Mon, 16 Nov 2026 18:46:07 GMT"
+          "pubDate": "Wed, 18 Nov 2026 01:18:41 GMT"
         },
         {
-          "title": "Market&apos;s Nvidia obsession obscuring an opportunity in this name",
-          "link": "https://www.cnbc.com/2026/11/16/disney-options-trade-before-earnings.html",
-          "description": "Investors might be overlooking Disney earnings.",
-          "pubDate": "Mon, 16 Nov 2026 18:56:49 GMT"
+          "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
+          "link": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
+          "description": "Homebuilder sentiment fell to a 14-year low amid high mortgage rates and higher prices for energy, labor and materials. That caused more builder price cuts.",
+          "pubDate": "Tue, 17 Nov 2026 15:36:43 GMT"
         },
         {
-          "title": "This Anthropic proxy play is getting traders&apos; attention – here&apos;s where they see it going",
-          "link": "https://www.cnbc.com/2026/11/16/anthropic-proxy-destiny-tech100-fund.html",
-          "description": "There are bullish signs surrounding the Anthropic IPO in the derivatives market.",
-          "pubDate": "Mon, 16 Nov 2026 19:06:11 GMT"
+          "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+          "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
+          "description": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
+          "pubDate": "Tue, 17 Nov 2026 22:02:05 GMT"
         }
       ]
     },
@@ -273,73 +273,67 @@
       "category": "Finance",
       "region": "international",
       "url": "https://www.ft.com/rss/home",
-      "itemCount": 11,
+      "itemCount": 10,
       "items": [
         {
-          "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
-          "link": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
-          "description": "Email, internal probes and other documents throw new light on the career and leadership of chief executive Christian Sewing",
-          "pubDate": "Tue, 17 Nov 2026 08:09:20 GMT"
+          "title": "Nvidia insists Huang will not return as CEO as it reports strong sales",
+          "link": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
+          "description": "Chip giant raises next year’s financial forecasts as it doubled revenue last quarter",
+          "pubDate": "Wed, 18 Nov 2026 00:45:45 GMT"
         },
         {
-          "title": "German lender processed $582mn of suspicious payments linked to Epstein",
-          "link": "https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96?syn-25a6b1a6=1",
-          "description": "Figure revealed by internal documents is substantially higher than previously known",
-          "pubDate": "Tue, 17 Nov 2026 06:00:06 GMT"
+          "title": "Nvidia has a chance to trade drama for durability",
+          "link": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
+          "description": "Chip group reports first results without flamboyant co-founder Jensen Huang at the helm",
+          "pubDate": "Wed, 18 Nov 2026 02:56:15 GMT"
         },
         {
-          "title": "An ‘awful mistake’ that leaked Trump’s tax statements",
-          "link": "https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1?syn-25a6b1a6=1",
-          "description": "Data breach in 2017 was described internally as an ‘awful mistake’ by Christian Sewing, then head of lender’s private bank",
-          "pubDate": "Tue, 17 Nov 2026 06:00:06 GMT"
+          "title": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings",
+          "link": "https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6=1",
+          "description": "Daughter and son-in-law come under scrutiny as board launches probe over company’s links to Megaspeed",
+          "pubDate": "Tue, 17 Nov 2026 15:33:25 GMT"
         },
         {
-          "title": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
-          "link": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
-          "description": "Millions of leaked documents cast light on Christian Sewing’s leadership of the scandal-hit lender",
-          "pubDate": "Tue, 17 Nov 2026 06:00:07 GMT"
+          "title": "Deutsche Bank hired a Qatari royal. Why?",
+          "link": "https://www.ft.com/content/9edd3730-3a15-4e1a-b33a-629aff00e847?syn-25a6b1a6=1",
+          "description": "Leaked documents reveal how dealings with royal dynasty blurred traditional boundaries between investor, client and counterparty",
+          "pubDate": "Wed, 18 Nov 2026 06:00:08 GMT"
         },
         {
-          "title": "‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump",
-          "link": "https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1",
-          "description": "President’s allies trade blame over losing grip on new media landscape after crushing midterm defeat",
-          "pubDate": "Tue, 17 Nov 2026 05:00:25 GMT"
+          "title": "The good and the bad of climate policy",
+          "link": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e?syn-25a6b1a6=1",
+          "description": "Big challenges in mitigating what is to come are dwarfed by the costs of having to adapt to what currently lies ahead",
+          "pubDate": "Wed, 18 Nov 2026 05:00:16 GMT"
         },
         {
-          "title": "The AI sell-off makes sense. Staying bearish may not",
-          "link": "https://www.ft.com/content/d94f5378-ae95-4bfd-ac01-3a65b387d4cf",
-          "description": "Several factors have converged to strengthen the investment case for hyperscalers",
-          "pubDate": "Tue, 17 Nov 2026 05:00:25 GMT"
+          "title": "Anthropic IPO set to deliver windfall to handful of smaller VC firms",
+          "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
+          "description": "Group of lesser-known investors on track for bumper returns after early bets on AI group",
+          "pubDate": "Wed, 18 Nov 2026 05:00:26 GMT"
         },
         {
-          "title": "Nvidia’s interim CEO Colette Kress to make her debut at first earnings",
-          "link": "https://www.ft.com/content/424e5ab0-517e-4f8e-a286-df7c67fa05a6?syn-25a6b1a6=1",
-          "description": "Successor to founder Jensen Huang will have to ease investors’ anxiety about AI chipmaker’s future",
-          "pubDate": "Tue, 17 Nov 2026 05:00:14 GMT"
+          "title": "Putin pushes ‘Eurasian’ order ahead of meeting with Xi and Trump",
+          "link": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1",
+          "description": "Russian president lashes out at western powers in rare address to global CEOs in China",
+          "pubDate": "Wed, 18 Nov 2026 05:10:43 GMT"
         },
         {
-          "title": "Tech sell-off deepens as Nvidia results loom",
-          "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
-          "description": "Investors fret over tighter US chip export controls and potential slowdown in AI data centre build-out",
-          "pubDate": "Tue, 17 Nov 2026 08:36:16 GMT"
+          "title": "Democrats win Alaska Senate seat to complete midterms victory",
+          "link": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1",
+          "description": "Mary Peltola’s success in northernmost US state raises party’s tally to 56 in 100-member chamber",
+          "pubDate": "Wed, 18 Nov 2026 04:59:01 GMT"
         },
         {
-          "title": "Finland urges European leaders to talk to Putin directly",
-          "link": "https://www.ft.com/content/671d7a7d-c06f-4947-a0ac-72c41e262cca?syn-25a6b1a6=1",
-          "description": "President Alexander Stubb says Europe outsourcing negotiations to US was ‘irresponsible’",
-          "pubDate": "Tue, 17 Nov 2026 05:00:25 GMT"
+          "title": "Wall Street expects corporate earnings growth to halve next year",
+          "link": "https://www.ft.com/content/74fdac03-bd9b-4e68-9e6e-dc023eb47be9?syn-25a6b1a6=1",
+          "description": "Analysts forecast profit growth will dip to 16% globally from 33.5% as pace of AI capex expansion slows",
+          "pubDate": "Wed, 18 Nov 2026 05:00:16 GMT"
         },
         {
-          "title": "Oligarch’s ex-wife to claim £600mn for ‘reasonable needs’ in London divorce case",
-          "link": "https://www.ft.com/content/969f0f82-7dd5-4d63-8f60-ee967028f744?syn-25a6b1a6=1",
-          "description": "Britain’s biggest-ever divorce trial, involving Russian metals tycoon Vladimir Potanin, begins this week",
-          "pubDate": "Tue, 17 Nov 2026 05:00:15 GMT"
-        },
-        {
-          "title": "Xi and Canada’s Carney slash tariffs as China courts middle powers",
-          "link": "https://www.ft.com/content/3a8dbdda-1645-4b62-b64b-7da5de611d53?syn-25a6b1a6=1",
-          "description": "Ottawa’s efforts to hedge against US pressure risk creating dependency on Beijing, analysts warn",
-          "pubDate": "Tue, 17 Nov 2026 06:20:15 GMT"
+          "title": "AI asked ‘better questions’ than KPMG accountants in pilot audit",
+          "link": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1",
+          "description": "Big Four firm used AI agents to review financial statements of a FTSE 250 company, but human intervention was needed",
+          "pubDate": "Wed, 18 Nov 2026 05:00:07 GMT"
         }
       ]
     },
@@ -351,124 +345,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "Tech Stock Selloff Eases in Countdown to Nvidia: Markets Wrap",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
-          "description": "A selloff in US technology stocks paused ahead of Nvidia Corp.’s earnings, with the stakes extending beyond the company to the broader artificial intelligence trade.",
-          "pubDate": "Mon, 16 Nov 2026 22:06:51 GMT"
-        },
-        {
-          "title": "Barclays’ Rajadhayaksha Says Nvidia Market Angst Overdone",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-17/barclays-rajadhayaksha-nvidia-market-angst-overdone-video",
-          "description": "Barlcays' Global Research Chairman Ajay Rajadhyaksha says markets are overplaying jitters over a Nvidia leadership change and will back risk assets. \"Things are not as bad as the markets suggest.\" He speaks to Bloomberg's Anna Edwards and Guy Johnson on Bloomberg's \"The Opening Trade.\" (Source: Bloomberg)",
-          "pubDate": "Tue, 17 Nov 2026 08:48:59 GMT"
-        },
-        {
-          "title": "KKR Is Said to Emerge as Preferred Bidder for Japanese Curry Chain Ichibanya",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-17/kkr-is-said-to-emerge-as-preferred-bidder-for-japanese-curry-chain-ichibanya",
-          "description": "US investment firm KKR &amp; Co. has been selected as the preferred bidder for Japan’s largest curry rice chain Ichibanya Co., according to people familiar with the matter.",
-          "pubDate": "Tue, 17 Nov 2026 06:29:32 GMT"
-        },
-        {
-          "title": "Deutsche Bank Processed Large Sums Linked to Epstein: FT",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-large-sums-linked-to-epstein-ft-video",
-          "description": "Internal documents showed that Deutsche Bank processed $582 million of suspicious payments linked to the late sex offender Jeffrey Epstein, the Financial Times reported. Bloomberg's Guy Johnson explains. (Source: Bloomberg)",
-          "pubDate": "Tue, 17 Nov 2026 08:44:45 GMT"
-        },
-        {
-          "title": "Old Mutual Sells $1 Billion of South Africa Malls to Vukile",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-17/old-mutual-sells-1-billion-of-south-africa-malls-to-vukile",
-          "description": "Old Mutual Ltd. is selling almost $1 billion of retail assets in South Africa in a landmark deal that will significantly expand Vukile Property Fund Ltd.’s exposure to the continent’s biggest economy.",
-          "pubDate": "Tue, 17 Nov 2026 08:34:12 GMT"
-        },
-        {
-          "title": "European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff",
-          "description": "European stocks opened lower as concerns over the artificial-intelligence trade swept markets ahead of Nvidia Corp.’s results, after the US moved to impose sweeping new restrictions on China’s access to high-end AI chips.",
-          "pubDate": "Tue, 17 Nov 2026 08:30:44 GMT"
-        },
-        {
-          "title": "Virgin Media O2 Downgraded by Moody’s on Turnaround Concerns",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-16/virgin-media-o2-downgraded-by-moody-s-on-turnaround-concerns",
-          "description": "Virgin Media O2’s credit grade was cut one level by Moody’s Ratings amid continued uncertainty over the timing and pace of the UK telecom’s turnaround efforts.",
-          "pubDate": "Mon, 16 Nov 2026 19:34:46 GMT"
-        },
-        {
-          "title": "Sabbagh: Space Security Requirements Have Surged",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-17/sabbagh-space-security-requirements-have-surged-video",
-          "description": "UAE-based AI-powered space tech firm Space42 reported net income for the third quarter of $31.1 million, up sharply from a year ago. Revenue climbed over 6% to just under 145 million dollars, powered by the launch of its Thuraya-4 satellite and surging government demand. Karim Michel Sabbagh, Managing Director of Space42 spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on the numbers.\n (Source: Bloomberg)",
-          "pubDate": "Tue, 17 Nov 2026 08:28:16 GMT"
-        },
-        {
-          "title": "Turkish Stocks Raised to Overweight at JPMorgan on Rebound Bet",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-17/turkish-stocks-raised-to-overweight-at-jpmorgan-on-rebound-bet",
-          "description": "Turkish stocks are set to rebound after a fund crisis pushed the index into oversold territory, according to analysts at JPMorgan Chase &amp; Co., who upgraded the country’s market to overweight from neutral.",
-          "pubDate": "Tue, 17 Nov 2026 08:26:44 GMT"
-        },
-        {
-          "title": "Widespread Gloominess Is Already Priced: Market Analysis",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-17/widespread-gloominess-is-already-priced-3-minutes-mliv-video",
-          "description": "Anna Edwards, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-          "pubDate": "Tue, 17 Nov 2026 08:16:34 GMT"
-        },
-        {
-          "title": "Europe Gas Edges Higher on Middle East Tensions, Weather Outlook",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-17/europe-gas-edges-higher-on-middle-east-tensions-weather-outlook",
-          "description": "European natural gas ticked higher after Iran continued to attack US bases in Bahrain and weather models pointed to an upcoming cold spell, adding strain to the region’s fragile market balance.",
-          "pubDate": "Tue, 17 Nov 2026 08:08:17 GMT"
-        },
-        {
-          "title": "Australia to Investigate China Over Alleged Timber Dumping",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-17/australia-to-investigate-china-over-alleged-timber-dumping",
-          "description": "The Australian government will investigate allegations that China exported structural timber products at “less than their normal value,” potentially undercutting local firms in the middle of a national housing crisis.",
-          "pubDate": "Tue, 17 Nov 2026 08:03:53 GMT"
-        },
-        {
-          "title": "ING Plans to Break Into ETFs With Two Debut Funds in Germany",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-17/ing-plans-to-break-into-etfs-with-two-debut-funds-in-germany",
-          "description": "ING Groep NV is set to introduce its own exchange traded funds as the lender seeks to tap into demand for the fast-growing investment products.",
-          "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT"
-        },
-        {
-          "title": "UK’s Latest Jobs Report Is a Mixed Bag With Wage Growth Slowing, Payrolls Cut",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-11-17/uk-s-latest-jobs-report-is-a-mixed-bag-with-wage-growth-slowing-payrolls-cut",
-          "description": "Plus, the FTSE 100 is about to get tested by tech",
-          "pubDate": "Tue, 17 Nov 2026 07:42:37 GMT"
-        },
-        {
-          "title": "UK Stocks, AI Adoption Drive FTSE 250 Gains as Oil Drops 20%",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-17/uk-stocks-ai-adoption-drive-ftse-250-gains-as-oil-drops-20",
-          "description": "UK investors are slowly embracing renewed domestic strength, as AI adoption emerges as a key driver for local stocks and enables the economy to defy the odds.",
-          "pubDate": "Tue, 17 Nov 2026 07:22:15 GMT"
-        },
-        {
-          "title": "Wise Sees Small Business Driving Asia Payments Growth",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-17/wise-sees-small-business-driving-asia-payments-growth-video",
-          "description": "Wise Group Co-Founder & CEO Kristo Kaarmann says the digital shift among Southeast Asia’s small businesses is accelerating demand for cross-border payments, with Asia Pacific its fastest-growing region. The company is expanding partnerships with banks while adding investment and payment features across Asia. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
-          "pubDate": "Tue, 17 Nov 2026 07:21:05 GMT"
-        },
-        {
-          "title": "ASEAN's Middle Powers Seek Bigger Role in Global Order",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-17/asean-s-middle-powers-seek-bigger-role-in-global-order-video",
-          "description": "Stratbase Institute Founder Victor Andres C. Manhit believes ASEAN should use its growing economic clout to help shape the global agenda rather than simply choose between the US and China. The Philippines can work with other middle powers while defending a rules-based international order and its maritime rights.\nHe speaks with Haslinda Amin from the sidelines of the \"ASEAN Summit 2026\". (Source: Bloomberg)",
-          "pubDate": "Tue, 17 Nov 2026 07:16:14 GMT"
-        },
-        {
-          "title": "Canadian Funds Join Nordic Capital in €3 Billion Cary Deal",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-17/canada-pension-funds-cvc-capital-partners-nordic-capital-in-3-billion-cary-deal",
-          "description": "CVC Capital Partners Plc is selling its stake in vehicle glass repair company Cary Group to two of Canada’s largest pension funds and Nordic Capital, which is set to reinvest in the business.",
-          "pubDate": "Tue, 17 Nov 2026 06:36:33 GMT"
-        },
-        {
-          "title": "FTSE 100 Live: European Stocks Fall as AI Worries Spread",
-          "link": "https://www.bloomberg.com/news/live-blog/2026-11-17/what-s-moving-uk-markets-right-now-markets-today-mwkc7vf0",
+          "title": "Horizons Middle East & Africa 11/18/2026 (Video)",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-18/horizons-middle-east-africa-11-18-2026-video",
           "description": "",
-          "pubDate": "Tue, 17 Nov 2026 06:54:50 GMT"
+          "pubDate": "Wed, 18 Nov 2026 08:18:15 GMT"
         },
         {
-          "title": "US Targets China's Remote Chip Access With New Curbs",
-          "link": "https://www.bloomberg.com/news/videos/2026-11-17/the-china-show-11-17-2026-video",
+          "title": "Latest Oil Market News and Analysis for Nov. 18",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18",
+          "description": "Oil extended a decline as traders looked past renewed fighting in the Middle East, tracking signs of recovering supplies and higher US inventories.",
+          "pubDate": "Tue, 17 Nov 2026 23:01:33 GMT"
+        },
+        {
+          "title": "UK Inflation Print at Fastest in a Year Comes With Few Surprises",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-11-18/uk-inflation-print-at-fastest-in-a-year-comes-with-few-surprises",
+          "description": "Plus, markets digest Nvidia’s strong earnings",
+          "pubDate": "Wed, 18 Nov 2026 07:50:32 GMT"
+        },
+        {
+          "title": "Trump Treated to Late-Night Jollibee Snacks by Marcos",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-18/trump-treated-to-late-night-jollibee-snacks-by-marcos-video",
+          "description": "“We are very proud to say we have surpassed KFC in the United States in terms of popularity.”\n\nPhilippine President Ferdinand Marcos Jr. served up a taste of Jollibee diplomacy to Donald Trump, sending the US leader and his delegation late-night snacks on Tuesday from the Filipino fast-food giant known for its fried chicken. (Source: Bloomberg)",
+          "pubDate": "Wed, 18 Nov 2026 07:38:48 GMT"
+        },
+        {
+          "title": "Optimism About Europe Just Hit a Nine-Month High: Taking Stock",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/optimism-about-europe-just-hit-a-nine-month-high-taking-stock",
+          "description": "The view among investors about the outlook for European stocks has rarely been brighter this year, with expectations of further gains.",
+          "pubDate": "Wed, 18 Nov 2026 07:15:38 GMT"
+        },
+        {
+          "title": "Top Swedish Law Firm Vinge Sees Pickup in Private Equity Deals",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/top-swedish-law-firm-vinge-sees-pickup-in-private-equity-deals",
+          "description": "Private equity activity is picking up in Sweden as buyout firms return to the market after a quieter period for dealmaking, according to the chief executive of Advokatfirman Vinge KB, one of the country’s biggest law firms.",
+          "pubDate": "Wed, 18 Nov 2026 07:15:01 GMT"
+        },
+        {
+          "title": "India Weighs Tax Tweaks to Boost Stock Trading, Curb Derivatives",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/india-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives",
+          "description": "Indian revenue officials are reviewing proposals from investors and economists to raise taxes on stock derivatives while lowering levies on share trading, in a bid to curb speculative bets and encourage broader participation in the equity market, according to people with knowledge of the matter.",
+          "pubDate": "Wed, 18 Nov 2026 07:02:08 GMT"
+        },
+        {
+          "title": "Stocks Waver After Nvidia Results, Treasuries Rise: Markets Wrap",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+          "description": "Global stocks failed to mount a meaningful rebound as the initial boost from Nvidia Corp.’s better-than-expected sales forecast faded, signaling lingering doubts over the artificial intelligence trade. Treasuries gained.",
+          "pubDate": "Tue, 17 Nov 2026 22:07:08 GMT"
+        },
+        {
+          "title": "Gold Slumps Below $3,800 as Fed Officials Signal More Rate Hikes",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
+          "description": "Gold dropped below $3,800 an ounce for the first time since September 2025 after Federal Reserve officials made the case for more interest-rate hikes to tackle stubborn inflation.",
+          "pubDate": "Tue, 17 Nov 2026 23:33:52 GMT"
+        },
+        {
+          "title": "Gilts Rally After Benign Inflation Data",
+          "link": "https://www.bloomberg.com/news/live-blog/2026-11-18/what-s-moving-uk-markets-right-now-markets-today",
+          "description": "",
+          "pubDate": "Wed, 18 Nov 2026 06:49:02 GMT"
+        },
+        {
+          "title": "Muzinich CEO on Higher Rates and Private Credit Risks",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-18/muzinich-ceo-on-higher-rates-and-private-credit-risks-video",
+          "description": "Justin Muzinich, CEO of Muzinich & Co., discusses sticky inflation, his outlook for higher rates and stress in private credit. He also explains how geopolitical risks are affecting AI data-center financing and opportunities across Asia. He appeared on Bloomberg's Insight with Haslinda Amin. (Source: Bloomberg)",
+          "pubDate": "Wed, 18 Nov 2026 06:46:24 GMT"
+        },
+        {
+          "title": "Xi Jinping Speaks at APEC as Nvidia Posts Solid First Post-Huang Earnings",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-18/the-china-show-11-18-2026-video",
           "description": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and Avril Hong give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
-          "pubDate": "Tue, 17 Nov 2026 06:46:36 GMT"
+          "pubDate": "Wed, 18 Nov 2026 06:39:59 GMT"
+        },
+        {
+          "title": "Fidelity Says Even at 6% Treasuries Fail to Be ‘Massively Cheap’",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-17/fidelity-says-even-at-6-treasuries-fail-to-be-massively-cheap",
+          "description": "The recent selloff in Treasuries has sparked debate about buying opportunities, but Fidelity International’s Salman Ahmed reckons that even a 6% yield wouldn’t make the 10-year note “massively cheap.”",
+          "pubDate": "Tue, 17 Nov 2026 23:00:00 GMT"
+        },
+        {
+          "title": "Delevska: Need a Strong Leader to Run Nvidia",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-18/delevska-need-a-strong-leader-to-run-nvidia-video",
+          "description": "Nvidia boosted its sales forecast for next year and vowed to improve the company’s access to critical supplies while dismissing rumours of Jensen Huang’s return in their first earnings call since the scandal broke out. Ivana Delevska, CIO of Spear Invest spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on the chip giant’s forecast. (Source: Bloomberg)",
+          "pubDate": "Wed, 18 Nov 2026 06:14:45 GMT"
+        },
+        {
+          "title": "Xi, Putin Assail Economic Barriers Ahead of Summit With Trump",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/xi-warns-against-rampant-protectionism-ahead-of-trump-talks",
+          "description": "Xi Jinping warned against economic barriers and urged closer cooperation among Asia-Pacific nations ahead of talks with Donald Trump, as new US restrictions on China’s access to advanced AI chips strain a fragile trade truce.",
+          "pubDate": "Wed, 18 Nov 2026 02:25:09 GMT"
+        },
+        {
+          "title": "US Strikes Iranian Missile Site after Bahrain Attacks",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-18/us-strikes-iranian-missile-site-after-bahrain-attacks-video",
+          "description": "Bloomberg’s Jon Herskovitz discusses the latest exchange of strikes between the US and Iran after American warplanes hit an Islamic Revolutionary Guard Corps missile launch site in Iran. Iran previously targeted an air base in Bahrain in the first direct strike on the Gulf state in weeks, even as it reiterated that a path to ending the conflict with the US remains open. (Source: Bloomberg)",
+          "pubDate": "Wed, 18 Nov 2026 05:37:06 GMT"
+        },
+        {
+          "title": "Quant Trader Graviton Expands Offices in India, Singapore",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/quant-trader-graviton-expands-office-space-in-india-singapore",
+          "description": "Graviton Research Capital LLP has expanded into larger offices in India’s high-frequency trading hub of Gurugram and in Singapore as the homegrown firm gears up for an ambitious global expansion.",
+          "pubDate": "Wed, 18 Nov 2026 01:30:00 GMT"
+        },
+        {
+          "title": "Anthropic Crypto Bets Imply $1.7 Trillion Value Despite AI Rout",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-crypto-bets-imply-1-7-trillion-value-despite-ai-rout",
+          "description": "Crypto futures tied to Anthropic’s stock market debut have fallen alongside artificial intelligence stocks, but they still imply a blockbuster valuation of about $1.7 trillion, well above the $1.4 trillion the company would be worth at the top of its proposed initial public offering range.",
+          "pubDate": "Wed, 18 Nov 2026 05:21:44 GMT"
+        },
+        {
+          "title": "Treasuries Edge Higher for a Third Day as Risk Appetite Falters",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/treasuries-ust-bond-yields-risk-appetite-falters",
+          "description": "Benchmark US Treasuries edged higher for a third day, supported by subdued risk sentiment and speculation that most of the Federal Reserve’s upcoming interest-rate hikes may already be in the price.",
+          "pubDate": "Wed, 18 Nov 2026 05:19:28 GMT"
+        },
+        {
+          "title": "Smaller Tankers Join Hormuz Shuttle Trade to Keep Oil Flowing",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/smaller-tankers--hormuz-shuttle-trade-oil-flows-wti-brent-crude",
+          "description": "Oil is increasingly moving through the Strait of Hormuz on smaller vessels, helping sustain exports as attacks on supertankers squeeze availability of the ships that typically dominate the trade.",
+          "pubDate": "Wed, 18 Nov 2026 05:18:18 GMT"
         }
       ]
     },
@@ -489,64 +483,64 @@
       "itemCount": 10,
       "items": [
         {
-          "title": "I&#x2019;m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-          "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-          "description": "&#x201c;If I die before my husband, he will receive a lifetime pension equal to 50%&#x2013;66% of my monthly benefit.&#x201d;",
-          "pubDate": "Tue, 17 Nov 2026 02:30:00 GMT"
+          "title": "CoreWeave&#x2019;s stock pops &#x2014; even as Nvidia talks up a &#x2018;disciplined&#x2019; approach to financing",
+          "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+          "description": "Nvidia interim CEO Colette Kress said neoclouds are &#x201c;increasingly important,&#x201d; but added the company will take &#x201c;a very strong look&#x201d; at the customers it helps with financing.",
+          "pubDate": "Wed, 18 Nov 2026 01:59:00 GMT"
         },
         {
-          "title": "United Airlines resolves system outage that delayed flights Monday",
-          "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
-          "description": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
-          "pubDate": "Mon, 16 Nov 2026 23:42:00 GMT"
+          "title": "Medicare Part B premiums rise due higher healthcare spending",
+          "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+          "description": "The premiums will increase by $6.50, to $209.40 a month.",
+          "pubDate": "Wed, 18 Nov 2026 01:45:00 GMT"
         },
         {
-          "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
-          "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
-          "description": "Druckenmiller&#x2019;s family office unloaded AMD and Sandisk shares in the third quarter.",
-          "pubDate": "Mon, 16 Nov 2026 23:28:00 GMT"
-        },
-        {
-          "title": "Do Amazon&#x2019;s Black Friday deals really save you money? A new report casts doubt.",
-          "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
-          "description": "Almost a third of Amazon Black Friday deals &#x201c;provided no savings at all&#x201d; in the last two years, a report says. The retailer is pushing back.",
-          "pubDate": "Mon, 16 Nov 2026 23:04:00 GMT"
+          "title": "Nvidia&#x2019;s stock rises as blowout numbers help ease CEO transition fears",
+          "link": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
+          "description": "Nvidia&#x2019;s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.",
+          "pubDate": "Wed, 18 Nov 2026 01:28:00 GMT"
         },
         {
           "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
           "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
           "description": "&#x201c;I&#x2019;m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.&#x201d;",
-          "pubDate": "Mon, 16 Nov 2026 23:00:00 GMT"
+          "pubDate": "Tue, 17 Nov 2026 23:30:00 GMT"
         },
         {
-          "title": "U.S. dollar&#x2019;s AI-driven breakout could become a stock-market wrecking ball",
-          "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
-          "description": "The dollar recently climbed to its strongest level in a year and a half.",
-          "pubDate": "Mon, 16 Nov 2026 22:46:00 GMT"
+          "title": "I&#x2019;m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+          "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+          "description": "&#x201c;If I die before my husband, he will receive a lifetime pension equal to 50%&#x2013;66% of my monthly benefit.&#x201d;",
+          "pubDate": "Tue, 17 Nov 2026 23:15:00 GMT"
         },
         {
-          "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
-          "link": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
-          "description": "Berkshire Hathaway stepped up its investments in the U.S. housing market last quarter, nearly doubling its stake in home builder Lennar.",
-          "pubDate": "Mon, 16 Nov 2026 22:33:00 GMT"
+          "title": "Costco is benefiting from &#x2018;apocalyptic concerns&#x2019; as customers stock up on goods, analysts say",
+          "link": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
+          "description": "Mizuho analysts have seen an &#x201c;acceleration on emergency prep sales&#x201d; at the warehouse chain following the Microsoft outage and nationwide flight stoppage.",
+          "pubDate": "Tue, 17 Nov 2026 22:46:00 GMT"
         },
         {
-          "title": "&#x2018;He calls my plans a fantasy&#x2019;: My husband says we can&#x2019;t afford a $200,000-a-year retirement. Is he being cheap?",
-          "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-          "description": "&#x201c;We have $2 million saved in our retirement accounts and a house worth $1.3 million.&#x201d;",
-          "pubDate": "Mon, 16 Nov 2026 22:30:00 GMT"
+          "title": "&#x2018;It&#x2019;s downright dirty&#x2019;: My brother took over our ailing mother&#x2019;s life and finances. What can I do?",
+          "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+          "description": "&#x201c;It is devastating when the people you should be able to trust become the very people you have to protect yourself from.&#x201d;",
+          "pubDate": "Tue, 17 Nov 2026 22:30:00 GMT"
         },
         {
-          "title": "The FDA declined to approve one of biotech&#x2019;s most closely watched cancer drugs. The company&#x2019;s stock tumbled.",
-          "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-          "description": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
-          "pubDate": "Mon, 16 Nov 2026 22:21:00 GMT"
+          "title": "&#x2018;Nvidia&#x2019;s turmoil has me spooked&#x2019;: Has the time come to sell my stocks?",
+          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+          "description": "&#x201c;Real estate here in Florida seems to be presenting some interesting opportunities.&#x201d;",
+          "pubDate": "Tue, 17 Nov 2026 22:15:00 GMT"
         },
         {
-          "title": "&#x2018;It leaves me with a sour taste&#x2019;: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-          "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-          "description": "&#x201c;I know older people can easily feel patronized, and I don&#x2019;t want that to happen.&#x201d;",
-          "pubDate": "Mon, 16 Nov 2026 22:08:00 GMT"
+          "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
+          "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
+          "description": "Don&#x2019;t rule out a half-point interest-rate hike in December, BofA Global&#x2019;s rates team said.",
+          "pubDate": "Tue, 17 Nov 2026 22:08:00 GMT"
+        },
+        {
+          "title": "My older brother, who has no children, cut our only sister out of his will. I&#x2019;ll get everything instead. Do I tell her?",
+          "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+          "description": "&#x201c;I&#x2019;m torn between respecting my brother&#x2019;s wishes and being fair to my sister.&#x201d;",
+          "pubDate": "Tue, 17 Nov 2026 21:30:00 GMT"
         }
       ]
     },
@@ -687,124 +681,124 @@
       "itemCount": 20,
       "items": [
         {
-          "title": "德意志银行：芯片美元取代石油美元或加剧美元波动性",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyzswf7637291.shtml",
-          "description": " 德意志银行表示，随着美元与美国股市和科技行业的联系日益加深，其影响力逐渐超过美元与美国国债和石油行业之间的传统联系，美元面临波动性上升的风险。",
-          "pubDate": "1794905626"
+          "title": "港股收评：恒指跌0.91% 科指跌0.58% 科网股、黄金股普跌 应用软件板块午后拉升 智谱涨超9%",
+          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-18/doc-inizcvvc4888289.shtml",
+          "description": "11月18日消息，港股三大指数集体下跌。截至收盘，恒生指数跌0.91%，报23294.75，恒生科技指数跌0.58%，国企指数跌0.86%。盘面上，科网股普跌，京东跌超7%...",
+          "pubDate": "1794989311"
         },
         {
-          "title": "高盛料金价两年后或创新高 澳新集团预计明年将升至4800美元",
-          "link": "https://finance.sina.com.cn/world/2026-11-17/doc-iniyzswf2215992.shtml",
-          "description": "高盛称，黄金价格曾在一个月时间里上涨逾30%并刷新纪录高位，但这种贵金属要想再创新高，可能还需两年。 该行预计，由于美联储持续加息对不孳息的黄金构成压力...",
-          "pubDate": "1794905531"
+          "title": "CoreWeave首席执行官：没有黄仁勋英伟达不会受影响",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvuz1106882.shtml",
+          "description": " 周二，“硅谷与世界”大会上，CoreWeave首席执行官迈克尔·因特拉托（Michael Intrator）暗示，他并不特别担心黄仁勋离职会对CoreWeave的业务造成影响。",
+          "pubDate": "1794989168"
         },
         {
-          "title": "巴克莱：被动强平抛售是台股大跌背后原因",
-          "link": "https://finance.sina.com.cn/tech/2026-11-17/doc-iniyzsvz1752364.shtml",
-          "description": "巴克莱认为，散户强制平仓抛售是周一台股重挫的主因，该抛压趋势或将延续，进一步压制市场。 中国台湾加权指数周一下跌6%，周二再跌2.3%。",
-          "pubDate": "1794905462"
+          "title": "AI股票虽遭抛售 加密期货押注料Anthropic估值可达1.7万亿美元",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvvf6987422.shtml",
+          "description": "随着人工智能股票下跌，与Anthropic上市挂钩的加密期货也一同走低，但这些合约隐含的Anthropic估值可能达到约1.7万亿美元，远高于其首次公开募股区间计划上限所对应的1...",
+          "pubDate": "1794988954"
         },
         {
-          "title": "美国第三艘航母进驻中东，伊朗加大威慑力度，霍尔木兹海峡发生油轮遇袭事件",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyzsvz1752204.shtml",
-          "description": "核心要点伊朗升级针对美军以及商业航运的威胁。美国第三艘航空母舰驶入海湾地区，美军在当地军事力量进一步增强。分析师称：德黑兰方面持续试图扰乱这处关键航运咽喉要道...",
-          "pubDate": "1794905440"
+          "title": "英伟达超预期财报未能打消华尔街顾虑：三家机构下调目标价，一家下调评级",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvvf1656188.shtml",
+          "description": "英伟达公布超预期财报后，华尔街多家机构更新了对公司的盈利预测及股票评级。 尽管英伟达上调了长期营收增长指引，但管理层更迭、监管调查以及未来产品战略的不确定性仍然...",
+          "pubDate": "1794988774"
         },
         {
-          "title": "外资回流 印度资本市场板块个股大涨",
-          "link": "https://finance.sina.com.cn/world/2026-11-17/doc-iniyzsvz1751185.shtml",
-          "description": "外资流入回暖带动印度股市大幅反弹，券商、市场基础设施企业及交易所板块受益，Angel One领涨资本市场相关个股。 Angel One股价最高上涨7.7%，创11月3日以来最大涨幅...",
-          "pubDate": "1794905330"
+          "title": "特朗普称与菲律宾签署全新贸易协议",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvvc4878919.shtml",
+          "description": " 美国总统唐纳德·特朗普在Truth Social发文称，他已与菲律宾签署一项“全新且截然不同”的贸易协议，将惠及美国农民和能源行业。",
+          "pubDate": "1794988659"
         },
         {
-          "title": "美债收益率基本持平，投资者静待零售销售数据",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyzswc5436675.shtml",
-          "description": "周二早盘，美国国债收益率几乎没有变动，投资者静待后续即将公布的经济数据，以及美联储官员的讲话内容。 基准10 年期美债收益率基本持平，报 5...",
-          "pubDate": "1794905277"
+          "title": "英国10月通胀率3.6%创一年最高，车用燃料成本同比飙升33.2%",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvvf6984336.shtml",
+          "description": "英国10月份通胀年率升至3.6%，创下一年来的最高水平，主要是由于燃料成本持续上涨所致。 英国国家统计局周三表示，推动通胀率上升的最大因素是车用燃料成本...",
+          "pubDate": "1794988657"
         },
         {
-          "title": "野村证券：预计韩国收益率曲线将在2027年初趋陡",
-          "link": "https://finance.sina.com.cn/world/2026-11-17/doc-iniyzswc5436593.shtml",
-          "description": "野村证券预计，到2027年1月末，韩国2年期与10年期国债收益率利差将扩大至25个基点。 策略师梁伟豪与高克莱尔撰文称，机构在5.5个基点的利差水平入场...",
-          "pubDate": "1794905267"
+          "title": "能源冲击未扩散？英国通胀创一年新高但不及央行预期，交易员削减加息押注",
+          "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-18/doc-inizcvvf1662717.shtml",
+          "description": "受能源账单与车用燃油价格大涨带动，英国通胀加速上行，创下一年来最高水平。英国国家统计局周三公布数据，消费者物价同比上涨 3.6%，高于 9 月的 3.5%...",
+          "pubDate": "1794988613"
         },
         {
-          "title": "华尔街出现“抬价截胡”现象 效仿对冲基金争抢顶尖人才",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyzswc5436021.shtml",
-          "description": " 近几个月，多名交易员陆续跳槽至竞品银行与对冲基金，花旗集团全球股票交易主管法特·贝尔巴希尔又面临一名团队成员出走。",
-          "pubDate": "1794905219"
+          "title": "币安称计划明年进军五个亚洲市场",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvvf6978949.shtml",
+          "description": "全球最大的加密货币交易所币安（Binance）亚太区负责人SB Seker透露，该公司计划明年向五个亚洲市场扩张，其中南亚和东南亚是重点区域。",
+          "pubDate": "1794988248"
         },
         {
-          "title": "天晟新材（300169）收处罚告知书，股民索赔分析",
-          "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-17/doc-iniyzsvz1753985.shtml",
-          "description": "2026年11月6日，天晟新材（300169）公告收到江苏证监局下发的《行政处罚事先告知书》，一、天晟新材涉嫌未及时披露关联关系及关联交易，二...",
-          "pubDate": "1794905150"
+          "title": "比特币徘徊在6.5万美元附近",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvvf6975434.shtml",
+          "description": " 周三早间，比特币价格在6.5万美元附近徘徊，过去24小时小幅下跌。市场正等待美联储于当天晚些时候公布上次货币政策会议的纪要。",
+          "pubDate": "1794987962"
         },
         {
-          "title": "龙大美食(002726)被立案，股民索赔可期",
-          "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-17/doc-iniyzsvz1753705.shtml",
-          "description": "2026年11月11日，山东龙大美食股份有限公司（简称：龙大美食，代码：002726）发布《关于公司收到中国证券监督管理委员会立案告知书的公告》。",
-          "pubDate": "1794905148"
+          "title": "谷歌发现可自主运行的俄语注释AI黑客工具",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvvc4868053.shtml",
+          "description": " 谷歌周一表示，该公司发现一款能够在无人类协助的情况下自主识别并利用软件漏洞的黑客工具，凸显了人工智能（AI）智能体带来的风险。",
+          "pubDate": "1794987857"
         },
         {
-          "title": "捷荣技术（002855）被预处罚，股民索赔可期",
-          "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-17/doc-iniyzswc5440119.shtml",
-          "description": "2026年11月11日，东莞捷荣技术股份有限公司（简称：捷荣技术，代码：002855）发布《关于收到&lt;行政处罚事先告知书&gt;的公告》...",
-          "pubDate": "1794905147"
+          "title": "法巴银行旗下BNL调整业务战略，目标2030年税前权益回报率超过20%",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvuz1090512.shtml",
+          "description": "11月18日，法国巴黎银行宣布，旗下意大利银行BNL将调整业务战略，把经营重心从大众零售银行业务转向财富管理、私人银行及企业银行业务，同时加强成本控制、优化资本配置...",
+          "pubDate": "1794987791"
         },
         {
-          "title": "天晟新材（300169）被预处罚，股民索赔可期",
-          "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-17/doc-iniyzswf7636472.shtml",
-          "description": "2026年11月6日，常州天晟新材料集团股份有限公司（简称：天晟新材，代码：300169）发布《关于收到行政处罚事先告知书的公告》。经中国证监会江苏证监局查明...",
-          "pubDate": "1794905146"
+          "title": "印尼央行意外加息25个基点以支撑印尼盾",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvuz1086516.shtml",
+          "description": "随着印尼盾兑美元持续走弱，印尼央行出人意料地重启加息，以吸引资金流入并支撑本币，货币政策立场转向收紧。 印尼央行周三将基准利率上调25个基点至6%...",
+          "pubDate": "1794987388"
         },
         {
-          "title": "天晟新材收预罚单：涉嫌信披违法违规，受损投资者可进行预登记索赔",
-          "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-17/doc-iniyzsvz1752626.shtml",
-          "description": "根据此前消息，常州天晟新材料集团股份有限公司（以下简称“天晟新材”）涉嫌信披违法违规，收到江苏证监局下发的《行政处罚事先告知书》。",
-          "pubDate": "1794905144"
+          "title": "鲁比奥：纯属巧合，美国并未遭受“系统性攻击”。",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvuz1086093.shtml",
+          "description": "美国国务卿马可·鲁比奥（Marco Rubio）周三上午在马尼拉接受采访时表示，美国政府没有任何证据表明近期发生的一系列技术服务中断事件彼此相关。",
+          "pubDate": "1794987359"
         },
         {
-          "title": "哈萨克斯坦计划到2030年将铜精矿产量提升50%",
-          "link": "https://finance.sina.com.cn/world/2026-11-17/doc-iniyzswc5434331.shtml",
-          "description": "哈萨克斯坦工业部长叶尔萨因·纳加斯帕耶夫在政府会议上表示，该国计划在当前340万吨的基础上，将铜精矿产量提升50%。 哈萨克斯坦将通过开发科克赛与艾达尔利项目...",
-          "pubDate": "1794905093"
+          "title": "英国10月通胀率升至3.6%，柴油价格创历史新高",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvvf6966210.shtml",
+          "description": "11月18日，英国官方公布的数据显示，10月消费者价格指数（CPI）同比上涨3.6%，高于9月的3.5%，符合市场预期； 环比上涨0.5%。 燃油价格上涨是推动本月通胀加速的主要因素...",
+          "pubDate": "1794987137"
         },
         {
-          "title": "虎牙2026Q3财报：运营利润近四年首转正，直播与游戏相关服务持续提效",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyzswc5429849.shtml",
-          "description": "北京时间11月17日下午，虎牙公司（NYSE：HUYA）公布了2026年第三季度财报。该季度，总收入为17.5亿元；游戏相关服务、广告及其他收入同比增长21.3%至6.4亿元...",
-          "pubDate": "1794904730"
+          "title": "特朗普撤回FDA局长提名，考虑提名参议员马歇尔",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvvf6965508.shtml",
+          "description": "据美国政府高级官员透露，白宫已撤回海蒂·奥弗顿（Heidi Overton）担任美国食品药品监督管理局（FDA）局长的提名。 特朗普于今年8月提名奥弗顿出任FDA局长。",
+          "pubDate": "1794987084"
         },
         {
-          "title": "罕见拟签长期供货协议 苹果将采购三星DRAM锁定供应",
-          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyzswc5413162.shtml",
-          "description": "据报道，三星电子与苹果即将签署一份DRAM半导体长期供货协议（LTA）。苹果作为全球规模最大的消费电子企业，也是头部科技大厂中唯一尚未与三星电子签订长期供货协议的企业...",
-          "pubDate": "1794903264"
+          "title": "英国10月通胀率升至3.6% 符合预期",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvvf1629390.shtml",
+          "description": "英国国家统计局周三发布的报告显示，10月消费者价格指数（CPI）同比上涨3.6%，符合预期。 核心消费者价格指数同比上涨2.8%，符合预期",
+          "pubDate": "1794986853"
         },
         {
-          "title": "金科股份再“保壳”",
-          "link": "https://finance.sina.com.cn/stock/s/2026-11-17/doc-iniyzswf7629654.shtml",
-          "description": "来源：地产K线 文丨乐居财经 曾树佳金科股份（SZ000656）的K线图上，连续几天走出了阴线。 直至11月16日收盘，金科股份报0.97元/股，低于1元。",
-          "pubDate": "1794903217"
+          "title": "英伟达财报提振市场情绪，韩国股市反弹约2%",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvvc4839291.shtml",
+          "description": " 受美国芯片巨头英伟达强劲财报提振，投资者逢低买入此前遭到抛售的科技权重股，韩国股市周三反弹约2%。韩元兑美元走强。",
+          "pubDate": "1794985865"
         },
         {
-          "title": "降价、减值拖累利润，福莱特首现三季报亏损",
-          "link": "https://finance.sina.com.cn/stock/s/2026-11-17/doc-iniyzswf2206238.shtml",
-          "description": "来源：证券之星 11月17日早盘，A+H两地上市的福莱特（601865.SH）A股股价下探至8.08元/股的阶段新低。截至收盘，该股报8.16元/股，较年内高点回撤约55%。",
-          "pubDate": "1794902953"
+          "title": "“末日博士”鲁比尼：AI将重塑劳动市场",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvvf1615572.shtml",
+          "description": " 知名经济学家努里尔・鲁比尼是最早预判2008年金融危机的人士之一，因频频发出严峻警示而获“末日博士”称号，不过他近期的观点相对偏乐观。",
+          "pubDate": "1794985863"
         },
         {
-          "title": "“增收不增利”的软通动力：1.8亿买亏损IDC资产",
-          "link": "https://finance.sina.com.cn/stock/s/2026-11-17/doc-iniyzswf2205368.shtml",
-          "description": "来源：证券之星 近期，软通动力（301236.SZ）发布公告称，下属子公司软通数字能源拟以1.8亿元现金收购远通云数据科技（北京）有限公司（以下简称“远通云数据”）60%股权...",
-          "pubDate": "1794902953"
+          "title": "黄金价格跌破每盎司3800美元 美联储官员暗示进一步加息",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizcvvc4837681.shtml",
+          "description": "黄金2025年9月以来首次跌破每盎司3，800美元，此前美联储官员暗示进一步加息以应对顽固通胀。 金价一度下跌1.9%，连续第三个交易日走低。",
+          "pubDate": "1794985757"
         },
         {
-          "title": "港股收评：恒指跌1.03% 科指跌1.14% 科网股普跌 AI应用股走弱 MINIMAX跌超7%",
-          "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-17/doc-iniyzsvz1723744.shtml",
-          "description": "11月17日消息，港股三大指数集体下跌。截至收盘，恒生指数跌1.03%，报23508.17，恒生科技指数跌1.14%，国企指数跌0.97%。盘面上，科网股普跌，哔哩哔哩跌超8%...",
-          "pubDate": "1794902475"
+          "title": "图集丨习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+          "link": "https://finance.sina.com.cn/china/2026-11-18/doc-inizcvvf1652971.shtml",
+          "description": " 11月18日上午，国家主席习近平在深圳前海国际会议中心出席2026年亚太经合组织工商领导人峰会开幕式，并发表题为《坚定信心，勇毅前行 共创亚太光明未来》的主旨演讲。",
+          "pubDate": "1794985753"
         }
       ]
     },
